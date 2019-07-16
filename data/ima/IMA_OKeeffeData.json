@@ -1,0 +1,2010 @@
+{
+  "objects": [
+    {
+      "16563": {
+        "@context": "https://linked.art/ns/v1/linked-art.json",
+        "id": "https://data.discovernewfields.org/object/16563",
+        "type": "HumanMadeObject",
+        "_label": "Pelvis with the Distance",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300133025",
+            "type": "Type",
+            "_label": "works of art"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300033618",
+            "type": "Type",
+            "_label": "paintings (visual works)"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300033799",
+            "type": "Type",
+            "_label": "oil paintings (visual works)"
+          }
+        ],
+        "identified_by": [
+          {
+            "id": "https://data.discovernewfields.org/object/16563/irn",
+            "type": "Identifier",
+            "_label": "IMA at Newfields Collections Database Number for the Object",
+            "content": 16563,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404621",
+                "type": "Type",
+                "_label": "repository numbers"
+              }
+            ]
+          },
+          {
+            "id": "https://data.discovernewfields.org/object/16563/accession-number",
+            "type": "Identifier",
+            "_label": "IMA at Newfields Accession Number for the Object",
+            "content": "77.229",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300312355",
+                "type": "Type",
+                "_label": "accession numbers"
+              }
+            ]
+          },
+          {
+            "id": "https://data.discovernewfields.org/object/16563/old-accession-number-1",
+            "type": "Identifier",
+            "_label": "Identifier Assigned to the Object by IMA at Newfields Prior to Acquisition",
+            "content": "TR0270",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404626",
+                "type": "Type",
+                "_label": "identification numbers"
+              }
+            ]
+          },
+          {
+            "id": "https://data.discovernewfields.org/object/16563/old-accession-number-2",
+            "type": "Identifier",
+            "_label": "Identifier Assigned to the Object by IMA at Newfields Prior to Acquisition",
+            "content": "TR9341",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404626",
+                "type": "Type",
+                "_label": "identification numbers"
+              }
+            ]
+          },
+          {
+            "id": "https://data.discovernewfields.org/object/16563/title",
+            "type": "Name",
+            "_label": "Primary Title for the Object",
+            "content": "Pelvis with the Distance",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404670",
+                "type": "Type",
+                "_label": "preferred terms"
+              }
+            ]
+          }
+        ],
+        "made_of": [
+          {
+            "id": "http://vocab.getty.edu/aat/300015050",
+            "type": "Material",
+            "_label": "oil paint (paint)"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300014078",
+            "type": "Material",
+            "_label": "canvas (textile material)"
+          }
+        ],
+        "produced_by": {
+          "id": "https://data.discovernewfields.org/object/16563/production",
+          "type": "Production",
+          "_label": "Production of the Object",
+          "carried_out_by": [
+            {
+              "id": "http://vocab.getty.edu/ulan/500018666",
+              "type": "Actor",
+              "_label": "O'Keeffe, Georgia"
+            }
+          ],
+          "timespan": {
+            "id": "https://data.discovernewfields.org/object/16563/production/timespan",
+            "type": "TimeSpan",
+            "_label": "1943",
+            "begin_of_the_begin": "1943-01-01T00:00:00",
+            "end_of_the_end": "1943-12-31T00:00:00"
+          }
+        },
+        "dimension": [
+          {
+            "id": "https://data.discovernewfields.org/object/16563/dimension-1/height",
+            "type": "Dimension",
+            "_label": "Dimensions for the Object",
+            "value": 23.8750,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055644",
+                "type": "Type",
+                "_label": "height"
+              }
+            ],
+            "unit": {
+              "id": "http://vocab.getty.edu/aat/300379100",
+              "type": "Type",
+              "_label": "inches"
+            }
+          },
+          {
+            "id": "https://data.discovernewfields.org/object/16563/dimension-1/width",
+            "type": "Dimension",
+            "_label": "Dimensions for the Object",
+            "value": 29.7500,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055647",
+                "type": "Type",
+                "_label": "width"
+              }
+            ],
+            "unit": {
+              "id": "http://vocab.getty.edu/aat/300379100",
+              "type": "Type",
+              "_label": "inches"
+            }
+          }
+        ],
+        "current_owner": {
+          "id": "http://vocab.getty.edu/ulan/500300517",
+          "type": "Group",
+          "_label": "Indianapolis Museum of Art at Newfields",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300312281",
+              "type": "Type",
+              "_label": "museums (institutions)"
+            }
+          ],
+          "acquired_title_through": [
+            {
+              "id": "https://data.discovernewfields.org/object/16563/IMA-acquisition",
+              "type": "Acquisition",
+              "_label": "IMA at Newfields Acquisition of the Object",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300157782",
+                  "type": "Type",
+                  "_label": "acquisition (collections management)"
+                }
+              ],
+              "took_place_at": [
+                {
+                  "id": "http://vocab.getty.edu/tgn/7012924",
+                  "type": "Place",
+                  "_label": "Indianapolis, Indiana"
+                }
+              ],
+              "timespan": {
+                "id": "https://data.discovernewfields.org/object/16563/IMA-acquisition/timespan",
+                "type": "TimeSpan",
+                "_label": "1977-09-22",
+                "begin_of_the_begin": "1977-09-22T00:00:00",
+                "end_of_the_end": "1977-09-22T00:00:00"
+              }
+            }
+          ]
+        },
+        "current_location": {
+          "id": "https://data.discovernewfields.org/thesauri/location/K203",
+          "type": "Place",
+          "_label": "Andrew and Jane Paine Galleries",
+          "clasified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300240057",
+              "type": "Type",
+              "_label": "galleries (display spaces)"
+            }
+          ]
+        },
+        "referred_to_by": [
+          {
+            "id": "https://data.discovernewfields.org/object/16563/credit-line",
+            "type": "LinguisticObject",
+            "_label": "Indianapolis Museum of Art at Newfields Credit Line for the Object",
+            "content": "Gift of Anne Marmon Greenleaf in memory of Caroline Marmon Fesler",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300026687",
+                "type": "Type",
+                "_label": "acknowledgments"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.discovernewfields.org/object/16563/dimension-statement",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Dimensions of the Object",
+            "content": "23-7/8 x 29-3/4 in. (canvas)\n25 x 31-1/16 x 1-5/8 in. (framed)",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300266036",
+                "type": "Type",
+                "_label": "dimensions"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.discovernewfields.org/object/16563/materials-statement",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Materials in the Object",
+            "content": "oil on canvas",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300010358",
+                "type": "Type",
+                "_label": "materials (substances)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.discovernewfields.org/object/16563/rights-statement",
+            "type": "LinguisticObject",
+            "_label": "Rights Statement",
+            "content": "© Georgia O'Keeffe Museum / Artists Rights Society (ARS), New York",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055547",
+                "type": "Type",
+                "_label": "legal concepts"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "http://rightsstatements.org/vocab/InC/1.0/",
+            "type": "LinguisticObject",
+            "_label": "In Copyright",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055547",
+                "type": "Type",
+                "_label": "legal concepts"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          }
+        ],
+        "part": [
+          {
+            "id": "https://data.discovernewfields.org/object/16563/frame-1",
+            "type": "HumanMadeObject",
+            "_label": "Frame for the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300189814",
+                "type": "Type",
+                "_label": "frames (protective furnishings)"
+              }
+            ],
+            "dimension": [
+              {
+                "id": "https://data.discovernewfields.org/object/16563/frame-1/height",
+                "type": "Dimension",
+                "_label": "Framed Dimensions for the Object",
+                "value": 25.0000,
+                "classified_as": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300055644",
+                    "type": "Type",
+                    "_label": "height"
+                  }
+                ],
+                "unit": {
+                  "id": "http://vocab.getty.edu/aat/300379100",
+                  "type": "Type",
+                  "_label": "inches"
+                }
+              },
+              {
+                "id": "https://data.discovernewfields.org/object/16563/frame-1/width",
+                "type": "Dimension",
+                "_label": "Framed Dimensions for the Object",
+                "value": 31.0625,
+                "classified_as": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300055647",
+                    "type": "Type",
+                    "_label": "width"
+                  }
+                ],
+                "unit": {
+                  "id": "http://vocab.getty.edu/aat/300379100",
+                  "type": "Type",
+                  "_label": "inches"
+                }
+              },
+              {
+                "id": "https://data.discovernewfields.org/object/16563/frame-1/depth",
+                "type": "Dimension",
+                "_label": "Framed Dimensions for the Object",
+                "value": 1.6250,
+                "classified_as": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300072633",
+                    "type": "Type",
+                    "_label": "depth (size/dimension)"
+                  }
+                ],
+                "unit": {
+                  "id": "http://vocab.getty.edu/aat/300379100",
+                  "type": "Type",
+                  "_label": "inches"
+                }
+              }
+            ]
+          }
+        ],
+        "subject_of": [
+          {
+            "id": "http://collection.imamuseum.org/artwork/80035/",
+            "type": "LinguisticObject",
+            "_label": "Homepage for the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab/getty.edu/aat/300264578",
+                "type": "Type",
+                "_label": "Web pages (documents)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300266277",
+                "type": "Type",
+                "_label": "home pages"
+              }
+            ],
+            "format": "text/html"
+          }
+        ]
+      }
+    },
+    {
+      "16872": {
+        "@context": "https://linked.art/ns/v1/linked-art.json",
+        "id": "https://data.discovernewfields.org/object/16872",
+        "type": "HumanMadeObject",
+        "_label": "Grey Hills",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300133025",
+            "type": "Type",
+            "_label": "works of art"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300033618",
+            "type": "Type",
+            "_label": "paintings (visual works)"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300033799",
+            "type": "Type",
+            "_label": "oil paintings (visual works)"
+          }
+        ],
+        "identified_by": [
+          {
+            "id": "https://data.discovernewfields.org/object/16872/irn",
+            "type": "Identifier",
+            "_label": "IMA at Newfields Collections Database Number for the Object",
+            "content": 16872,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404621",
+                "type": "Type",
+                "_label": "repository numbers"
+              }
+            ]
+          },
+          {
+            "id": "https://data.discovernewfields.org/object/16872/accession-number",
+            "type": "Identifier",
+            "_label": "IMA at Newfields Accession Number for the Object",
+            "content": "43.37",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300312355",
+                "type": "Type",
+                "_label": "accession numbers"
+              }
+            ]
+          },
+          {
+            "id": "https://data.discovernewfields.org/object/16872/title",
+            "type": "Name",
+            "_label": "Primary Title for the Object",
+            "content": "Grey Hills",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404670",
+                "type": "Type",
+                "_label": "preferred terms"
+              }
+            ]
+          }
+        ],
+        "made_of": [
+          {
+            "id": "http://vocab.getty.edu/aat/300015050",
+            "type": "Material",
+            "_label": "oil paint (paint)"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300014078",
+            "type": "Material",
+            "_label": "canvas (textile material)"
+          }
+        ],
+        "produced_by": {
+          "id": "https://data.discovernewfields.org/object/16872/production",
+          "type": "Production",
+          "_label": "Production of the Object",
+          "carried_out_by": [
+            {
+              "id": "http://vocab.getty.edu/ulan/500018666",
+              "type": "Actor",
+              "_label": "O'Keeffe, Georgia"
+            }
+          ],
+          "timespan": {
+            "id": "https://data.discovernewfields.org/object/16872/production/timespan",
+            "type": "TimeSpan",
+            "_label": "1941",
+            "begin_of_the_begin": "1941-01-01T00:00:00",
+            "end_of_the_end": "1941-12-31T00:00:00"
+          }
+        },
+        "dimension": [
+          {
+            "id": "https://data.discovernewfields.org/object/16872/dimension-1/height",
+            "type": "Dimension",
+            "_label": "Dimensions for the Object",
+            "value": 30.0000,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055644",
+                "type": "Type",
+                "_label": "height"
+              }
+            ],
+            "unit": {
+              "id": "http://vocab.getty.edu/aat/300379100",
+              "type": "Type",
+              "_label": "inches"
+            }
+          },
+          {
+            "id": "https://data.discovernewfields.org/object/16872/dimension-1/width",
+            "type": "Dimension",
+            "_label": "Dimensions for the Object",
+            "value": 39.0000,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055647",
+                "type": "Type",
+                "_label": "width"
+              }
+            ],
+            "unit": {
+              "id": "http://vocab.getty.edu/aat/300379100",
+              "type": "Type",
+              "_label": "inches"
+            }
+          }
+        ],
+        "current_owner": {
+          "id": "http://vocab.getty.edu/ulan/500300517",
+          "type": "Group",
+          "_label": "Indianapolis Museum of Art at Newfields",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300312281",
+              "type": "Type",
+              "_label": "museums (institutions)"
+            }
+          ],
+          "acquired_title_through": [
+            {
+              "id": "https://data.discovernewfields.org/object/16872/IMA-acquisition",
+              "type": "Acquisition",
+              "_label": "IMA at Newfields Acquisition of the Object",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300157782",
+                  "type": "Type",
+                  "_label": "acquisition (collections management)"
+                }
+              ],
+              "took_place_at": [
+                {
+                  "id": "http://vocab.getty.edu/tgn/7012924",
+                  "type": "Place",
+                  "_label": "Indianapolis, Indiana"
+                }
+              ],
+              "timespan": {
+                "id": "https://data.discovernewfields.org/object/16872/IMA-acquisition/timespan",
+                "type": "TimeSpan",
+                "_label": "1943-01-01",
+                "begin_of_the_begin": "1943-01-01T00:00:00",
+                "end_of_the_end": "1943-01-01T00:00:00"
+              }
+            }
+          ]
+        },
+        "current_location": {
+          "id": "https://data.discovernewfields.org/thesauri/location/K203",
+          "type": "Place",
+          "_label": "Andrew and Jane Paine Galleries",
+          "clasified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300240057",
+              "type": "Type",
+              "_label": "galleries (display spaces)"
+            }
+          ]
+        },
+        "referred_to_by": [
+          {
+            "id": "https://data.discovernewfields.org/object/16872/credit-line",
+            "type": "LinguisticObject",
+            "_label": "Indianapolis Museum of Art at Newfields Credit Line for the Object",
+            "content": "Gift of Mr. and Mrs. James W. Fesler",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300026687",
+                "type": "Type",
+                "_label": "acknowledgments"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.discovernewfields.org/object/16872/dimension-statement",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Dimensions of the Object",
+            "content": "20 x 30 in.\n30 x 39 in. (framed)",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300266036",
+                "type": "Type",
+                "_label": "dimensions"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.discovernewfields.org/object/16872/materials-statement",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Materials in the Object",
+            "content": "oil on canvas",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300010358",
+                "type": "Type",
+                "_label": "materials (substances)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.discovernewfields.org/object/16872/rights-statement",
+            "type": "LinguisticObject",
+            "_label": "Rights Statement",
+            "content": "© Georgia O'Keeffe Museum / Artists Rights Society (ARS), New York",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055547",
+                "type": "Type",
+                "_label": "legal concepts"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "http://rightsstatements.org/vocab/InC/1.0/",
+            "type": "LinguisticObject",
+            "_label": "In Copyright",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055547",
+                "type": "Type",
+                "_label": "legal concepts"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          }
+        ],
+        "part": [
+          {
+            "id": "https://data.discovernewfields.org/object/16872/frame-1",
+            "type": "HumanMadeObject",
+            "_label": "Frame for the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300189814",
+                "type": "Type",
+                "_label": "frames (protective furnishings)"
+              }
+            ],
+            "dimension": [
+              {
+                "id": "https://data.discovernewfields.org/object/16872/frame-1/height",
+                "type": "Dimension",
+                "_label": "Framed Dimensions for the Object",
+                "value": 20.0000,
+                "classified_as": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300055644",
+                    "type": "Type",
+                    "_label": "height"
+                  }
+                ],
+                "unit": {
+                  "id": "http://vocab.getty.edu/aat/300379100",
+                  "type": "Type",
+                  "_label": "inches"
+                }
+              },
+              {
+                "id": "https://data.discovernewfields.org/object/16872/frame-1/width",
+                "type": "Dimension",
+                "_label": "Framed Dimensions for the Object",
+                "value": 30.0000,
+                "classified_as": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300055647",
+                    "type": "Type",
+                    "_label": "width"
+                  }
+                ],
+                "unit": {
+                  "id": "http://vocab.getty.edu/aat/300379100",
+                  "type": "Type",
+                  "_label": "inches"
+                }
+              }
+            ]
+          }
+        ],
+        "subject_of": [
+          {
+            "id": "http://collection.imamuseum.org/artwork/55829/",
+            "type": "LinguisticObject",
+            "_label": "Homepage for the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab/getty.edu/aat/300264578",
+                "type": "Type",
+                "_label": "Web pages (documents)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300266277",
+                "type": "Type",
+                "_label": "home pages"
+              }
+            ],
+            "format": "text/html"
+          }
+        ]
+      }
+    },
+    {
+      "37148": {
+        "@context": "https://linked.art/ns/v1/linked-art.json",
+        "id": "https://data.discovernewfields.org/object/37148",
+        "type": "HumanMadeObject",
+        "_label": "Jimson Weed",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300133025",
+            "type": "Type",
+            "_label": "works of art"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300033618",
+            "type": "Type",
+            "_label": "paintings (visual works)"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300033799",
+            "type": "Type",
+            "_label": "oil paintings (visual works)"
+          }
+        ],
+        "identified_by": [
+          {
+            "id": "https://data.discovernewfields.org/object/37148/irn",
+            "type": "Identifier",
+            "_label": "IMA at Newfields Collections Database Number for the Object",
+            "content": 37148,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404621",
+                "type": "Type",
+                "_label": "repository numbers"
+              }
+            ]
+          },
+          {
+            "id": "https://data.discovernewfields.org/object/37148/accession-number",
+            "type": "Identifier",
+            "_label": "IMA at Newfields Accession Number for the Object",
+            "content": "1997.131",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300312355",
+                "type": "Type",
+                "_label": "accession numbers"
+              }
+            ]
+          },
+          {
+            "id": "https://data.discovernewfields.org/object/37148/old-accession-number-1",
+            "type": "Identifier",
+            "_label": "Identifier Assigned to the Object by IMA at Newfields Prior to Acquisition",
+            "content": "TR8898",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404626",
+                "type": "Type",
+                "_label": "identification numbers"
+              }
+            ]
+          },
+          {
+            "id": "https://data.discovernewfields.org/object/37148/old-accession-number-2",
+            "type": "Identifier",
+            "_label": "Identifier Assigned to the Object by IMA at Newfields Prior to Acquisition",
+            "content": "TR6623",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404626",
+                "type": "Type",
+                "_label": "identification numbers"
+              }
+            ]
+          },
+          {
+            "id": "https://data.discovernewfields.org/object/37148/title",
+            "type": "Name",
+            "_label": "Primary Title for the Object",
+            "content": "Jimson Weed",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404670",
+                "type": "Type",
+                "_label": "preferred terms"
+              }
+            ]
+          }
+        ],
+        "made_of": [
+          {
+            "id": "http://vocab.getty.edu/aat/300015050",
+            "type": "Material",
+            "_label": "oil paint (paint)"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300014069",
+            "type": "Material",
+            "_label": "linen (material)"
+          }
+        ],
+        "produced_by": {
+          "id": "https://data.discovernewfields.org/object/37148/production",
+          "type": "Production",
+          "_label": "Production of the Object",
+          "carried_out_by": [
+            {
+              "id": "http://vocab.getty.edu/ulan/500018666",
+              "type": "Actor",
+              "_label": "O'Keeffe, Georgia"
+            }
+          ],
+          "timespan": {
+            "id": "https://data.discovernewfields.org/object/37148/production/timespan",
+            "type": "TimeSpan",
+            "_label": "1936",
+            "begin_of_the_begin": "1936-01-01T00:00:00",
+            "end_of_the_end": "1936-12-31T00:00:00"
+          }
+        },
+        "dimension": [
+          {
+            "id": "https://data.discovernewfields.org/object/37148/dimension-1/height",
+            "type": "Dimension",
+            "_label": "Dimensions for the Object",
+            "value": 70.0000,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055644",
+                "type": "Type",
+                "_label": "height"
+              }
+            ],
+            "unit": {
+              "id": "http://vocab.getty.edu/aat/300379100",
+              "type": "Type",
+              "_label": "inches"
+            }
+          },
+          {
+            "id": "https://data.discovernewfields.org/object/37148/dimension-1/width",
+            "type": "Dimension",
+            "_label": "Dimensions for the Object",
+            "value": 83.5000,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055647",
+                "type": "Type",
+                "_label": "width"
+              }
+            ],
+            "unit": {
+              "id": "http://vocab.getty.edu/aat/300379100",
+              "type": "Type",
+              "_label": "inches"
+            }
+          }
+        ],
+        "current_owner": {
+          "id": "http://vocab.getty.edu/ulan/500300517",
+          "type": "Group",
+          "_label": "Indianapolis Museum of Art at Newfields",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300312281",
+              "type": "Type",
+              "_label": "museums (institutions)"
+            }
+          ],
+          "acquired_title_through": [
+            {
+              "id": "https://data.discovernewfields.org/object/37148/IMA-acquisition",
+              "type": "Acquisition",
+              "_label": "IMA at Newfields Acquisition of the Object",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300157782",
+                  "type": "Type",
+                  "_label": "acquisition (collections management)"
+                }
+              ],
+              "took_place_at": [
+                {
+                  "id": "http://vocab.getty.edu/tgn/7012924",
+                  "type": "Place",
+                  "_label": "Indianapolis, Indiana"
+                }
+              ],
+              "timespan": {
+                "id": "https://data.discovernewfields.org/object/37148/IMA-acquisition/timespan",
+                "type": "TimeSpan",
+                "_label": "1997-11-13",
+                "begin_of_the_begin": "1997-11-13T00:00:00",
+                "end_of_the_end": "1997-11-13T00:00:00"
+              }
+            }
+          ]
+        },
+        "current_location": {
+          "id": "https://data.discovernewfields.org/thesauri/location/K203",
+          "type": "Place",
+          "_label": "Andrew and Jane Paine Galleries",
+          "clasified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300240057",
+              "type": "Type",
+              "_label": "galleries (display spaces)"
+            }
+          ]
+        },
+        "referred_to_by": [
+          {
+            "id": "https://data.discovernewfields.org/object/37148/credit-line",
+            "type": "LinguisticObject",
+            "_label": "Indianapolis Museum of Art at Newfields Credit Line for the Object",
+            "content": "Gift of Eli Lilly and Company",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300026687",
+                "type": "Type",
+                "_label": "acknowledgments"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.discovernewfields.org/object/37148/dimension-statement",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Dimensions of the Object",
+            "content": "70 x 83-1/2 in.\n73-1/16 x 85-1/8 x 1-5/8 in. (framed)",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300266036",
+                "type": "Type",
+                "_label": "dimensions"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.discovernewfields.org/object/37148/materials-statement",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Materials in the Object",
+            "content": "oil on linen",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300010358",
+                "type": "Type",
+                "_label": "materials (substances)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.discovernewfields.org/object/37148/creation-notes",
+            "type": "LinguisticObject",
+            "_label": "IMA at Newfields -Creation Notes about the Object",
+            "content": "11/25/2008   IMA Curator, Warkel, conferred (primarily due to research done by the writer of the catalogue raisonne) with the O'Keeffe Foundation findings that Jimson Weed was painted in 1936 (IMA previously dated the paintings 1936-37).",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300027200",
+                "type": "Type",
+                "_label": "notes (documents)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.discovernewfields.org/object/37148/rights-statement",
+            "type": "LinguisticObject",
+            "_label": "Rights Statement",
+            "content": "© Georgia O'Keeffe Museum / Artists Rights Society (ARS), New York",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055547",
+                "type": "Type",
+                "_label": "legal concepts"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "http://rightsstatements.org/vocab/InC/1.0/",
+            "type": "LinguisticObject",
+            "_label": "In Copyright",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055547",
+                "type": "Type",
+                "_label": "legal concepts"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          }
+        ],
+        "part": [
+          {
+            "id": "https://data.discovernewfields.org/object/37148/frame-1",
+            "type": "HumanMadeObject",
+            "_label": "Frame for the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300189814",
+                "type": "Type",
+                "_label": "frames (protective furnishings)"
+              }
+            ],
+            "dimension": [
+              {
+                "id": "https://data.discovernewfields.org/object/37148/frame-1/height",
+                "type": "Dimension",
+                "_label": "Framed Dimensions for the Object",
+                "value": 73.0625,
+                "classified_as": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300055644",
+                    "type": "Type",
+                    "_label": "height"
+                  }
+                ],
+                "unit": {
+                  "id": "http://vocab.getty.edu/aat/300379100",
+                  "type": "Type",
+                  "_label": "inches"
+                }
+              },
+              {
+                "id": "https://data.discovernewfields.org/object/37148/frame-1/width",
+                "type": "Dimension",
+                "_label": "Framed Dimensions for the Object",
+                "value": 85.1250,
+                "classified_as": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300055647",
+                    "type": "Type",
+                    "_label": "width"
+                  }
+                ],
+                "unit": {
+                  "id": "http://vocab.getty.edu/aat/300379100",
+                  "type": "Type",
+                  "_label": "inches"
+                }
+              },
+              {
+                "id": "https://data.discovernewfields.org/object/37148/frame-1/depth",
+                "type": "Dimension",
+                "_label": "Framed Dimensions for the Object",
+                "value": 1.6250,
+                "classified_as": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300072633",
+                    "type": "Type",
+                    "_label": "depth (size/dimension)"
+                  }
+                ],
+                "unit": {
+                  "id": "http://vocab.getty.edu/aat/300379100",
+                  "type": "Type",
+                  "_label": "inches"
+                }
+              }
+            ]
+          }
+        ],
+        "subject_of": [
+          {
+            "id": "http://collection.imamuseum.org/artwork/51855/",
+            "type": "LinguisticObject",
+            "_label": "Homepage for the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab/getty.edu/aat/300264578",
+                "type": "Type",
+                "_label": "Web pages (documents)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300266277",
+                "type": "Type",
+                "_label": "home pages"
+              }
+            ],
+            "format": "text/html"
+          }
+        ]
+      }
+    },
+    {
+      "60715": {
+        "@context": "https://linked.art/ns/v1/linked-art.json",
+        "id": "https://data.discovernewfields.org/object/60715",
+        "type": "HumanMadeObject",
+        "_label": "The Aeroplane, from Camera Work",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300133025",
+            "type": "Type",
+            "_label": "works of art"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300046300",
+            "type": "Type",
+            "_label": "photographs"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300041273",
+            "type": "Type",
+            "_label": "prints (visual works)"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300154382",
+            "type": "Type",
+            "_label": "photogravures (prints)"
+          }
+        ],
+        "identified_by": [
+          {
+            "id": "https://data.discovernewfields.org/object/60715/irn",
+            "type": "Identifier",
+            "_label": "IMA at Newfields Collections Database Number for the Object",
+            "content": 60715,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404621",
+                "type": "Type",
+                "_label": "repository numbers"
+              }
+            ]
+          },
+          {
+            "id": "https://data.discovernewfields.org/object/60715/accession-number",
+            "type": "Identifier",
+            "_label": "IMA at Newfields Accession Number for the Object",
+            "content": "2003.34",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300312355",
+                "type": "Type",
+                "_label": "accession numbers"
+              }
+            ]
+          },
+          {
+            "id": "https://data.discovernewfields.org/object/60715/old-accession-number-1",
+            "type": "Identifier",
+            "_label": "Identifier Assigned to the Object by IMA at Newfields Prior to Acquisition",
+            "content": "TR9969/1",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404626",
+                "type": "Type",
+                "_label": "identification numbers"
+              }
+            ]
+          },
+          {
+            "id": "https://data.discovernewfields.org/object/60715/old-accession-number-2",
+            "type": "Identifier",
+            "_label": "Identifier Assigned to the Object by IMA at Newfields Prior to Acquisition",
+            "content": "2003.34",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404626",
+                "type": "Type",
+                "_label": "identification numbers"
+              }
+            ]
+          },
+          {
+            "id": "https://data.discovernewfields.org/object/60715/title",
+            "type": "Name",
+            "_label": "Primary Title for the Object",
+            "content": "The Aeroplane, from Camera Work",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404670",
+                "type": "Type",
+                "_label": "preferred terms"
+              }
+            ]
+          }
+        ],
+        "made_of": [
+          {
+            "id": "http://vocab.getty.edu/aat/300015012",
+            "type": "Material",
+            "_label": "ink"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300014109",
+            "type": "Material",
+            "_label": "paper (fiber product)"
+          }
+        ],
+        "produced_by": {
+          "id": "https://data.discovernewfields.org/object/60715/production",
+          "type": "Production",
+          "_label": "Production of the Object",
+          "carried_out_by": [
+            {
+              "id": "http://vocab.getty.edu/ulan/500024301",
+              "type": "Actor",
+              "_label": "Stieglitz, Alfred"
+            }
+          ],
+          "timespan": {
+            "id": "https://data.discovernewfields.org/object/60715/production/timespan",
+            "type": "TimeSpan",
+            "_label": "1910",
+            "begin_of_the_begin": "1910-01-01T00:00:00",
+            "end_of_the_end": "1910-12-31T00:00:00"
+          }
+        },
+        "current_owner": {
+          "id": "http://vocab.getty.edu/ulan/500300517",
+          "type": "Group",
+          "_label": "Indianapolis Museum of Art at Newfields",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300312281",
+              "type": "Type",
+              "_label": "museums (institutions)"
+            }
+          ],
+          "acquired_title_through": [
+            {
+              "id": "https://data.discovernewfields.org/object/60715/IMA-acquisition",
+              "type": "Acquisition",
+              "_label": "IMA at Newfields Acquisition of the Object",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300157782",
+                  "type": "Type",
+                  "_label": "acquisition (collections management)"
+                }
+              ],
+              "took_place_at": [
+                {
+                  "id": "http://vocab.getty.edu/tgn/7012924",
+                  "type": "Place",
+                  "_label": "Indianapolis, Indiana"
+                }
+              ],
+              "timespan": {
+                "id": "https://data.discovernewfields.org/object/60715/IMA-acquisition/timespan",
+                "type": "TimeSpan",
+                "_label": "2003-05-22",
+                "begin_of_the_begin": "2003-05-22T00:00:00",
+                "end_of_the_end": "2003-05-22T00:00:00"
+              }
+            }
+          ]
+        },
+        "current_location": {
+          "id": "https://data.discovernewfields.org/thesauri/location/storage",
+          "type": "Place",
+          "_label": "IMA Storage"
+        },
+        "referred_to_by": [
+          {
+            "id": "https://data.discovernewfields.org/object/60715/credit-line",
+            "type": "LinguisticObject",
+            "_label": "Indianapolis Museum of Art at Newfields Credit Line for the Object",
+            "content": "Carl H. Lieber Memorial Fund",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300026687",
+                "type": "Type",
+                "_label": "acknowledgments"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.discovernewfields.org/object/60715/dimension-statement",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Dimensions of the Object",
+            "content": "5-5/8 x 6-7/8 in. (image)\n11-1/2 x 8 in. (sheet)\n11-7/8 x 8-1/8 in. (mount)",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300266036",
+                "type": "Type",
+                "_label": "dimensions"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.discovernewfields.org/object/60715/materials-statement",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Materials in the Object",
+            "content": "photogravure on paper adhered to paper mount",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300010358",
+                "type": "Type",
+                "_label": "materials (substances)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.discovernewfields.org/object/60715/description",
+            "type": "LinguisticObject",
+            "_label": "Description of the Object",
+            "content": "Bi-plane against a cloudy sky with some trees in the lower right corner.",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300411780",
+                "type": "Type",
+                "_label": "descriptions (documents)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.discovernewfields.org/object/60715/creation-notes",
+            "type": "LinguisticObject",
+            "_label": "IMA at Newfields  Creation Notes about the Object",
+            "content": "Publication Date: 1911",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300027200",
+                "type": "Type",
+                "_label": "notes (documents)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.discovernewfields.org/object/60715/rights-statement",
+            "type": "LinguisticObject",
+            "_label": "Rights Statement",
+            "content": "© Alfred Stieglitz/Artists Rights Society (ARS)",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055547",
+                "type": "Type",
+                "_label": "legal concepts"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "http://rightsstatements.org/vocab/InC/1.0/",
+            "type": "LinguisticObject",
+            "_label": "In Copyright",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055547",
+                "type": "Type",
+                "_label": "legal concepts"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          }
+        ],
+        "part": [
+          {
+            "id": "https://data.discovernewfields.org/object/60715/sheet-1",
+            "type": "HumanMadeObject",
+            "_label": "Sheet (support) for the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300189648",
+                "type": "Type",
+                "_label": "sheets (paper artifacts)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300014844",
+                "type": "Type",
+                "_label": "supports (artists' materials)"
+              }
+            ],
+            "dimension": [
+              {
+                "id": "https://data.discovernewfields.org/object/60715/sheet-1/height",
+                "type": "Dimension",
+                "_label": "Sheet Dimensions for the Object",
+                "value": 11.5000,
+                "classified_as": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300055644",
+                    "type": "Type",
+                    "_label": "height"
+                  }
+                ],
+                "unit": {
+                  "id": "http://vocab.getty.edu/aat/300379100",
+                  "type": "Type",
+                  "_label": "inches"
+                }
+              },
+              {
+                "id": "https://data.discovernewfields.org/object/60715/sheet-1/width",
+                "type": "Dimension",
+                "_label": "Sheet Dimensions for the Object",
+                "value": 8.0000,
+                "classified_as": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300055647",
+                    "type": "Type",
+                    "_label": "width"
+                  }
+                ],
+                "unit": {
+                  "id": "http://vocab.getty.edu/aat/300379100",
+                  "type": "Type",
+                  "_label": "inches"
+                }
+              }
+            ]
+          },
+          {
+            "id": "https://data.discovernewfields.org/object/60715/image-1",
+            "type": "HumanMadeObject",
+            "_label": "Image part of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300264387",
+                "type": "Type",
+                "_label": "images (object genre)"
+              }
+            ],
+            "dimension": [
+              {
+                "id": "https://data.discovernewfields.org/object/60715/image-1/height",
+                "type": "Dimension",
+                "_label": "Image Dimensions for the Object",
+                "value": 5.6250,
+                "classified_as": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300055644",
+                    "type": "Type",
+                    "_label": "height"
+                  }
+                ],
+                "unit": {
+                  "id": "http://vocab.getty.edu/aat/300379100",
+                  "type": "Type",
+                  "_label": "inches"
+                }
+              },
+              {
+                "id": "https://data.discovernewfields.org/object/60715/image-1/width",
+                "type": "Dimension",
+                "_label": "Image Dimensions for the Object",
+                "value": 6.8750,
+                "classified_as": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300055647",
+                    "type": "Type",
+                    "_label": "width"
+                  }
+                ],
+                "unit": {
+                  "id": "http://vocab.getty.edu/aat/300379100",
+                  "type": "Type",
+                  "_label": "inches"
+                }
+              }
+            ]
+          },
+          {
+            "id": "https://data.discovernewfields.org/object/60715/mount-1",
+            "type": "HumanMadeObject",
+            "_label": "Mount part of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300131087",
+                "type": "Type",
+                "_label": "mounts (framing and mounting equipment)"
+              }
+            ],
+            "dimension": [
+              {
+                "id": "https://data.discovernewfields.org/object/60715/mount-1/height",
+                "type": "Dimension",
+                "_label": "Mount Dimensions for the Object",
+                "value": 11.8750,
+                "classified_as": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300055644",
+                    "type": "Type",
+                    "_label": "height"
+                  }
+                ],
+                "unit": {
+                  "id": "http://vocab.getty.edu/aat/300379100",
+                  "type": "Type",
+                  "_label": "inches"
+                }
+              },
+              {
+                "id": "https://data.discovernewfields.org/object/60715/mount-1/width",
+                "type": "Dimension",
+                "_label": "Mount Dimensions for the Object",
+                "value": 8.1250,
+                "classified_as": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300055647",
+                    "type": "Type",
+                    "_label": "width"
+                  }
+                ],
+                "unit": {
+                  "id": "http://vocab.getty.edu/aat/300379100",
+                  "type": "Type",
+                  "_label": "inches"
+                }
+              }
+            ]
+          }
+        ],
+        "subject_of": [
+          {
+            "id": "http://collection.imamuseum.org/artwork/80065/",
+            "type": "LinguisticObject",
+            "_label": "Homepage for the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab/getty.edu/aat/300264578",
+                "type": "Type",
+                "_label": "Web pages (documents)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300266277",
+                "type": "Type",
+                "_label": "home pages"
+              }
+            ],
+            "format": "text/html"
+          }
+        ]
+      }
+    },
+        {
+      "13262": {
+        "@context": "https://linked.art/ns/v1/linked-art.json",
+        "id": "https://data.discovernewfields.org/object/13262",
+        "type": "HumanMadeObject",
+        "_label": "Snapshot--From My Window, Berlin",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300133025",
+            "type": "Type",
+            "_label": "works of art"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300046300",
+            "type": "Type",
+            "_label": "photographs"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300154382",
+            "type": "Type",
+            "_label": "photogravures (prints)"
+          }
+        ],
+        "identified_by": [
+          {
+            "id": "https://data.discovernewfields.org/object/13262/irn",
+            "type": "Identifier",
+            "_label": "IMA at Newfields Collections Database Number for the Object",
+            "content": 13262,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404621",
+                "type": "Type",
+                "_label": "repository numbers"
+              }
+            ]
+          },
+          {
+            "id": "https://data.discovernewfields.org/object/13262/accession-number",
+            "type": "Identifier",
+            "_label": "IMA at Newfields Accession Number for the Object",
+            "content": "1995.4",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300312355",
+                "type": "Type",
+                "_label": "accession numbers"
+              }
+            ]
+          },
+          {
+            "id": "https://data.discovernewfields.org/object/13262/title",
+            "type": "Name",
+            "_label": "Primary Title for the Object",
+            "content": "Snapshot--From My Window, Berlin",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404670",
+                "type": "Type",
+                "_label": "preferred terms"
+              }
+            ]
+          }
+        ],
+        "made_of": [
+          {
+            "id": "http://vocab.getty.edu/aat/300015012",
+            "type": "Material",
+            "_label": "ink"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300014109",
+            "type": "Material",
+            "_label": "paper (fiber product)"
+          }
+        ],
+        "produced_by": {
+          "id": "https://data.discovernewfields.org/object/13262/production",
+          "type": "Production",
+          "_label": "Production of the Object",
+          "carried_out_by": [
+            {
+              "id": "http://vocab.getty.edu/ulan/500024301",
+              "type": "Actor",
+              "_label": "Stieglitz, Alfred"
+            }
+          ],
+          "timespan": {
+            "id": "https://data.discovernewfields.org/object/13262/production/timespan",
+            "type": "TimeSpan",
+            "_label": "1888-1890",
+            "begin_of_the_begin": "1888-01-01T00:00:00",
+            "end_of_the_end": "1890-12-31T00:00:00"
+          }
+        },
+        "current_owner": {
+          "id": "http://vocab.getty.edu/ulan/500300517",
+          "type": "Group",
+          "_label": "Indianapolis Museum of Art at Newfields",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300312281",
+              "type": "Type",
+              "_label": "museums (institutions)"
+            }
+          ],
+          "acquired_title_through": [
+            {
+              "id": "https://data.discovernewfields.org/object/13262/IMA-acquisition",
+              "type": "Acquisition",
+              "_label": "IMA at Newfields Acquisition of the Object",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300157782",
+                  "type": "Type",
+                  "_label": "acquisition (collections management)"
+                }
+              ],
+              "took_place_at": [
+                {
+                  "id": "http://vocab.getty.edu/tgn/7012924",
+                  "type": "Place",
+                  "_label": "Indianapolis, Indiana"
+                }
+              ],
+              "timespan": {
+                "id": "https://data.discovernewfields.org/object/13262/IMA-acquisition/timespan",
+                "type": "TimeSpan",
+                "_label": "1995-03-16",
+                "begin_of_the_begin": "1995-03-16T00:00:00",
+                "end_of_the_end": "1995-03-16T00:00:00"
+              }
+            }
+          ]
+        },
+        "current_location": {
+          "id": "https://data.discovernewfields.org/thesauri/location/storage",
+          "type": "Place",
+          "_label": "IMA Storage"
+        },
+        "referred_to_by": [
+          {
+            "id": "https://data.discovernewfields.org/object/13262/credit-line",
+            "type": "LinguisticObject",
+            "_label": "Indianapolis Museum of Art at Newfields Credit Line for the Object",
+            "content": "Caroline Marmon Fesler Fund",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300026687",
+                "type": "Type",
+                "_label": "acknowledgments"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.discovernewfields.org/object/13262/dimension-statement",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Dimensions of the Object",
+            "content": "8-3/8 x 6-7/8 in. (image)\n5-5/8 x 7-1/8 in. (mount)",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300266036",
+                "type": "Type",
+                "_label": "dimensions"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.discovernewfields.org/object/13262/materials-statement",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Materials in the ",
+            "content": "photogravure hinged to paper mount",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300010358",
+                "type": "Type",
+                "_label": "materials (substances)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.discovernewfields.org/object/13262/creation-notes",
+            "type": "LinguisticObject",
+            "_label": "IMA at Newfields Creation Notes about the Object",
+            "content": "published 1907 in Camera Work",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300027200",
+                "type": "Type",
+                "_label": "notes (documents)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.discovernewfields.org/object/13262/rights-statement",
+            "type": "LinguisticObject",
+            "_label": "Rights Statement",
+            "content": "© Alfred Stieglitz/Artists Rights Society (ARS)",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055547",
+                "type": "Type",
+                "_label": "legal concepts"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "http://rightsstatements.org/vocab/InC/1.0/",
+            "type": "LinguisticObject",
+            "_label": "In Copyright",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055547",
+                "type": "Type",
+                "_label": "legal concepts"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          }
+        ],
+        "part": [
+          {
+            "id": "https://data.discovernewfields.org/object/13262/image-1",
+            "type": "HumanMadeObject",
+            "_label": "Image part of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300264387",
+                "type": "Type",
+                "_label": "images (object genre)"
+              }
+            ],
+            "dimension": [
+              {
+                "id": "https://data.discovernewfields.org/object/13262/image-1/height",
+                "type": "Dimension",
+                "_label": "Image Dimensions for the Object",
+                "value": 8.3750,
+                "classified_as": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300055644",
+                    "type": "Type",
+                    "_label": "height"
+                  }
+                ],
+                "unit": {
+                  "id": "http://vocab.getty.edu/aat/300379100",
+                  "type": "Type",
+                  "_label": "inches"
+                }
+              },
+              {
+                "id": "https://data.discovernewfields.org/object/13262/image-1/width",
+                "type": "Dimension",
+                "_label": "Image Dimensions for the Object",
+                "value": 6.8750,
+                "classified_as": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300055647",
+                    "type": "Type",
+                    "_label": "width"
+                  }
+                ],
+                "unit": {
+                  "id": "http://vocab.getty.edu/aat/300379100",
+                  "type": "Type",
+                  "_label": "inches"
+                }
+              }
+            ]
+          },
+          {
+            "id": "https://data.discovernewfields.org/object/13262/mount-1",
+            "type": "HumanMadeObject",
+            "_label": "Mount part of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300131087",
+                "type": "Type",
+                "_label": "mounts (framing and mounting equipment)"
+              }
+            ],
+            "dimension": [
+              {
+                "id": "https://data.discovernewfields.org/object/13262/mount-1/height",
+                "type": "Dimension",
+                "_label": "Mount Dimensions for the Object",
+                "value": 8.6250,
+                "classified_as": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300055644",
+                    "type": "Type",
+                    "_label": "height"
+                  }
+                ],
+                "unit": {
+                  "id": "http://vocab.getty.edu/aat/300379100",
+                  "type": "Type",
+                  "_label": "inches"
+                }
+              },
+              {
+                "id": "https://data.discovernewfields.org/object/13262/mount-1/width",
+                "type": "Dimension",
+                "_label": "Mount Dimensions for the Object",
+                "value": 7.1250,
+                "classified_as": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300055647",
+                    "type": "Type",
+                    "_label": "width"
+                  }
+                ],
+                "unit": {
+                  "id": "http://vocab.getty.edu/aat/300379100",
+                  "type": "Type",
+                  "_label": "inches"
+                }
+              }
+            ]
+          }
+        ],
+        "subject_of": [
+          {
+            "id": "http://collection.imamuseum.org/artwork/71943/",
+            "type": "LinguisticObject",
+            "_label": "Homepage for the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab/getty.edu/aat/300264578",
+                "type": "Type",
+                "_label": "Web pages (documents)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300266277",
+                "type": "Type",
+                "_label": "home pages"
+              }
+            ],
+            "format": "text/html"
+          }
+        ]
+      }
+    }
+  ]
+}
