@@ -215,7 +215,7 @@
           {
             "id": "https://data.discovernewfields.org/object/16563/credit-line",
             "type": "LinguisticObject",
-            "_label": "Indianapolis Museum of Art at Newfields Credit Line for the Work",
+            "_label": "Indianapolis Museum of Art at Newfields Credit Line for the Object",
             "content": "Gift of Anne Marmon Greenleaf in memory of Caroline Marmon Fesler",
             "classified_as": [
               {
@@ -233,7 +233,7 @@
           {
             "id": "https://data.discovernewfields.org/object/16563/dimension-statement",
             "type": "LinguisticObject",
-            "_label": "Notes about the Dimensions of the Work",
+            "_label": "Notes about the Dimensions of the Object",
             "content": "23-7/8 x 29-3/4 in. (canvas)\n25 x 31-1/16 x 1-5/8 in. (framed)",
             "classified_as": [
               {
@@ -251,7 +251,7 @@
           {
             "id": "https://data.discovernewfields.org/object/16563/materials-statement",
             "type": "LinguisticObject",
-            "_label": "Notes about the Materials in the Work",
+            "_label": "Notes about the Materials in the Object",
             "content": "oil on canvas",
             "classified_as": [
               {
@@ -583,7 +583,7 @@
           {
             "id": "https://data.discovernewfields.org/object/16872/credit-line",
             "type": "LinguisticObject",
-            "_label": "Indianapolis Museum of Art at Newfields Credit Line for the Work",
+            "_label": "Indianapolis Museum of Art at Newfields Credit Line for the Object",
             "content": "Gift of Mr. and Mrs. James W. Fesler",
             "classified_as": [
               {
@@ -601,7 +601,7 @@
           {
             "id": "https://data.discovernewfields.org/object/16872/dimension-statement",
             "type": "LinguisticObject",
-            "_label": "Notes about the Dimensions of the Work",
+            "_label": "Notes about the Dimensions of the Object",
             "content": "20 x 30 in.\n30 x 39 in. (framed)",
             "classified_as": [
               {
@@ -619,7 +619,7 @@
           {
             "id": "https://data.discovernewfields.org/object/16872/materials-statement",
             "type": "LinguisticObject",
-            "_label": "Notes about the Materials in the Work",
+            "_label": "Notes about the Materials in the Object",
             "content": "oil on canvas",
             "classified_as": [
               {
@@ -959,7 +959,7 @@
           {
             "id": "https://data.discovernewfields.org/object/37148/credit-line",
             "type": "LinguisticObject",
-            "_label": "Indianapolis Museum of Art at Newfields Credit Line for the Work",
+            "_label": "Indianapolis Museum of Art at Newfields Credit Line for the Object",
             "content": "Gift of Eli Lilly and Company",
             "classified_as": [
               {
@@ -977,7 +977,7 @@
           {
             "id": "https://data.discovernewfields.org/object/37148/dimension-statement",
             "type": "LinguisticObject",
-            "_label": "Notes about the Dimensions of the Work",
+            "_label": "Notes about the Dimensions of the Object",
             "content": "70 x 83-1/2 in.\n73-1/16 x 85-1/8 x 1-5/8 in. (framed)",
             "classified_as": [
               {
@@ -995,7 +995,7 @@
           {
             "id": "https://data.discovernewfields.org/object/37148/materials-statement",
             "type": "LinguisticObject",
-            "_label": "Notes about the Materials in the Work",
+            "_label": "Notes about the Materials in the Object",
             "content": "oil on linen",
             "classified_as": [
               {
@@ -1331,7 +1331,7 @@
           {
             "id": "https://data.discovernewfields.org/object/60715/credit-line",
             "type": "LinguisticObject",
-            "_label": "Indianapolis Museum of Art at Newfields Credit Line for the Work",
+            "_label": "Indianapolis Museum of Art at Newfields Credit Line for the Object",
             "content": "Carl H. Lieber Memorial Fund",
             "classified_as": [
               {
@@ -1349,7 +1349,7 @@
           {
             "id": "https://data.discovernewfields.org/object/60715/dimension-statement",
             "type": "LinguisticObject",
-            "_label": "Notes about the Dimensions of the Work",
+            "_label": "Notes about the Dimensions of the Object",
             "content": "5-5/8 x 6-7/8 in. (image)\n11-1/2 x 8 in. (sheet)\n11-7/8 x 8-1/8 in. (mount)",
             "classified_as": [
               {
@@ -1367,7 +1367,7 @@
           {
             "id": "https://data.discovernewfields.org/object/60715/materials-statement",
             "type": "LinguisticObject",
-            "_label": "Notes about the Materials in the Work",
+            "_label": "Notes about the Materials in the Object",
             "content": "photogravure on paper adhered to paper mount",
             "classified_as": [
               {
@@ -1777,7 +1777,7 @@
           {
             "id": "https://data.discovernewfields.org/object/13262/credit-line",
             "type": "LinguisticObject",
-            "_label": "Indianapolis Museum of Art at Newfields Credit Line for the Work",
+            "_label": "Indianapolis Museum of Art at Newfields Credit Line for the Object",
             "content": "Caroline Marmon Fesler Fund",
             "classified_as": [
               {
@@ -1795,7 +1795,7 @@
           {
             "id": "https://data.discovernewfields.org/object/13262/dimension-statement",
             "type": "LinguisticObject",
-            "_label": "Notes about the Dimensions of the Work",
+            "_label": "Notes about the Dimensions of the Object",
             "content": "8-3/8 x 6-7/8 in. (image)\n5-5/8 x 7-1/8 in. (mount)",
             "classified_as": [
               {
@@ -1813,7 +1813,7 @@
           {
             "id": "https://data.discovernewfields.org/object/13262/materials-statement",
             "type": "LinguisticObject",
-            "_label": "Notes about the Materials in the Work",
+            "_label": "Notes about the Materials in the ",
             "content": "photogravure hinged to paper mount",
             "classified_as": [
               {
