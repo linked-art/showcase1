@@ -1,0 +1,273 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://collectionapi.metmuseum.org/public/collection/v1/objects/482289",
+  "type": "HumanMadeObject",
+  "identified_by": [
+    {
+      "id": "http://lod.example.org/museum/Identifier/18",
+      "type": "Identifier",
+      "content": 482289,
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404621",
+          "type": "Type",
+          "_label": "Local Number"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/Identifier/19",
+      "type": "Identifier",
+      "content": "1981.324",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312355",
+          "type": "Type",
+          "_label": "Accession Number"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/Name/48",
+      "type": "Name",
+      "content": "Seated Nude X",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300195168",
+          "type": "Type",
+          "_label": "Title"
+        }
+      ]
+    }
+  ],
+  "produced_by": {
+    "id": "http://lod.example.org/museum/Production/9",
+    "type": "Production",
+    "timespan": {
+      "id": "http://lod.example.org/museum/TimeSpan/27",
+      "type": "TimeSpan",
+      "begin_of_the_begin": 1917,
+      "end_of_the_end": 1917,
+      "identified_by": [
+        {
+          "id": "http://lod.example.org/museum/Name/49",
+          "type": "Name",
+          "content": "1917"
+        }
+      ]
+    },
+    "carried_out_by": [
+      {
+        "id": "http://lod.example.org/museum/Person/9",
+        "type": "Person",
+        "identified_by": [
+          {
+            "id": "http://lod.example.org/museum/Name/50",
+            "type": "Name",
+            "content": "Georgia O'Keeffe"
+          }
+        ],
+        "referred_to_by": [
+          {
+            "id": "http://lod.example.org/museum/LinguisticObject/75",
+            "type": "LinguisticObject",
+            "content": "American, Sun Prairie, Wisconsin 1887\u20131986 Santa Fe, New Mexico",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300080102",
+                "type": "Type",
+                "_label": "Biography Statement"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "Brief Text"
+              }
+            ]
+          }
+        ],
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300107956",
+            "type": "Type",
+            "_label": "American",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300379842",
+                "type": "Type",
+                "_label": "Nationality"
+              }
+            ]
+          }
+        ],
+        "born": {
+          "id": "http://lod.example.org/museum/Birth/9",
+          "type": "Birth",
+          "timespan": {
+            "id": "http://lod.example.org/museum/TimeSpan/28",
+            "type": "TimeSpan",
+            "begin_of_the_begin": "1887",
+            "end_of_the_end": "1887",
+            "identified_by": [
+              {
+                "id": "http://lod.example.org/museum/Name/51",
+                "type": "Name",
+                "content": "1887"
+              }
+            ]
+          }
+        },
+        "died": {
+          "id": "http://lod.example.org/museum/Death/9",
+          "type": "Death",
+          "timespan": {
+            "id": "http://lod.example.org/museum/TimeSpan/29",
+            "type": "TimeSpan",
+            "begin_of_the_begin": "1986",
+            "end_of_the_end": "1986",
+            "identified_by": [
+              {
+                "id": "http://lod.example.org/museum/Name/52",
+                "type": "Name",
+                "content": "1887"
+              }
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "referred_to_by": [
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/76",
+      "type": "LinguisticObject",
+      "content": "Watercolor on paper",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300010358",
+          "type": "Type",
+          "_label": "Material Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/77",
+      "type": "LinguisticObject",
+      "content": "11 7/8 x 8 7/8 in. (30.2 x 22.5 cm)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300266036",
+          "type": "Type",
+          "_label": "Dimension Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/78",
+      "type": "LinguisticObject",
+      "content": "Van Day Truex Fund, 1981",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "Credit Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/79",
+      "type": "LinguisticObject",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300080091",
+          "type": "Type",
+          "_label": "Description"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/80",
+      "type": "LinguisticObject",
+      "content": "the artist (1917\u2013at least 1966; to Robert Miller); [Robert Miller Gallery, Inc., New York, until 1981; sold to MMA]",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "Provenance Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/81",
+      "type": "LinguisticObject",
+      "content": "Fort Worth. Amon Carter Museum of Western Art. \"Georgia O'Keeffe: An Exhibition of the Work of the Artist from 1915 to 1966,\" March 17\u2013May 8, 1966, unnumbered cat. (p. 27; as \"Nude Series X,\" lent by the artist).Museum of Fine Arts, Houston. \"Georgia O'Keeffe: An Exhibition of the Work of the Artist from 1915 to 1966,\" May 28\u2013July 3, 1966, unnumbered cat.New York. The Metropolitan Museum of Art. \"Georgia O'Keeffe: 1887\u20131986,\" November 19, 1988\u2013February 5, 1989, not in catalogue (unnumbered checklist addenda).New York. The Metropolitan Museum of Art. \"60 Drawings: Recent Acquisitions,\" October 23, 1990\u2013January 15, 1991, no catalogue.Venice. Palazzo Grassi. \"Biennale, 46 Esposizione Internazionale d'Arte. Identity and Alterity: Figures of the Body 1895\u20131995,\" June 11\u2013October 15, 1995, not in catalogue.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "Exhibition Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/82",
+      "type": "LinguisticObject",
+      "content": "Lisa Mintz Messinger. \"Georgia O'Keeffe.\" Metropolitan Museum of Art Bulletin 42 (Fall 1984), p. 11, fig. 10 (color). Philippe de Montebello. \"[Director's Note].\" Metropolitan Museum of Art Bulletin 42 (Fall 1984), p. 2. Benita Eisler. O'Keeffe and Stieglitz: An American Romance. New York, 1991, p. 178. Elizabeth Montgomery. Georgia O'Keeffe. New York, 1993, p. 10, ill. (color). Barbara Buhler Lynes. Georgia O'Keeffe: Catalogue Raisonn\u00e9. New Haven, Conn., 1999, vol. 1, p. 109, no. 185, ill. (color), calls it \"Nude Series X\". Barbara Buhler Lynes with Russell Bowman. O'Keeffe's O'Keeffes: The Artist's Collection. Exh. cat.,  Milwaukee Art Museum. New York, 2001, p. 165, list it with all works included in Exh. Fort Worth and tour 1966.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026497",
+          "type": "Type",
+          "_label": "Bibliography Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    }
+  ],
+  "representation": [
+    {
+      "id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/482289/1006576/restricted",
+      "type": "VisualItem",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300215302",
+          "type": "Type",
+          "_label": "Digital Image"
+        }
+      ]
+    }
+  ]
+}

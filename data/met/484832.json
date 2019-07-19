@@ -1,0 +1,316 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://collectionapi.metmuseum.org/public/collection/v1/objects/484832",
+  "type": "HumanMadeObject",
+  "classified_as": [
+    {
+      "id": "http://vocab.getty.edu/aat/300033618",
+      "type": "Type",
+      "_label": "Painting"
+    }
+  ],
+  "identified_by": [
+    {
+      "id": "http://lod.example.org/museum/Identifier/8",
+      "type": "Identifier",
+      "content": 484832,
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404621",
+          "type": "Type",
+          "_label": "Local Number"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/Identifier/9",
+      "type": "Identifier",
+      "content": "1987.377.3",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312355",
+          "type": "Type",
+          "_label": "Accession Number"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/Name/21",
+      "type": "Name",
+      "content": "East River from the Shelton Hotel",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300195168",
+          "type": "Type",
+          "_label": "Title"
+        }
+      ]
+    }
+  ],
+  "produced_by": {
+    "id": "http://lod.example.org/museum/Production/4",
+    "type": "Production",
+    "timespan": {
+      "id": "http://lod.example.org/museum/TimeSpan/12",
+      "type": "TimeSpan",
+      "begin_of_the_begin": 1928,
+      "end_of_the_end": 1928,
+      "identified_by": [
+        {
+          "id": "http://lod.example.org/museum/Name/22",
+          "type": "Name",
+          "content": "1928"
+        }
+      ]
+    },
+    "carried_out_by": [
+      {
+        "id": "http://lod.example.org/museum/Person/4",
+        "type": "Person",
+        "identified_by": [
+          {
+            "id": "http://lod.example.org/museum/Name/23",
+            "type": "Name",
+            "content": "Georgia O'Keeffe"
+          }
+        ],
+        "referred_to_by": [
+          {
+            "id": "http://lod.example.org/museum/LinguisticObject/33",
+            "type": "LinguisticObject",
+            "content": "American, Sun Prairie, Wisconsin 1887\u20131986 Santa Fe, New Mexico",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300080102",
+                "type": "Type",
+                "_label": "Biography Statement"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "Brief Text"
+              }
+            ]
+          }
+        ],
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300107956",
+            "type": "Type",
+            "_label": "American",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300379842",
+                "type": "Type",
+                "_label": "Nationality"
+              }
+            ]
+          }
+        ],
+        "born": {
+          "id": "http://lod.example.org/museum/Birth/4",
+          "type": "Birth",
+          "timespan": {
+            "id": "http://lod.example.org/museum/TimeSpan/13",
+            "type": "TimeSpan",
+            "begin_of_the_begin": "1887",
+            "end_of_the_end": "1887",
+            "identified_by": [
+              {
+                "id": "http://lod.example.org/museum/Name/24",
+                "type": "Name",
+                "content": "1887"
+              }
+            ]
+          }
+        },
+        "died": {
+          "id": "http://lod.example.org/museum/Death/4",
+          "type": "Death",
+          "timespan": {
+            "id": "http://lod.example.org/museum/TimeSpan/14",
+            "type": "TimeSpan",
+            "begin_of_the_begin": "1986",
+            "end_of_the_end": "1986",
+            "identified_by": [
+              {
+                "id": "http://lod.example.org/museum/Name/25",
+                "type": "Name",
+                "content": "1887"
+              }
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "referred_to_by": [
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/34",
+      "type": "LinguisticObject",
+      "content": "Oil on canvas",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300010358",
+          "type": "Type",
+          "_label": "Material Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/35",
+      "type": "LinguisticObject",
+      "content": "12 x 32 in. (30.5 x 81.3 cm)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300266036",
+          "type": "Type",
+          "_label": "Dimension Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/36",
+      "type": "LinguisticObject",
+      "content": "Alfred Stieglitz Collection, Bequest of Georgia O'Keeffe, 1986",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "Credit Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/37",
+      "type": "LinguisticObject",
+      "content": "The Shelton Hotel opened in midtown Manhattan in 1924 as the tallest hotel in the world. O\u2019Keeffe, who lived in the Shelton between 1925 and 1936, took advantage of the bird\u2019s-eye view from her apartment on the thirtieth floor to capture this panoramic, aerial view of the East River waterfront, looking across to Long Island City, Queens. Rendered in dull tones and pictured with factory stacks belching filthy smoke into the air, the hazy composition presents an inhospitable, industrial landscape that betrays the painter\u2019s increasing dissatisfaction with modern urban life.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300080091",
+          "type": "Type",
+          "_label": "Description"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/38",
+      "type": "LinguisticObject",
+      "content": "Inscription: Initialed (verso, in center of five-pointed star, in graphite): OK",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300028702",
+          "type": "Type",
+          "_label": "Inscription"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/39",
+      "type": "LinguisticObject",
+      "content": "the artist; [Doris Bry, New York]; Sidney and George Perutz, Dallas (in 1969); [Doris Bry, New York; until 1971; sold in 1971 to the artist]; the artist (1971\u2013d. 1986; her bequest as part of the Alfred Stieglitz Collection to MMA)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "Provenance Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/40",
+      "type": "LinguisticObject",
+      "content": "Intimate Gallery, New York. \"Georgia O'Keeffe Paintings, 1928,\" February 4\u2013March 17, 1929, no catalogue (unnum. checklist; as \"East River from the Shelton No. VI\").Minneapolis. University Art Gallery, University of Minnesota. \"5 Painters (Demuth, Dove, Hartley, Marin, O'Keeffe),\" January 27\u2013February 14, 1937, no. 40.Museum of Modern Art, New York. \"Georgia O'Keeffe: An Exhibition,\" May 14\u2013August 25, 1946, no catalogue (checklist no. 20; as \"East River from the Shelton [30th Story]\").Art Institute of Chicago. \"Alfred Stieglitz: His Photographs and His Collection,\" February 2\u201329, 1948, extended to March 7, 1948, no catalogue (loan no. S-230; as \"East River from the Shelton, 30th Story,\" 1926) [probably this work].Dallas Museum of Fine Arts. \"An Exhibition of Paintings by Georgia O'Keeffe,\" February 1\u201322, 1953, brochure no. 7 (as \"East River\").New York. Whitney Museum of American Art. \"Georgia O'Keeffe,\" October 8\u2013November 29, 1970, no. 60.Art Institute of Chicago. \"Georgia O'Keeffe,\" January 6\u2013February 7, 1971, no. 60.San Francisco Museum of Art. \"Georgia O'Keeffe,\" March 15\u2013April 30, 1971, no. 60.Goodhart Hall, Bryn Mawr College. \"An Exhibition of Paintings: Georgia O'Keeffe, on the Occasion of the M. Carey Thomas Awards,\" October 21\u2013November 2, 1971, no. 7 (as \"River, New York\").New York. Andrew Crispo Gallery. \"Pioneers of American Abstraction: Oscar Bluemner, Stuart Davis, Charles Demuth, Arthur Dove, John Marin, Georgia O'Keeffe, Charles Sheeler, Joseph Stella, Max Weber,\" October 17\u2013November 17, 1973, no. 98.New York. The Metropolitan Museum of Art. \"Georgia O'Keeffe: 1887\u20131986,\" November 19, 1988\u2013February 5, 1989, not in catalogue (unnumbered checklist addenda).Los Angeles County Museum of Art. \"Georgia O'Keeffe: 1887\u20131986,\" March 30\u2013June 18, 1989, not in catalogue.Milwaukee Art Museum. \"O'Keeffe's O'Keeffes: The Artist's Collection,\" May 4\u2013August 19, 2001, no. 41 (as \"River, New York\").Santa Fe. Georgia O'Keeffe Museum. \"O'Keeffe's O'Keeffes: The Artist's Collection,\" September 14, 2001\u2013January 13, 2002, no. 41.Humlebaek. Louisiana Museum of Modern Art. \"O'Keeffe's O'Keeffes: The Artist's Collection,\" February 8\u2013May 20, 2002, no. 41.New York. The Metropolitan Museum of Art. \"Stieglitz and His Artists: Matisse to O'Keeffe,\" October 13, 2011\u2013January 2, 2012, no. 185.Oxford, England. Ashmolean Museum. \"America's Cool Modernism: O'Keeffe to Hopper,\" March 23\u2013July 22, 2018, no. 55.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "Exhibition Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/41",
+      "type": "LinguisticObject",
+      "content": "Lisa Mintz Messinger. Georgia O'Keeffe. New York, 1988, pp. 50-52, fig. 34. Maria Costantino. Georgia O'Keeffe. New York, 1994, pp. 80-81, ill., frontis. Barbara Buhler Lynes. Georgia O'Keeffe: Catalogue Raisonn\u00e9. New Haven, Conn., 1999, vol. 1, pp. 364-65, no. 619, ill. Lisa Mintz Messinger in Stieglitz and His Artists: Matisse to O'Keeffe. The Alfred Stieglitz Collection in The Metropolitan Museum of Art. Ed.  Lisa Mintz Messinger. Exh. cat.,  The Metropolitan Museum of Art. New York, 2011, pp. 14, 200, 280, no. 185, ill. (color). Sarah Greenough, ed. My Faraway One: Selected Letters of Georgia O'Keeffe and Alfred Stieglitz. Vol. 1, 1915\u20131933. New Haven, Conn., 2011, pp. 422, 424. Lauren Kroiz in Katherine M. Bourguignon Lauren Kroiz and Leo G. Mazow. America's Cool Modernism: O'Keeffe to Hopper. Exh. cat.,  Ashmolean Museum. Oxford, England, 2018, pp. 64\u201365. Leo G. Mazow in Katherine M. Bourguignon Lauren Kroiz and Leo G. Mazow. America's Cool Modernism: O'Keeffe to Hopper. Exh. cat.,  Ashmolean Museum. Oxford, England, 2018, p. 50. Sajda van der Leeuw in Katherine M. Bourguignon Lauren Kroiz and Leo G. Mazow. America's Cool Modernism: O'Keeffe to Hopper. Exh. cat.,  Ashmolean Museum. Oxford, England, 2018, p. 84, no. 55, ill. (color) pp. 85, 150.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026497",
+          "type": "Type",
+          "_label": "Bibliography Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    }
+  ],
+  "current_location": {
+    "id": "http://lod.example.org/museum/Place/1",
+    "type": "Place",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300240057",
+        "type": "Type",
+        "_label": "Gallery (place)"
+      }
+    ],
+    "identified_by": [
+      {
+        "id": "http://lod.example.org/museum/Name/26",
+        "type": "Name",
+        "content": "Gallery 909"
+      }
+    ]
+  },
+  "representation": [
+    {
+      "id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/484832/1011131/restricted",
+      "type": "VisualItem",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300215302",
+          "type": "Type",
+          "_label": "Digital Image"
+        }
+      ]
+    }
+  ]
+}

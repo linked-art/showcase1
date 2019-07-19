@@ -1,0 +1,221 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://collectionapi.metmuseum.org/public/collection/v1/objects/262101",
+  "type": "HumanMadeObject",
+  "identified_by": [
+    {
+      "id": "http://lod.example.org/museum/Identifier/56",
+      "type": "Identifier",
+      "content": 262101,
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404621",
+          "type": "Type",
+          "_label": "Local Number"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/Identifier/57",
+      "type": "Identifier",
+      "content": "1977.657.4",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312355",
+          "type": "Type",
+          "_label": "Accession Number"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/Name/143",
+      "type": "Name",
+      "content": "[Door and Adobe Wall, Abiquiu, New Mexico]",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300195168",
+          "type": "Type",
+          "_label": "Title"
+        }
+      ]
+    }
+  ],
+  "produced_by": {
+    "id": "http://lod.example.org/museum/Production/28",
+    "type": "Production",
+    "timespan": {
+      "id": "http://lod.example.org/museum/TimeSpan/84",
+      "type": "TimeSpan",
+      "begin_of_the_begin": 1957,
+      "end_of_the_end": 1958,
+      "identified_by": [
+        {
+          "id": "http://lod.example.org/museum/Name/144",
+          "type": "Name",
+          "content": "1957\u201358"
+        }
+      ]
+    },
+    "carried_out_by": [
+      {
+        "id": "http://lod.example.org/museum/Person/28",
+        "type": "Person",
+        "identified_by": [
+          {
+            "id": "http://lod.example.org/museum/Name/145",
+            "type": "Name",
+            "content": "Georgia O'Keeffe"
+          }
+        ],
+        "referred_to_by": [
+          {
+            "id": "http://lod.example.org/museum/LinguisticObject/217",
+            "type": "LinguisticObject",
+            "content": "American, Sun Prairie, Wisconsin 1887\u20131986 Santa Fe, New Mexico",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300080102",
+                "type": "Type",
+                "_label": "Biography Statement"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "Brief Text"
+              }
+            ]
+          }
+        ],
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300107956",
+            "type": "Type",
+            "_label": "American",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300379842",
+                "type": "Type",
+                "_label": "Nationality"
+              }
+            ]
+          }
+        ],
+        "born": {
+          "id": "http://lod.example.org/museum/Birth/28",
+          "type": "Birth",
+          "timespan": {
+            "id": "http://lod.example.org/museum/TimeSpan/85",
+            "type": "TimeSpan",
+            "begin_of_the_begin": "1887",
+            "end_of_the_end": "1887",
+            "identified_by": [
+              {
+                "id": "http://lod.example.org/museum/Name/146",
+                "type": "Name",
+                "content": "1887"
+              }
+            ]
+          }
+        },
+        "died": {
+          "id": "http://lod.example.org/museum/Death/28",
+          "type": "Death",
+          "timespan": {
+            "id": "http://lod.example.org/museum/TimeSpan/86",
+            "type": "TimeSpan",
+            "begin_of_the_begin": "1986",
+            "end_of_the_end": "1986",
+            "identified_by": [
+              {
+                "id": "http://lod.example.org/museum/Name/147",
+                "type": "Name",
+                "content": "1887"
+              }
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "referred_to_by": [
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/218",
+      "type": "LinguisticObject",
+      "content": "Gelatin silver print",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300010358",
+          "type": "Type",
+          "_label": "Material Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/219",
+      "type": "LinguisticObject",
+      "content": "15.8 x 11.3 cm. (6  1/4  x 4  7/16  in.)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300266036",
+          "type": "Type",
+          "_label": "Dimension Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/220",
+      "type": "LinguisticObject",
+      "content": "Anonymous Gift, 1977",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "Credit Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/221",
+      "type": "LinguisticObject",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300080091",
+          "type": "Type",
+          "_label": "Description"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    }
+  ],
+  "representation": [
+    {
+      "type": "VisualItem",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300215302",
+          "type": "Type",
+          "_label": "Digital Image"
+        }
+      ]
+    }
+  ]
+}

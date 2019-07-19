@@ -1,0 +1,298 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://collectionapi.metmuseum.org/public/collection/v1/objects/489156",
+  "type": "HumanMadeObject",
+  "classified_as": [
+    {
+      "id": "http://vocab.getty.edu/aat/300033618",
+      "type": "Type",
+      "_label": "Painting"
+    }
+  ],
+  "identified_by": [
+    {
+      "id": "http://lod.example.org/museum/Identifier/38",
+      "type": "Identifier",
+      "content": 489156,
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404621",
+          "type": "Type",
+          "_label": "Local Number"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/Identifier/39",
+      "type": "Identifier",
+      "content": "61.258",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312355",
+          "type": "Type",
+          "_label": "Accession Number"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/Name/98",
+      "type": "Name",
+      "content": "Ranchos Church",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300195168",
+          "type": "Type",
+          "_label": "Title"
+        }
+      ]
+    }
+  ],
+  "produced_by": {
+    "id": "http://lod.example.org/museum/Production/19",
+    "type": "Production",
+    "timespan": {
+      "id": "http://lod.example.org/museum/TimeSpan/57",
+      "type": "TimeSpan",
+      "begin_of_the_begin": 1930,
+      "end_of_the_end": 1930,
+      "identified_by": [
+        {
+          "id": "http://lod.example.org/museum/Name/99",
+          "type": "Name",
+          "content": "1930"
+        }
+      ]
+    },
+    "carried_out_by": [
+      {
+        "id": "http://lod.example.org/museum/Person/19",
+        "type": "Person",
+        "identified_by": [
+          {
+            "id": "http://lod.example.org/museum/Name/100",
+            "type": "Name",
+            "content": "Georgia O'Keeffe"
+          }
+        ],
+        "referred_to_by": [
+          {
+            "id": "http://lod.example.org/museum/LinguisticObject/158",
+            "type": "LinguisticObject",
+            "content": "American, Sun Prairie, Wisconsin 1887\u20131986 Santa Fe, New Mexico",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300080102",
+                "type": "Type",
+                "_label": "Biography Statement"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "Brief Text"
+              }
+            ]
+          }
+        ],
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300107956",
+            "type": "Type",
+            "_label": "American",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300379842",
+                "type": "Type",
+                "_label": "Nationality"
+              }
+            ]
+          }
+        ],
+        "born": {
+          "id": "http://lod.example.org/museum/Birth/19",
+          "type": "Birth",
+          "timespan": {
+            "id": "http://lod.example.org/museum/TimeSpan/58",
+            "type": "TimeSpan",
+            "begin_of_the_begin": "1887",
+            "end_of_the_end": "1887",
+            "identified_by": [
+              {
+                "id": "http://lod.example.org/museum/Name/101",
+                "type": "Name",
+                "content": "1887"
+              }
+            ]
+          }
+        },
+        "died": {
+          "id": "http://lod.example.org/museum/Death/19",
+          "type": "Death",
+          "timespan": {
+            "id": "http://lod.example.org/museum/TimeSpan/59",
+            "type": "TimeSpan",
+            "begin_of_the_begin": "1986",
+            "end_of_the_end": "1986",
+            "identified_by": [
+              {
+                "id": "http://lod.example.org/museum/Name/102",
+                "type": "Name",
+                "content": "1887"
+              }
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "referred_to_by": [
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/159",
+      "type": "LinguisticObject",
+      "content": "Oil on canvas",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300010358",
+          "type": "Type",
+          "_label": "Material Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/160",
+      "type": "LinguisticObject",
+      "content": "24 x 36 in. (61 x 91.4 cm)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300266036",
+          "type": "Type",
+          "_label": "Dimension Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/161",
+      "type": "LinguisticObject",
+      "content": "Alfred Stieglitz Collection, 1961",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "Credit Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/162",
+      "type": "LinguisticObject",
+      "content": "In this view of a mission church in Ranchos de Taos, O\u2019Keeffe depicts the site as a cluster of rocky forms that seem to grow straight from the soil. In merging the land and the building and reducing both to elemental shapes, O\u2019Keeffe testifies to the naturalness of abstraction. At the same time, she seems to erase the boundary between earth and architecture, the natural and the man-made. O\u2019Keeffe began visiting the Southwest in 1929, and her experience of the region, as well as of its indigenous peoples, bolstered her interest in abstraction.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300080091",
+          "type": "Type",
+          "_label": "Description"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/163",
+      "type": "LinguisticObject",
+      "content": "Inscription: Signed and dated (verso, in white paint): Georgia O'Keeffe 1930; initialed (on backing, in center of five-pointed star): OK",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300028702",
+          "type": "Type",
+          "_label": "Inscription"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/164",
+      "type": "LinguisticObject",
+      "content": "the artist (1930\u201361; on extended loan to MMA, 1949\u201361; her gift as part of the Alfred Stieglitz Collection to MMA)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "Provenance Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/165",
+      "type": "LinguisticObject",
+      "content": "New York. An American Place. \"Georgia O'Keeffe: 27 New Paintings, New York, New Mexico, Lake George, etc.,\" February 7\u2013March 17, 1930, no catalogue (checklist no. 5, 6, or 7, Ranchos Church Paintings) [probably this picture].Art Institute of Chicago. \"Georgia O'Keeffe,\" January 21\u2013February 22, 1943, no. 43.Philadelphia Museum of Art. \"History of an American, Alfred Stieglitz: '291' and After, Selections from the Stieglitz Collection,\" July 1\u2013November 1, 1944, no. 277.Museum of Modern Art, New York. \"Georgia O'Keeffe: An Exhibition,\" May 14\u2013August 25, 1946, no catalogue (checklist no. 38).Dallas Museum of Art. \"Religious Art of the Western World,\" March 23\u2013May 25, 1958, no. 395.New York. The Metropolitan Museum of Art. \"Fourteen American Masters: Paintings from Colonial Times to Today,\" October 16, 1958\u2013January 4, 1959, no catalogue.Fort Worth. Amon Carter Museum of Western Art. \"Georgia O'Keeffe: An Exhibition of the Work of the Artist from 1915 to 1966,\" March 17\u2013May 8, 1966, unnumbered cat. (p. 28).Museum of Fine Arts, Houston. \"Georgia O'Keeffe: An Exhibition of the Work of the Artist from 1915 to 1966,\" May 28\u2013July 3, 1966, unnumbered cat.New York. Whitney Museum of American Art. \"Georgia O'Keeffe,\" October 8\u2013November 29, 1970, no. 72.Art Institute of Chicago. \"Georgia O'Keeffe,\" January 6\u2013February 7, 1971, no. 72.San Francisco Museum of Art. \"Georgia O'Keeffe,\" March 15\u2013April 30, 1971, no. 72.New York. The Metropolitan Museum of Art. \"Paul Strand and His Contemporaries,\" February 10\u2013April 15, 1973, no catalogue.New York. Hirschl & Adler Galleries. \"Buildings: Architecture in American Modernism,\" October 29\u2013November 29, 1980, unnumbered cat. (pl. 62).Art Institute of Chicago. \"Georgia O'Keeffe: 1887\u20131986,\" March 5\u2013June 19, 1988, no. 74.Dallas Museum of Art. \"Georgia O'Keeffe: 1887\u20131986,\" July 31\u2013October 16, 1988, no. 74.New York. The Metropolitan Museum of Art. \"Georgia O'Keeffe: 1887\u20131986,\" November 19, 1988\u2013February 5, 1989, no. 74.Los Angeles County Museum of Art. \"Georgia O'Keeffe: 1887\u20131986,\" March 30\u2013June 18, 1989, no. 74.Roslyn Harbor, N. Y. Nassau County Museum of Art. \"Landscape of America: The Hudson River School to Abstract Expressionism,\" November 10, 1991\u2013February 9, 1992, unnumbered cat. (p. 44).Berlin. Martin-Gropius-Bau. \"Amerikanische Kunst im 20. Jahrhundert: Malerei und Plastik; 1913\u20131993,\" May 8\u2013July 25, 1993, no. 41.London. Royal Academy of Arts. \"American Art in the 20th Century: Painting and Sculpture 1913\u20131993,\" September 16\u2013December 12, 1993, no. 41.Milwaukee Art Museum. \"O'Keeffe's O'Keeffes: The Artist's Collection,\" May 4\u2013August 19, 2001, no. 50.Santa Fe. Georgia O'Keeffe Museum. \"O'Keeffe's O'Keeffes: The Artist's Collection,\" September 14, 2001\u2013January 13, 2002, no. 50.Humlebaek. Louisiana Museum of Modern Art. \"O'Keeffe's O'Keeffes: The Artist's Collection,\" February 8\u2013May 20, 2002, no. 50.New York. The Metropolitan Museum of Art. \"Stieglitz and His Artists: Matisse to O'Keeffe,\" October 13, 2011\u2013January 2, 2012, no. 187.Albany. New York State Museum. \"Imaging the American West: Selections from The Metropolitan Museum of Art,\" April 9\u2013July 17, 2016, unnum. brochure (p. 9).Oxford, England. Ashmolean Museum. \"America's Cool Modernism: O'Keeffe to Hopper,\" March 23\u2013July 22, 2018, no. 56.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "Exhibition Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/166",
+      "type": "LinguisticObject",
+      "content": "Ray Bethers. How Paintings Happen. New York, 1951, p. 119, ill. George Heard Hamilton. \"The Alfred Stieglitz Collection.\" Metropolitan Museum Journal 3 (1970), p. 392. Charles Child Eldredge. \"Georgia O'Keeffe: The Development of an American Modern.\" PhD diss.,  University of Minnesota, 1971, p. 66. Georgia O'Keeffe. Georgia O'Keeffe. New York, 1976, text facing pl. 63, ill. Paul Goldberger. \"Art: Architectural View by American Painters.\" New York Times (October 30, 1980), p. C22. Theodore Wolff. \"Art that Walks a Tightrope.\" Christian Science Monitor (November 24, 1980). Lisa Mintz Messinger. \"Georgia O'Keeffe.\" Metropolitan Museum of Art Bulletin 42 (Fall 1984), pp. 38, 40-41, 60, ill. D. H. Lawrence. \"Rings um mich her, die grosse, ungebrochene Weite.\" DU (May 1987), p. 6, ill. Lisa Mintz Messinger. Georgia O'Keeffe. New York, 1988, pp. 63, 65-67, ill. Anita Pollitzer. A Woman on Paper: Georgia O'Keeffe. New York, 1988, p. 206, ill. Doris Bry in Georgia O'Keeffe, in the West. Ed.  Doris Bry and Nicholas Callaway. New York, 1989, pl. 5. Sarah Whitaker Peters. Becoming O'Keeffe: The Early Years. New York, 1991, pp. 196, 348. Charles Child Eldredge. Georgia O'Keeffe. New York, 1991, pp. 105-6, ill. Maria Costantino. Georgia O'Keeffe. New York, 1994, pp. 116-17, ill. Jula Dech. Georgia O'Keeffe: Gem\u00e4lde. Munich, 1995, pl. 24. Robert Hughes. American Visions: The Epic History of Art in America. New York, 1997, pp. 12-13, fig. 7. Barbara Buhler Lynes. Georgia O'Keeffe: Catalogue Raisonn\u00e9. New Haven, Conn., 1999, vol. 1, pp. 422-23, no. 704, ill. Lisa Mintz Messinger. Georgia O'Keeffe. London, 2001, pp. 110-11, fig. 72. John Carlin and Jonathan Fineberg. Imagining America: Icons of 20th-Century American Art. New Haven and London, 2005, p. 46, ill. Katja Fauth. Modernist Visions in Taos: Mabel Dodge Luhan and the Artists of the Stieglitz Circle. Marburg, Germany, 2009, pp. 158, 181, fig. 23. Lisa Mintz Messinger in Stieglitz and His Artists: Matisse to O'Keeffe. The Alfred Stieglitz Collection in The Metropolitan Museum of Art. Ed.  Lisa Mintz Messinger. Exh. cat.,  The Metropolitan Museum of Art. New York, 2011, pp. 14, 193, 201, 280, no. 187, ill. (color). Sarah Greenough, ed. My Faraway One: Selected Letters of Georgia O'Keeffe and Alfred Stieglitz. Vol. 1, 1915\u20131933. New Haven, Conn., 2011, pp. 540-41. Lauren Kroiz in Katherine M. Bourguignon Lauren Kroiz and Leo G. Mazow. America's Cool Modernism: O'Keeffe to Hopper. Exh. cat.,  Ashmolean Museum. Oxford, England, 2018, p. 65, no. 56, ill. p. 151 (color).",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026497",
+          "type": "Type",
+          "_label": "Bibliography Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    }
+  ],
+  "representation": [
+    {
+      "id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/489156/1010451/restricted",
+      "type": "VisualItem",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300215302",
+          "type": "Type",
+          "_label": "Digital Image"
+        }
+      ]
+    }
+  ]
+}

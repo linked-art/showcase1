@@ -1,0 +1,281 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://collectionapi.metmuseum.org/public/collection/v1/objects/489063",
+  "type": "HumanMadeObject",
+  "classified_as": [
+    {
+      "id": "http://vocab.getty.edu/aat/300033618",
+      "type": "Type",
+      "_label": "Painting"
+    }
+  ],
+  "identified_by": [
+    {
+      "id": "http://lod.example.org/museum/Identifier/40",
+      "type": "Identifier",
+      "content": 489063,
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404621",
+          "type": "Type",
+          "_label": "Local Number"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/Identifier/41",
+      "type": "Identifier",
+      "content": "59.204.1",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312355",
+          "type": "Type",
+          "_label": "Accession Number"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/Name/103",
+      "type": "Name",
+      "content": "Black Place II",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300195168",
+          "type": "Type",
+          "_label": "Title"
+        }
+      ]
+    }
+  ],
+  "produced_by": {
+    "id": "http://lod.example.org/museum/Production/20",
+    "type": "Production",
+    "timespan": {
+      "id": "http://lod.example.org/museum/TimeSpan/60",
+      "type": "TimeSpan",
+      "begin_of_the_begin": 1944,
+      "end_of_the_end": 1944,
+      "identified_by": [
+        {
+          "id": "http://lod.example.org/museum/Name/104",
+          "type": "Name",
+          "content": "1944"
+        }
+      ]
+    },
+    "carried_out_by": [
+      {
+        "id": "http://lod.example.org/museum/Person/20",
+        "type": "Person",
+        "identified_by": [
+          {
+            "id": "http://lod.example.org/museum/Name/105",
+            "type": "Name",
+            "content": "Georgia O'Keeffe"
+          }
+        ],
+        "referred_to_by": [
+          {
+            "id": "http://lod.example.org/museum/LinguisticObject/167",
+            "type": "LinguisticObject",
+            "content": "American, Sun Prairie, Wisconsin 1887\u20131986 Santa Fe, New Mexico",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300080102",
+                "type": "Type",
+                "_label": "Biography Statement"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "Brief Text"
+              }
+            ]
+          }
+        ],
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300107956",
+            "type": "Type",
+            "_label": "American",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300379842",
+                "type": "Type",
+                "_label": "Nationality"
+              }
+            ]
+          }
+        ],
+        "born": {
+          "id": "http://lod.example.org/museum/Birth/20",
+          "type": "Birth",
+          "timespan": {
+            "id": "http://lod.example.org/museum/TimeSpan/61",
+            "type": "TimeSpan",
+            "begin_of_the_begin": "1887",
+            "end_of_the_end": "1887",
+            "identified_by": [
+              {
+                "id": "http://lod.example.org/museum/Name/106",
+                "type": "Name",
+                "content": "1887"
+              }
+            ]
+          }
+        },
+        "died": {
+          "id": "http://lod.example.org/museum/Death/20",
+          "type": "Death",
+          "timespan": {
+            "id": "http://lod.example.org/museum/TimeSpan/62",
+            "type": "TimeSpan",
+            "begin_of_the_begin": "1986",
+            "end_of_the_end": "1986",
+            "identified_by": [
+              {
+                "id": "http://lod.example.org/museum/Name/107",
+                "type": "Name",
+                "content": "1887"
+              }
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "referred_to_by": [
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/168",
+      "type": "LinguisticObject",
+      "content": "Oil on canvas",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300010358",
+          "type": "Type",
+          "_label": "Material Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/169",
+      "type": "LinguisticObject",
+      "content": "23 7/8 x 30 in. (60.6 x 76.2 cm)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300266036",
+          "type": "Type",
+          "_label": "Dimension Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/170",
+      "type": "LinguisticObject",
+      "content": "Alfred Stieglitz Collection, 1959",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "Credit Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/171",
+      "type": "LinguisticObject",
+      "content": "\"The Black Place\" was the name O'Keeffe gave to one of her favorite painting sites in New Mexico.  It was a stretch of desolate hills that she said looked, from a distance, like \"a mile of elephants.\"   Over a period of fourteen years (1936\u201349), this place inspired a torrent of work in paint, pastel, and pencil.  Most often, she featured the jagged juncture of two hills, as in this fairly abstract interpretation of the scene.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300080091",
+          "type": "Type",
+          "_label": "Description"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/172",
+      "type": "LinguisticObject",
+      "content": "the artist (1944\u201359; on extended loan to MMA, 1949\u201359; her gift as part of the Alfred Stieglitz Collection to MMA)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "Provenance Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/173",
+      "type": "LinguisticObject",
+      "content": "New York. An American Place. \"Georgia O'Keeffe: Paintings\u20141944,\" January 22\u2013March 22, 1945, no catalogue (checklist no. 8).New York. Whitney Museum of American Art. \"1948 Annual Exhibition of Contemporary American Painting,\" November 13, 1948\u2013January 2, 1949, no. 105.New York. The Metropolitan Museum of Art. \"20th Century Painters:  A Special Exhibition of Oils, Water Colors and Drawings Selected from the Collections of American Art in the Metropolitan Museum,\" June 16\u2013October 29, 1950, unnum. brochure (p. 9).Dallas Museum of Fine Arts. \"An Exhibition of Paintings by Georgia O'Keeffe,\" February 1\u201322, 1953, brochure no. 22.New York. The Metropolitan Museum of Art. \"Fourteen American Masters: Paintings from Colonial Times to Today,\" October 16, 1958\u2013January 4, 1959, no catalogue.Galerie des Beaux-Arts, Bordeaux. \"Profil du Metropolitan Museum of Art de New York: de Rams\u00e8s \u00e0 Picasso,\" May 15\u2013September 1, 1981, no. 225.Shizuoka Prefectural Museum of Art. \"Landscape Painting in the East and West,\" April 19\u2013June 1, 1986, no. 39.Kobe City Museum. \"Landscape Painting in the East and West,\" June 7\u2013July 13, 1986, no. 39.New York. The Metropolitan Museum of Art. \"Georgia O'Keeffe: 1887\u20131986,\" November 19, 1988\u2013February 5, 1989, not in catalogue (unnumbered checklist addenda).Los Angeles County Museum of Art. \"Georgia O'Keeffe: 1887\u20131986,\" March 30\u2013June 18, 1989, not in catalogue.New York. The Metropolitan Museum of Art. \"American Landscape Painting,\" April 4\u2013August 13, 1989, no catalogue.New York. The Metropolitan Museum of Art. \"14 Americans,\" July 16, 1990\u2013January 2, 1991, no catalogue.National Gallery of Art, Washington D.C. \"Modern Art and America: Alfred Stieglitz and His New York Galleries,\" January 28\u2013April 22, 2001, unnumbered cat. (pl. 179).New York. Whitney Museum of American Art. \"Georgia O'Keeffe: Abstraction,\" September 17, 2009\u2013January 17, 2010, unnumbered cat. (pl. 134).New York. The Metropolitan Museum of Art. \"Stieglitz and His Artists: Matisse to O'Keeffe,\" October 13, 2011\u2013January 2, 2012, no. 193.Brooklyn Museum. \"Georgia O'Keeffe: Living Modern,\" March 3\u2013July 23, 2017, unnumbered cat. (fig. 173).",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "Exhibition Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/174",
+      "type": "LinguisticObject",
+      "content": "William S. Lieberman in Profil du Metropolitan Museum of Art de New York: de Rams\u00e8s \u00e0 Picasso. Exh. cat.,  Galerie des Beaux-Arts, Bordeaux. Bordeaux, 1981, p. 174, no. 225, ill. Lowery S. Sims in Profil du Metropolitan Museum of Art de New York: de Rams\u00e8s \u00e0 Picasso. Exh. cat.,  Galerie des Beaux-Arts, Bordeaux. Bordeaux, 1981, pp. 166\u201367. Lisa Mintz Messinger. \"Georgia O'Keeffe.\" Metropolitan Museum of Art Bulletin 42 (Fall 1984), pp. 54, 56-67, 61, ill. Vera Graaf. \"Georgia O'Keefes Leben.\" Du no. 5 (May 1987), pp. 28-29, ill. Lisa Mintz Messinger. Georgia O'Keeffe. New York, 1988, pp. 85-87, ill. Michael Berry. Georgia O'Keeffe. New York, 1988, pp. 90-91, ill. Roxana Robinson. Georgia O'Keeffe: A Life. New York, 1989, pp. 477-78. Doris Bry in Georgia O'Keeffe, in the West. Ed.  Doris Bry and Nicholas Callaway. New York, 1989, pl. 60. Elizabeth Montgomery. Georgia O'Keeffe. New York, 1993, p. 71, ill. Lisa Mintz Messinger in The Georgia O'Keeffe Museum. Ed.  Peter H. Hassrick. New York, 1997, p. 41, ill. Barbara Buhler Lynes. Georgia O'Keeffe: Catalogue Raisonn\u00e9. New Haven, Conn., 1999, vol. 1, p. 683, no. 1081, ill. Barbara Buhler Lynes with Russell Bowman. O'Keeffe's O'Keeffes: The Artist's Collection. Exh. cat.,  Milwaukee Art Museum. New York, 2001, p. 169 (app. 2: \"Works Given to Institutions during the Artist's Lifetime\"). Hunter Drohojowska-Philp. Full Bloom: The Art and Life of Georgia O'Keeffe. New York, 2004, ill. between pp. 376-77. Lisa Mintz Messinger in Stieglitz and His Artists: Matisse to O'Keeffe. The Alfred Stieglitz Collection in The Metropolitan Museum of Art. Ed.  Lisa Mintz Messinger. Exh. cat.,  The Metropolitan Museum of Art. New York, 2011, pp. 14, 205, 282, no. 193, ill. (color). Isabelle Duvernois in Stieglitz and His Artists: Matisse to O'Keeffe. The Alfred Stieglitz Collection in The Metropolitan Museum of Art. Ed.  Lisa Mintz Messinger. Exh. cat.,  The Metropolitan Museum of Art. New York, 2011, p. 193. Tanya Barson in Georgia O'Keeffe. Ed.  Tanya Barson. Exh. cat.,  Tate Modern. London, 2016, p. 16, fig. 161 (color). Wanda M. Corn. Georgia O'Keeffe: Living Modern. Exh. cat.,  Brooklyn Museum. Brooklyn, 2017, p. 160, fig.173 (color).",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026497",
+          "type": "Type",
+          "_label": "Bibliography Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    }
+  ],
+  "representation": [
+    {
+      "id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/489063/1010548/restricted",
+      "type": "VisualItem",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300215302",
+          "type": "Type",
+          "_label": "Digital Image"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://collectionapi.metmuseum.org/public/collection/v1/objects/484830",
+  "type": "HumanMadeObject",
+  "classified_as": [
+    {
+      "id": "http://vocab.getty.edu/aat/300033618",
+      "type": "Type",
+      "_label": "Painting"
+    }
+  ],
+  "identified_by": [
+    {
+      "id": "http://lod.example.org/museum/Identifier/20",
+      "type": "Identifier",
+      "content": 484830,
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404621",
+          "type": "Type",
+          "_label": "Local Number"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/Identifier/21",
+      "type": "Identifier",
+      "content": "1987.377.1",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312355",
+          "type": "Type",
+          "_label": "Accession Number"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/Name/53",
+      "type": "Name",
+      "content": "Grey Line with Lavender and Yellow",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300195168",
+          "type": "Type",
+          "_label": "Title"
+        }
+      ]
+    }
+  ],
+  "produced_by": {
+    "id": "http://lod.example.org/museum/Production/10",
+    "type": "Production",
+    "timespan": {
+      "id": "http://lod.example.org/museum/TimeSpan/30",
+      "type": "TimeSpan",
+      "begin_of_the_begin": 1923,
+      "end_of_the_end": 1923,
+      "identified_by": [
+        {
+          "id": "http://lod.example.org/museum/Name/54",
+          "type": "Name",
+          "content": "ca. 1923"
+        }
+      ]
+    },
+    "carried_out_by": [
+      {
+        "id": "http://lod.example.org/museum/Person/10",
+        "type": "Person",
+        "identified_by": [
+          {
+            "id": "http://lod.example.org/museum/Name/55",
+            "type": "Name",
+            "content": "Georgia O'Keeffe"
+          }
+        ],
+        "referred_to_by": [
+          {
+            "id": "http://lod.example.org/museum/LinguisticObject/83",
+            "type": "LinguisticObject",
+            "content": "American, Sun Prairie, Wisconsin 1887\u20131986 Santa Fe, New Mexico",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300080102",
+                "type": "Type",
+                "_label": "Biography Statement"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "Brief Text"
+              }
+            ]
+          }
+        ],
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300107956",
+            "type": "Type",
+            "_label": "American",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300379842",
+                "type": "Type",
+                "_label": "Nationality"
+              }
+            ]
+          }
+        ],
+        "born": {
+          "id": "http://lod.example.org/museum/Birth/10",
+          "type": "Birth",
+          "timespan": {
+            "id": "http://lod.example.org/museum/TimeSpan/31",
+            "type": "TimeSpan",
+            "begin_of_the_begin": "1887",
+            "end_of_the_end": "1887",
+            "identified_by": [
+              {
+                "id": "http://lod.example.org/museum/Name/56",
+                "type": "Name",
+                "content": "1887"
+              }
+            ]
+          }
+        },
+        "died": {
+          "id": "http://lod.example.org/museum/Death/10",
+          "type": "Death",
+          "timespan": {
+            "id": "http://lod.example.org/museum/TimeSpan/32",
+            "type": "TimeSpan",
+            "begin_of_the_begin": "1986",
+            "end_of_the_end": "1986",
+            "identified_by": [
+              {
+                "id": "http://lod.example.org/museum/Name/57",
+                "type": "Name",
+                "content": "1887"
+              }
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "referred_to_by": [
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/84",
+      "type": "LinguisticObject",
+      "content": "Oil on canvas",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300010358",
+          "type": "Type",
+          "_label": "Material Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/85",
+      "type": "LinguisticObject",
+      "content": "48 x 30 in. (121.9 x 76.2 cm)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300266036",
+          "type": "Type",
+          "_label": "Dimension Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/86",
+      "type": "LinguisticObject",
+      "content": "Alfred Stieglitz Collection, Bequest of Georgia O'Keeffe, 1986",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "Credit Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/87",
+      "type": "LinguisticObject",
+      "content": "Among the most famous twentieth-century American artists, O\u2019Keeffe often painted abstract compositions in which she appears to have responded to forms in nature. Showcasing her sophisticated color sense and delicate brushwork, works such as Grey Line with Lavender and Yellow are devoid of traditional subject matter. Nevertheless, they easily conjure up associations with flower petals and human anatomy. Like many abstract artists, O\u2019Keeffe aspired to render essential form by disregarding extraneous details.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300080091",
+          "type": "Type",
+          "_label": "Description"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/88",
+      "type": "LinguisticObject",
+      "content": "Inscription: Initialed (on cardboard backing, in center of five-pointed star, in black crayon): OK",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300028702",
+          "type": "Type",
+          "_label": "Inscription"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/89",
+      "type": "LinguisticObject",
+      "content": "the artist (ca. 1923\u2013d. 1986; her bequest as part of the Alfred Stieglitz Collection to MMA)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "Provenance Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/90",
+      "type": "LinguisticObject",
+      "content": "New York. An American Place. \"Georgia O'Keeffe: 44 Selected Paintings (1915\u20131927),\" January 29\u2013March 17, 1934, possibly extended to March 27, 1934, no catalogue.New York. The Metropolitan Museum of Art. \"Georgia O'Keeffe: 1887\u20131986,\" November 19, 1988\u2013February 5, 1989, not in catalogue (unnumbered checklist addenda).Los Angeles County Museum of Art. \"Georgia O'Keeffe: 1887\u20131986,\" March 30\u2013June 18, 1989, not in catalogue.New York. The Metropolitan Museum of Art. \"14 Americans,\" July 16, 1990\u2013January 2, 1991, no catalogue.Venice. Palazzo Grassi. \"Biennale, 46 Esposizione Internazionale d'Arte. Identity and Alterity: Figures of the Body 1895\u20131995,\" June 11\u2013October 15, 1995, no. VII.63.Paris. Centre Pompidou. \"F\u00e9mininmasculin, le sexe de l'art,\" October 24, 1995\u2013February 12, 1996, unnumbered cat. (fig. 385).Santa Fe. Georgia O'Keeffe Museum. \"Georgia O'Keeffe and the Women of the Stieglitz Circle,\" September 21, 2007\u2013January 13, 2008, unnumbered cat. (fig. 153).Atlanta. High Museum of Art. \"Georgia O'Keeffe and the Women of the Stieglitz Circle,\" February 9\u2013May 4, 2008, unnumbered cat.San Diego Museum of Art. \"Georgia O'Keeffe and the Women of the Stieglitz Circle,\" May 24\u2013September 28, 2008, unnumbered cat.New York. Whitney Museum of American Art. \"Georgia O'Keeffe: Abstraction,\" September 17, 2009\u2013January 17, 2010, unnumbered cat. (pl. 76).New York. The Metropolitan Museum of Art. \"Stieglitz and His Artists: Matisse to O'Keeffe,\" October 13, 2011\u2013January 2, 2012, no. 180.New York. Museum of Modern Art. \"Inventing Abstraction, 1910\u20131925,\" December 23, 2012\u2013April 15, 2013, no. 182.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "Exhibition Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/91",
+      "type": "LinguisticObject",
+      "content": "Lisa M. Messinger in \"Twentieth Century Art.\" Recent Acquisitions: A Selection, 1987\u20131988. New York, 1988, pp. 60\u201361, ill. Lisa Mintz Messinger. Georgia O'Keeffe. New York, 1988, pp. 31\u201332, fig. 17. Maria Costantino. Georgia O'Keeffe. New York, 1994, p. 158, ill. Anne Middleton Wagner. Three Artists (Three Women): Modernism and the Art of Hesse, Krasner, and O'Keeffe. Berkeley, 1996, pp. 64, [66], fig. 15. Barbara Buhler Lynes. Georgia O'Keeffe: Catalogue Raisonn\u00e9. New Haven, Conn., 1999, vol. 1, p. 238, no. 442, ill; vol. 2, p. 1125, app. 3, fig. 56. Barbara Buhler Lynes with Russell Bowman. O'Keeffe's O'Keeffes: The Artist's Collection. Exh. cat.,  Milwaukee Art Museum. New York, 2001, pp. 30, 63, 170, 172. Lisa Mintz Messinger in Stieglitz and His Artists: Matisse to O'Keeffe. The Alfred Stieglitz Collection in The Metropolitan Museum of Art. Ed.  Lisa Mintz Messinger. Exh. cat.,  The Metropolitan Museum of Art. New York, 2011, pp. 14, 197, 278, no. 180, ill. (color). Rachael Z. DeLue in Inventing Abstraction, 1910\u20131925: How a Radical Idea Changed Modern Art. Exh. cat.,  Museum of Modern Art. New York, 2012, p. 190, colorpl.182. Richard Meyer. \"Changing Partners: Richard Meyer on 'Reimagining Modernism' at the Met.\" Artforum (November 2015), p. 144, ill. (color, installation photo). Tanya Barson in Georgia O'Keeffe. Ed.  Tanya Barson. Exh. cat.,  Tate Modern. London, 2016, p. 20.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026497",
+          "type": "Type",
+          "_label": "Bibliography Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    }
+  ],
+  "representation": [
+    {
+      "id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/484830/1010365/restricted",
+      "type": "VisualItem",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300215302",
+          "type": "Type",
+          "_label": "Digital Image"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://collectionapi.metmuseum.org/public/collection/v1/objects/488229",
+  "type": "HumanMadeObject",
+  "classified_as": [
+    {
+      "id": "http://vocab.getty.edu/aat/300033618",
+      "type": "Type",
+      "_label": "Painting"
+    }
+  ],
+  "identified_by": [
+    {
+      "id": "http://lod.example.org/museum/Identifier/30",
+      "type": "Identifier",
+      "content": 488229,
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404621",
+          "type": "Type",
+          "_label": "Local Number"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/Identifier/31",
+      "type": "Identifier",
+      "content": "47.19",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312355",
+          "type": "Type",
+          "_label": "Accession Number"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/Name/78",
+      "type": "Name",
+      "content": "Pelvis II",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300195168",
+          "type": "Type",
+          "_label": "Title"
+        }
+      ]
+    }
+  ],
+  "produced_by": {
+    "id": "http://lod.example.org/museum/Production/15",
+    "type": "Production",
+    "timespan": {
+      "id": "http://lod.example.org/museum/TimeSpan/45",
+      "type": "TimeSpan",
+      "begin_of_the_begin": 1944,
+      "end_of_the_end": 1944,
+      "identified_by": [
+        {
+          "id": "http://lod.example.org/museum/Name/79",
+          "type": "Name",
+          "content": "1944"
+        }
+      ]
+    },
+    "carried_out_by": [
+      {
+        "id": "http://lod.example.org/museum/Person/15",
+        "type": "Person",
+        "identified_by": [
+          {
+            "id": "http://lod.example.org/museum/Name/80",
+            "type": "Name",
+            "content": "Georgia O'Keeffe"
+          }
+        ],
+        "referred_to_by": [
+          {
+            "id": "http://lod.example.org/museum/LinguisticObject/124",
+            "type": "LinguisticObject",
+            "content": "American, Sun Prairie, Wisconsin 1887\u20131986 Santa Fe, New Mexico",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300080102",
+                "type": "Type",
+                "_label": "Biography Statement"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "Brief Text"
+              }
+            ]
+          }
+        ],
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300107956",
+            "type": "Type",
+            "_label": "American",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300379842",
+                "type": "Type",
+                "_label": "Nationality"
+              }
+            ]
+          }
+        ],
+        "born": {
+          "id": "http://lod.example.org/museum/Birth/15",
+          "type": "Birth",
+          "timespan": {
+            "id": "http://lod.example.org/museum/TimeSpan/46",
+            "type": "TimeSpan",
+            "begin_of_the_begin": "1887",
+            "end_of_the_end": "1887",
+            "identified_by": [
+              {
+                "id": "http://lod.example.org/museum/Name/81",
+                "type": "Name",
+                "content": "1887"
+              }
+            ]
+          }
+        },
+        "died": {
+          "id": "http://lod.example.org/museum/Death/15",
+          "type": "Death",
+          "timespan": {
+            "id": "http://lod.example.org/museum/TimeSpan/47",
+            "type": "TimeSpan",
+            "begin_of_the_begin": "1986",
+            "end_of_the_end": "1986",
+            "identified_by": [
+              {
+                "id": "http://lod.example.org/museum/Name/82",
+                "type": "Name",
+                "content": "1887"
+              }
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "referred_to_by": [
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/125",
+      "type": "LinguisticObject",
+      "content": "Oil on canvas",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300010358",
+          "type": "Type",
+          "_label": "Material Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/126",
+      "type": "LinguisticObject",
+      "content": "40 x 30 in. (101.6 x 76.2 cm)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300266036",
+          "type": "Type",
+          "_label": "Dimension Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/127",
+      "type": "LinguisticObject",
+      "content": "George A. Hearn Fund, 1947",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "Credit Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/128",
+      "type": "LinguisticObject",
+      "content": "From 1943 to 1947 O'Keeffe painted a series that explored the intricate shapes and surfaces of animal bones.  The bones were pictured in their entirety or in magnified detail.  Here, in this abstract variation, she draws attention to the blue sky seen through empty sockets.  The work demonstrates O'Keeffe's ability to present what the writer Jean Toomer described as \"the universe through the portal of a bone.\"",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300080091",
+          "type": "Type",
+          "_label": "Description"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/129",
+      "type": "LinguisticObject",
+      "content": "the artist (1944\u201347; sold to MMA)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "Provenance Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/130",
+      "type": "LinguisticObject",
+      "content": "New York. An American Place. \"Georgia O'Keeffe: Paintings\u20141944,\" January 22\u2013March 22, 1945, no catalogue (as \"Pelvis\u2013II\"; checklist no. 5).New York. Whitney Museum of American Art. \"Annual Exhibition of Contemporary American Painting,\" December 10, 1946\u2013January 16, 1947, no. 113.Toledo Museum of Art. \"34th Annual Exhibition of Contemporary American Paintings,\" June 1\u2013August 31, 1947, no. 75.Colorado Springs Fine Arts Center. \"New Accessions U. S. A.,\" July 12\u2013September 5, 1948, no. 25.New York. The Metropolitan Museum of Art. \"20th Century Painters:  A Special Exhibition of Oils, Water Colors and Drawings Selected from the Collections of American Art in the Metropolitan Museum,\" June 16\u2013October 29, 1950, unnum. brochure (p. 9).Birmingham, Ala. Birmingham Museum of Art. \"Opening Exhibition,\" April 8\u2013June 3, 1951, unnumbered cat. (p. 47).Berlin. Rathaus Sch\u00f6neberg. \"Amerikanische Malerei: Werden und Gegenwart,\" September 20\u2013October 5, 1951, no. 48.Berlin. Schloss Charlottenburg. \"Amerikanische Malerei: Werden und Gegenwart,\" October 10\u201324, 1951, no. 48.Vienna. Akademie der Bildenden K\u00fcnst. \"Amerikanische Malerei: Werden und Gegenwart,\" November 3\u201318, 1951, no. 48.Munich. Galerie des Amerika Hauses. \"Amerikanische Malerei: Werden und Gegenwart,\" November 24\u2013December 14, 1951, no. 48.New York. National Academy of Design. \"A Memorial Exhibition of Paintings by Frank Vincent Dumond, N. A.,\" May 25\u2013June 22, 1952, no. 96 (as \"Pelvis #2\").Philbrook Art Center. \"Paintings by Georgia O'Keeffe,\" October 6\u2013November 1952, no catalogue.Dallas Museum of Fine Arts. \"An Exhibition of Paintings by Georgia O'Keeffe,\" February 1\u201322, 1953, brochure no. 26.New York. The Metropolitan Museum of Art. \"Columbia Bicentennial Exhibition,\" October 28, 1954\u2013April 18, 1955, no catalogue.Katonah, N.Y. The Katonah Gallery. \"Alfred Stieglitz and His Circle,\" May 9\u2013June 27, 1971, brochure no. 38.Birmingham, Ala. Birmingham Museum of Art. \"American Masters, 1872-1972,\" February 25\u2013March 26, 1972, no. 28 (as \"The Pelvis II\") [see Ref. Weeks 1972].Staten Island Museum. \"20th Century American Paintings from The Metropolitan Museum of Art,\" April 9\u201328, 1978, brochure no. 9.New York. The Metropolitan Museum of Art. \"Georgia O'Keeffe: 1887\u20131986,\" November 19, 1988\u2013February 5, 1989, not in catalogue (unnumbered checklist addenda).New York. The Metropolitan Museum of Art. \"American Still Life: 1915\u20131950,\" February 1, 1995\u2013January 28, 1996, no catalogue.Tokyo Metropolitan Art Museum. \"Earth, Sea, and Sky, Nature in Western Art: Masterpieces from The Metropolitan Museum of Art,\" October 6, 2012\u2013January 4, 2013, no. 111.Beijing. National Museum of China. \"Earth, Sea, and Sky, Nature in Western Art: Masterpieces from The Metropolitan Museum of Art,\" February 1\u2013May 9, 2013, no. 111.Brooklyn Museum. \"Georgia O'Keeffe: Living Modern,\" March 3\u2013July 23, 2017, unnumbered cat. (fig. 167).",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "Exhibition Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/131",
+      "type": "LinguisticObject",
+      "content": "Robert Beverly Hale. \"The American Moderns.\" Metropolitan Museum of Art Bulletin 16 (Summer 1957), ill. p. 25. Edward F. Weeks. \"American Masters, 1872\u20131972.\" Birmingham Museum of Art Bulletin (1972), unpaginated, no. 28, dates it about 1944, calls it \"Pelvis #2\". Lisa Mintz Messinger. \"Georgia O'Keeffe.\" Metropolitan Museum of Art Bulletin 42 (Fall 1984), p. 52, fig. 51 (color). Philippe de Montebello. \"[Director's Note].\" Metropolitan Museum of Art Bulletin 42 (Fall 1984), p. 2. Erika Billeter. \"Georgia O'Keeffe's Bilder.\" Du (May 1987), ill. p. 61 (color). Elizabeth Montgomery. Georgia O'Keeffe. New York, 1993, ill. p. 87 (color). Barbara Buhler Lynes. Georgia O'Keeffe: Catalogue Raisonn\u00e9. New Haven, Conn., 1999, vol. 2, p. 678, no. 1076, ill. (color) (upside down). Lisa Messinger in Peter Barnet and Atsuyuki Nakahara. Earth, Sea, Sky, Nature in Western Art: Masterpieces from the Metropolitan Museum of Art. Exh. cat.Tokyo, 2012, pp. 244-45, no. 111, ill. (color).",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026497",
+          "type": "Type",
+          "_label": "Bibliography Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    }
+  ],
+  "representation": [
+    {
+      "id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/488229/1009624/restricted",
+      "type": "VisualItem",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300215302",
+          "type": "Type",
+          "_label": "Digital Image"
+        }
+      ]
+    }
+  ]
+}

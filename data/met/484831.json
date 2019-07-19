@@ -1,0 +1,298 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://collectionapi.metmuseum.org/public/collection/v1/objects/484831",
+  "type": "HumanMadeObject",
+  "classified_as": [
+    {
+      "id": "http://vocab.getty.edu/aat/300033618",
+      "type": "Type",
+      "_label": "Painting"
+    }
+  ],
+  "identified_by": [
+    {
+      "id": "http://lod.example.org/museum/Identifier/22",
+      "type": "Identifier",
+      "content": 484831,
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404621",
+          "type": "Type",
+          "_label": "Local Number"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/Identifier/23",
+      "type": "Identifier",
+      "content": "1987.377.2",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312355",
+          "type": "Type",
+          "_label": "Accession Number"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/Name/58",
+      "type": "Name",
+      "content": "Grey Tree, Lake George",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300195168",
+          "type": "Type",
+          "_label": "Title"
+        }
+      ]
+    }
+  ],
+  "produced_by": {
+    "id": "http://lod.example.org/museum/Production/11",
+    "type": "Production",
+    "timespan": {
+      "id": "http://lod.example.org/museum/TimeSpan/33",
+      "type": "TimeSpan",
+      "begin_of_the_begin": 1925,
+      "end_of_the_end": 1925,
+      "identified_by": [
+        {
+          "id": "http://lod.example.org/museum/Name/59",
+          "type": "Name",
+          "content": "1925"
+        }
+      ]
+    },
+    "carried_out_by": [
+      {
+        "id": "http://lod.example.org/museum/Person/11",
+        "type": "Person",
+        "identified_by": [
+          {
+            "id": "http://lod.example.org/museum/Name/60",
+            "type": "Name",
+            "content": "Georgia O'Keeffe"
+          }
+        ],
+        "referred_to_by": [
+          {
+            "id": "http://lod.example.org/museum/LinguisticObject/92",
+            "type": "LinguisticObject",
+            "content": "American, Sun Prairie, Wisconsin 1887\u20131986 Santa Fe, New Mexico",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300080102",
+                "type": "Type",
+                "_label": "Biography Statement"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "Brief Text"
+              }
+            ]
+          }
+        ],
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300107956",
+            "type": "Type",
+            "_label": "American",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300379842",
+                "type": "Type",
+                "_label": "Nationality"
+              }
+            ]
+          }
+        ],
+        "born": {
+          "id": "http://lod.example.org/museum/Birth/11",
+          "type": "Birth",
+          "timespan": {
+            "id": "http://lod.example.org/museum/TimeSpan/34",
+            "type": "TimeSpan",
+            "begin_of_the_begin": "1887",
+            "end_of_the_end": "1887",
+            "identified_by": [
+              {
+                "id": "http://lod.example.org/museum/Name/61",
+                "type": "Name",
+                "content": "1887"
+              }
+            ]
+          }
+        },
+        "died": {
+          "id": "http://lod.example.org/museum/Death/11",
+          "type": "Death",
+          "timespan": {
+            "id": "http://lod.example.org/museum/TimeSpan/35",
+            "type": "TimeSpan",
+            "begin_of_the_begin": "1986",
+            "end_of_the_end": "1986",
+            "identified_by": [
+              {
+                "id": "http://lod.example.org/museum/Name/62",
+                "type": "Name",
+                "content": "1887"
+              }
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "referred_to_by": [
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/93",
+      "type": "LinguisticObject",
+      "content": "Oil on canvas",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300010358",
+          "type": "Type",
+          "_label": "Material Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/94",
+      "type": "LinguisticObject",
+      "content": "36 x 30 in. (91.4 x 76.2 cm)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300266036",
+          "type": "Type",
+          "_label": "Dimension Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/95",
+      "type": "LinguisticObject",
+      "content": "Alfred Stieglitz Collection, Bequest of Georgia O'Keeffe, 1986",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "Credit Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/96",
+      "type": "LinguisticObject",
+      "content": "Throughout the 1920s O'Keeffe spent several months of each year (from spring to fall) at the Stieglitz family estate in Lake George, New York.  Trees\u2014maples, pines, poplars, and birches\u2014were abundant there. O'Keeffe portrayed them singly or in groves, and often reflected the changes of the seasons in their colors.  When she later moved to New Mexico, trees\u2014particularly yellow cottonwoods\u2014were again a source of inspiration.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300080091",
+          "type": "Type",
+          "_label": "Description"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/97",
+      "type": "LinguisticObject",
+      "content": "Inscription: Initialed (verso, in center of five-pointed star, in graphite): OK",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300028702",
+          "type": "Type",
+          "_label": "Inscription"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/98",
+      "type": "LinguisticObject",
+      "content": "the artist (1925\u2013d. 1986; her bequest as part of the Alfred Stieglitz Collection to MMA)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "Provenance Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/99",
+      "type": "LinguisticObject",
+      "content": "Intimate Gallery, New York. \"Fifty Recent Paintings by Georgia O'Keeffe,\" February 11\u2013March 11, 1926 (possibly extended to April 3, 1926), no catalogue.Brooklyn Museum. \"International Exhibition of Modern Art, Assembled by the Soci\u00e9t\u00e9 Anonyme,\" November 19, 1926\u2013January 1, 1927, no. 268 (as \"The Maple Tree\").New York. Museum of Modern Art. \"Paintings by Nineteen Living Americans,\" December 13, 1929\u2013January 12, 1930, no. 73.New York. Demotte, Inc. \"Twenty Modern American Pictures Selected by Samuel M. Kootz,\" March 16\u2013April 11, 1931, brochure no. 14 (as \"The Maple\").Art Institute of Chicago. \"Georgia O'Keeffe,\" January 21\u2013February 22, 1943, no. 16.Museum of Modern Art, New York. \"Georgia O'Keeffe: An Exhibition,\" May 14\u2013August 25, 1946, no catalogue (checklist no. 13).Fort Worth. Amon Carter Museum of Western Art. \"Georgia O'Keeffe: An Exhibition of the Work of the Artist from 1915 to 1966,\" March 17\u2013May 8, 1966, unnumbered cat. (p. 28; dated 1926).Museum of Fine Arts, Houston. \"Georgia O'Keeffe: An Exhibition of the Work of the Artist from 1915 to 1966,\" May 28\u2013July 3, 1966, unnumbered cat.Albuquerque. University of New Mexico Art Museum. \"Georgia O'Keeffe,\" September 8\u2013October 13, 1966, no catalogue.New York. Whitney Museum of American Art. \"Georgia O'Keeffe,\" October 8\u2013November 29, 1970, no. 38.Art Institute of Chicago. \"Georgia O'Keeffe,\" January 6\u2013February 7, 1971, no. 38.San Francisco Museum of Art. \"Georgia O'Keeffe,\" March 15\u2013April 30, 1971, no. 38.Goodhart Hall, Bryn Mawr College. \"An Exhibition of Paintings: Georgia O'Keeffe, on the Occasion of the M. Carey Thomas Awards,\" October 21\u2013November 2, 1971, no. 4.Santa Fe. Museum of Fine Arts, Museum of New Mexico. \"Georgia O'Keeffe: Paintings,\" December 19, 1986\u2013April 12, 1987, unnumbered cat. (lent by the Estate of Georgia O'Keeffe).New York. The Metropolitan Museum of Art. \"Georgia O'Keeffe: 1887\u20131986,\" November 19, 1988\u2013February 5, 1989, not in catalogue (unnumbered checklist addenda).Los Angeles County Museum of Art. \"Georgia O'Keeffe: 1887\u20131986,\" March 30\u2013June 18, 1989, not in catalogue.New York. The Metropolitan Museum of Art. \"American Landscape Painting,\" April 4\u2013August 13, 1989, no catalogue.New York. Forum Gallery. \"Nineteen Americans: A Tribute to Alfred H. Barr, Jr.,\" February 7\u2013March 10, 1990, no. 36.New York. The Metropolitan Museum of Art. \"14 Americans,\" July 16, 1990\u2013January 2, 1991, no catalogue.Madrid. Fundaci\u00f3n Juan March. \"Georgia O'Keeffe: Naturalezas \u00edntimas,\" February 8\u2013June 2, 2002, no. 11 (as \"Arbol gris, Lake George\").New York. The Metropolitan Museum of Art. \"Stieglitz and His Artists: Matisse to O'Keeffe,\" October 13, 2011\u2013January 2, 2012, no. 182.Glen Falls, N. Y. The Hyde Collection. \"Modern Nature: Georgia O'Keeffe and Lake George,\" June 15\u2013September 15, 2013, no. 42.London. Tate Modern. \"Georgia O'Keeffe,\" July 6\u2013October 30, 2016, unnumbered cat. (fig. 85).Bank Austria Kunstforum Wien. \"Georgia O'Keeffe,\" December 7, 2016\u2013March 26, 2017, unnumbered cat.Art Gallery of Ontario, Toronto. \"Georgia O'Keeffe,\" April 22\u2013July 30, 2017, unnumbered cat.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "Exhibition Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/100",
+      "type": "LinguisticObject",
+      "content": "Blanche C. Matthias. \"Georgia O'Keeffe and the Intimate Gallery: Stieglitz Showing Seven Americans.\" Chicago Evening Post Magazine of the Art World (March 2, 1926), p. 1, as \"Maple Tree\u2014November\". Katherine S. Dreier and Constantin Aladjalov, ed. \"Georgia O'Keeffe.\" Modern Art. New York, 1926, ill. Samuel M. Kootz. Modern American Painters. New York, 1930, p. 43, ill., as \"The Maple,\" collection Alfred Stieglitz. Lisa Mintz Messinger. Georgia O'Keeffe. New York, 1988, pp. 19, 33, 35, 37-38, fig. 24. Lisa M. Messinger in The Landscape in Twentieth-Century American Art: Selections from The Metropolitan Museum of Art. Exh. cat.,  American Federation of Arts. New York, 1991, p. 27, fig. 3. Maria Costantino. Georgia O'Keeffe. New York, 1994, p. 68, ill. Katherine Hoffman. Georgia O'Keeffe: A Celebration of Music and Dance. New York, 1997, pp. 54, 108-9, 119, pl. 34. Barbara Buhler Lynes. Georgia O'Keeffe: Catalogue Raisonn\u00e9. New Haven, Conn., 1999, vol. 1, p. 288, no. 512, ill. Lisa Mintz Messinger. Georgia O'Keeffe. London, 2001, pp. 64-65, fig. 39. Barbara Buhler Lynes with Russell Bowman. O'Keeffe's O'Keeffes: The Artist's Collection. Exh. cat.,  Milwaukee Art Museum. New York, 2001, pp. 165 (app. 1), 167 (app. 1), 170 (app. 3), 173 (app. 4). Lisa Mintz Messinger in Stieglitz and His Artists: Matisse to O'Keeffe. The Alfred Stieglitz Collection in The Metropolitan Museum of Art. Ed.  Lisa Mintz Messinger. Exh. cat.,  The Metropolitan Museum of Art. New York, 2011, pp. 14, 198, 279, no. 182, ill. (color). Isabelle Duvernois in Stieglitz and His Artists: Matisse to O'Keeffe. The Alfred Stieglitz Collection in The Metropolitan Museum of Art. Ed.  Lisa Mintz Messinger. Exh. cat.,  The Metropolitan Museum of Art. New York, 2011, p. 193. Bruce Robertson in Modern Nature: Georgia O'Keeffe and Lake George. Ed.  Erin B. Coe. Exh. cat.,  The Hyde Collection, Glen Falls, N. Y. New York, 2013, pp. 84\u201385, 197, no. 42, ill. p. 161 (color).",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026497",
+          "type": "Type",
+          "_label": "Bibliography Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    }
+  ],
+  "representation": [
+    {
+      "id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/484831/1010454/restricted",
+      "type": "VisualItem",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300215302",
+          "type": "Type",
+          "_label": "Digital Image"
+        }
+      ]
+    }
+  ]
+}

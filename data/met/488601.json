@@ -1,0 +1,274 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://collectionapi.metmuseum.org/public/collection/v1/objects/488601",
+  "type": "HumanMadeObject",
+  "identified_by": [
+    {
+      "id": "http://lod.example.org/museum/Identifier/44",
+      "type": "Identifier",
+      "content": 488601,
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404621",
+          "type": "Type",
+          "_label": "Local Number"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/Identifier/45",
+      "type": "Identifier",
+      "content": "50.236.2",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312355",
+          "type": "Type",
+          "_label": "Accession Number"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/Name/113",
+      "type": "Name",
+      "content": "Drawing XIII",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300195168",
+          "type": "Type",
+          "_label": "Title"
+        }
+      ]
+    }
+  ],
+  "produced_by": {
+    "id": "http://lod.example.org/museum/Production/22",
+    "type": "Production",
+    "timespan": {
+      "id": "http://lod.example.org/museum/TimeSpan/66",
+      "type": "TimeSpan",
+      "begin_of_the_begin": 1915,
+      "end_of_the_end": 1915,
+      "identified_by": [
+        {
+          "id": "http://lod.example.org/museum/Name/114",
+          "type": "Name",
+          "content": "1915"
+        }
+      ]
+    },
+    "carried_out_by": [
+      {
+        "id": "http://lod.example.org/museum/Person/22",
+        "type": "Person",
+        "identified_by": [
+          {
+            "id": "http://lod.example.org/museum/Name/115",
+            "type": "Name",
+            "content": "Georgia O'Keeffe"
+          }
+        ],
+        "referred_to_by": [
+          {
+            "id": "http://lod.example.org/museum/LinguisticObject/183",
+            "type": "LinguisticObject",
+            "content": "American, Sun Prairie, Wisconsin 1887\u20131986 Santa Fe, New Mexico",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300080102",
+                "type": "Type",
+                "_label": "Biography Statement"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "Brief Text"
+              }
+            ]
+          }
+        ],
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300107956",
+            "type": "Type",
+            "_label": "American",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300379842",
+                "type": "Type",
+                "_label": "Nationality"
+              }
+            ]
+          }
+        ],
+        "born": {
+          "id": "http://lod.example.org/museum/Birth/22",
+          "type": "Birth",
+          "timespan": {
+            "id": "http://lod.example.org/museum/TimeSpan/67",
+            "type": "TimeSpan",
+            "begin_of_the_begin": "1887",
+            "end_of_the_end": "1887",
+            "identified_by": [
+              {
+                "id": "http://lod.example.org/museum/Name/116",
+                "type": "Name",
+                "content": "1887"
+              }
+            ]
+          }
+        },
+        "died": {
+          "id": "http://lod.example.org/museum/Death/22",
+          "type": "Death",
+          "timespan": {
+            "id": "http://lod.example.org/museum/TimeSpan/68",
+            "type": "TimeSpan",
+            "begin_of_the_begin": "1986",
+            "end_of_the_end": "1986",
+            "identified_by": [
+              {
+                "id": "http://lod.example.org/museum/Name/117",
+                "type": "Name",
+                "content": "1887"
+              }
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "referred_to_by": [
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/184",
+      "type": "LinguisticObject",
+      "content": "Charcoal on paper",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300010358",
+          "type": "Type",
+          "_label": "Material Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/185",
+      "type": "LinguisticObject",
+      "content": "24 3/8 x 18 1/2 in. (61.9 x 47 cm)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300266036",
+          "type": "Type",
+          "_label": "Dimension Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/186",
+      "type": "LinguisticObject",
+      "content": "Alfred Stieglitz Collection, 1950",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "Credit Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/187",
+      "type": "LinguisticObject",
+      "content": "In drawings like this, O'Keeffe asserted her independence from her traditional art training. Filling large sheets of paper with bold strokes of charcoal, her compositions evoke the growth and movement of nature through abstract forms. Here, the image is divided into three parallel sections. On the right, meandering lines suggest a flowing river or a rising flame. Four rounded bulbs in the center recall a rolling hillside or densely foliated trees, while the jagged line at left, accentuated by erasure marks, alludes to mountain peaks or a flash of lightning. The power of these early drawings was not lost on Alfred Stieglitz, who immediately offered to show Drawing XIIing XIII and other O'Keeffe charcoals in an exhibition at his gallery 291 in 1916.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300080091",
+          "type": "Type",
+          "_label": "Description"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/188",
+      "type": "LinguisticObject",
+      "content": "the artist (1915\u201350; on extended loan to MMA, 1949\u201350; her gift as part of the Alfred Stieglitz Collection to MMA)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "Provenance Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/189",
+      "type": "LinguisticObject",
+      "content": "New York. 291. \"Exhibition of Drawings by Georgia O'Keeffe, of Virginia, Water\u2013Colors and Drawings by C. Duncan of New York, and Oils by Ren\u00e9 Lafferty, of Philadelphia,\" May 23\u2013July 5, 1916, no catalogue.Anderson Galleries, New York. \"Alfred Stieglitz Presents One\u2013Hundred Pictures, Oils, Watercolors, Pastels, Drawings by Georgia O'Keeffe, American,\" January 29\u2013February 10, 1923, no catalogue.New York. An American Place. \"Beginnings and Landmarks: \"291,\" 1905\u20131917,\" October 27\u2013December 27, 1937, no. 65 (as \"Drawing No. 39\").Art Institute of Chicago. \"Georgia O'Keeffe,\" January 21\u2013February 22, 1943, no. 2 (as \"Charcoal Drawing\").New York. Whitney Museum of American Art. \"Pioneers of Modern Art in America,\" April 9\u2013May 19, 1946, no. 115 (lent by An American Place).Museum of Modern Art, New York. \"Georgia O'Keeffe: An Exhibition,\" May 14\u2013August 25, 1946, no catalogue (checklist no. 3; as \"Drawing No. 11\").Fort Worth. Amon Carter Museum of Western Art. \"Georgia O'Keeffe: An Exhibition of the Work of the Artist from 1915 to 1966,\" March 17\u2013May 8, 1966, unnumbered cat. (p. 27).Museum of Fine Arts, Houston. \"Georgia O'Keeffe: An Exhibition of the Work of the Artist from 1915 to 1966,\" May 28\u2013July 3, 1966, unnumbered cat.New York. The Metropolitan Museum of Art. \"American Paintings, Drawings and Watercolors from the Museum's Collections,\" October 1\u2013December 7, 1969, no catalogue.New York. Whitney Museum of American Art. \"Georgia O'Keeffe,\" October 8\u2013November 29, 1970, no. 3.Art Institute of Chicago. \"Georgia O'Keeffe,\" January 6\u2013February 7, 1971, no. 3.San Francisco Museum of Art. \"Georgia O'Keeffe,\" March 15\u2013April 30, 1971, no. 3.New York. Solomon R. Guggenheim Museum. \"Twentieth\u2013Century American Drawing: Three Avant-Garde Generations,\" January 23\u2013March 21, 1976, no. 21.Staatliche Kunsthalle Baden-Baden. \"Amerikanische Zeichner des 20.Jahrhunderts\u2014Drei Generationen von der Armory Show bis heute,\" May 27\u2013July 11, 1976, no. 15.National Gallery of Art, Washington D.C. \"Georgia O'Keeffe: 1887\u20131986,\" November 1, 1987\u2013February 21, 1988, no. 4.Art Institute of Chicago. \"Georgia O'Keeffe: 1887\u20131986,\" March 5\u2013June 19, 1988, no. 4.Dallas Museum of Art. \"Georgia O'Keeffe: 1887\u20131986,\" July 31\u2013October 16, 1988, no. 4.New York. The Metropolitan Museum of Art. \"Georgia O'Keeffe: 1887\u20131986,\" November 19, 1988\u2013February 5, 1989, no. 4.Los Angeles County Museum of Art. \"Georgia O'Keeffe: 1887\u20131986,\" March 30\u2013June 18, 1989, no. 4.San Antonio. Marion Koogler McNay Art Museum. \"O'Keeffe and Texas,\" January 27\u2013April 5, 1998, no. 3.New York. The Metropolitan Museum of Art. \"American Drawings (1900\u20131950): Selections from the Permanent Collection,\" October 25, 2005\u2013April 23, 2006, no catalogue.New York. Whitney Museum of American Art. \"Georgia O'Keeffe: Abstraction,\" September 17, 2009\u2013January 17, 2010, unnumbered cat. (pl. 21; as \"No. 13 Special,\" 1916\u201317).New York. The Metropolitan Museum of Art. \"Stieglitz and His Artists: Matisse to O'Keeffe,\" October 13, 2011\u2013January 2, 2012, no. 177.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "Exhibition Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/190",
+      "type": "LinguisticObject",
+      "content": "Waldo Frank, Lewis Mumford, Dorothy Norman, Paul Rosenfeld, and Harold Rugg, ed. America and Alfred Stieglitz: A Collective Portrait. Garden City, N. Y., 1934, pl. XXA, as \"Abstraction,\" 1915. Henry Geldzahler. American Painting in the Twentieth Century. New York, 1965, pp. 129\u201330, ill. Charles Child Eldredge. \"Georgia O'Keeffe: The Development of an American Modern.\" PhD diss.,  University of Minnesota, 1971, pp. xii, 24, 238, fig. 9. Sam Hunter and John Jacobus. American Art of the Twentieth Century: Painting, Sculpture, Architecture. New York, 1973, p. 81, fig. 133. Patterson Sims. Georgia O'Keeffe: A Concentration of Works from the Permanent Collection of the Whitney Museum of American Art. Exh. cat.,  Whitney Museum of American Art. New York, 1981, p. 17, ill. Lisa Mintz Messinger. \"Georgia O'Keeffe.\" Metropolitan Museum of Art Bulletin 42 (Fall 1984), pp. 5\u20136, 9, 59, fig. 1. Lisa Mintz Messinger. Georgia O'Keeffe. New York, 1988, pp. 13\u201315, 17, 19, fig. 1. Michael Berry. Georgia O'Keeffe. New York, 1988, p. 38, ill. p. 12. Georgia O'Keeffe. Some Memories of Drawings. Ed.  Doris Bry. Albuquerque, 1988, pp. 39\u201341, 97\u201398, pl. 7. Anita Pollitzer. A Woman on Paper: Georgia O'Keeffe. New York, 1988, unpaginated, ill., as \"Special No. 13\". Barbara Buhler Lynes. O'Keeffe, Stieglitz, and the Critics. Ann Arbor, Mich., 1989, p. 322 n. 24, as \"Special No. 13\". Charles Child Eldredge. Georgia O'Keeffe. New York, 1991, pp. 20\u201321, ill., as \"Special No. 13\". Elizabeth Montgomery. Georgia O'Keeffe. New York, 1993, pp. 20\u201321, ill. Maria Costantino. Georgia O'Keeffe. New York, 1994, p. 151. Barbara Buhler Lynes. Georgia O'Keeffe: Catalogue Raisonn\u00e9. New Haven, Conn., 1999, vol. 1, p. 98, no. 157, ill., as \"No. 13 Special,\" 1916\u201317. Lisa Mintz Messinger. Georgia O'Keeffe. London, 2001, pp. 21\u201322, fig. 6. Peter\u2013Cornell Richter. Georgia O'Keeffe and Alfred Stieglitz. New York, 2001, p. 43, ill. Barbara Buhler Lynes with Russell Bowman. O'Keeffe's O'Keeffes: The Artist's Collection. Exh. cat.,  Milwaukee Art Museum. New York, 2001, p. 169. Kathleen Pyne. Modernism and the Feminine Voice: O'Keeffe and the Women of the Stieglitz Circle. Berkeley, 2007, pp. xx\u2013xxi, 250\u201351, fig. 151, as \"No. 13 Special,\" 1916\u201317. Lisa Mintz Messinger in Stieglitz and His Artists: Matisse to O'Keeffe. The Alfred Stieglitz Collection in The Metropolitan Museum of Art. Ed.  Lisa Mintz Messinger. Exh. cat.,  The Metropolitan Museum of Art. New York, 2011, pp. 14, 194\u201395, 277, no. 177, ill. (color). Rachel Mustalish in Stieglitz and His Artists: Matisse to O'Keeffe. The Alfred Stieglitz Collection in The Metropolitan Museum of Art. Ed.  Lisa Mintz Messinger. Exh. cat.,  The Metropolitan Museum of Art. New York, 2011, p. 194.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026497",
+          "type": "Type",
+          "_label": "Bibliography Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    }
+  ],
+  "representation": [
+    {
+      "id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/488601/1010429/restricted",
+      "type": "VisualItem",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300215302",
+          "type": "Type",
+          "_label": "Digital Image"
+        }
+      ]
+    }
+  ]
+}

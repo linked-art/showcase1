@@ -1,0 +1,274 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://collectionapi.metmuseum.org/public/collection/v1/objects/482299",
+  "type": "HumanMadeObject",
+  "identified_by": [
+    {
+      "id": "http://lod.example.org/museum/Identifier/6",
+      "type": "Identifier",
+      "content": 482299,
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404621",
+          "type": "Type",
+          "_label": "Local Number"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/Identifier/7",
+      "type": "Identifier",
+      "content": "1981.35",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312355",
+          "type": "Type",
+          "_label": "Accession Number"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/Name/16",
+      "type": "Name",
+      "content": "A Storm",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300195168",
+          "type": "Type",
+          "_label": "Title"
+        }
+      ]
+    }
+  ],
+  "produced_by": {
+    "id": "http://lod.example.org/museum/Production/3",
+    "type": "Production",
+    "timespan": {
+      "id": "http://lod.example.org/museum/TimeSpan/9",
+      "type": "TimeSpan",
+      "begin_of_the_begin": 1922,
+      "end_of_the_end": 1922,
+      "identified_by": [
+        {
+          "id": "http://lod.example.org/museum/Name/17",
+          "type": "Name",
+          "content": "1922"
+        }
+      ]
+    },
+    "carried_out_by": [
+      {
+        "id": "http://lod.example.org/museum/Person/3",
+        "type": "Person",
+        "identified_by": [
+          {
+            "id": "http://lod.example.org/museum/Name/18",
+            "type": "Name",
+            "content": "Georgia O'Keeffe"
+          }
+        ],
+        "referred_to_by": [
+          {
+            "id": "http://lod.example.org/museum/LinguisticObject/25",
+            "type": "LinguisticObject",
+            "content": "American, Sun Prairie, Wisconsin 1887\u20131986 Santa Fe, New Mexico",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300080102",
+                "type": "Type",
+                "_label": "Biography Statement"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "Brief Text"
+              }
+            ]
+          }
+        ],
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300107956",
+            "type": "Type",
+            "_label": "American",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300379842",
+                "type": "Type",
+                "_label": "Nationality"
+              }
+            ]
+          }
+        ],
+        "born": {
+          "id": "http://lod.example.org/museum/Birth/3",
+          "type": "Birth",
+          "timespan": {
+            "id": "http://lod.example.org/museum/TimeSpan/10",
+            "type": "TimeSpan",
+            "begin_of_the_begin": "1887",
+            "end_of_the_end": "1887",
+            "identified_by": [
+              {
+                "id": "http://lod.example.org/museum/Name/19",
+                "type": "Name",
+                "content": "1887"
+              }
+            ]
+          }
+        },
+        "died": {
+          "id": "http://lod.example.org/museum/Death/3",
+          "type": "Death",
+          "timespan": {
+            "id": "http://lod.example.org/museum/TimeSpan/11",
+            "type": "TimeSpan",
+            "begin_of_the_begin": "1986",
+            "end_of_the_end": "1986",
+            "identified_by": [
+              {
+                "id": "http://lod.example.org/museum/Name/20",
+                "type": "Name",
+                "content": "1887"
+              }
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "referred_to_by": [
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/26",
+      "type": "LinguisticObject",
+      "content": "Pastel on paper, mounted on illustration board",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300010358",
+          "type": "Type",
+          "_label": "Material Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/27",
+      "type": "LinguisticObject",
+      "content": "18 1/4 x 24 3/8 in. (46.4 x 61.9 cm)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300266036",
+          "type": "Type",
+          "_label": "Dimension Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/28",
+      "type": "LinguisticObject",
+      "content": "Anonymous Gift, 1981",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "Credit Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/29",
+      "type": "LinguisticObject",
+      "content": "Georgia O'Keeffe was born on a farm near Sun Prairie, Wisconsin.  Between 1905 and 1916 she studied art at the Art Institute of Chicago, Art Students League of New York, University of Virginia, and Teachers College of Columbia University.  Her intention was to become an art teacher, and between 1908 and 1917 she taught studio classes at schools in Virginia, Texas, and South Carolina.  In 1916, O'Keeffe's drawings first came to the attention of Alfred Stieglitz (the important photographer and influential promoter of modern art), whom she married in 1924.  Until his death in 1946, he regularly exhibited O'Keeffe's paintings and drawings at his New York galleries, which helped establish her reputation as a leading American artist.  For more than seventy years O'Keeffe painted prolifically, and almost exclusively, images from nature distilled to their essential colors, shapes, and designs.  Prior to 1929 she derived her subjects from her life in New York City (buildings and city views) and from long summers in the country at Lake George, in upstate New York (flowers and landscapes).  After 1929, when she made the first of many extended trips to New Mexico, her interest shifted to objects and scenery that characterized the American Southwest (bones and mountains).  In 1949 the artist moved to New Mexico, where she resided until her death at age ninety-eight in 1986.\t\"A Storm\" is a sumptuous pastel that captures the awesome sight of a raging electrical storm over water.  O'Keeffe created a jolting contrast between the deep blue pastel of the water and sky, smudged and velvety, and the sharp angular bolt of red lightning outlined in yellow.  This dramatic scene, which she most likely witnessed at Lake George, includes the surprising appearance of a full moon reflected in the lake at lower left.  Although O'Keeffe's pastels were exhibited often during the 1920s and 1930s, they represent a less familiar aspect of her oeuvre.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300080091",
+          "type": "Type",
+          "_label": "Description"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/30",
+      "type": "LinguisticObject",
+      "content": "[Downtown Gallery, New York, until 1960; stock no. 248; sold on November 1, 1960 to private collection]; private collection, Wilmington, Del. (1960\u2013at least 1961); [Robert Miller Gallery, New York, until 1980; sold in 1980 to private collection]; private collection (1980\u201381; their gift to MMA)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "Provenance Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/31",
+      "type": "LinguisticObject",
+      "content": "Anderson Galleries, New York. \"Alfred Stieglitz Presents One\u2013Hundred Pictures, Oils, Watercolors, Pastels, Drawings by Georgia O'Keeffe, American,\" January 29\u2013February 10, 1923, no catalogue.New York. An American Place. \"Georgia O'Keeffe: 44 Selected Paintings (1915\u20131927),\" January 29\u2013March 17, 1934, possibly extended to March 27, 1934, no catalogue [possibly this picture].Wilmington Society of the Fine Arts, Delaware Art Center. \"A Stieglitz Group: Bluemner, Demuth, Dove, Hartley, Marin, O'Keeffe, Weber,\" March 30\u2013April 23, 1961, no. 31 (lent by Mr. and Mrs. Hugh C. Wallace).New York. The Metropolitan Museum of Art. \"Georgia O'Keeffe: 1887\u20131986,\" November 19, 1988\u2013February 5, 1989, not in catalogue (unnumbered checklist addenda).New York. The Metropolitan Museum of Art. \"Revivals and Revitalizations: American Pastels in The Metropolitan Museum of Art: 1880\u20131930,\" October 17, 1989\u2013January 14, 1990, extended to February 18, 1990, unnumbered cat. (p. 130).New York. The Metropolitan Museum of Art. \"60 Drawings: Recent Acquisitions,\" October 23, 1990\u2013January 15, 1991, no catalogue.New York. The Metropolitan Museum of Art. \"Drawings: Additions to the Collection,\" May 23\u2013September 29, 1991, no catalogue.New York. The Metropolitan Museum of Art. \"American Drawings (1900\u20131950): Selections from the Permanent Collection,\" October 25, 2005\u2013April 23, 2006, no catalogue.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "Exhibition Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/32",
+      "type": "LinguisticObject",
+      "content": "Edward Alden Jewell. \"Georgia O'Keeffe in an Art Review.\" New York Times (February 2, 1934), p. 15. E [dward]. A [lden]. J [ewell]. \"O'Keeffe, Kuhn, Lintott.\" New York Times (February 4, 1934), p. X12. Lisa M. Messinger in \"Twentieth Century Art.\" The Metropolitan Museum of Art: Notable Acquisitions, 1980\u20131981. New York, 1981, p. 66, ill. (color). Lisa Mintz Messinger. \"Georgia O'Keeffe.\" Metropolitan Museum of Art Bulletin 42 (Fall 1984), pp. 14, 18, fig. 15 (color). Philippe de Montebello. \"[Director's Note].\" Metropolitan Museum of Art Bulletin 42 (Fall 1984), p. 2. Kay Larson. \"The Met Goes Modern: Bill Lieberman's Brave New Wing.\" New York Magazine 19 (December 15, 1986), ill. p. 45 (color). Doreen Bolger et al. American Pastels in The Metropolitan Museum of Art. Exh. cat.,  The Metropolitan Museum of Art. New York, 1989, pp. 130-33, ill. (color), and ill. p. 204. Mary Wayne Fritzsche in American Pastels in the Metropolitan Museum of Art. Exh. cat.,  The Metropolitan Museum of Art. New York, 1989, pp. 130-33, ill. (color), and ill. p. 204. Elizabeth Montgomery. Georgia O'Keeffe. New York, 1993, ill. pp. 68-69 (color). Barbara Buhler Lynes. Georgia O'Keeffe: Catalogue Raisonn\u00e9. New Haven, Conn., 1999, vol. 1, p. 208, no. 385, ill. (color); vol. 2, p. 1112, fig. 13 (installation photo of Exh. New York 1923).",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026497",
+          "type": "Type",
+          "_label": "Bibliography Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    }
+  ],
+  "representation": [
+    {
+      "id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/482299/1004939/restricted",
+      "type": "VisualItem",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300215302",
+          "type": "Type",
+          "_label": "Digital Image"
+        }
+      ]
+    }
+  ]
+}
