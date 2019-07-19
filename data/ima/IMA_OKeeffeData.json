@@ -197,6 +197,13 @@
             }
           ]
         },
+        "member_of": [
+          {
+            "id": "https://data.discovernewfields.org/collection/9012",
+            "type": "Set",
+            "_label": "Collection of IMA at Newfields' American Painting and Sculpture 1800-1945 Department"
+          }
+        ],
         "current_location": {
           "id": "https://data.discovernewfields.org/thesauri/location/K203",
           "type": "Place",
@@ -389,6 +396,21 @@
             ],
             "format": "text/html"
           }
+        ],
+        "representation": [
+          {
+            "id": "http://collection.imamuseum.org/artwork/80035/0_full.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
+          }
         ]
       }
     },
@@ -563,6 +585,13 @@
             }
           ]
         },
+        "member_of": [
+          {
+            "id": "https://data.discovernewfields.org/collection/9012",
+            "type": "Set",
+            "_label": "Collection of IMA at Newfields' American Painting and Sculpture 1800-1945 Department"
+          }
+        ],
         "current_location": {
           "id": "https://data.discovernewfields.org/thesauri/location/K203",
           "type": "Place",
@@ -736,6 +765,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "http://collection.imamuseum.org/artwork/55829/0_full.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -937,6 +981,13 @@
             }
           ]
         },
+        "member_of": [
+          {
+            "id": "https://data.discovernewfields.org/collection/9012",
+            "type": "Set",
+            "_label": "Collection of IMA at Newfields' American Painting and Sculpture 1800-1945 Department"
+          }
+        ],
         "current_location": {
           "id": "https://data.discovernewfields.org/thesauri/location/K203",
           "type": "Place",
@@ -1147,6 +1198,21 @@
             ],
             "format": "text/html"
           }
+        ],
+        "representation": [
+          {
+            "id": "http://collection.imamuseum.org/artwork/51855/0_full.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
+          }
         ]
       }
     },
@@ -1314,6 +1380,13 @@
             }
           ]
         },
+        "member_of": [
+          {
+            "id": "https://data.discovernewfields.org/collection/9041",
+            "type": "Set",
+            "_label": "Collection of IMA at Newfields' Prints, Drawings, and Photographs Department"
+          }
+        ],
         "current_location": {
           "id": "https://data.discovernewfields.org/thesauri/location/storage",
           "type": "Place",
@@ -1625,7 +1698,7 @@
         ]
       }
     },
-        {
+    {
       "13262": {
         "@context": "https://linked.art/ns/v1/linked-art.json",
         "id": "https://data.discovernewfields.org/object/13262",
@@ -1758,6 +1831,13 @@
             }
           ]
         },
+        "member_of": [
+          {
+            "id": "https://data.discovernewfields.org/collection/9041",
+            "type": "Set",
+            "_label": "Collection of IMA at Newfields' Prints, Drawings, and Photographs Department"
+          }
+        ],
         "current_location": {
           "id": "https://data.discovernewfields.org/thesauri/location/storage",
           "type": "Place",
@@ -1992,6 +2072,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "http://collection.imamuseum.org/artwork/71943/0_full.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
