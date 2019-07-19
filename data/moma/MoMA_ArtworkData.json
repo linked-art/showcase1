@@ -1,0 +1,3282 @@
+{
+  "objects": [
+    {
+      "33250": {
+        "@context": "https://linked.art/ns/v1/linked-art.json",
+        "id": "https://data.moma.org/object/33250",
+        "type": "HumanMadeObject",
+        "_label": "Eagle Claw and Bean Necklace",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300133025",
+            "type": "Type",
+            "_label": "works of art"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300033973",
+            "type": "Type",
+            "_label": "drawings (visual works)"
+          }
+        ],
+        "identified_by": [
+          {
+            "id": "https://data.moma.org/object/33250/id",
+            "type": "Identifier",
+            "_label": "MoMA Collections Database Number for the Object",
+            "content": 33250,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404621",
+                "type": "Type",
+                "_label": "repository numbers"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/object/33250/object-number",
+            "type": "Identifier",
+            "_label": "MoMA Object Number for the Object",
+            "content": "19.1936",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300312355",
+                "type": "Type",
+                "_label": "accession numbers"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/object/33250/title",
+            "type": "Name",
+            "_label": "Primary Title for the Object",
+            "content": "Eagle Claw and Bean Necklace",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404670",
+                "type": "Type",
+                "_label": "preferred terms"
+              }
+            ]
+          }
+        ],
+        "made_of": [
+          {
+            "id": "http://vocab.getty.edu/aat/300012862",
+            "type": "Material",
+            "_label": "charcoal (material)"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300014109",
+            "type": "Material",
+            "_label": "paper (fiber product)"
+          }
+        ],
+        "produced_by": {
+          "id": "https://data.moma.org/object/33250/production",
+          "type": "Production",
+          "_label": "Production of the Object",
+          "carried_out_by": [
+            {
+              "id": "http://vocab.getty.edu/ulan/500018666",
+              "type": "Actor",
+              "_label": "O'Keeffe, Georgia"
+            }
+          ],
+          "timespan": {
+            "id": "https://data.moma.org/object/33250/production/timespan",
+            "type": "TimeSpan",
+            "_label": "1934",
+            "begin_of_the_begin": "1934-01-01T00:00:00",
+            "end_of_the_end": "1934-12-31T00:00:00"
+          }
+        },
+        "dimension": [
+          {
+            "id": "https://data.moma.org/object/33250/dimension/height",
+            "type": "Dimension",
+            "_label": "Dimensions for the Object",
+            "value": 48.3,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055644",
+                "type": "Type",
+                "_label": "height"
+              }
+            ],
+            "unit": {
+              "id": "http://vocab.getty.edu/aat/300379098",
+              "type": "Type",
+              "_label": "centimeters"
+            }
+          },
+          {
+            "id": "https://data.moma.org/object/33250/dimension/width",
+            "type": "Dimension",
+            "_label": "Dimensions for the Object",
+            "value": 63.8,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055647",
+                "type": "Type",
+                "_label": "width"
+              }
+            ],
+            "unit": {
+              "id": "http://vocab.getty.edu/aat/300379098",
+              "type": "Type",
+              "_label": "centimeters"
+            }
+          }
+        ],
+        "current_owner": {
+          "id": "http://vocab.getty.edu/ulan/500303609",
+          "type": "Group",
+          "_label": "Museum of Modern Art",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300312281",
+              "type": "Type",
+              "_label": "museums (institutions)"
+            }
+          ],
+          "acquired_title_through": [
+            {
+              "id": "https://data.moma.org/object/33250/MoMA-acquisition",
+              "type": "Acquisition",
+              "_label": "MoMA Acquisition of the Object",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300157782",
+                  "type": "Type",
+                  "_label": "acquisition (collections management)"
+                }
+              ],
+              "timespan": {
+                "id": "https://data.moma.org/object/33250/MoMA-acquisition/timespan",
+                "type": "TimeSpan",
+                "_label": "1936-01-14"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "33281": {
+        "@context": "https://linked.art/ns/v1/linked-art.json",
+        "id": "https://data.moma.org/object/33281",
+        "type": "HumanMadeObject",
+        "_label": "Banana Flower",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300133025",
+            "type": "Type",
+            "_label": "works of art"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300033973",
+            "type": "Type",
+            "_label": "drawings (visual works)"
+          }
+        ],
+        "identified_by": [
+          {
+            "id": "https://data.moma.org/object/33281/id",
+            "type": "Identifier",
+            "_label": "MoMA Collections Database Number for the Object",
+            "content": 33281,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404621",
+                "type": "Type",
+                "_label": "repository numbers"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/object/33281/object-number",
+            "type": "Identifier",
+            "_label": "MoMA Object Number for the Object",
+            "content": "21.1936",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300312355",
+                "type": "Type",
+                "_label": "accession numbers"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/object/33281/title",
+            "type": "Name",
+            "_label": "Primary Title for the Object",
+            "content": "Banana Flower",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404670",
+                "type": "Type",
+                "_label": "preferred terms"
+              }
+            ]
+          }
+        ],
+        "made_of": [
+          {
+            "id": "http://vocab.getty.edu/aat/300012862",
+            "type": "Material",
+            "_label": "charcoal (material)"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300014109",
+            "type": "Material",
+            "_label": "paper (fiber product)"
+          }
+        ],
+        "produced_by": {
+          "id": "https://data.moma.org/object/33281/production",
+          "type": "Production",
+          "_label": "Production of the Object",
+          "carried_out_by": [
+            {
+              "id": "http://vocab.getty.edu/ulan/500018666",
+              "type": "Actor",
+              "_label": "O'Keeffe, Georgia"
+            }
+          ],
+          "timespan": {
+            "id": "https://data.moma.org/object/33281/production/timespan",
+            "type": "TimeSpan",
+            "_label": "1934",
+            "begin_of_the_begin": "1934-01-01T00:00:00",
+            "end_of_the_end": "1934-12-31T00:00:00"
+          }
+        },
+        "dimension": [
+          {
+            "id": "https://data.moma.org/object/33281/dimension/height",
+            "type": "Dimension",
+            "_label": "Dimensions for the Object",
+            "value": 55.2,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055644",
+                "type": "Type",
+                "_label": "height"
+              }
+            ],
+            "unit": {
+              "id": "http://vocab.getty.edu/aat/300379098",
+              "type": "Type",
+              "_label": "centimeters"
+            }
+          },
+          {
+            "id": "https://data.moma.org/object/33281/dimension/width",
+            "type": "Dimension",
+            "_label": "Dimensions for the Object",
+            "value": 37.5,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055647",
+                "type": "Type",
+                "_label": "width"
+              }
+            ],
+            "unit": {
+              "id": "http://vocab.getty.edu/aat/300379098",
+              "type": "Type",
+              "_label": "centimeters"
+            }
+          }
+        ],
+        "current_owner": {
+          "id": "http://vocab.getty.edu/ulan/500303609",
+          "type": "Group",
+          "_label": "Museum of Modern Art",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300312281",
+              "type": "Type",
+              "_label": "museums (institutions)"
+            }
+          ],
+          "acquired_title_through": [
+            {
+              "id": "https://data.moma.org/object/33281/MoMA-acquisition",
+              "type": "Acquisition",
+              "_label": "MoMA Acquisition of the Object",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300157782",
+                  "type": "Type",
+                  "_label": "acquisition (collections management)"
+                }
+              ],
+              "timespan": {
+                "id": "https://data.moma.org/object/33281/MoMA-acquisition/timespan",
+                "type": "TimeSpan",
+                "_label": "1936-01-14"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "78656": {
+        "@context": "https://linked.art/ns/v1/linked-art.json",
+        "id": "https://data.moma.org/object/78656",
+        "type": "HumanMadeObject",
+        "_label": "Lake George, Coat and Red",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300133025",
+            "type": "Type",
+            "_label": "works of art"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300033618",
+            "type": "Type",
+            "_label": "paintings (visual works)"
+          }
+        ],
+        "identified_by": [
+          {
+            "id": "https://data.moma.org/object/78656/id",
+            "type": "Identifier",
+            "_label": "MoMA Collections Database Number for the Object",
+            "content": 78656,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404621",
+                "type": "Type",
+                "_label": "repository numbers"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/object/78656/object-number",
+            "type": "Identifier",
+            "_label": "MoMA Object Number for the Object",
+            "content": "65.1995",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300312355",
+                "type": "Type",
+                "_label": "accession numbers"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/object/78656/title",
+            "type": "Name",
+            "_label": "Primary Title for the Object",
+            "content": "Lake George, Coat and Red",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404670",
+                "type": "Type",
+                "_label": "preferred terms"
+              }
+            ]
+          }
+        ],
+        "made_of": [
+          {
+            "id": "http://vocab.getty.edu/aat/300015050",
+            "type": "Material",
+            "_label": "oil paint (paint)"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300014078",
+            "type": "Material",
+            "_label": "canvas (textile material)"
+          }
+        ],
+        "produced_by": {
+          "id": "https://data.moma.org/object/78656/production",
+          "type": "Production",
+          "_label": "Production of the Object",
+          "carried_out_by": [
+            {
+              "id": "http://vocab.getty.edu/ulan/500018666",
+              "type": "Actor",
+              "_label": "O'Keeffe, Georgia"
+            }
+          ],
+          "timespan": {
+            "id": "https://data.moma.org/object/78656/production/timespan",
+            "type": "TimeSpan",
+            "_label": "1919",
+            "begin_of_the_begin": "1919-01-01T00:00:00",
+            "end_of_the_end": "1919-12-31T00:00:00"
+          }
+        },
+        "dimension": [
+          {
+            "id": "https://data.moma.org/object/78656/dimension/height",
+            "type": "Dimension",
+            "_label": "Dimensions for the Object",
+            "value": 69.5,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055644",
+                "type": "Type",
+                "_label": "height"
+              }
+            ],
+            "unit": {
+              "id": "http://vocab.getty.edu/aat/300379098",
+              "type": "Type",
+              "_label": "centimeters"
+            }
+          },
+          {
+            "id": "https://data.moma.org/object/78656/dimension/width",
+            "type": "Dimension",
+            "_label": "Dimensions for the Object",
+            "value": 59.1,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055647",
+                "type": "Type",
+                "_label": "width"
+              }
+            ],
+            "unit": {
+              "id": "http://vocab.getty.edu/aat/300379098",
+              "type": "Type",
+              "_label": "centimeters"
+            }
+          }
+        ],
+        "current_owner": {
+          "id": "http://vocab.getty.edu/ulan/500303609",
+          "type": "Group",
+          "_label": "Museum of Modern Art",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300312281",
+              "type": "Type",
+              "_label": "museums (institutions)"
+            }
+          ],
+          "acquired_title_through": [
+            {
+              "id": "https://data.moma.org/object/78656/MoMA-acquisition",
+              "type": "Acquisition",
+              "_label": "MoMA Acquisition of the Object",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300157782",
+                  "type": "Type",
+                  "_label": "acquisition (collections management)"
+                }
+              ],
+              "timespan": {
+                "id": "https://data.moma.org/object/78656/MoMA-acquisition/timespan",
+                "type": "TimeSpan",
+                "_label": "1995-02-06"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "78677": {
+        "@context": "https://linked.art/ns/v1/linked-art.json",
+        "id": "https://data.moma.org/object/78677",
+        "type": "HumanMadeObject",
+        "_label": "Abstraction Blue",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300133025",
+            "type": "Type",
+            "_label": "works of art"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300033618",
+            "type": "Type",
+            "_label": "paintings (visual works)"
+          }
+        ],
+        "identified_by": [
+          {
+            "id": "https://data.moma.org/object/78677/id",
+            "type": "Identifier",
+            "_label": "MoMA Collections Database Number for the Object",
+            "content": 78677,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404621",
+                "type": "Type",
+                "_label": "repository numbers"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/object/78677/object-number",
+            "type": "Identifier",
+            "_label": "MoMA Object Number for the Object",
+            "content": "71.1979",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300312355",
+                "type": "Type",
+                "_label": "accession numbers"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/object/78677/title",
+            "type": "Name",
+            "_label": "Primary Title for the Object",
+            "content": "Abstraction Blue",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404670",
+                "type": "Type",
+                "_label": "preferred terms"
+              }
+            ]
+          }
+        ],
+        "made_of": [
+          {
+            "id": "http://vocab.getty.edu/aat/300015050",
+            "type": "Material",
+            "_label": "oil paint (paint)"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300014078",
+            "type": "Material",
+            "_label": "canvas (textile material)"
+          }
+        ],
+        "produced_by": {
+          "id": "https://data.moma.org/object/78677/production",
+          "type": "Production",
+          "_label": "Production of the Object",
+          "carried_out_by": [
+            {
+              "id": "http://vocab.getty.edu/ulan/500018666",
+              "type": "Actor",
+              "_label": "O'Keeffe, Georgia"
+            }
+          ],
+          "timespan": {
+            "id": "https://data.moma.org/object/78677/production/timespan",
+            "type": "TimeSpan",
+            "_label": "1927",
+            "begin_of_the_begin": "1927-01-01T00:00:00",
+            "end_of_the_end": "1927-12-31T00:00:00"
+          }
+        },
+        "dimension": [
+          {
+            "id": "https://data.moma.org/object/78677/dimension/height",
+            "type": "Dimension",
+            "_label": "Dimensions for the Object",
+            "value": 102.1,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055644",
+                "type": "Type",
+                "_label": "height"
+              }
+            ],
+            "unit": {
+              "id": "http://vocab.getty.edu/aat/300379098",
+              "type": "Type",
+              "_label": "centimeters"
+            }
+          },
+          {
+            "id": "https://data.moma.org/object/78677/dimension/width",
+            "type": "Dimension",
+            "_label": "Dimensions for the Object",
+            "value": 76,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055647",
+                "type": "Type",
+                "_label": "width"
+              }
+            ],
+            "unit": {
+              "id": "http://vocab.getty.edu/aat/300379098",
+              "type": "Type",
+              "_label": "centimeters"
+            }
+          }
+        ],
+        "current_owner": {
+          "id": "http://vocab.getty.edu/ulan/500303609",
+          "type": "Group",
+          "_label": "Museum of Modern Art",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300312281",
+              "type": "Type",
+              "_label": "museums (institutions)"
+            }
+          ],
+          "acquired_title_through": [
+            {
+              "id": "https://data.moma.org/object/78677/MoMA-acquisition",
+              "type": "Acquisition",
+              "_label": "MoMA Acquisition of the Object",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300157782",
+                  "type": "Type",
+                  "_label": "acquisition (collections management)"
+                }
+              ],
+              "timespan": {
+                "id": "https://data.moma.org/object/78677/MoMA-acquisition/timespan",
+                "type": "TimeSpan",
+                "_label": "1979-03-13"
+              }
+            }
+          ]
+        },
+        "current_owner": {
+          "id": "http://vocab.getty.edu/ulan/500303609",
+          "type": "Group",
+          "_label": "Museum of Modern Art",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300312281",
+              "type": "Type",
+              "_label": "museums (institutions)"
+            }
+          ],
+          "acquired_title_through": [
+            {
+              "id": "https://data.moma.org/object/78677/MoMA-acquisition",
+              "type": "Acquisition",
+              "_label": "MoMA Acquisition of the Object",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300157782",
+                  "type": "Type",
+                  "_label": "acquisition (collections management)"
+                }
+              ],
+              "timespan": {
+                "id": "https://data.moma.org/object/78677/MoMA-acquisition/timespan",
+                "type": "TimeSpan",
+                "_label": "1979-03-13"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "33828": {
+        "@context": "https://linked.art/ns/v1/linked-art.json",
+        "id": "https://data.moma.org/object/33828",
+        "type": "HumanMadeObject",
+        "_label": "Evening Star, No. III",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300133025",
+            "type": "Type",
+            "_label": "works of art"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300033973",
+            "type": "Type",
+            "_label": "drawings (visual works)"
+          }
+        ],
+        "identified_by": [
+          {
+            "id": "https://data.moma.org/object/33828/id",
+            "type": "Identifier",
+            "_label": "MoMA Collections Database Number for the Object",
+            "content": 33828,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404621",
+                "type": "Type",
+                "_label": "repository numbers"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/object/33828/object-number",
+            "type": "Identifier",
+            "_label": "MoMA Object Number for the Object",
+            "content": "91.1958",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300312355",
+                "type": "Type",
+                "_label": "accession numbers"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/object/33828/title",
+            "type": "Name",
+            "_label": "Primary Title for the Object",
+            "content": "Evening Star, No. III",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404670",
+                "type": "Type",
+                "_label": "preferred terms"
+              }
+            ]
+          }
+        ],
+        "made_of": [
+          {
+            "id": "http://vocab.getty.edu/aat/300015045",
+            "type": "Material",
+            "_label": "watercolor (paint)"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300014109",
+            "type": "Material",
+            "_label": "paper (fiber product)"
+          }
+        ],
+        "produced_by": {
+          "id": "https://data.moma.org/object/33828/production",
+          "type": "Production",
+          "_label": "Production of the Object",
+          "carried_out_by": [
+            {
+              "id": "http://vocab.getty.edu/ulan/500018666",
+              "type": "Actor",
+              "_label": "O'Keeffe, Georgia"
+            }
+          ],
+          "timespan": {
+            "id": "https://data.moma.org/object/33828/production/timespan",
+            "type": "TimeSpan",
+            "_label": "1917",
+            "begin_of_the_begin": "1917-01-01T00:00:00",
+            "end_of_the_end": "1917-12-31T00:00:00"
+          }
+        },
+        "dimension": [
+          {
+            "id": "https://data.moma.org/object/33828/dimension/height",
+            "type": "Dimension",
+            "_label": "Dimensions for the Object",
+            "value": 22.5,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055644",
+                "type": "Type",
+                "_label": "height"
+              }
+            ],
+            "unit": {
+              "id": "http://vocab.getty.edu/aat/300379098",
+              "type": "Type",
+              "_label": "centimeters"
+            }
+          },
+          {
+            "id": "https://data.moma.org/object/33828/dimension/width",
+            "type": "Dimension",
+            "_label": "Dimensions for the Object",
+            "value": 30.2,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055647",
+                "type": "Type",
+                "_label": "width"
+              }
+            ],
+            "unit": {
+              "id": "http://vocab.getty.edu/aat/300379098",
+              "type": "Type",
+              "_label": "centimeters"
+            }
+          }
+        ],
+        "current_owner": {
+          "id": "http://vocab.getty.edu/ulan/500303609",
+          "type": "Group",
+          "_label": "Museum of Modern Art",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300312281",
+              "type": "Type",
+              "_label": "museums (institutions)"
+            }
+          ],
+          "acquired_title_through": [
+            {
+              "id": "https://data.moma.org/object/33828/MoMA-acquisition",
+              "type": "Acquisition",
+              "_label": "MoMA Acquisition of the Object",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300157782",
+                  "type": "Type",
+                  "_label": "acquisition (collections management)"
+                }
+              ],
+              "timespan": {
+                "id": "https://data.moma.org/object/33828/MoMA-acquisition/timespan",
+                "type": "TimeSpan",
+                "_label": "1958-04-22"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "34086": {
+        "@context": "https://linked.art/ns/v1/linked-art.json",
+        "id": "https://data.moma.org/object/34086",
+        "type": "HumanMadeObject",
+        "_label": "Train at Night in the Desert",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300133025",
+            "type": "Type",
+            "_label": "works of art"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300033973",
+            "type": "Type",
+            "_label": "drawings (visual works)"
+          }
+        ],
+        "identified_by": [
+          {
+            "id": "https://data.moma.org/object/34086/id",
+            "type": "Identifier",
+            "_label": "MoMA Collections Database Number for the Object",
+            "content": 34086,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404621",
+                "type": "Type",
+                "_label": "repository numbers"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/object/34086/object-number",
+            "type": "Identifier",
+            "_label": "MoMA Object Number for the Object",
+            "content": "113.1979",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300312355",
+                "type": "Type",
+                "_label": "accession numbers"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/object/34086/title",
+            "type": "Name",
+            "_label": "Primary Title for the Object",
+            "content": "Train at Night in the Desert",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404670",
+                "type": "Type",
+                "_label": "preferred terms"
+              }
+            ]
+          }
+        ],
+        "made_of": [
+          {
+            "id": "http://vocab.getty.edu/aat/300015045",
+            "type": "Material",
+            "_label": "watercolor (paint)"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300014109",
+            "type": "Material",
+            "_label": "paper (fiber product)"
+          },
+          {
+          	"id": "http://vocab.getty.edu/aat/300410335",
+          	"type": "Material",
+          	"_label": "pencil (marking material)"
+          }
+        ],
+        "produced_by": {
+          "id": "https://data.moma.org/object/34086/production",
+          "type": "Production",
+          "_label": "Production of the Object",
+          "carried_out_by": [
+            {
+              "id": "http://vocab.getty.edu/ulan/500018666",
+              "type": "Actor",
+              "_label": "O'Keeffe, Georgia"
+            }
+          ],
+          "timespan": {
+            "id": "https://data.moma.org/object/34086/production/timespan",
+            "type": "TimeSpan",
+            "_label": "1916",
+            "begin_of_the_begin": "1916-01-01T00:00:00",
+            "end_of_the_end": "1916-12-31T00:00:00"
+          }
+        },
+        "dimension": [
+          {
+            "id": "https://data.moma.org/object/34086/dimension/height",
+            "type": "Dimension",
+            "_label": "Dimensions for the Object",
+            "value": 30.3,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055644",
+                "type": "Type",
+                "_label": "height"
+              }
+            ],
+            "unit": {
+              "id": "http://vocab.getty.edu/aat/300379098",
+              "type": "Type",
+              "_label": "centimeters"
+            }
+          },
+          {
+            "id": "https://data.moma.org/object/34086/dimension/width",
+            "type": "Dimension",
+            "_label": "Dimensions for the Object",
+            "value": 22.5,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055647",
+                "type": "Type",
+                "_label": "width"
+              }
+            ],
+            "unit": {
+              "id": "http://vocab.getty.edu/aat/300379098",
+              "type": "Type",
+              "_label": "centimeters"
+            }
+          }
+        ],
+        "current_owner": {
+          "id": "http://vocab.getty.edu/ulan/500303609",
+          "type": "Group",
+          "_label": "Museum of Modern Art",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300312281",
+              "type": "Type",
+              "_label": "museums (institutions)"
+            }
+          ],
+          "acquired_title_through": [
+            {
+              "id": "https://data.moma.org/object/34086/MoMA-acquisition",
+              "type": "Acquisition",
+              "_label": "MoMA Acquisition of the Object",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300157782",
+                  "type": "Type",
+                  "_label": "acquisition (collections management)"
+                }
+              ],
+              "timespan": {
+                "id": "https://data.moma.org/object/34086/MoMA-acquisition/timespan",
+                "type": "TimeSpan",
+                "_label": "1979-05-07"
+              }
+            }
+          ]
+        }
+      }
+    },
+        {
+      "78978": {
+        "@context": "https://linked.art/ns/v1/linked-art.json",
+        "id": "https://data.moma.org/object/78978",
+        "type": "HumanMadeObject",
+        "_label": "Farmhouse Window and Door",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300133025",
+            "type": "Type",
+            "_label": "works of art"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300033618",
+            "type": "Type",
+            "_label": "paintings (visual works)"
+          }
+        ],
+        "identified_by": [
+          {
+            "id": "https://data.moma.org/object/78978/id",
+            "type": "Identifier",
+            "_label": "MoMA Collections Database Number for the Object",
+            "content": 78978,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404621",
+                "type": "Type",
+                "_label": "repository numbers"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/object/78978/object-number",
+            "type": "Identifier",
+            "_label": "MoMA Object Number for the Object",
+            "content": "144.1945",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300312355",
+                "type": "Type",
+                "_label": "accession numbers"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/object/78978/title",
+            "type": "Name",
+            "_label": "Primary Title for the Object",
+            "content": "Farmhouse Window and Door",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404670",
+                "type": "Type",
+                "_label": "preferred terms"
+              }
+            ]
+          }
+        ],
+        "made_of": [
+          {
+            "id": "http://vocab.getty.edu/aat/300015050",
+            "type": "Material",
+            "_label": "oil paint (paint)"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300014078",
+            "type": "Material",
+            "_label": "canvas (textile material)"
+          }
+        ],
+        "produced_by": {
+          "id": "https://data.moma.org/object/78978/production",
+          "type": "Production",
+          "_label": "Production of the Object",
+          "carried_out_by": [
+            {
+              "id": "http://vocab.getty.edu/ulan/500018666",
+              "type": "Actor",
+              "_label": "O'Keeffe, Georgia"
+            }
+          ],
+          "timespan": {
+            "id": "https://data.moma.org/object/78978/production/timespan",
+            "type": "TimeSpan",
+            "_label": "October 1929",
+            "begin_of_the_begin": "1929-10-01T00:00:00",
+            "end_of_the_end": "1929-10-31T00:00:00"
+          }
+        },
+        "dimension": [
+          {
+            "id": "https://data.moma.org/object/78978/dimension/height",
+            "type": "Dimension",
+            "_label": "Dimensions for the Object",
+            "value": 101.6,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055644",
+                "type": "Type",
+                "_label": "height"
+              }
+            ],
+            "unit": {
+              "id": "http://vocab.getty.edu/aat/300379098",
+              "type": "Type",
+              "_label": "centimeters"
+            }
+          },
+          {
+            "id": "https://data.moma.org/object/78978/dimension/width",
+            "type": "Dimension",
+            "_label": "Dimensions for the Object",
+            "value": 76.2,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055647",
+                "type": "Type",
+                "_label": "width"
+              }
+            ],
+            "unit": {
+              "id": "http://vocab.getty.edu/aat/300379098",
+              "type": "Type",
+              "_label": "centimeters"
+            }
+          }
+        ],
+        "current_owner": {
+          "id": "http://vocab.getty.edu/ulan/500303609",
+          "type": "Group",
+          "_label": "Museum of Modern Art",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300312281",
+              "type": "Type",
+              "_label": "museums (institutions)"
+            }
+          ],
+          "acquired_title_through": [
+            {
+              "id": "https://data.moma.org/object/78978/MoMA-acquisition",
+              "type": "Acquisition",
+              "_label": "MoMA Acquisition of the Object",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300157782",
+                  "type": "Type",
+                  "_label": "acquisition (collections management)"
+                }
+              ],
+              "timespan": {
+                "id": "https://data.moma.org/object/78978/MoMA-acquisition/timespan",
+                "type": "TimeSpan",
+                "_label": "1945-04-26"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "35245": {
+        "@context": "https://linked.art/ns/v1/linked-art.json",
+        "id": "https://data.moma.org/object/35245",
+        "type": "HumanMadeObject",
+        "_label": "Special No. 39",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300133025",
+            "type": "Type",
+            "_label": "works of art"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300033973",
+            "type": "Type",
+            "_label": "drawings (visual works)"
+          }
+        ],
+        "identified_by": [
+          {
+            "id": "https://data.moma.org/object/35245/id",
+            "type": "Identifier",
+            "_label": "MoMA Collections Database Number for the Object",
+            "content": 35245,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404621",
+                "type": "Type",
+                "_label": "repository numbers"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/object/35245/object-number",
+            "type": "Identifier",
+            "_label": "MoMA Object Number for the Object",
+            "content": "199.1995",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300312355",
+                "type": "Type",
+                "_label": "accession numbers"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/object/35245/title",
+            "type": "Name",
+            "_label": "Primary Title for the Object",
+            "content": "Special No. 39",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404670",
+                "type": "Type",
+                "_label": "preferred terms"
+              }
+            ]
+          }
+        ],
+        "made_of": [
+          {
+            "id": "http://vocab.getty.edu/aat/300012862",
+            "type": "Material",
+            "_label": "charcoal (material)"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300014109",
+            "type": "Material",
+            "_label": "paper (fiber product)"
+          }
+        ],
+        "produced_by": {
+          "id": "https://data.moma.org/object/35245/production",
+          "type": "Production",
+          "_label": "Production of the Object",
+          "carried_out_by": [
+            {
+              "id": "http://vocab.getty.edu/ulan/500018666",
+              "type": "Actor",
+              "_label": "O'Keeffe, Georgia"
+            }
+          ],
+          "timespan": {
+            "id": "https://data.moma.org/object/35245/production/timespan",
+            "type": "TimeSpan",
+            "_label": "1919",
+            "begin_of_the_begin": "1919-01-01T00:00:00",
+            "end_of_the_end": "1919-12-31T00:00:00"
+          }
+        },
+        "dimension": [
+          {
+            "id": "https://data.moma.org/object/35245/dimension/height",
+            "type": "Dimension",
+            "_label": "Dimensions for the Object",
+            "value": 49.8476,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055644",
+                "type": "Type",
+                "_label": "height"
+              }
+            ],
+            "unit": {
+              "id": "http://vocab.getty.edu/aat/300379098",
+              "type": "Type",
+              "_label": "centimeters"
+            }
+          },
+          {
+            "id": "https://data.moma.org/object/35245/dimension/width",
+            "type": "Dimension",
+            "_label": "Dimensions for the Object",
+            "value": 32.3851,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055647",
+                "type": "Type",
+                "_label": "width"
+              }
+            ],
+            "unit": {
+              "id": "http://vocab.getty.edu/aat/300379098",
+              "type": "Type",
+              "_label": "centimeters"
+            }
+          }
+        ],
+        "current_owner": {
+          "id": "http://vocab.getty.edu/ulan/500303609",
+          "type": "Group",
+          "_label": "Museum of Modern Art",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300312281",
+              "type": "Type",
+              "_label": "museums (institutions)"
+            }
+          ],
+          "acquired_title_through": [
+            {
+              "id": "https://data.moma.org/object/35245/MoMA-acquisition",
+              "type": "Acquisition",
+              "_label": "MoMA Acquisition of the Object",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300157782",
+                  "type": "Type",
+                  "_label": "acquisition (collections management)"
+                }
+              ],
+              "timespan": {
+                "id": "https://data.moma.org/object/35245/MoMA-acquisition/timespan",
+                "type": "TimeSpan",
+                "_label": "1995-06-14"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "35251": {
+        "@context": "https://linked.art/ns/v1/linked-art.json",
+        "id": "https://data.moma.org/object/35251",
+        "type": "HumanMadeObject",
+        "_label": "No. 12 Special",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300133025",
+            "type": "Type",
+            "_label": "works of art"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300033973",
+            "type": "Type",
+            "_label": "drawings (visual works)"
+          }
+        ],
+        "identified_by": [
+          {
+            "id": "https://data.moma.org/object/35251/id",
+            "type": "Identifier",
+            "_label": "MoMA Collections Database Number for the Object",
+            "content": 35251,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404621",
+                "type": "Type",
+                "_label": "repository numbers"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/object/35251/object-number",
+            "type": "Identifier",
+            "_label": "MoMA Object Number for the Object",
+            "content": "200.1995",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300312355",
+                "type": "Type",
+                "_label": "accession numbers"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/object/35251/title",
+            "type": "Name",
+            "_label": "Primary Title for the Object",
+            "content": "No. 12 Special",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404670",
+                "type": "Type",
+                "_label": "preferred terms"
+              }
+            ]
+          }
+        ],
+        "made_of": [
+          {
+            "id": "http://vocab.getty.edu/aat/300012862",
+            "type": "Material",
+            "_label": "charcoal (material)"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300014109",
+            "type": "Material",
+            "_label": "paper (fiber product)"
+          }
+        ],
+        "produced_by": {
+          "id": "https://data.moma.org/object/35251/production",
+          "type": "Production",
+          "_label": "Production of the Object",
+          "carried_out_by": [
+            {
+              "id": "http://vocab.getty.edu/ulan/500018666",
+              "type": "Actor",
+              "_label": "O'Keeffe, Georgia"
+            }
+          ],
+          "timespan": {
+            "id": "https://data.moma.org/object/35251/production/timespan",
+            "type": "TimeSpan",
+            "_label": "1916",
+            "begin_of_the_begin": "1916-01-01T00:00:00",
+            "end_of_the_end": "1916-12-31T00:00:00"
+          }
+        },
+        "dimension": [
+          {
+            "id": "https://data.moma.org/object/35251/dimension/height",
+            "type": "Dimension",
+            "_label": "Dimensions for the Object",
+            "value": 60.9601,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055644",
+                "type": "Type",
+                "_label": "height"
+              }
+            ],
+            "unit": {
+              "id": "http://vocab.getty.edu/aat/300379098",
+              "type": "Type",
+              "_label": "centimeters"
+            }
+          },
+          {
+            "id": "https://data.moma.org/object/35251/dimension/width",
+            "type": "Dimension",
+            "_label": "Dimensions for the Object",
+            "value": 48.2601,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055647",
+                "type": "Type",
+                "_label": "width"
+              }
+            ],
+            "unit": {
+              "id": "http://vocab.getty.edu/aat/300379098",
+              "type": "Type",
+              "_label": "centimeters"
+            }
+          }
+        ],
+        "current_owner": {
+          "id": "http://vocab.getty.edu/ulan/500303609",
+          "type": "Group",
+          "_label": "Museum of Modern Art",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300312281",
+              "type": "Type",
+              "_label": "museums (institutions)"
+            }
+          ],
+          "acquired_title_through": [
+            {
+              "id": "https://data.moma.org/object/35251/MoMA-acquisition",
+              "type": "Acquisition",
+              "_label": "MoMA Acquisition of the Object",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300157782",
+                  "type": "Type",
+                  "_label": "acquisition (collections management)"
+                }
+              ],
+              "timespan": {
+                "id": "https://data.moma.org/object/35251/MoMA-acquisition/timespan",
+                "type": "TimeSpan",
+                "_label": "1995-06-14"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "91461": {
+        "@context": "https://linked.art/ns/v1/linked-art.json",
+        "id": "https://data.moma.org/object/91461",
+        "type": "HumanMadeObject",
+        "_label": "Georgia O'Keeffe--Torso",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300133025",
+            "type": "Type",
+            "_label": "works of art"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300046300",
+            "type": "Type",
+            "_label": "photographs"
+          },
+          {
+          	"id": "http://vocab.getty.edu/aat/300127145",
+          	"type": "Type",
+          	"_label": "platinum prints"
+          }
+        ],
+        "identified_by": [
+          {
+            "id": "https://data.moma.org/object/91461/id",
+            "type": "Identifier",
+            "_label": "MoMA Collections Database Number for the Object",
+            "content": 91461,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404621",
+                "type": "Type",
+                "_label": "repository numbers"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/object/91461/object-number",
+            "type": "Identifier",
+            "_label": "MoMA Object Number for the Object",
+            "content": "261.2004",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300312355",
+                "type": "Type",
+                "_label": "accession numbers"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/object/91461/title",
+            "type": "Name",
+            "_label": "Primary Title for the Object",
+            "content": "Georgia O'Keeffe--Torso",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404670",
+                "type": "Type",
+                "_label": "preferred terms"
+              }
+            ]
+          }
+        ],
+        "produced_by": {
+          "id": "https://data.moma.org/object/91461/production",
+          "type": "Production",
+          "_label": "Production of the Object",
+          "carried_out_by": [
+            {
+              "id": "http://vocab.getty.edu/ulan/500024301",
+              "type": "Actor",
+              "_label": "Stieglitz, Alfred"
+            }
+          ],
+          "timespan": {
+            "id": "https://data.moma.org/object/91461/production/timespan",
+            "type": "TimeSpan",
+            "_label": "1921",
+            "begin_of_the_begin": "1921-01-01T00:00:00",
+            "end_of_the_end": "1921-12-31T00:00:00"
+          }
+        },
+        "current_owner": {
+          "id": "http://vocab.getty.edu/ulan/500303609",
+          "type": "Group",
+          "_label": "Museum of Modern Art",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300312281",
+              "type": "Type",
+              "_label": "museums (institutions)"
+            }
+          ],
+          "acquired_title_through": [
+            {
+              "id": "https://data.moma.org/object/91461/MoMA-acquisition",
+              "type": "Acquisition",
+              "_label": "MoMA Acquisition of the Object",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300157782",
+                  "type": "Type",
+                  "_label": "acquisition (collections management)"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+        {
+      "35902": {
+        "@context": "https://linked.art/ns/v1/linked-art.json",
+        "id": "https://data.moma.org/object/35902",
+        "type": "HumanMadeObject",
+        "_label": "Drawing X",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300133025",
+            "type": "Type",
+            "_label": "works of art"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300033973",
+            "type": "Type",
+            "_label": "drawings (visual works)"
+          }
+        ],
+        "identified_by": [
+          {
+            "id": "https://data.moma.org/object/35902/id",
+            "type": "Identifier",
+            "_label": "MoMA Collections Database Number for the Object",
+            "content": 35902,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404621",
+                "type": "Type",
+                "_label": "repository numbers"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/object/35902/object-number",
+            "type": "Identifier",
+            "_label": "MoMA Object Number for the Object",
+            "content": "277.1972",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300312355",
+                "type": "Type",
+                "_label": "accession numbers"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/object/35902/title",
+            "type": "Name",
+            "_label": "Primary Title for the Object",
+            "content": "Drawing X",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404670",
+                "type": "Type",
+                "_label": "preferred terms"
+              }
+            ]
+          }
+        ],
+        "made_of": [
+          {
+            "id": "http://vocab.getty.edu/aat/300012862",
+            "type": "Material",
+            "_label": "charcoal (material)"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300014109",
+            "type": "Material",
+            "_label": "paper (fiber product)"
+          }
+        ],
+        "produced_by": {
+          "id": "https://data.moma.org/object/35902/production",
+          "type": "Production",
+          "_label": "Production of the Object",
+          "carried_out_by": [
+            {
+              "id": "http://vocab.getty.edu/ulan/500018666",
+              "type": "Actor",
+              "_label": "O'Keeffe, Georgia"
+            }
+          ],
+          "timespan": {
+            "id": "https://data.moma.org/object/35902/production/timespan",
+            "type": "TimeSpan",
+            "_label": "1959",
+            "begin_of_the_begin": "1959-01-01T00:00:00",
+            "end_of_the_end": "1959-12-31T00:00:00"
+          }
+        },
+        "dimension": [
+          {
+            "id": "https://data.moma.org/object/35902/dimension/height",
+            "type": "Dimension",
+            "_label": "Dimensions for the Object",
+            "value": 63.2,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055644",
+                "type": "Type",
+                "_label": "height"
+              }
+            ],
+            "unit": {
+              "id": "http://vocab.getty.edu/aat/300379098",
+              "type": "Type",
+              "_label": "centimeters"
+            }
+          },
+          {
+            "id": "https://data.moma.org/object/35902/dimension/width",
+            "type": "Dimension",
+            "_label": "Dimensions for the Object",
+            "value": 47.3,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055647",
+                "type": "Type",
+                "_label": "width"
+              }
+            ],
+            "unit": {
+              "id": "http://vocab.getty.edu/aat/300379098",
+              "type": "Type",
+              "_label": "centimeters"
+            }
+          }
+        ],
+        "current_owner": {
+          "id": "http://vocab.getty.edu/ulan/500303609",
+          "type": "Group",
+          "_label": "Museum of Modern Art",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300312281",
+              "type": "Type",
+              "_label": "museums (institutions)"
+            }
+          ],
+          "acquired_title_through": [
+            {
+              "id": "https://data.moma.org/object/35902/MoMA-acquisition",
+              "type": "Acquisition",
+              "_label": "MoMA Acquisition of the Object",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300157782",
+                  "type": "Type",
+                  "_label": "acquisition (collections management)"
+                }
+              ],
+              "timespan": {
+                "id": "https://data.moma.org/object/35902/MoMA-acquisition/timespan",
+                "type": "TimeSpan",
+                "_label": "1972-10-05"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "79714": {
+        "@context": "https://linked.art/ns/v1/linked-art.json",
+        "id": "https://data.moma.org/object/79714",
+        "type": "HumanMadeObject",
+        "_label": "From a Day with Juan II",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300133025",
+            "type": "Type",
+            "_label": "works of art"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300033618",
+            "type": "Type",
+            "_label": "paintings (visual works)"
+          }
+        ],
+        "identified_by": [
+          {
+            "id": "https://data.moma.org/object/79714/id",
+            "type": "Identifier",
+            "_label": "MoMA Collections Database Number for the Object",
+            "content": 79714,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404621",
+                "type": "Type",
+                "_label": "repository numbers"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/object/79714/object-number",
+            "type": "Identifier",
+            "_label": "MoMA Object Number for the Object",
+            "content": "447.1994",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300312355",
+                "type": "Type",
+                "_label": "accession numbers"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/object/79714/title",
+            "type": "Name",
+            "_label": "Primary Title for the Object",
+            "content": "From a Day with Juan II",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404670",
+                "type": "Type",
+                "_label": "preferred terms"
+              }
+            ]
+          }
+        ],
+        "made_of": [
+          {
+            "id": "http://vocab.getty.edu/aat/300015050",
+            "type": "Material",
+            "_label": "oil paint (paint)"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300014078",
+            "type": "Material",
+            "_label": "canvas (textile material)"
+          }
+        ],
+        "produced_by": {
+          "id": "https://data.moma.org/object/79714/production",
+          "type": "Production",
+          "_label": "Production of the Object",
+          "carried_out_by": [
+            {
+              "id": "http://vocab.getty.edu/ulan/500018666",
+              "type": "Actor",
+              "_label": "O'Keeffe, Georgia"
+            }
+          ],
+          "timespan": {
+            "id": "https://data.moma.org/object/79714/production/timespan",
+            "type": "TimeSpan",
+            "_label": "1977",
+            "begin_of_the_begin": "1977-01-01T00:00:00",
+            "end_of_the_end": "1977-12-31T00:00:00"
+          }
+        },
+        "dimension": [
+          {
+            "id": "https://data.moma.org/object/79714/dimension/height",
+            "type": "Dimension",
+            "_label": "Dimensions for the Object",
+            "value": 121.9,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055644",
+                "type": "Type",
+                "_label": "height"
+              }
+            ],
+            "unit": {
+              "id": "http://vocab.getty.edu/aat/300379098",
+              "type": "Type",
+              "_label": "centimeters"
+            }
+          },
+          {
+            "id": "https://data.moma.org/object/79714/dimension/width",
+            "type": "Dimension",
+            "_label": "Dimensions for the Object",
+            "value": 91.4,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055647",
+                "type": "Type",
+                "_label": "width"
+              }
+            ],
+            "unit": {
+              "id": "http://vocab.getty.edu/aat/300379098",
+              "type": "Type",
+              "_label": "centimeters"
+            }
+          }
+        ],
+        "current_owner": {
+          "id": "http://vocab.getty.edu/ulan/500303609",
+          "type": "Group",
+          "_label": "Museum of Modern Art",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300312281",
+              "type": "Type",
+              "_label": "museums (institutions)"
+            }
+          ],
+          "acquired_title_through": [
+            {
+              "id": "https://data.moma.org/object/79714/MoMA-acquisition",
+              "type": "Acquisition",
+              "_label": "MoMA Acquisition of the Object",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300157782",
+                  "type": "Type",
+                  "_label": "acquisition (collections management)"
+                }
+              ],
+              "timespan": {
+                "id": "https://data.moma.org/object/79714/MoMA-acquisition/timespan",
+                "type": "TimeSpan",
+                "_label": "1994-10-11"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "37328": {
+        "@context": "https://linked.art/ns/v1/linked-art.json",
+        "id": "https://data.moma.org/object/37328",
+        "type": "HumanMadeObject",
+        "_label": "An Orchid",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300133025",
+            "type": "Type",
+            "_label": "works of art"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300033973",
+            "type": "Type",
+            "_label": "drawings (visual works)"
+          }
+        ],
+        "identified_by": [
+          {
+            "id": "https://data.moma.org/object/37328/id",
+            "type": "Identifier",
+            "_label": "MoMA Collections Database Number for the Object",
+            "content": 37328,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404621",
+                "type": "Type",
+                "_label": "repository numbers"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/object/37328/object-number",
+            "type": "Identifier",
+            "_label": "MoMA Object Number for the Object",
+            "content": "556.1990",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300312355",
+                "type": "Type",
+                "_label": "accession numbers"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/object/37328/title",
+            "type": "Name",
+            "_label": "Primary Title for the Object",
+            "content": "An Orchid",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404670",
+                "type": "Type",
+                "_label": "preferred terms"
+              }
+            ]
+          }
+        ],
+        "made_of": [
+          {
+            "id": "http://vocab.getty.edu/aat/300404632",
+            "type": "Material",
+            "_label": "pastel (material)"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300014109",
+            "type": "Material",
+            "_label": "paper (fiber product)"
+          }
+        ],
+        "produced_by": {
+          "id": "https://data.moma.org/object/37328/production",
+          "type": "Production",
+          "_label": "Production of the Object",
+          "carried_out_by": [
+            {
+              "id": "http://vocab.getty.edu/ulan/500018666",
+              "type": "Actor",
+              "_label": "O'Keeffe, Georgia"
+            }
+          ],
+          "timespan": {
+            "id": "https://data.moma.org/object/37328/production/timespan",
+            "type": "TimeSpan",
+            "_label": "1941",
+            "begin_of_the_begin": "1941-01-01T00:00:00",
+            "end_of_the_end": "1941-12-31T00:00:00"
+          }
+        },
+        "dimension": [
+          {
+            "id": "https://data.moma.org/object/37328/dimension/height",
+            "type": "Dimension",
+            "_label": "Dimensions for the Object",
+            "value": 70.1676,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055644",
+                "type": "Type",
+                "_label": "height"
+              }
+            ],
+            "unit": {
+              "id": "http://vocab.getty.edu/aat/300379098",
+              "type": "Type",
+              "_label": "centimeters"
+            }
+          },
+          {
+            "id": "https://data.moma.org/object/37328/dimension/width",
+            "type": "Dimension",
+            "_label": "Dimensions for the Object",
+            "value": 55.2451,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055647",
+                "type": "Type",
+                "_label": "width"
+              }
+            ],
+            "unit": {
+              "id": "http://vocab.getty.edu/aat/300379098",
+              "type": "Type",
+              "_label": "centimeters"
+            }
+          }
+        ],
+        "current_owner": {
+          "id": "http://vocab.getty.edu/ulan/500303609",
+          "type": "Group",
+          "_label": "Museum of Modern Art",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300312281",
+              "type": "Type",
+              "_label": "museums (institutions)"
+            }
+          ],
+          "acquired_title_through": [
+            {
+              "id": "https://data.moma.org/object/37328/MoMA-acquisition",
+              "type": "Acquisition",
+              "_label": "MoMA Acquisition of the Object",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300157782",
+                  "type": "Type",
+                  "_label": "acquisition (collections management)"
+                }
+              ],
+              "timespan": {
+                "id": "https://data.moma.org/object/37328/MoMA-acquisition/timespan",
+                "type": "TimeSpan",
+                "_label": "1990-10-25"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "83915": {
+        "@context": "https://linked.art/ns/v1/linked-art.json",
+        "id": "https://data.moma.org/object/83915",
+        "type": "HumanMadeObject",
+        "_label": "Georgia O'Keeffe: A Portrait",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300133025",
+            "type": "Type",
+            "_label": "works of art"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300046300",
+            "type": "Type",
+            "_label": "photographs"
+          },
+          {
+          	"id": "http://vocab.getty.edu/aat/300134677",
+          	"type": "Type",
+          	"_label": "palladium prints"
+          }
+        ],
+        "identified_by": [
+          {
+            "id": "https://data.moma.org/object/83915/id",
+            "type": "Identifier",
+            "_label": "MoMA Collections Database Number for the Object",
+            "content": 83915,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404621",
+                "type": "Type",
+                "_label": "repository numbers"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/object/83915/object-number",
+            "type": "Identifier",
+            "_label": "MoMA Object Number for the Object",
+            "content": "1871.2001",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300312355",
+                "type": "Type",
+                "_label": "accession numbers"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/object/83915/title",
+            "type": "Name",
+            "_label": "Primary Title for the Object",
+            "content": "Georgia O'Keeffe: A Portrait",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404670",
+                "type": "Type",
+                "_label": "preferred terms"
+              }
+            ]
+          }
+        ],
+        "produced_by": {
+          "id": "https://data.moma.org/object/83915/production",
+          "type": "Production",
+          "_label": "Production of the Object",
+          "carried_out_by": [
+            {
+              "id": "http://vocab.getty.edu/ulan/500024301",
+              "type": "Actor",
+              "_label": "Stieglitz, Alfred"
+            }
+          ],
+          "timespan": {
+            "id": "https://data.moma.org/object/83915/production/timespan",
+            "type": "TimeSpan",
+            "_label": "1918",
+            "begin_of_the_begin": "1918-01-01T00:00:00",
+            "end_of_the_end": "1918-12-31T00:00:00"
+          }
+        },
+        "dimension": [
+          {
+            "id": "https://data.moma.org/object/83915/dimension/height",
+            "type": "Dimension",
+            "_label": "Dimensions for the Object",
+            "value": 23.6,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055644",
+                "type": "Type",
+                "_label": "height"
+              }
+            ],
+            "unit": {
+              "id": "http://vocab.getty.edu/aat/300379098",
+              "type": "Type",
+              "_label": "centimeters"
+            }
+          },
+          {
+            "id": "https://data.moma.org/object/83915/dimension/width",
+            "type": "Dimension",
+            "_label": "Dimensions for the Object",
+            "value": 18.7,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055647",
+                "type": "Type",
+                "_label": "width"
+              }
+            ],
+            "unit": {
+              "id": "http://vocab.getty.edu/aat/300379098",
+              "type": "Type",
+              "_label": "centimeters"
+            }
+          }
+        ],
+        "current_owner": {
+          "id": "http://vocab.getty.edu/ulan/500303609",
+          "type": "Group",
+          "_label": "Museum of Modern Art",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300312281",
+              "type": "Type",
+              "_label": "museums (institutions)"
+            }
+          ],
+          "acquired_title_through": [
+            {
+              "id": "https://data.moma.org/object/83915/MoMA-acquisition",
+              "type": "Acquisition",
+              "_label": "MoMA Acquisition of the Object",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300157782",
+                  "type": "Type",
+                  "_label": "acquisition (collections management)"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "229012": {
+        "@context": "https://linked.art/ns/v1/linked-art.json",
+        "id": "https://data.moma.org/object/229012",
+        "type": "HumanMadeObject",
+        "_label": "Photgraph of Georgia O'Keeffe",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300133025",
+            "type": "Type",
+            "_label": "works of art"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300046300",
+            "type": "Type",
+            "_label": "photographs"
+          },
+          {
+          	"id": "http://vocab.getty.edu/aat/300128695",
+          	"type": "Type",
+          	"_label": "gelatin silver prints"
+          }
+        ],
+        "identified_by": [
+          {
+            "id": "https://data.moma.org/object/229012/id",
+            "type": "Identifier",
+            "_label": "MoMA Collections Database Number for the Object",
+            "content": 229012,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404621",
+                "type": "Type",
+                "_label": "repository numbers"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/object/229012/object-number",
+            "type": "Identifier",
+            "_label": "MoMA Object Number for the Object",
+            "content": "ARCH.8141",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300312355",
+                "type": "Type",
+                "_label": "accession numbers"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/object/229012/title",
+            "type": "Name",
+            "_label": "Primary Title for the Object",
+            "content": "Photograph of Georgia O'Keeffe",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404670",
+                "type": "Type",
+                "_label": "preferred terms"
+              }
+            ]
+          }
+        ],
+        "produced_by": {
+          "id": "https://data.moma.org/object/229012/production",
+          "type": "Production",
+          "_label": "Production of the Object",
+          "carried_out_by": [
+            {
+              "id": "http://vocab.getty.edu/ulan/500024301",
+              "type": "Actor",
+              "_label": "Stieglitz, Alfred"
+            }
+          ],
+          "timespan": {
+            "id": "https://data.moma.org/object/229012/production/timespan",
+            "type": "TimeSpan",
+            "_label": "1918",
+            "begin_of_the_begin": "1918-01-01T00:00:00",
+            "end_of_the_end": "1918-12-31T00:00:00"
+          }
+        },
+        "dimension": [
+          {
+            "id": "https://data.moma.org/object/229012/dimension/height",
+            "type": "Dimension",
+            "_label": "Dimensions for the Object",
+            "value": 20,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055644",
+                "type": "Type",
+                "_label": "height"
+              }
+            ],
+            "unit": {
+              "id": "http://vocab.getty.edu/aat/300379098",
+              "type": "Type",
+              "_label": "centimeters"
+            }
+          },
+          {
+            "id": "https://data.moma.org/object/229012/dimension/width",
+            "type": "Dimension",
+            "_label": "Dimensions for the Object",
+            "value": 13.8,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055647",
+                "type": "Type",
+                "_label": "width"
+              }
+            ],
+            "unit": {
+              "id": "http://vocab.getty.edu/aat/300379098",
+              "type": "Type",
+              "_label": "centimeters"
+            }
+          }
+        ],
+        "current_owner": {
+          "id": "http://vocab.getty.edu/ulan/500303609",
+          "type": "Group",
+          "_label": "Museum of Modern Art",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300312281",
+              "type": "Type",
+              "_label": "museums (institutions)"
+            }
+          ],
+          "acquired_title_through": [
+            {
+              "id": "https://data.moma.org/object/229012/MoMA-acquisition",
+              "type": "Acquisition",
+              "_label": "MoMA Acquisition of the Object",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300157782",
+                  "type": "Type",
+                  "_label": "acquisition (collections management)"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "229013": {
+        "@context": "https://linked.art/ns/v1/linked-art.json",
+        "id": "https://data.moma.org/object/229013",
+        "type": "HumanMadeObject",
+        "_label": "Photograph of Georgia O'Keeffe",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300133025",
+            "type": "Type",
+            "_label": "works of art"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300046300",
+            "type": "Type",
+            "_label": "photographs"
+          },
+          {
+          	"id": "http://vocab.getty.edu/aat/300128695",
+          	"type": "Type",
+          	"_label": "gelatin silver prints"
+          }
+        ],
+        "identified_by": [
+          {
+            "id": "https://data.moma.org/object/229013/id",
+            "type": "Identifier",
+            "_label": "MoMA Collections Database Number for the Object",
+            "content": 229013,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404621",
+                "type": "Type",
+                "_label": "repository numbers"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/object/229013/object-number",
+            "type": "Identifier",
+            "_label": "MoMA Object Number for the Object",
+            "content": "ARCH.8142",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300312355",
+                "type": "Type",
+                "_label": "accession numbers"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/object/229013/title",
+            "type": "Name",
+            "_label": "Primary Title for the Object",
+            "content": "Photograph of Georgia O'Keeffe",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404670",
+                "type": "Type",
+                "_label": "preferred terms"
+              }
+            ]
+          }
+        ],
+        "produced_by": {
+          "id": "https://data.moma.org/object/229013/production",
+          "type": "Production",
+          "_label": "Production of the Object",
+          "carried_out_by": [
+            {
+              "id": "http://vocab.getty.edu/ulan/500472937",
+              "type": "Actor",
+              "_label": "Stein, Fred"
+            }
+          ],
+          "timespan": {
+            "id": "https://data.moma.org/object/229013/production/timespan",
+            "type": "TimeSpan",
+            "_label": "1962",
+            "begin_of_the_begin": "1962-01-01T00:00:00",
+            "end_of_the_end": "1962-12-31T00:00:00"
+          }
+        },
+        "dimension": [
+          {
+            "id": "https://data.moma.org/object/229013/dimension/height",
+            "type": "Dimension",
+            "_label": "Dimensions for the Object",
+            "value": 25.1,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055644",
+                "type": "Type",
+                "_label": "height"
+              }
+            ],
+            "unit": {
+              "id": "http://vocab.getty.edu/aat/300379098",
+              "type": "Type",
+              "_label": "centimeters"
+            }
+          },
+          {
+            "id": "https://data.moma.org/object/229013/dimension/width",
+            "type": "Dimension",
+            "_label": "Dimensions for the Object",
+            "value": 20.2,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055647",
+                "type": "Type",
+                "_label": "width"
+              }
+            ],
+            "unit": {
+              "id": "http://vocab.getty.edu/aat/300379098",
+              "type": "Type",
+              "_label": "centimeters"
+            }
+          }
+        ],
+        "current_owner": {
+          "id": "http://vocab.getty.edu/ulan/500303609",
+          "type": "Group",
+          "_label": "Museum of Modern Art",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300312281",
+              "type": "Type",
+              "_label": "museums (institutions)"
+            }
+          ],
+          "acquired_title_through": [
+            {
+              "id": "https://data.moma.org/object/229013/MoMA-acquisition",
+              "type": "Acquisition",
+              "_label": "MoMA Acquisition of the Object",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300157782",
+                  "type": "Type",
+                  "_label": "acquisition (collections management)"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "229014": {
+        "@context": "https://linked.art/ns/v1/linked-art.json",
+        "id": "https://data.moma.org/object/229014",
+        "type": "HumanMadeObject",
+        "_label": "Photograph of Georgia O'Keeffe",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300133025",
+            "type": "Type",
+            "_label": "works of art"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300046300",
+            "type": "Type",
+            "_label": "photographs"
+          },
+          {
+          	"id": "http://vocab.getty.edu/aat/300128695",
+          	"type": "Type",
+          	"_label": "gelatin silver prints"
+          }
+        ],
+        "identified_by": [
+          {
+            "id": "https://data.moma.org/object/229014/id",
+            "type": "Identifier",
+            "_label": "MoMA Collections Database Number for the Object",
+            "content": 229014,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404621",
+                "type": "Type",
+                "_label": "repository numbers"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/object/229014/object-number",
+            "type": "Identifier",
+            "_label": "MoMA Object Number for the Object",
+            "content": "ARCH.8143",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300312355",
+                "type": "Type",
+                "_label": "accession numbers"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/object/229014/title",
+            "type": "Name",
+            "_label": "Primary Title for the Object",
+            "content": "Photograph of Georgia O'Keeffe",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404670",
+                "type": "Type",
+                "_label": "preferred terms"
+              }
+            ]
+          }
+        ],
+        "produced_by": {
+          "id": "https://data.moma.org/object/229014/production",
+          "type": "Production",
+          "_label": "Production of the Object",
+          "carried_out_by": [
+            {
+              "id": "http://vocab.getty.edu/ulan/500472937",
+              "type": "Actor",
+              "_label": "Stein, Fred"
+            }
+          ],
+          "timespan": {
+            "id": "https://data.moma.org/object/229014/production/timespan",
+            "type": "TimeSpan",
+            "_label": "1962",
+            "begin_of_the_begin": "1962-01-01T00:00:00",
+            "end_of_the_end": "1962-12-31T00:00:00"
+          }
+        },
+        "dimension": [
+          {
+            "id": "https://data.moma.org/object/229014/dimension/height",
+            "type": "Dimension",
+            "_label": "Dimensions for the Object",
+            "value": 25.1,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055644",
+                "type": "Type",
+                "_label": "height"
+              }
+            ],
+            "unit": {
+              "id": "http://vocab.getty.edu/aat/300379098",
+              "type": "Type",
+              "_label": "centimeters"
+            }
+          },
+          {
+            "id": "https://data.moma.org/object/229014/dimension/width",
+            "type": "Dimension",
+            "_label": "Dimensions for the Object",
+            "value": 20.2,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055647",
+                "type": "Type",
+                "_label": "width"
+              }
+            ],
+            "unit": {
+              "id": "http://vocab.getty.edu/aat/300379098",
+              "type": "Type",
+              "_label": "centimeters"
+            }
+          }
+        ],
+        "current_owner": {
+          "id": "http://vocab.getty.edu/ulan/500303609",
+          "type": "Group",
+          "_label": "Museum of Modern Art",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300312281",
+              "type": "Type",
+              "_label": "museums (institutions)"
+            }
+          ],
+          "acquired_title_through": [
+            {
+              "id": "https://data.moma.org/object/229014/MoMA-acquisition",
+              "type": "Acquisition",
+              "_label": "MoMA Acquisition of the Object",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300157782",
+                  "type": "Type",
+                  "_label": "acquisition (collections management)"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "229015": {
+        "@context": "https://linked.art/ns/v1/linked-art.json",
+        "id": "https://data.moma.org/object/229015",
+        "type": "HumanMadeObject",
+        "_label": "Photograph of Georgia O'Keeffe",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300133025",
+            "type": "Type",
+            "_label": "works of art"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300046300",
+            "type": "Type",
+            "_label": "photographs"
+          },
+          {
+          	"id": "http://vocab.getty.edu/aat/300128695",
+          	"type": "Type",
+          	"_label": "gelatin silver prints"
+          }
+        ],
+        "identified_by": [
+          {
+            "id": "https://data.moma.org/object/229015/id",
+            "type": "Identifier",
+            "_label": "MoMA Collections Database Number for the Object",
+            "content": 229015,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404621",
+                "type": "Type",
+                "_label": "repository numbers"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/object/229015/object-number",
+            "type": "Identifier",
+            "_label": "MoMA Object Number for the Object",
+            "content": "ARCH.8144",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300312355",
+                "type": "Type",
+                "_label": "accession numbers"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/object/229015/title",
+            "type": "Name",
+            "_label": "Primary Title for the Object",
+            "content": "Photograph of Georgia O'Keeffe",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404670",
+                "type": "Type",
+                "_label": "preferred terms"
+              }
+            ]
+          }
+        ],
+        "produced_by": {
+          "id": "https://data.moma.org/object/229015/production",
+          "type": "Production",
+          "_label": "Production of the Object",
+          "carried_out_by": [
+            {
+              "id": "http://vocab.getty.edu/ulan/500472937",
+              "type": "Actor",
+              "_label": "Stein, Fred"
+            }
+          ],
+          "timespan": {
+            "id": "https://data.moma.org/object/229015/production/timespan",
+            "type": "TimeSpan",
+            "_label": "1962",
+            "begin_of_the_begin": "1962-01-01T00:00:00",
+            "end_of_the_end": "1962-12-31T00:00:00"
+          }
+        },
+        "dimension": [
+          {
+            "id": "https://data.moma.org/object/229015/dimension/height",
+            "type": "Dimension",
+            "_label": "Dimensions for the Object",
+            "value": 25.1,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055644",
+                "type": "Type",
+                "_label": "height"
+              }
+            ],
+            "unit": {
+              "id": "http://vocab.getty.edu/aat/300379098",
+              "type": "Type",
+              "_label": "centimeters"
+            }
+          },
+          {
+            "id": "https://data.moma.org/object/229015/dimension/width",
+            "type": "Dimension",
+            "_label": "Dimensions for the Object",
+            "value": 20.2,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055647",
+                "type": "Type",
+                "_label": "width"
+              }
+            ],
+            "unit": {
+              "id": "http://vocab.getty.edu/aat/300379098",
+              "type": "Type",
+              "_label": "centimeters"
+            }
+          }
+        ],
+        "current_owner": {
+          "id": "http://vocab.getty.edu/ulan/500303609",
+          "type": "Group",
+          "_label": "Museum of Modern Art",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300312281",
+              "type": "Type",
+              "_label": "museums (institutions)"
+            }
+          ],
+          "acquired_title_through": [
+            {
+              "id": "https://data.moma.org/object/229015/MoMA-acquisition",
+              "type": "Acquisition",
+              "_label": "MoMA Acquisition of the Object",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300157782",
+                  "type": "Type",
+                  "_label": "acquisition (collections management)"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "229016": {
+        "@context": "https://linked.art/ns/v1/linked-art.json",
+        "id": "https://data.moma.org/object/229016",
+        "type": "HumanMadeObject",
+        "_label": "Photograph of Georgia O'Keeffe",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300133025",
+            "type": "Type",
+            "_label": "works of art"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300046300",
+            "type": "Type",
+            "_label": "photographs"
+          },
+          {
+          	"id": "http://vocab.getty.edu/aat/300128695",
+          	"type": "Type",
+          	"_label": "gelatin silver prints"
+          }
+        ],
+        "identified_by": [
+          {
+            "id": "https://data.moma.org/object/229016/id",
+            "type": "Identifier",
+            "_label": "MoMA Collections Database Number for the Object",
+            "content": 229016,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404621",
+                "type": "Type",
+                "_label": "repository numbers"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/object/229016/object-number",
+            "type": "Identifier",
+            "_label": "MoMA Object Number for the Object",
+            "content": "ARCH.8145",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300312355",
+                "type": "Type",
+                "_label": "accession numbers"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/object/229016/title",
+            "type": "Name",
+            "_label": "Primary Title for the Object",
+            "content": "Photograph of Georgia O'Keeffe",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404670",
+                "type": "Type",
+                "_label": "preferred terms"
+              }
+            ]
+          }
+        ],
+        "produced_by": {
+          "id": "https://data.moma.org/object/229016/production",
+          "type": "Production",
+          "_label": "Production of the Object",
+          "carried_out_by": [
+            {
+              "id": "http://vocab.getty.edu/ulan/500024301",
+              "type": "Actor",
+              "_label": "Stieglitz, Alfred"
+            }
+          ],
+          "timespan": {
+            "id": "https://data.moma.org/object/229016/production/timespan",
+            "type": "TimeSpan",
+            "_label": "1932",
+            "begin_of_the_begin": "1932-01-01T00:00:00",
+            "end_of_the_end": "1932-12-31T00:00:00"
+          }
+        },
+        "dimension": [
+          {
+            "id": "https://data.moma.org/object/229016/dimension/height",
+            "type": "Dimension",
+            "_label": "Dimensions for the Object",
+            "value": 23.1,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055644",
+                "type": "Type",
+                "_label": "height"
+              }
+            ],
+            "unit": {
+              "id": "http://vocab.getty.edu/aat/300379098",
+              "type": "Type",
+              "_label": "centimeters"
+            }
+          },
+          {
+            "id": "https://data.moma.org/object/229016/dimension/width",
+            "type": "Dimension",
+            "_label": "Dimensions for the Object",
+            "value": 18.8,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055647",
+                "type": "Type",
+                "_label": "width"
+              }
+            ],
+            "unit": {
+              "id": "http://vocab.getty.edu/aat/300379098",
+              "type": "Type",
+              "_label": "centimeters"
+            }
+          }
+        ],
+        "current_owner": {
+          "id": "http://vocab.getty.edu/ulan/500303609",
+          "type": "Group",
+          "_label": "Museum of Modern Art",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300312281",
+              "type": "Type",
+              "_label": "museums (institutions)"
+            }
+          ],
+          "acquired_title_through": [
+            {
+              "id": "https://data.moma.org/object/229016/MoMA-acquisition",
+              "type": "Acquisition",
+              "_label": "MoMA Acquisition of the Object",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300157782",
+                  "type": "Type",
+                  "_label": "acquisition (collections management)"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "229199": {
+        "@context": "https://linked.art/ns/v1/linked-art.json",
+        "id": "https://data.moma.org/object/229199",
+        "type": "HumanMadeObject",
+        "_label": "Alfred Stieglitz and Painting by Georgia O'Keeffe, An American Place, New York City",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300133025",
+            "type": "Type",
+            "_label": "works of art"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300046300",
+            "type": "Type",
+            "_label": "photographs"
+          },
+          {
+          	"id": "http://vocab.getty.edu/aat/300128695",
+          	"type": "Type",
+          	"_label": "gelatin silver prints"
+          }
+        ],
+        "identified_by": [
+          {
+            "id": "https://data.moma.org/object/229199/id",
+            "type": "Identifier",
+            "_label": "MoMA Collections Database Number for the Object",
+            "content": 229199,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404621",
+                "type": "Type",
+                "_label": "repository numbers"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/object/229199/object-number",
+            "type": "Identifier",
+            "_label": "MoMA Object Number for the Object",
+            "content": "ARCH.8593",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300312355",
+                "type": "Type",
+                "_label": "accession numbers"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/object/229199/title",
+            "type": "Name",
+            "_label": "Primary Title for the Object",
+            "content": "Alfred Stieglitz and Painting by Georgia O'Keeffe, An American Place, New York City",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404670",
+                "type": "Type",
+                "_label": "preferred terms"
+              }
+            ]
+          }
+        ],
+        "produced_by": {
+          "id": "https://data.moma.org/object/229199/production",
+          "type": "Production",
+          "_label": "Production of the Object",
+          "carried_out_by": [
+            {
+              "id": "http://vocab.getty.edu/ulan/500026108",
+              "type": "Actor",
+              "_label": "Adams, Ansel"
+            }
+          ],
+          "timespan": {
+            "id": "https://data.moma.org/object/229199/production/timespan",
+            "type": "TimeSpan",
+            "_label": "1939",
+            "begin_of_the_begin": "1939-01-01T00:00:00",
+            "end_of_the_end": "1939-12-31T00:00:00"
+          }
+        },
+        "dimension": [
+          {
+            "id": "https://data.moma.org/object/229199/dimension/height",
+            "type": "Dimension",
+            "_label": "Dimensions for the Object",
+            "value": 22.8,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055644",
+                "type": "Type",
+                "_label": "height"
+              }
+            ],
+            "unit": {
+              "id": "http://vocab.getty.edu/aat/300379098",
+              "type": "Type",
+              "_label": "centimeters"
+            }
+          },
+          {
+            "id": "https://data.moma.org/object/229199/dimension/width",
+            "type": "Dimension",
+            "_label": "Dimensions for the Object",
+            "value": 17.6,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055647",
+                "type": "Type",
+                "_label": "width"
+              }
+            ],
+            "unit": {
+              "id": "http://vocab.getty.edu/aat/300379098",
+              "type": "Type",
+              "_label": "centimeters"
+            }
+          }
+        ],
+        "current_owner": {
+          "id": "http://vocab.getty.edu/ulan/500303609",
+          "type": "Group",
+          "_label": "Museum of Modern Art",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300312281",
+              "type": "Type",
+              "_label": "museums (institutions)"
+            }
+          ],
+          "acquired_title_through": [
+            {
+              "id": "https://data.moma.org/object/229199/MoMA-acquisition",
+              "type": "Acquisition",
+              "_label": "MoMA Acquisition of the Object",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300157782",
+                  "type": "Type",
+                  "_label": "acquisition (collections management)"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "33505": {
+        "@context": "https://linked.art/ns/v1/linked-art.json",
+        "id": "https://data.moma.org/object/33505",
+        "type": "HumanMadeObject",
+        "_label": "Portrait of Dorothy Schubart",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300133025",
+            "type": "Type",
+            "_label": "works of art"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300033973",
+            "type": "Type",
+            "_label": "drawings (visual works)"
+          }
+        ],
+        "identified_by": [
+          {
+            "id": "https://data.moma.org/object/33505/id",
+            "type": "Identifier",
+            "_label": "MoMA Collections Database Number for the Object",
+            "content": 33505,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404621",
+                "type": "Type",
+                "_label": "repository numbers"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/object/33505/object-number",
+            "type": "Identifier",
+            "_label": "MoMA Object Number for the Object",
+            "content": "SC47.1988",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300312355",
+                "type": "Type",
+                "_label": "accession numbers"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/object/33505/title",
+            "type": "Name",
+            "_label": "Primary Title for the Object",
+            "content": "Portrait of Dorothy Schubart",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404670",
+                "type": "Type",
+                "_label": "preferred terms"
+              }
+            ]
+          }
+        ],
+        "made_of": [
+          {
+            "id": "http://vocab.getty.edu/aat/300012862",
+            "type": "Material",
+            "_label": "charcoal (material)"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300014109",
+            "type": "Material",
+            "_label": "paper (fiber product)"
+          }
+        ],
+        "produced_by": {
+          "id": "https://data.moma.org/object/33505/production",
+          "type": "Production",
+          "_label": "Production of the Object",
+          "carried_out_by": [
+            {
+              "id": "http://vocab.getty.edu/ulan/500018666",
+              "type": "Actor",
+              "_label": "O'Keeffe, Georgia"
+            }
+          ],
+          "timespan": {
+            "id": "https://data.moma.org/object/33505/production/timespan",
+            "type": "TimeSpan",
+            "_label": "1936",
+            "begin_of_the_begin": "1936-01-01T00:00:00",
+            "end_of_the_end": "1936-12-31T00:00:00"
+          }
+        },
+        "dimension": [
+          {
+            "id": "https://data.moma.org/object/33505/dimension/height",
+            "type": "Dimension",
+            "_label": "Dimensions for the Object",
+            "value": 56,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055644",
+                "type": "Type",
+                "_label": "height"
+              }
+            ],
+            "unit": {
+              "id": "http://vocab.getty.edu/aat/300379098",
+              "type": "Type",
+              "_label": "centimeters"
+            }
+          },
+          {
+            "id": "https://data.moma.org/object/33505/dimension/width",
+            "type": "Dimension",
+            "_label": "Dimensions for the Object",
+            "value": 46.2,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055647",
+                "type": "Type",
+                "_label": "width"
+              }
+            ],
+            "unit": {
+              "id": "http://vocab.getty.edu/aat/300379098",
+              "type": "Type",
+              "_label": "centimeters"
+            }
+          }
+        ],
+        "current_owner": {
+          "id": "http://vocab.getty.edu/ulan/500303609",
+          "type": "Group",
+          "_label": "Museum of Modern Art",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300312281",
+              "type": "Type",
+              "_label": "museums (institutions)"
+            }
+          ],
+          "acquired_title_through": [
+            {
+              "id": "https://data.moma.org/object/33505/MoMA-acquisition",
+              "type": "Acquisition",
+              "_label": "MoMA Acquisition of the Object",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300157782",
+                  "type": "Type",
+                  "_label": "acquisition (collections management)"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
