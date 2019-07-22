@@ -2824,6 +2824,27 @@
             "_label": "Collection of MoMA's Photography Department"
           }
         ],
+        "shows": [
+          {
+            "id": "https://data.moma.org/collection/works/91461/visual-item-1",
+            "type": "VisualItem",
+            "_label": "Visual Item Depicted in the Object",
+            "classified_as": [
+              {
+                "id": "http//vocab.getty.edu/aat/300404126",
+                "type": "Type",
+                "_label": "subjects (content of works)"
+              }
+            ],
+            "represents": [
+              {
+                "id": "http://vocab.getty/edu/ulan/500018666",
+                "type": "Actor",
+                "_label": "O'Keeffe, Georgia"
+              }
+            ]
+          }
+        ],
         "referred_to_by": [
           {
             "id": "https://data.moma.org/collection/works/91461/credit-line",
@@ -4039,6 +4060,27 @@
             "_label": "Collection of MoMA's Photography Department"
           }
         ],
+        "shows": [
+          {
+            "id": "https://data.moma.org/collection/works/83915/visual-item-1",
+            "type": "VisualItem",
+            "_label": "Visual Item Depicted in the Object",
+            "classified_as": [
+              {
+                "id": "http//vocab.getty.edu/aat/300404126",
+                "type": "Type",
+                "_label": "subjects (content of works)"
+              }
+            ],
+            "represents": [
+              {
+                "id": "http://vocab.getty/edu/ulan/500018666",
+                "type": "Actor",
+                "_label": "O'Keeffe, Georgia"
+              }
+            ]
+          }
+        ],
         "referred_to_by": [
           {
             "id": "https://data.moma.org/collection/works/83915/credit-line",
@@ -4322,6 +4364,27 @@
             "_label": "Collection of MoMA's Archives Department"
           }
         ],
+        "shows": [
+          {
+            "id": "https://data.moma.org/collection/works/229012/visual-item-1",
+            "type": "VisualItem",
+            "_label": "Visual Item Depicted in the Object",
+            "classified_as": [
+              {
+                "id": "http//vocab.getty.edu/aat/300404126",
+                "type": "Type",
+                "_label": "subjects (content of works)"
+              }
+            ],
+            "represents": [
+              {
+                "id": "http://vocab.getty/edu/ulan/500018666",
+                "type": "Actor",
+                "_label": "O'Keeffe, Georgia"
+              }
+            ]
+          }
+        ],
         "referred_to_by": [
           {
             "id": "https://data.moma.org/collection/works/229012/credit-line",
@@ -4552,6 +4615,27 @@
             "id": "https://data.moma.org/collection/department/archives",
             "type": "Set",
             "_label": "Collection of MoMA's Archives Department"
+          }
+        ],
+        "shows": [
+          {
+            "id": "https://data.moma.org/collection/works/229013/visual-item-1",
+            "type": "VisualItem",
+            "_label": "Visual Item Depicted in the Object",
+            "classified_as": [
+              {
+                "id": "http//vocab.getty.edu/aat/300404126",
+                "type": "Type",
+                "_label": "subjects (content of works)"
+              }
+            ],
+            "represents": [
+              {
+                "id": "http://vocab.getty/edu/ulan/500018666",
+                "type": "Actor",
+                "_label": "O'Keeffe, Georgia"
+              }
+            ]
           }
         ],
         "referred_to_by": [
@@ -4786,6 +4870,27 @@
             "_label": "Collection of MoMA's Archives Department"
           }
         ],
+        "shows": [
+          {
+            "id": "https://data.moma.org/collection/works/229014/visual-item-1",
+            "type": "VisualItem",
+            "_label": "Visual Item Depicted in the Object",
+            "classified_as": [
+              {
+                "id": "http//vocab.getty.edu/aat/300404126",
+                "type": "Type",
+                "_label": "subjects (content of works)"
+              }
+            ],
+            "represents": [
+              {
+                "id": "http://vocab.getty/edu/ulan/500018666",
+                "type": "Actor",
+                "_label": "O'Keeffe, Georgia"
+              }
+            ]
+          }
+        ],
         "referred_to_by": [
           {
             "id": "https://data.moma.org/collection/works/229014/credit-line",
@@ -5016,6 +5121,27 @@
             "id": "https://data.moma.org/collection/department/archives",
             "type": "Set",
             "_label": "Collection of MoMA's Archives Department"
+          }
+        ],
+        "shows": [
+          {
+            "id": "https://data.moma.org/collection/works/229015/visual-item-1",
+            "type": "VisualItem",
+            "_label": "Visual Item Depicted in the Object",
+            "classified_as": [
+              {
+                "id": "http//vocab.getty.edu/aat/300404126",
+                "type": "Type",
+                "_label": "subjects (content of works)"
+              }
+            ],
+            "represents": [
+              {
+                "id": "http://vocab.getty/edu/ulan/500018666",
+                "type": "Actor",
+                "_label": "O'Keeffe, Georgia"
+              }
+            ]
           }
         ],
         "referred_to_by": [
@@ -5250,6 +5376,27 @@
             "_label": "Collection of MoMA's Archives Department"
           }
         ],
+        "shows": [
+          {
+            "id": "https://data.moma.org/collection/works/229016/visual-item-1",
+            "type": "VisualItem",
+            "_label": "Visual Item Depicted in the Object",
+            "classified_as": [
+              {
+                "id": "http//vocab.getty.edu/aat/300404126",
+                "type": "Type",
+                "_label": "subjects (content of works)"
+              }
+            ],
+            "represents": [
+              {
+                "id": "http://vocab.getty/edu/ulan/500018666",
+                "type": "Actor",
+                "_label": "O'Keeffe, Georgia"
+              }
+            ]
+          }
+        ],
         "referred_to_by": [
           {
             "id": "https://data.moma.org/collection/works/229016/credit-line",
@@ -5480,6 +5627,27 @@
             "id": "https://data.moma.org/collection/department/archives",
             "type": "Set",
             "_label": "Collection of MoMA's Archives Department"
+          }
+        ],
+        "shows": [
+          {
+            "id": "https://data.moma.org/collection/works/229199/visual-item-1",
+            "type": "VisualItem",
+            "_label": "Visual Item Depicted in the Object",
+            "classified_as": [
+              {
+                "id": "http//vocab.getty.edu/aat/300404126",
+                "type": "Type",
+                "_label": "subjects (content of works)"
+              }
+            ],
+            "represents": [
+              {
+                "id": "http://vocab.getty/edu/ulan/500024301",
+                "type": "Actor",
+                "_label": "Stieglitz, Alfred"
+              }
+            ]
           }
         ],
         "referred_to_by": [
@@ -5719,6 +5887,27 @@
             "id": "https://data.moma.org/collection/department/drawings-prints",
             "type": "Set",
             "_label": "Collection of MoMA's Drawings and Prints Department"
+          }
+        ],
+        "shows": [
+          {
+            "id": "https://data.moma.org/collection/works/33505/visual-item-1",
+            "type": "VisualItem",
+            "_label": "Visual Item Depicted in the Object",
+            "classified_as": [
+              {
+                "id": "http//vocab.getty.edu/aat/300404126",
+                "type": "Type",
+                "_label": "subjects (content of works)"
+              }
+            ],
+            "represents": [
+              {
+                "id": "http://n2t.net/ark:/99166/w6z362q2",
+                "type": "Person",
+                "_label": "Schubart, Dorothy"
+              }
+            ]
           }
         ],
         "referred_to_by": [
