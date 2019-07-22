@@ -220,7 +220,7 @@
           {
             "id": "https://data.discovernewfields.org/object/16563/credit-line",
             "type": "LinguisticObject",
-            "_label": "Indianapolis Museum of Art at Newfields Credit Line for the Object",
+            "_label": "IMA at Newfields Credit Line for the Object",
             "content": "Gift of Anne Marmon Greenleaf in memory of Caroline Marmon Fesler",
             "classified_as": [
               {
@@ -608,7 +608,7 @@
           {
             "id": "https://data.discovernewfields.org/object/16872/credit-line",
             "type": "LinguisticObject",
-            "_label": "Indianapolis Museum of Art at Newfields Credit Line for the Object",
+            "_label": "IMA at Newfields Credit Line for the Object",
             "content": "Gift of Mr. and Mrs. James W. Fesler",
             "classified_as": [
               {
@@ -1004,7 +1004,7 @@
           {
             "id": "https://data.discovernewfields.org/object/37148/credit-line",
             "type": "LinguisticObject",
-            "_label": "Indianapolis Museum of Art at Newfields Credit Line for the Object",
+            "_label": "IMA at Newfields Credit Line for the Object",
             "content": "Gift of Eli Lilly and Company",
             "classified_as": [
               {
@@ -1396,7 +1396,7 @@
           {
             "id": "https://data.discovernewfields.org/object/60715/credit-line",
             "type": "LinguisticObject",
-            "_label": "Indianapolis Museum of Art at Newfields Credit Line for the Object",
+            "_label": "IMA at Newfields Credit Line for the Object",
             "content": "Carl H. Lieber Memorial Fund",
             "classified_as": [
               {
@@ -1847,7 +1847,7 @@
           {
             "id": "https://data.discovernewfields.org/object/13262/credit-line",
             "type": "LinguisticObject",
-            "_label": "Indianapolis Museum of Art at Newfields Credit Line for the Object",
+            "_label": "IMA at Newfields Credit Line for the Object",
             "content": "Caroline Marmon Fesler Fund",
             "classified_as": [
               {
@@ -1883,7 +1883,7 @@
           {
             "id": "https://data.discovernewfields.org/object/13262/materials-statement",
             "type": "LinguisticObject",
-            "_label": "Notes about the Materials in the ",
+            "_label": "Notes about the Materials in the Object",
             "content": "photogravure hinged to paper mount",
             "classified_as": [
               {

@@ -158,7 +158,180 @@
               }
             }
           ]
-        }
+        },
+        "member_of": [
+          {
+            "id": "https://data.moma.org/collection/department/drawings-prints",
+            "type": "Set",
+            "_label": "Collection of MoMA's Drawings and Prints Department"
+          }
+        ],
+        "referred_to_by": [
+          {
+            "id": "https://data.moma.org/collection/works/33250/credit-line",
+            "type": "LinguisticObject",
+            "_label": "MoMA Credit Line for the Object",
+            "content": "Given anonymously (by exchange)",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300026687",
+                "type": "Type",
+                "_label": "acknowledgments"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/33520/materials-statement",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Materials in the Object",
+            "content": "Charcoal on paper",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300010358",
+                "type": "Type",
+                "_label": "materials (substances)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/33250/dimension-statement",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Dimensions of the Object",
+            "content": "19 x 25 1/8\" (48.5 x 63.9 cm)",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300266036",
+                "type": "Type",
+                "_label": "dimensions"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/33250/signature",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Signature(s) on the Object",
+            "content": "Not signed. Not dated.",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300028705",
+                "type": "Type",
+                "_label": "signatures (names)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/33250/inscriptions",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Inscription(s) on the Object",
+            "content": "Primary Inscription: Not signed. Not dated.  Verso:  \"9\" (unindentified hand, graphite)",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300028702",
+                "type": "Type",
+                "_label": "inscriptions"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          }
+        ],
+        "part": [
+          {
+            "id": "https://data.moma.org/collection/works/33250/support",
+            "type": "HumanMadeObject",
+            "_label": "Support Part of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300014844",
+                "type": "Type",
+                "_label": "supports (artists' materials)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300014109",
+                "type": "Type",
+                "_label": "paper (fiber product)"
+              }
+            ],
+            "referred_to_by": [
+              {
+                "id": "https://data.moma.org/collection/works/33250/support/description",
+                "type": "LinguisticObject",
+                "_label": "Description of the Support Part of the Object",
+                "content": "medium thick, white, slightly textured laid paper",
+                "classified_as": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300411780",
+                    "type": "Type",
+                    "_label": "descriptions (documents)"
+                  },
+                  {
+                    "id": "http://vocab.getty.edu/aat/300418049",
+                    "type": "Type",
+                    "_label": "brief texts"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "subject_of": [
+          {
+            "id": "http://www.moma.org/collection/works/33250",
+            "type": "LinguisticObject",
+            "_label": "Homepage for the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab/getty.edu/aat/300264578",
+                "type": "Type",
+                "_label": "Web pages (documents)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300266277",
+                "type": "Type",
+                "_label": "home pages"
+              }
+            ],
+            "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "http://www.moma.org/media/W1siZiIsIjQwMDU2MiJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplIDMwMHgzMDBcdTAwM2UiXV0.jpg?sha=c11afc09ff38a0fa",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
+          }
+        ]
       }
     },
     {
@@ -319,7 +492,180 @@
               }
             }
           ]
-        }
+        },
+        "member_of": [
+          {
+            "id": "https://data.moma.org/collection/department/drawings-prints",
+            "type": "Set",
+            "_label": "Collection of MoMA's Drawings and Prints Department"
+          }
+        ],
+        "referred_to_by": [
+          {
+            "id": "https://data.moma.org/collection/works/33281/credit-line",
+            "type": "LinguisticObject",
+            "_label": "MoMA Credit Line for the Object",
+            "content": "Given anonymously (by exchange)",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300026687",
+                "type": "Type",
+                "_label": "acknowledgments"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/33281/materials-statement",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Materials in the Object",
+            "content": "Charcoal on paper",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300010358",
+                "type": "Type",
+                "_label": "materials (substances)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/33281/dimension-statement",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Dimensions of the Object",
+            "content": "21 3/4 x 14 3/4\" (55.2 x 37.7 cm)",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300266036",
+                "type": "Type",
+                "_label": "dimensions"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/33281/signature",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Signature(s) on the Object",
+            "content": "Not signed. Not dated.",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300028705",
+                "type": "Type",
+                "_label": "signatures (names)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/33281/inscriptions",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Inscription(s) on the Object",
+            "content": "Primary Inscription: Not signed. Not dated.",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300028702",
+                "type": "Type",
+                "_label": "inscriptions"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          }
+        ],
+        "part": [
+          {
+            "id": "https://data.moma.org/collection/works/33281/support",
+            "type": "HumanMadeObject",
+            "_label": "Support Part of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300014844",
+                "type": "Type",
+                "_label": "supports (artists' materials)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300014109",
+                "type": "Type",
+                "_label": "paper (fiber product)"
+              }
+            ],
+            "referred_to_by": [
+              {
+                "id": "https://data.moma.org/collection/works/33281/support/description",
+                "type": "LinguisticObject",
+                "_label": "Description of the Support Part of the Object",
+                "content": "moderately thick, cream, slightly textured wove paper",
+                "classified_as": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300411780",
+                    "type": "Type",
+                    "_label": "descriptions (documents)"
+                  },
+                  {
+                    "id": "http://vocab.getty.edu/aat/300418049",
+                    "type": "Type",
+                    "_label": "brief texts"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "subject_of": [
+          {
+            "id": "http://www.moma.org/collection/works/33281",
+            "type": "LinguisticObject",
+            "_label": "Homepage for the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab/getty.edu/aat/300264578",
+                "type": "Type",
+                "_label": "Web pages (documents)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300266277",
+                "type": "Type",
+                "_label": "home pages"
+              }
+            ],
+            "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "http://www.moma.org/media/W1siZiIsIjI0NDk0NCJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplIDMwMHgzMDBcdTAwM2UiXV0.jpg?sha=72beeab8d842d6a7",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
+          }
+        ]
       }
     },
     {
@@ -480,7 +826,141 @@
               }
             }
           ]
-        }
+        },
+        "member_of": [
+          {
+            "id": "https://data.moma.org/collection/department/painting-sculpture",
+            "type": "Set",
+            "_label": "Collection of MoMA's Painting and Sculpture Department"
+          }
+        ],
+        "referred_to_by": [
+          {
+            "id": "https://data.moma.org/collection/works/78656/credit-line",
+            "type": "LinguisticObject",
+            "_label": "MoMA Credit Line for the Object",
+            "content": "Gift of The Georgia O'Keeffe Foundation",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300026687",
+                "type": "Type",
+                "_label": "acknowledgments"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/78656/materials-statement",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Materials in the Object",
+            "content": "Oil on canvas",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300010358",
+                "type": "Type",
+                "_label": "materials (substances)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/78656/dimension-statement",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Dimensions of the Object",
+            "content": "27 3/8 x 23 1/4\" (69.6 x 59 cm)",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300266036",
+                "type": "Type",
+                "_label": "dimensions"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/78656/signature",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Signature(s) on the Object",
+            "content": "Recto: Not signed. Not dated. Verso: Not visible",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300028705",
+                "type": "Type",
+                "_label": "signatures (names)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/78656/inscriptions",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Inscription(s) on the Object",
+            "content": "Verso: \"Walker Art Center/1710 Lyndale Avenue South-Minneapolis 5 Minnesota/Georgia Okeeffe/ Lake Geroge, Coat and Red/Lent by the Downtown Gallery\" \"BX6\" \"Los Angeles County Museum/ Exposition Park/Los Angeles 7 California/S.O. No 61-344N/Box No. 6\" \"Hayward Gallery London SE 1 8 x 2 071-928-3144/Exhibition Georgia O'Keeffe/ cat. no 22/artist: Georgia O'Keeffe/Title: Lake George, Coat and Red, 1919/Owner Georgia O'Keeffe Foundation\" \"Artist Georgia O'Keeffe No 273. Title: Lake Geroge Coat and Red/Date 1919/ Medium: Oil/Size: 27 x 23 sp/The Downtown Gallery. 27 East 51st Street, New York June 24 1963\"",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300028702",
+                "type": "Type",
+                "_label": "inscriptions"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          }
+        ],
+        "subject_of": [
+          {
+            "id": "http://www.moma.org/collection/works/78656",
+            "type": "LinguisticObject",
+            "_label": "Homepage for the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab/getty.edu/aat/300264578",
+                "type": "Type",
+                "_label": "Web pages (documents)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300266277",
+                "type": "Type",
+                "_label": "home pages"
+              }
+            ],
+            "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "http://www.moma.org/media/W1siZiIsIjE1MTQ0NCJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplIDMwMHgzMDBcdTAwM2UiXV0.jpg?sha=1d8634e879eeffb2",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
+          }
+        ]
       }
     },
     {
@@ -641,7 +1121,123 @@
               }
             }
           ]
-        }
+        },
+        "member_of": [
+          {
+            "id": "https://data.moma.org/collection/department/painting-sculpture",
+            "type": "Set",
+            "_label": "Collection of MoMA's Painting and Sculpture Department"
+          }
+        ],
+        "referred_to_by": [
+          {
+            "id": "https://data.moma.org/collection/works/78677/credit-line",
+            "type": "LinguisticObject",
+            "_label": "MoMA Credit Line for the Object",
+            "content": "Acquired through the Helen Acheson Bequest",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300026687",
+                "type": "Type",
+                "_label": "acknowledgments"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/78677/materials-statement",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Materials in the Object",
+            "content": "Oil on canvas",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300010358",
+                "type": "Type",
+                "_label": "materials (substances)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/78677/dimension-statement",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Dimensions of the Object",
+            "content": "40 1/4 x 30\" (102.1 x 76 cm)",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300266036",
+                "type": "Type",
+                "_label": "dimensions"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/78677/signature",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Signature(s) on the Object",
+            "content": "Signed on back. Not dated.",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300028705",
+                "type": "Type",
+                "_label": "signatures (names)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          }
+        ],
+        "subject_of": [
+          {
+            "id": "http://www.moma.org/collection/works/78677",
+            "type": "LinguisticObject",
+            "_label": "Homepage for the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab/getty.edu/aat/300264578",
+                "type": "Type",
+                "_label": "Web pages (documents)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300266277",
+                "type": "Type",
+                "_label": "home pages"
+              }
+            ],
+            "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "http://www.moma.org/media/W1siZiIsIjE1MTQ3MyJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplIDMwMHgzMDBcdTAwM2UiXV0.jpg?sha=8293c34aa625addb",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
+          }
+        ]
       }
     },
     {
@@ -802,7 +1398,180 @@
               }
             }
           ]
-        }
+        },
+        "member_of": [
+          {
+            "id": "https://data.moma.org/collection/department/drawings-prints",
+            "type": "Set",
+            "_label": "Collection of MoMA's Drawings and Prints Department"
+          }
+        ],
+        "referred_to_by": [
+          {
+            "id": "https://data.moma.org/collection/works/33828/credit-line",
+            "type": "LinguisticObject",
+            "_label": "MoMA Credit Line for the Object",
+            "content": "Mr. and Mrs. Donald B. Straus Fund",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300026687",
+                "type": "Type",
+                "_label": "acknowledgments"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/33828/materials-statement",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Materials in the Object",
+            "content": "Watercolor on paper mounted on board",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300010358",
+                "type": "Type",
+                "_label": "materials (substances)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/33828/dimension-statement",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Dimensions of the Object",
+            "content": "8 7/8 x 11 7/8\" (22.7 x 30.4 cm)",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300266036",
+                "type": "Type",
+                "_label": "dimensions"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/33828/signature",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Signature(s) on the Object",
+            "content": "Not signed. Not dated",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300028705",
+                "type": "Type",
+                "_label": "signatures (names)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/33828/inscriptions",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Inscription(s) on the Object",
+            "content": "Primary Inscription: Not signed. Not dated",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300028702",
+                "type": "Type",
+                "_label": "inscriptions"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          }
+        ],
+        "part": [
+          {
+            "id": "https://data.moma.org/collection/works/33828/support",
+            "type": "HumanMadeObject",
+            "_label": "Support Part of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300014844",
+                "type": "Type",
+                "_label": "supports (artists' materials)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300014109",
+                "type": "Type",
+                "_label": "paper (fiber product)"
+              }
+            ],
+            "referred_to_by": [
+              {
+                "id": "https://data.moma.org/collection/works/33828/support/description",
+                "type": "LinguisticObject",
+                "_label": "Description of the Support Part of the Object",
+                "content": "moderately thick, cream, slightly textured wove paper",
+                "classified_as": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300411780",
+                    "type": "Type",
+                    "_label": "descriptions (documents)"
+                  },
+                  {
+                    "id": "http://vocab.getty.edu/aat/300418049",
+                    "type": "Type",
+                    "_label": "brief texts"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "subject_of": [
+          {
+            "id": "http://www.moma.org/collection/works/33828",
+            "type": "LinguisticObject",
+            "_label": "Homepage for the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab/getty.edu/aat/300264578",
+                "type": "Type",
+                "_label": "Web pages (documents)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300266277",
+                "type": "Type",
+                "_label": "home pages"
+              }
+            ],
+            "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "http://www.moma.org/media/W1siZiIsIjI0NDk1NSJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplIDMwMHgzMDBcdTAwM2UiXV0.jpg?sha=e88d5bb1926fd2d0",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
+          }
+        ]
       }
     },
     {
@@ -876,9 +1645,9 @@
             "_label": "paper (fiber product)"
           },
           {
-          	"id": "http://vocab.getty.edu/aat/300410335",
-          	"type": "Material",
-          	"_label": "pencil (marking material)"
+            "id": "http://vocab.getty.edu/aat/300410335",
+            "type": "Material",
+            "_label": "pencil (marking material)"
           }
         ],
         "produced_by": {
@@ -968,10 +1737,165 @@
               }
             }
           ]
-        }
+        },
+        "member_of": [
+          {
+            "id": "https://data.moma.org/collection/department/drawings-prints",
+            "type": "Set",
+            "_label": "Collection of MoMA's Drawings and Prints Department"
+          }
+        ],
+        "referred_to_by": [
+          {
+            "id": "https://data.moma.org/collection/works/34086/credit-line",
+            "type": "LinguisticObject",
+            "_label": "MoMA Credit Line for the Object",
+            "content": "Acquired with matching funds from the Committee on Drawings and the National Endowment for the Arts",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300026687",
+                "type": "Type",
+                "_label": "acknowledgments"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/34086/materials-statement",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Materials in the Object",
+            "content": "Watercolor and pencil on paper",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300010358",
+                "type": "Type",
+                "_label": "materials (substances)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/34086/dimension-statement",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Dimensions of the Object",
+            "content": "11 7/8 x 8 7/8\" (30.3 x 22.5 cm)",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300266036",
+                "type": "Type",
+                "_label": "dimensions"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/34086/inscriptions",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Inscription(s) on the Object",
+            "content": "Primary Inscription: Not signed. Not dated.",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300028702",
+                "type": "Type",
+                "_label": "inscriptions"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          }
+        ],
+        "part": [
+          {
+            "id": "https://data.moma.org/collection/works/34086/support",
+            "type": "HumanMadeObject",
+            "_label": "Support Part of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300014844",
+                "type": "Type",
+                "_label": "supports (artists' materials)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300014109",
+                "type": "Type",
+                "_label": "paper (fiber product)"
+              }
+            ],
+            "referred_to_by": [
+              {
+                "id": "https://data.moma.org/collection/works/34086/support/description",
+                "type": "LinguisticObject",
+                "_label": "Description of the Support Part of the Object",
+                "content": "Ivory, smooth, wove paper",
+                "classified_as": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300411780",
+                    "type": "Type",
+                    "_label": "descriptions (documents)"
+                  },
+                  {
+                    "id": "http://vocab.getty.edu/aat/300418049",
+                    "type": "Type",
+                    "_label": "brief texts"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "subject_of": [
+          {
+            "id": "http://www.moma.org/collection/works/34086",
+            "type": "LinguisticObject",
+            "_label": "Homepage for the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab/getty.edu/aat/300264578",
+                "type": "Type",
+                "_label": "Web pages (documents)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300266277",
+                "type": "Type",
+                "_label": "home pages"
+              }
+            ],
+            "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "http://www.moma.org/media/W1siZiIsIjI0NDk1OCJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplIDMwMHgzMDBcdTAwM2UiXV0.jpg?sha=b3a27ff27f2f127d",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
+          }
+        ]
       }
     },
-        {
+    {
       "78978": {
         "@context": "https://linked.art/ns/v1/linked-art.json",
         "id": "https://data.moma.org/collection/works/78978",
@@ -1129,7 +2053,123 @@
               }
             }
           ]
-        }
+        },
+        "member_of": [
+          {
+            "id": "https://data.moma.org/collection/department/painting-sculpture",
+            "type": "Set",
+            "_label": "Collection of MoMA's Painting and Sculpture Department"
+          }
+        ],
+        "referred_to_by": [
+          {
+            "id": "https://data.moma.org/collection/works/78978/credit-line",
+            "type": "LinguisticObject",
+            "_label": "MoMA Credit Line for the Object",
+            "content": "Acquired through the Richard D. Brixey Bequest",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300026687",
+                "type": "Type",
+                "_label": "acknowledgments"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/78978/materials-statement",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Materials in the Object",
+            "content": "Oil on canvas",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300010358",
+                "type": "Type",
+                "_label": "materials (substances)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/78978/dimension-statement",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Dimensions of the Object",
+            "content": "40 x 30\" (101.6 x 76.2 cm)",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300266036",
+                "type": "Type",
+                "_label": "dimensions"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/78978/signature",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Signature(s) on the Object",
+            "content": "Signed and dated verso in white paint \"Georgia O'Keeffe / Oct. 1929\"",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300028705",
+                "type": "Type",
+                "_label": "signatures (names)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          }
+        ],
+        "subject_of": [
+          {
+            "id": "http://www.moma.org/collection/works/78978",
+            "type": "LinguisticObject",
+            "_label": "Homepage for the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab/getty.edu/aat/300264578",
+                "type": "Type",
+                "_label": "Web pages (documents)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300266277",
+                "type": "Type",
+                "_label": "home pages"
+              }
+            ],
+            "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "http://www.moma.org/media/W1siZiIsIjE1MTAzNCJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplIDMwMHgzMDBcdTAwM2UiXV0.jpg?sha=7af22cec3fbd3549",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
+          }
+        ]
       }
     },
     {
@@ -1290,7 +2330,105 @@
               }
             }
           ]
-        }
+        },
+        "member_of": [
+          {
+            "id": "https://data.moma.org/collection/department/drawings-prints",
+            "type": "Set",
+            "_label": "Collection of MoMA's Drawings and Prints Department"
+          }
+        ],
+        "referred_to_by": [
+          {
+            "id": "https://data.moma.org/collection/works/35245/credit-line",
+            "type": "LinguisticObject",
+            "_label": "MoMA Credit Line for the Object",
+            "content": "Gift of The Georgia O'Keeffe Foundation",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300026687",
+                "type": "Type",
+                "_label": "acknowledgments"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/35245/materials-statement",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Materials in the Object",
+            "content": "Charcoal on paper",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300010358",
+                "type": "Type",
+                "_label": "materials (substances)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/35245/dimension-statement",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Dimensions of the Object",
+            "content": "19 5/8 x 12 3/4\" (49.8 x 32.4 cm)",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300266036",
+                "type": "Type",
+                "_label": "dimensions"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          }
+        ],
+        "subject_of": [
+          {
+            "id": "http://www.moma.org/collection/works/35245",
+            "type": "LinguisticObject",
+            "_label": "Homepage for the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab/getty.edu/aat/300264578",
+                "type": "Type",
+                "_label": "Web pages (documents)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300266277",
+                "type": "Type",
+                "_label": "home pages"
+              }
+            ],
+            "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "http://www.moma.org/media/W1siZiIsIjI0NDk5MSJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplIDMwMHgzMDBcdTAwM2UiXV0.jpg?sha=eb059c7fe3101cae",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
+          }
+        ]
       }
     },
     {
@@ -1451,7 +2589,123 @@
               }
             }
           ]
-        }
+        },
+        "member_of": [
+          {
+            "id": "https://data.moma.org/collection/department/drawings-prints",
+            "type": "Set",
+            "_label": "Collection of MoMA's Drawings and Prints Department"
+          }
+        ],
+        "referred_to_by": [
+          {
+            "id": "https://data.moma.org/collection/works/35251/credit-line",
+            "type": "LinguisticObject",
+            "_label": "MoMA Credit Line for the Object",
+            "content": "Gift of The Georgia O'Keeffe Foundation",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300026687",
+                "type": "Type",
+                "_label": "acknowledgments"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/35251/materials-statement",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Materials in the Object",
+            "content": "Charcoal on paper",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300010358",
+                "type": "Type",
+                "_label": "materials (substances)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/35251/dimension-statement",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Dimensions of the Object",
+            "content": "24 x 19\" (61 x 48.3 cm)",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300266036",
+                "type": "Type",
+                "_label": "dimensions"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/35251/inscriptions",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Inscription(s) on the Object",
+            "content": "Verso: \"#1\" (unindentified hand, graphite)",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300028702",
+                "type": "Type",
+                "_label": "inscriptions"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          }
+        ],
+        "subject_of": [
+          {
+            "id": "http://www.moma.org/collection/works/35251",
+            "type": "LinguisticObject",
+            "_label": "Homepage for the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab/getty.edu/aat/300264578",
+                "type": "Type",
+                "_label": "Web pages (documents)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300266277",
+                "type": "Type",
+                "_label": "home pages"
+              }
+            ],
+            "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "http://www.moma.org/media/W1siZiIsIjI0NDk5MiJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplIDMwMHgzMDBcdTAwM2UiXV0.jpg?sha=e3308716545a7613",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
+          }
+        ]
       }
     },
     {
@@ -1472,9 +2726,9 @@
             "_label": "photographs"
           },
           {
-          	"id": "http://vocab.getty.edu/aat/300127145",
-          	"type": "Type",
-          	"_label": "platinum prints"
+            "id": "http://vocab.getty.edu/aat/300127145",
+            "type": "Type",
+            "_label": "platinum prints"
           }
         ],
         "identified_by": [
@@ -1562,10 +2816,144 @@
               ]
             }
           ]
-        }
+        },
+        "member_of": [
+          {
+            "id": "https://data.moma.org/collection/department/photography",
+            "type": "Set",
+            "_label": "Collection of MoMA's Photography Department"
+          }
+        ],
+        "referred_to_by": [
+          {
+            "id": "https://data.moma.org/collection/works/91461/credit-line",
+            "type": "LinguisticObject",
+            "_label": "MoMA Credit Line for the Object",
+            "content": "Given anonymously",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300026687",
+                "type": "Type",
+                "_label": "acknowledgments"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/91461/materials-statement",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Materials in the Object",
+            "content": "Platinum print",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300010358",
+                "type": "Type",
+                "_label": "materials (substances)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/91461/dimension-statement",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Dimensions of the Object",
+            "content": "9 3/8 x 7 1/2\" (23.8 x 19.1 cm)",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300266036",
+                "type": "Type",
+                "_label": "dimensions"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/91461/signature",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Signature(s) on the Object",
+            "content": "No signature",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300028705",
+                "type": "Type",
+                "_label": "signatures (names)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/91461/inscriptions",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Inscription(s) on the Object",
+            "content": "\"OK-34B\" inscribed verso on mount in pencil",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300028702",
+                "type": "Type",
+                "_label": "inscriptions"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          }
+        ],
+        "subject_of": [
+          {
+            "id": "https://www.moma.org/collection/works/91461",
+            "type": "LinguisticObject",
+            "_label": "Homepage for the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab/getty.edu/aat/300264578",
+                "type": "Type",
+                "_label": "Web pages (documents)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300266277",
+                "type": "Type",
+                "_label": "home pages"
+              }
+            ],
+            "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "http://www.moma.org/media/W1siZiIsIjE2NTQ2NSJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplIDMwMHgzMDBcdTAwM2UiXV0.jpg?sha=205ec5bc28ddb630",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
+          }
+        ]
       }
     },
-        {
+    {
       "35902": {
         "@context": "https://linked.art/ns/v1/linked-art.json",
         "id": "https://data.moma.org/collection/works/35902",
@@ -1723,7 +3111,162 @@
               }
             }
           ]
-        }
+        },
+        "member_of": [
+          {
+            "id": "https://data.moma.org/collection/department/drawings-prints",
+            "type": "Set",
+            "_label": "Collection of MoMA's Drawings and Prints Department"
+          }
+        ],
+        "referred_to_by": [
+          {
+            "id": "https://data.moma.org/collection/works/35902/credit-line",
+            "type": "LinguisticObject",
+            "_label": "MoMA Credit Line for the Object",
+            "content": "Gift of Abby Aldrich Rockefeller (by exchange)",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300026687",
+                "type": "Type",
+                "_label": "acknowledgments"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/35902/materials-statement",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Materials in the Object",
+            "content": "Charcoal on paper",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300010358",
+                "type": "Type",
+                "_label": "materials (substances)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/35902/dimension-statement",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Dimensions of the Object",
+            "content": "24 7/8 x 18 5/8\" (63.2 x 47.3 cm)",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300266036",
+                "type": "Type",
+                "_label": "dimensions"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/35902/inscriptions",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Inscription(s) on the Object",
+            "content": "L. edge center \"MBM (FRANCE)\" and L. edge, bottom \"INGRES II(?) ARCHES\"",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300028702",
+                "type": "Type",
+                "_label": "inscriptions"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          }
+        ],
+        "part": [
+          {
+            "id": "https://data.moma.org/collection/works/35902/support",
+            "type": "HumanMadeObject",
+            "_label": "Support Part of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300014844",
+                "type": "Type",
+                "_label": "supports (artists' materials)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300014109",
+                "type": "Type",
+                "_label": "paper (fiber product)"
+              }
+            ],
+            "referred_to_by": [
+              {
+                "id": "https://data.moma.org/collection/works/35902/support/description",
+                "type": "LinguisticObject",
+                "_label": "Description of the Support Part of the Object",
+                "content": "cream, smooth, laid",
+                "classified_as": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300411780",
+                    "type": "Type",
+                    "_label": "descriptions (documents)"
+                  },
+                  {
+                    "id": "http://vocab.getty.edu/aat/300418049",
+                    "type": "Type",
+                    "_label": "brief texts"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "subject_of": [
+          {
+            "id": "http://www.moma.org/collection/works/35902",
+            "type": "LinguisticObject",
+            "_label": "Homepage for the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab/getty.edu/aat/300264578",
+                "type": "Type",
+                "_label": "Web pages (documents)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300266277",
+                "type": "Type",
+                "_label": "home pages"
+              }
+            ],
+            "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "http://www.moma.org/media/W1siZiIsIjIxMDk1OSJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplIDMwMHgzMDBcdTAwM2UiXV0.jpg?sha=3aac7ed845d8c7c9",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
+          }
+        ]
       }
     },
     {
@@ -1884,7 +3427,141 @@
               }
             }
           ]
-        }
+        },
+        "member_of": [
+          {
+            "id": "https://data.moma.org/collection/department/painting-sculpture",
+            "type": "Set",
+            "_label": "Collection of MoMA's Painting and Sculpture Department"
+          }
+        ],
+        "referred_to_by": [
+          {
+            "id": "https://data.moma.org/collection/works/79714/credit-line",
+            "type": "LinguisticObject",
+            "_label": "MoMA Credit Line for the Object",
+            "content": "Georgia O'Keeffe Bequest",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300026687",
+                "type": "Type",
+                "_label": "acknowledgments"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/79714/materials-statement",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Materials in the Object",
+            "content": "Oil on canvas",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300010358",
+                "type": "Type",
+                "_label": "materials (substances)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/79714/dimension-statement",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Dimensions of the Object",
+            "content": "48 x 36\" (122 x 96 cm)",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300266036",
+                "type": "Type",
+                "_label": "dimensions"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/79714/signature",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Signature(s) on the Object",
+            "content": "Recto: Not signed. Not dated. Verso: Signed on backing in black ink: \"Georgia O'Keeffe/1977-\"",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300028705",
+                "type": "Type",
+                "_label": "signatures (names)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/79714/inscriptions",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Inscription(s) on the Object",
+            "content": "On white label: \"Georgia O'Keeffe/Abiquiu, New Mexico/Title-FROM A DAY WITH JUAN NO II/Year 1977 Size 48 x 36/Medium and base: Oil on canvas/ photograph: Malcolm Varon Transparency\" On backing in wax pencil: \"Q./9/8/60\"",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300028702",
+                "type": "Type",
+                "_label": "inscriptions"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          }
+        ],
+        "subject_of": [
+          {
+            "id": "http://www.moma.org/collection/works/79714",
+            "type": "LinguisticObject",
+            "_label": "Homepage for the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab/getty.edu/aat/300264578",
+                "type": "Type",
+                "_label": "Web pages (documents)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300266277",
+                "type": "Type",
+                "_label": "home pages"
+              }
+            ],
+            "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "http://www.moma.org/media/W1siZiIsIjE1MTMzNSJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplIDMwMHgzMDBcdTAwM2UiXV0.jpg?sha=201fb3b502a91b68",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
+          }
+        ]
       }
     },
     {
@@ -1956,6 +3633,11 @@
             "id": "http://vocab.getty.edu/aat/300014109",
             "type": "Material",
             "_label": "paper (fiber product)"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300014224",
+            "type": "Material",
+            "_label": "cardboard"
           }
         ],
         "produced_by": {
@@ -2045,7 +3727,162 @@
               }
             }
           ]
-        }
+        },
+        "member_of": [
+          {
+            "id": "https://data.moma.org/collection/department/drawings-prints",
+            "type": "Set",
+            "_label": "Collection of MoMA's Drawings and Prints Department"
+          }
+        ],
+        "referred_to_by": [
+          {
+            "id": "https://data.moma.org/collection/works/37328/credit-line",
+            "type": "LinguisticObject",
+            "_label": "MoMA Credit Line for the Object",
+            "content": "Bequest of Georgia O'Keeffe",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300026687",
+                "type": "Type",
+                "_label": "acknowledgments"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/37328/materials-statement",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Materials in the Object",
+            "content": "Pastel on paper mounted on board",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300010358",
+                "type": "Type",
+                "_label": "materials (substances)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/37328/dimension-statement",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Dimensions of the Object",
+            "content": "27 5/8 x 21 3/4\" (70.2 x 55.2 cm)",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300266036",
+                "type": "Type",
+                "_label": "dimensions"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/37328/inscriptions",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Inscription(s) on the Object",
+            "content": "Primary Inscription: Recto: Not signed. Not dated. Verso: Not signed. Not dated",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300028702",
+                "type": "Type",
+                "_label": "inscriptions"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          }
+        ],
+        "part": [
+          {
+            "id": "https://data.moma.org/collection/works/37328/support",
+            "type": "HumanMadeObject",
+            "_label": "Support Part of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300014844",
+                "type": "Type",
+                "_label": "supports (artists' materials)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300014109",
+                "type": "Type",
+                "_label": "paper (fiber product)"
+              }
+            ],
+            "referred_to_by": [
+              {
+                "id": "https://data.moma.org/collection/works/37328/support/description",
+                "type": "LinguisticObject",
+                "_label": "Description of the Support Part of the Object",
+                "content": "moderately thick, brown wove paper mounted to a thick gray cardboard",
+                "classified_as": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300411780",
+                    "type": "Type",
+                    "_label": "descriptions (documents)"
+                  },
+                  {
+                    "id": "http://vocab.getty.edu/aat/300418049",
+                    "type": "Type",
+                    "_label": "brief texts"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "subject_of": [
+          {
+            "id": "http://www.moma.org/collection/works/37328",
+            "type": "LinguisticObject",
+            "_label": "Homepage for the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab/getty.edu/aat/300264578",
+                "type": "Type",
+                "_label": "Web pages (documents)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300266277",
+                "type": "Type",
+                "_label": "home pages"
+              }
+            ],
+            "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "http://www.moma.org/media/W1siZiIsIjIxMjIyNCJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplIDMwMHgzMDBcdTAwM2UiXV0.jpg?sha=288b6d7843587a7a",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
+          }
+        ]
       }
     },
     {
@@ -2066,9 +3903,9 @@
             "_label": "photographs"
           },
           {
-          	"id": "http://vocab.getty.edu/aat/300134677",
-          	"type": "Type",
-          	"_label": "palladium prints"
+            "id": "http://vocab.getty.edu/aat/300134677",
+            "type": "Type",
+            "_label": "palladium prints"
           }
         ],
         "identified_by": [
@@ -2194,7 +4031,141 @@
               ]
             }
           ]
-        }
+        },
+        "member_of": [
+          {
+            "id": "https://data.moma.org/collection/department/photography",
+            "type": "Set",
+            "_label": "Collection of MoMA's Photography Department"
+          }
+        ],
+        "referred_to_by": [
+          {
+            "id": "https://data.moma.org/collection/works/83915/credit-line",
+            "type": "LinguisticObject",
+            "_label": "MoMA Credit Line for the Object",
+            "content": "Thomas Walther Collection. Grace M. Mayer Fund",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300026687",
+                "type": "Type",
+                "_label": "acknowledgments"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/83915/materials-statement",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Materials in the Object",
+            "content": "Palladium print",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300010358",
+                "type": "Type",
+                "_label": "materials (substances)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/83915/dimension-statement",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Dimensions of the Object",
+            "content": "9 5/16 x 7 3/8\" (23.6 x 18.7 cm)",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300266036",
+                "type": "Type",
+                "_label": "dimensions"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/83915/description",
+            "type": "LinguisticObject",
+            "_label": "Description of the Object",
+            "content": "Image on paper, partially adhered at top to board",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300411780",
+                "type": "Type",
+                "_label": "descriptions (documents)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/83915/inscriptions",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Inscription(s) on the Object",
+            "content": "See Text Entry \"Walther Publication Marks and Inscriptions\"",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300028702",
+                "type": "Type",
+                "_label": "inscriptions"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          }
+        ],
+        "subject_of": [
+          {
+            "id": "https://www.moma.org/collection/works/83915",
+            "type": "LinguisticObject",
+            "_label": "Homepage for the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab/getty.edu/aat/300264578",
+                "type": "Type",
+                "_label": "Web pages (documents)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300266277",
+                "type": "Type",
+                "_label": "home pages"
+              }
+            ],
+            "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "http://www.moma.org/media/W1siZiIsIjE2NTY0MiJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplIDMwMHgzMDBcdTAwM2UiXV0.jpg?sha=e81cfd750e229671",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
+          }
+        ]
       }
     },
     {
@@ -2215,9 +4186,9 @@
             "_label": "photographs"
           },
           {
-          	"id": "http://vocab.getty.edu/aat/300128695",
-          	"type": "Type",
-          	"_label": "gelatin silver prints"
+            "id": "http://vocab.getty.edu/aat/300128695",
+            "type": "Type",
+            "_label": "gelatin silver prints"
           }
         ],
         "identified_by": [
@@ -2343,7 +4314,90 @@
               ]
             }
           ]
-        }
+        },
+        "member_of": [
+          {
+            "id": "https://data.moma.org/collection/department/archives",
+            "type": "Set",
+            "_label": "Collection of MoMA's Archives Department"
+          }
+        ],
+        "referred_to_by": [
+          {
+            "id": "https://data.moma.org/collection/works/229012/credit-line",
+            "type": "LinguisticObject",
+            "_label": "MoMA Credit Line for the Object",
+            "content": "Photographic Archive, Artists and Personalities. The Museum of Modern Art Archives, New York",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300026687",
+                "type": "Type",
+                "_label": "acknowledgments"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/229012/materials-statement",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Materials in the Object",
+            "content": "Gelatin Silver Print",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300010358",
+                "type": "Type",
+                "_label": "materials (substances)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/229012/dimension-statement",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Dimensions of the Object",
+            "content": "5 7/16 x 7 7/8\" (13.8 x 20 cm)",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300266036",
+                "type": "Type",
+                "_label": "dimensions"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          }
+        ],
+        "subject_of": [
+          {
+            "id": "https://maid.moma.org/#/detail/229012",
+            "type": "LinguisticObject",
+            "_label": "Homepage for the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab/getty.edu/aat/300264578",
+                "type": "Type",
+                "_label": "Web pages (documents)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300266277",
+                "type": "Type",
+                "_label": "home pages"
+              }
+            ],
+            "format": "text/html"
+          }
+        ]
       }
     },
     {
@@ -2364,9 +4418,9 @@
             "_label": "photographs"
           },
           {
-          	"id": "http://vocab.getty.edu/aat/300128695",
-          	"type": "Type",
-          	"_label": "gelatin silver prints"
+            "id": "http://vocab.getty.edu/aat/300128695",
+            "type": "Type",
+            "_label": "gelatin silver prints"
           }
         ],
         "identified_by": [
@@ -2492,7 +4546,90 @@
               ]
             }
           ]
-        }
+        },
+        "member_of": [
+          {
+            "id": "https://data.moma.org/collection/department/archives",
+            "type": "Set",
+            "_label": "Collection of MoMA's Archives Department"
+          }
+        ],
+        "referred_to_by": [
+          {
+            "id": "https://data.moma.org/collection/works/229013/credit-line",
+            "type": "LinguisticObject",
+            "_label": "MoMA Credit Line for the Object",
+            "content": "Photographic Archive, Artists and Personalities. The Museum of Modern Art Archives, New York",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300026687",
+                "type": "Type",
+                "_label": "acknowledgments"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/229013/materials-statement",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Materials in the Object",
+            "content": "Gelatin Silver Print",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300010358",
+                "type": "Type",
+                "_label": "materials (substances)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/229013/dimension-statement",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Dimensions of the Object",
+            "content": "7 15/16 x 9 7/8\" (20.2 x 25.1 cm)",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300266036",
+                "type": "Type",
+                "_label": "dimensions"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          }
+        ],
+        "subject_of": [
+          {
+            "id": "https://maid.moma.org/#/detail/229013",
+            "type": "LinguisticObject",
+            "_label": "Homepage for the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab/getty.edu/aat/300264578",
+                "type": "Type",
+                "_label": "Web pages (documents)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300266277",
+                "type": "Type",
+                "_label": "home pages"
+              }
+            ],
+            "format": "text/html"
+          }
+        ]
       }
     },
     {
@@ -2513,9 +4650,9 @@
             "_label": "photographs"
           },
           {
-          	"id": "http://vocab.getty.edu/aat/300128695",
-          	"type": "Type",
-          	"_label": "gelatin silver prints"
+            "id": "http://vocab.getty.edu/aat/300128695",
+            "type": "Type",
+            "_label": "gelatin silver prints"
           }
         ],
         "identified_by": [
@@ -2641,7 +4778,90 @@
               ]
             }
           ]
-        }
+        },
+        "member_of": [
+          {
+            "id": "https://data.moma.org/collection/department/archives",
+            "type": "Set",
+            "_label": "Collection of MoMA's Archives Department"
+          }
+        ],
+        "referred_to_by": [
+          {
+            "id": "https://data.moma.org/collection/works/229014/credit-line",
+            "type": "LinguisticObject",
+            "_label": "MoMA Credit Line for the Object",
+            "content": "Photographic Archive, Artists and Personalities. The Museum of Modern Art Archives, New York",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300026687",
+                "type": "Type",
+                "_label": "acknowledgments"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/229014/materials-statement",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Materials in the Object",
+            "content": "Gelatin Silver Print",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300010358",
+                "type": "Type",
+                "_label": "materials (substances)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/229014/dimension-statement",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Dimensions of the Object",
+            "content": "7 15/16 x 9 7/8\" (20.2 x 25.1 cm)",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300266036",
+                "type": "Type",
+                "_label": "dimensions"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          }
+        ],
+        "subject_of": [
+          {
+            "id": "https://maid.moma.org/#/detail/229014",
+            "type": "LinguisticObject",
+            "_label": "Homepage for the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab/getty.edu/aat/300264578",
+                "type": "Type",
+                "_label": "Web pages (documents)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300266277",
+                "type": "Type",
+                "_label": "home pages"
+              }
+            ],
+            "format": "text/html"
+          }
+        ]
       }
     },
     {
@@ -2662,9 +4882,9 @@
             "_label": "photographs"
           },
           {
-          	"id": "http://vocab.getty.edu/aat/300128695",
-          	"type": "Type",
-          	"_label": "gelatin silver prints"
+            "id": "http://vocab.getty.edu/aat/300128695",
+            "type": "Type",
+            "_label": "gelatin silver prints"
           }
         ],
         "identified_by": [
@@ -2790,7 +5010,90 @@
               ]
             }
           ]
-        }
+        },
+        "member_of": [
+          {
+            "id": "https://data.moma.org/collection/department/archives",
+            "type": "Set",
+            "_label": "Collection of MoMA's Archives Department"
+          }
+        ],
+        "referred_to_by": [
+          {
+            "id": "https://data.moma.org/collection/works/229015/credit-line",
+            "type": "LinguisticObject",
+            "_label": "MoMA Credit Line for the Object",
+            "content": "Photographic Archive, Artists and Personalities. The Museum of Modern Art Archives, New York",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300026687",
+                "type": "Type",
+                "_label": "acknowledgments"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/229015/materials-statement",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Materials in the Object",
+            "content": "Gelatin Silver Print",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300010358",
+                "type": "Type",
+                "_label": "materials (substances)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/229015/dimension-statement",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Dimensions of the Object",
+            "content": "7 15/16 x 9 7/8\" (20.2 x 25.1 cm)",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300266036",
+                "type": "Type",
+                "_label": "dimensions"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          }
+        ],
+        "subject_of": [
+          {
+            "id": "https://maid.moma.org/#/detail/229015",
+            "type": "LinguisticObject",
+            "_label": "Homepage for the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab/getty.edu/aat/300264578",
+                "type": "Type",
+                "_label": "Web pages (documents)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300266277",
+                "type": "Type",
+                "_label": "home pages"
+              }
+            ],
+            "format": "text/html"
+          }
+        ]
       }
     },
     {
@@ -2811,9 +5114,9 @@
             "_label": "photographs"
           },
           {
-          	"id": "http://vocab.getty.edu/aat/300128695",
-          	"type": "Type",
-          	"_label": "gelatin silver prints"
+            "id": "http://vocab.getty.edu/aat/300128695",
+            "type": "Type",
+            "_label": "gelatin silver prints"
           }
         ],
         "identified_by": [
@@ -2939,7 +5242,90 @@
               ]
             }
           ]
-        }
+        },
+        "member_of": [
+          {
+            "id": "https://data.moma.org/collection/department/archives",
+            "type": "Set",
+            "_label": "Collection of MoMA's Archives Department"
+          }
+        ],
+        "referred_to_by": [
+          {
+            "id": "https://data.moma.org/collection/works/229016/credit-line",
+            "type": "LinguisticObject",
+            "_label": "MoMA Credit Line for the Object",
+            "content": "Photographic Archive, Artists and Personalities. The Museum of Modern Art Archives, New York",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300026687",
+                "type": "Type",
+                "_label": "acknowledgments"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/229016/materials-statement",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Materials in the Object",
+            "content": "Gelatin Silver Print",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300010358",
+                "type": "Type",
+                "_label": "materials (substances)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/229016/dimension-statement",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Dimensions of the Object",
+            "content": "9 1/16 x 7 3/8\" (23.1 x 18.8 cm)",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300266036",
+                "type": "Type",
+                "_label": "dimensions"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          }
+        ],
+        "subject_of": [
+          {
+            "id": "https://maid.moma.org/#/detail/229016",
+            "type": "LinguisticObject",
+            "_label": "Homepage for the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab/getty.edu/aat/300264578",
+                "type": "Type",
+                "_label": "Web pages (documents)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300266277",
+                "type": "Type",
+                "_label": "home pages"
+              }
+            ],
+            "format": "text/html"
+          }
+        ]
       }
     },
     {
@@ -2960,9 +5346,9 @@
             "_label": "photographs"
           },
           {
-          	"id": "http://vocab.getty.edu/aat/300128695",
-          	"type": "Type",
-          	"_label": "gelatin silver prints"
+            "id": "http://vocab.getty.edu/aat/300128695",
+            "type": "Type",
+            "_label": "gelatin silver prints"
           }
         ],
         "identified_by": [
@@ -3088,7 +5474,90 @@
               ]
             }
           ]
-        }
+        },
+        "member_of": [
+          {
+            "id": "https://data.moma.org/collection/department/archives",
+            "type": "Set",
+            "_label": "Collection of MoMA's Archives Department"
+          }
+        ],
+        "referred_to_by": [
+          {
+            "id": "https://data.moma.org/collection/works/229199/credit-line",
+            "type": "LinguisticObject",
+            "_label": "MoMA Credit Line for the Object",
+            "content": "Photographic Archive, Artists and Personalities. The Museum of Modern Art Archives, New York",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300026687",
+                "type": "Type",
+                "_label": "acknowledgments"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/229199/materials-statement",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Materials in the Object",
+            "content": "Gelatin Silver Print",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300010358",
+                "type": "Type",
+                "_label": "materials (substances)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/229199/dimension-statement",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Dimensions of the Object",
+            "content": "6 15/16 x 9\" (17.6 x 22.8 cm)",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300266036",
+                "type": "Type",
+                "_label": "dimensions"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          }
+        ],
+        "subject_of": [
+          {
+            "id": "https://maid.moma.org/#/detail/229199",
+            "type": "LinguisticObject",
+            "_label": "Homepage for the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab/getty.edu/aat/300264578",
+                "type": "Type",
+                "_label": "Web pages (documents)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300266277",
+                "type": "Type",
+                "_label": "home pages"
+              }
+            ],
+            "format": "text/html"
+          }
+        ]
       }
     },
     {
@@ -3244,7 +5713,90 @@
               ]
             }
           ]
-        }
+        },
+        "member_of": [
+          {
+            "id": "https://data.moma.org/collection/department/drawings-prints",
+            "type": "Set",
+            "_label": "Collection of MoMA's Drawings and Prints Department"
+          }
+        ],
+        "referred_to_by": [
+          {
+            "id": "https://data.moma.org/collection/works/33505/credit-line",
+            "type": "LinguisticObject",
+            "_label": "MoMA Credit Line for the Object",
+            "content": "Bequest of Dorothy Schubart",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300026687",
+                "type": "Type",
+                "_label": "acknowledgments"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/33505/materials-statement",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Materials in the Object",
+            "content": "Charcoal on paper",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300010358",
+                "type": "Type",
+                "_label": "materials (substances)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/33505/dimension-statement",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Dimensions of the Object",
+            "content": "22 x 18 1/8\" (56 x 46.2 cm)",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300266036",
+                "type": "Type",
+                "_label": "dimensions"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          }
+        ],
+        "subject_of": [
+          {
+            "id": "https://www.moma.org/collection/works/33505",
+            "type": "LinguisticObject",
+            "_label": "Homepage for the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab/getty.edu/aat/300264578",
+                "type": "Type",
+                "_label": "Web pages (documents)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300266277",
+                "type": "Type",
+                "_label": "home pages"
+              }
+            ],
+            "format": "text/html"
+          }
+        ]
       }
     }
   ]
