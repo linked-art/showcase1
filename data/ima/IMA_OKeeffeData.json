@@ -236,6 +236,24 @@
             ]
           },
           {
+            "id": "https://data.discovernewfields.org/object/16563/provenance-statement",
+            "type": "LinguisticObject",
+            "_label": "IMA at Newfields Provenance Statement about the Object",
+            "content": "Purchased from the artist by Caroline Marmon Fesler, Indianapolis, Indiana; by descent to Anne Marmon Greenleaf, Indianapolis, Indiana, in 1960; given to the Indianapolis Museum of Art in 1977.",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055863",
+                "type": "Type",
+                "_label": "provenance (history of ownership)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
             "id": "https://data.discovernewfields.org/object/16563/dimension-statement",
             "type": "LinguisticObject",
             "_label": "Notes about the Dimensions of the Object",
@@ -615,6 +633,24 @@
                 "id": "http://vocab.getty.edu/aat/300026687",
                 "type": "Type",
                 "_label": "acknowledgments"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.discovernewfields.org/object/16872/provenance-statement",
+            "type": "LinguisticObject",
+            "_label": "IMA at Newfields Provenance Statement about the Object",
+            "content": "Purchased from the artist by Caroline Fesler",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055863",
+                "type": "Type",
+                "_label": "provenance (history of ownership)"
               },
               {
                 "id": "http://vocab.getty.edu/aat/300418049",
@@ -1011,6 +1047,24 @@
                 "id": "http://vocab.getty.edu/aat/300026687",
                 "type": "Type",
                 "_label": "acknowledgments"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.discovernewfields.org/object/37148/provenance-statement",
+            "type": "LinguisticObject",
+            "_label": "IMA at Newfields Provenance Statement about the Object",
+            "content": "Elizabeth Arden commissioned the piece from the artist; Elizabeth Arden salon was purchased by Eli Lilly and Co, Indianapolis, Indiana, in 1971; Eli Lilly donated the painting to the museum in 1997.",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055863",
+                "type": "Type",
+                "_label": "provenance (history of ownership)"
               },
               {
                 "id": "http://vocab.getty.edu/aat/300418049",
