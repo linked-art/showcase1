@@ -186,6 +186,24 @@
             ]
           },
           {
+            "id": "https://data.moma.org/collection/works/33250/provenance-statement",
+            "type": "LinguisticObject",
+            "_label": "MoMA Provenance Statement about the Object",
+            "content": "December 20, 1935, The Museum of Modern Art, New York, acquired from the artist through Alfred Stieglitz with 18.1936, 20.1936 and 21.1936 in exchange for 119.1935.",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055863",
+                "type": "Type",
+                "_label": "provenance (history of ownership)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
             "id": "https://data.moma.org/collection/works/33520/materials-statement",
             "type": "LinguisticObject",
             "_label": "Notes about the Materials in the Object",
@@ -511,6 +529,24 @@
                 "id": "http://vocab.getty.edu/aat/300026687",
                 "type": "Type",
                 "_label": "acknowledgments"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/33281/provenance-statement",
+            "type": "LinguisticObject",
+            "_label": "MoMA Provenance Statement about the Object",
+            "content": "December 20, 1935, The Museum of Modern Art, New York, acquired from the artist through Alfred Stieglitz with 18.1936, 19.1936 and 20.1936 in exchange for 119.1935.",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055863",
+                "type": "Type",
+                "_label": "provenance (history of ownership)"
               },
               {
                 "id": "http://vocab.getty.edu/aat/300418049",
@@ -854,6 +890,24 @@
             ]
           },
           {
+            "id": "https://data.moma.org/collection/works/78656/provenance-statement",
+            "type": "LinguisticObject",
+            "_label": "MoMA Provenance Statement about the Object",
+            "content": "1919-1986, Georgia O'Keeffe, Abiquiú, New Mexico.\n1986-1993, Estate of the artist, Abiquiú, New Mexico.\n1993-December 27, 1994, The Georgia O'Keeffe Foundation, Abiquiú, New Mexico.\nDecember 27, 1994, The Museum of Modern Art, New York, acquired as gift from The Georgia O'Keeffe Foundation.",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055863",
+                "type": "Type",
+                "_label": "provenance (history of ownership)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
             "id": "https://data.moma.org/collection/works/78656/materials-statement",
             "type": "LinguisticObject",
             "_label": "Notes about the Materials in the Object",
@@ -1149,6 +1203,24 @@
             ]
           },
           {
+            "id": "https://data.moma.org/collection/works/78677/provenance-statement",
+            "type": "LinguisticObject",
+            "_label": "MoMA Provenance Statement about the Object",
+            "content": "Georgia O'Keeffe, Abiquiú, New Mexico.\n1959-[January 30, 1979], Dr. Helen Boignon, New York, probably purchased from the artist through Downtown Gallery, New York.\nJanuary 30, 1979, The Museum of Modern Art, New York, purchased from a private collection (probably Helen Boignon), New York through Hirschl & Adler Galleries (Norman Hirschl), New York.",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055863",
+                "type": "Type",
+                "_label": "provenance (history of ownership)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
             "id": "https://data.moma.org/collection/works/78677/materials-statement",
             "type": "LinguisticObject",
             "_label": "Notes about the Materials in the Object",
@@ -1417,6 +1489,24 @@
                 "id": "http://vocab.getty.edu/aat/300026687",
                 "type": "Type",
                 "_label": "acknowledgments"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/33828/provenance-statement",
+            "type": "LinguisticObject",
+            "_label": "MoMA Provenance Statement about the Object",
+            "content": "1917-April 22, 1958, , Georgia O'Keeffe, Abiquiú, New Mexico.\nApril 22, 1958, The Museum of Modern Art, New York, purchased from the artist through Downtown Gallery, New York.",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055863",
+                "type": "Type",
+                "_label": "provenance (history of ownership)"
               },
               {
                 "id": "http://vocab.getty.edu/aat/300418049",
@@ -1765,6 +1855,24 @@
             ]
           },
           {
+            "id": "https://data.moma.org/collection/works/34086/provenance-statement",
+            "type": "LinguisticObject",
+            "_label": "MoMA Provenance Statement about the Object",
+            "content": "1916-June 15, 1977, Georgia O'Keeffe, Abiquiú, New Mexico.\nJune 15, 1977, The Museum of Modern Art, New York, purchased from the artist through Doris Bry, New York.",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055863",
+                "type": "Type",
+                "_label": "provenance (history of ownership)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
             "id": "https://data.moma.org/collection/works/34086/materials-statement",
             "type": "LinguisticObject",
             "_label": "Notes about the Materials in the Object",
@@ -2081,6 +2189,24 @@
             ]
           },
           {
+            "id": "https://data.moma.org/collection/works/78978/provenance-statement",
+            "type": "LinguisticObject",
+            "_label": "MoMA Provenance Statement about the Object",
+            "content": "1929-April 26, 1945, Georgia O'Keeffe, Abiquiú, New Mexico.\nApril 26, 1945, The Museum of Modern Art, New York, purchased and acquired from the artist through An American Place (Alfred Stieglitz) in exchange for 109.1943.",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055863",
+                "type": "Type",
+                "_label": "provenance (history of ownership)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
             "id": "https://data.moma.org/collection/works/78978/materials-statement",
             "type": "LinguisticObject",
             "_label": "Notes about the Materials in the Object",
@@ -2358,6 +2484,24 @@
             ]
           },
           {
+            "id": "https://data.moma.org/collection/works/35245/provenance-statement",
+            "type": "LinguisticObject",
+            "_label": "MoMA Provenance Statement about the Object",
+            "content": "1919-1986, Georgia O'Keeffe, Abiquiú, New Mexico.\n1986-1993, Estate of the artist, Abiquiú, New Mexico.\n1993-December 27, 1994, The Georgia O'Keeffe Foundation, Abiquiú, New Mexico.\nDecember 27, 1994, The Museum of Modern Art, New York, acquired as gift from The Georgia O'Keeffe Foundation.",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055863",
+                "type": "Type",
+                "_label": "provenance (history of ownership)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
             "id": "https://data.moma.org/collection/works/35245/materials-statement",
             "type": "LinguisticObject",
             "_label": "Notes about the Materials in the Object",
@@ -2608,6 +2752,24 @@
                 "id": "http://vocab.getty.edu/aat/300026687",
                 "type": "Type",
                 "_label": "acknowledgments"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/35251/provenance-statement",
+            "type": "LinguisticObject",
+            "_label": "MoMA Provenance Statement about the Object",
+            "content": "1916-1986, Georgia O'Keeffe, Abiquiú, New Mexico.\n1986-1993, Estate of the artist, Abiquiú, New Mexico.\n1993-December 27, 1994, The Georgia O'Keeffe Foundation, Abiquiú, New Mexico.\nDecember 27, 1994, The Museum of Modern Art, New York, acquired as gift from The Georgia O'Keeffe Foundation.",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055863",
+                "type": "Type",
+                "_label": "provenance (history of ownership)"
               },
               {
                 "id": "http://vocab.getty.edu/aat/300418049",
@@ -3160,6 +3322,24 @@
             ]
           },
           {
+            "id": "https://data.moma.org/collection/works/35902/provenance-statement",
+            "type": "LinguisticObject",
+            "_label": "MoMA Provenance Statement about the Object",
+            "content": "1959-October 2, 1972, Georgia O'Keeffe, Abiquiú, New Mexico.\nOctober 2, 1972, The Museum of Modern Art, New York, acquired from the artist through Doris Bry, New York in exchange for 18.1936 and 20.1936.",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055863",
+                "type": "Type",
+                "_label": "provenance (history of ownership)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
             "id": "https://data.moma.org/collection/works/35902/materials-statement",
             "type": "LinguisticObject",
             "_label": "Notes about the Materials in the Object",
@@ -3476,6 +3656,24 @@
             ]
           },
           {
+            "id": "https://data.moma.org/collection/works/79714/provenance-statement",
+            "type": "LinguisticObject",
+            "_label": "MoMA Provenance Statement about the Object",
+            "content": "1977-1986, Georgia O'Keeffe, Abiquiú, New Mexico.\n1986-1987, Estate of the artist, Abiquiú, New Mexico.\n1987, The Museum of Modern Art, New York, acquired as bequest from the Estate of the artist.",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055863",
+                "type": "Type",
+                "_label": "provenance (history of ownership)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
             "id": "https://data.moma.org/collection/works/79714/materials-statement",
             "type": "LinguisticObject",
             "_label": "Notes about the Materials in the Object",
@@ -3767,6 +3965,24 @@
                 "id": "http://vocab.getty.edu/aat/300026687",
                 "type": "Type",
                 "_label": "acknowledgments"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.moma.org/collection/works/37328/provenance-statement",
+            "type": "LinguisticObject",
+            "_label": "MoMA Provenance Statement about the Object",
+            "content": "Georgia O'Keeffe, Abiquiú, New Mexico.\nBy 1965, Anita O'Keeffe (Mrs. Robert R.) Young, Newport, Rhode Island.\nGeorgia O'Keeffe, Abiquiú, New Mexico.\n1986-1987, Estate of the artist, Abiquiú, New Mexico.\n1987, The Museum of Modern Art, New York, acquired as bequest from the Estate of the artist.",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055863",
+                "type": "Type",
+                "_label": "provenance (history of ownership)"
               },
               {
                 "id": "http://vocab.getty.edu/aat/300418049",
