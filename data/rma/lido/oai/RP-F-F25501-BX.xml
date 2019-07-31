@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<OAI-PMH xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rm="http://rijksmuseum.nl/collection" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <responseDate>2019-07-29T18:49:31Z</responseDate>
+  <request verb="GetRecord" identifier="oai:rijksmuseum.nl:RP-F-F25501-BX" metadataPrefix="lido" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/">https://www.rijksmuseum.nl/api/oai/hABtMJcb</request>
+  <GetRecord xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-F25501-BX</identifier>
+        <datestamp>2018-09-06T14:23:28Z</datestamp>
+      </header>
+      <metadata>
+        <record xmlns:lido="http://www.lido-schema.org">
+          <header>
+            <identifier>oai:rijksmuseum.nl:RP-F-F25501-BX</identifier>
+            <datestamp>2018-09-06T16:23:28Z</datestamp>
+          </header>
+          <metadata>
+            <lido:lidoWrap xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
+              <lido:lido>
+                <lido:lidoRecID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">NL-AsdRM/lido/281436</lido:lidoRecID>
+                <lido:objectPublishedID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">http://hdl.handle.net/10934/RM0001.COLLECT.281436</lido:objectPublishedID>
+                <lido:descriptiveMetadata xml:lang="en">
+                  <lido:objectClassificationWrap>
+                    <lido:objectWorkTypeWrap>
+                      <lido:objectWorkType>
+                        <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri" lido:source="http://vocab.getty.edu/aat">http://vocab.getty.edu/aat/300046300</lido:conceptID>
+                        <lido:term xml:lang="en">photograph</lido:term>
+                        <lido:term xml:lang="nl">foto</lido:term>
+                      </lido:objectWorkType>
+                    </lido:objectWorkTypeWrap>
+                    <lido:classificationWrap>
+                      <lido:classification lido:type="http://vocab.getty.edu/aat/300025976">
+                        <lido:term xml:lang="nl">foto's</lido:term>
+                      </lido:classification>
+                    </lido:classificationWrap>
+                  </lido:objectClassificationWrap>
+                  <lido:objectIdentificationWrap>
+                    <lido:titleWrap>
+                      <lido:titleSet>
+                        <lido:appellationValue xml:lang="nl">L'Hiver, cinquieme avenue</lido:appellationValue>
+                      </lido:titleSet>
+                    </lido:titleWrap>
+                    <lido:repositoryWrap>
+                      <lido:repositorySet>
+                        <lido:repositoryName>
+                          <lido:legalBodyID lido:type="http://terminology.lido-schema.org/identifier_type/uri" lido:source="ISIL (ISO 15511)">NL-AsdRM</lido:legalBodyID>
+                          <lido:legalBodyName>
+                            <lido:appellationValue>Rijksmuseum</lido:appellationValue>
+                          </lido:legalBodyName>
+                          <lido:legalBodyWeblink>https://www.rijksmuseum.nl/</lido:legalBodyWeblink>
+                        </lido:repositoryName>
+                        <lido:workID lido:type="inventory number">RP-F-F25501-BX</lido:workID>
+                        <lido:repositoryLocation>
+                          <lido:placeID lido:type="http://terminology.lido-schema.org/identifier_type/uri" lido:source="http://sws.geonames.org/">http://sws.geonames.org/6884785</lido:placeID>
+                          <lido:namePlaceSet>
+                            <lido:appellationValue>Rijksmuseum Amsterdam</lido:appellationValue>
+                          </lido:namePlaceSet>
+                        </lido:repositoryLocation>
+                      </lido:repositorySet>
+                    </lido:repositoryWrap>
+                    <lido:objectMeasurementsWrap>
+                      <lido:objectMeasurementsSet>
+                        <lido:objectMeasurements>
+                          <lido:measurementsSet>
+                            <lido:measurementType xml:lang="en">height</lido:measurementType>
+                            <lido:measurementType xml:lang="nl">hoogte</lido:measurementType>
+                            <lido:measurementUnit xml:lang="en">mm</lido:measurementUnit>
+                            <lido:measurementUnit xml:lang="nl">mm</lido:measurementUnit>
+                          </lido:measurementsSet>
+                        </lido:objectMeasurements>
+                      </lido:objectMeasurementsSet>
+                      <lido:objectMeasurementsSet>
+                        <lido:objectMeasurements>
+                          <lido:measurementsSet>
+                            <lido:measurementType xml:lang="en">width</lido:measurementType>
+                            <lido:measurementType xml:lang="nl">breedte</lido:measurementType>
+                            <lido:measurementUnit xml:lang="en">mm</lido:measurementUnit>
+                            <lido:measurementUnit xml:lang="nl">mm</lido:measurementUnit>
+                          </lido:measurementsSet>
+                        </lido:objectMeasurements>
+                      </lido:objectMeasurementsSet>
+                    </lido:objectMeasurementsWrap>
+                  </lido:objectIdentificationWrap>
+                  <lido:eventWrap>
+                    <lido:eventSet>
+                      <lido:event>
+                        <lido:eventType>
+                          <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/eventType/expression_creation</lido:conceptID>
+                          <lido:term xml:lang="en">Expression creation</lido:term>
+                        </lido:eventType>
+                        <lido:eventActor>
+                          <lido:actorInRole>
+                            <lido:actor lido:type="http://terminology.lido-schema.org/actor_type/person">
+                              <lido:actorID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">RM0001.PEOPLE.16581</lido:actorID>
+                              <lido:nameActorSet>
+                                <lido:appellationValue xml:lang="nl">Stieglitz, Alfred</lido:appellationValue>
+                              </lido:nameActorSet>
+                              <lido:nationalityActor>
+                                <lido:term xml:lang="nl">Amerikaans</lido:term>
+                              </lido:nationalityActor>
+                              <lido:vitalDatesActor>
+                                <lido:earliestDate>1864-01-01</lido:earliestDate>
+                                <lido:latestDate>1946-07-13</lido:latestDate>
+                              </lido:vitalDatesActor>
+                            </lido:actor>
+                            <lido:roleActor>
+                              <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">RM0001.THESAU.48960</lido:conceptID>
+                              <lido:term xml:lang="nl">fotograaf</lido:term>
+                            </lido:roleActor>
+                          </lido:actorInRole>
+                        </lido:eventActor>
+                        <lido:eventDate>
+                          <lido:date>
+                            <lido:earliestDate>1896</lido:earliestDate>
+                            <lido:latestDate>1896</lido:latestDate>
+                          </lido:date>
+                        </lido:eventDate>
+                        <lido:periodName>
+                          <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">RM0001.THESAU.58553</lido:conceptID>
+                          <lido:term xml:lang="en">fourth quarter 19th century</lido:term>
+                          <lido:term xml:lang="nl">vierde kwart 19e eeuw</lido:term>
+                        </lido:periodName>
+                        <lido:eventMaterialsTech>
+                          <lido:materialsTech>
+                            <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/termMaterialsTech_type/technique">
+                              <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">RM0001.THESAU.14896</lido:conceptID>
+                              <lido:term xml:lang="nl">heliogravure</lido:term>
+                            </lido:termMaterialsTech>
+                          </lido:materialsTech>
+                        </lido:eventMaterialsTech>
+                      </lido:event>
+                    </lido:eventSet>
+                    <lido:eventSet>
+                      <lido:event>
+                        <lido:eventType>
+                          <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/eventType/expression_creation</lido:conceptID>
+                          <lido:term xml:lang="en">Expression creation</lido:term>
+                        </lido:eventType>
+                        <lido:eventActor>
+                          <lido:actorInRole>
+                            <lido:actor lido:type="http://terminology.lido-schema.org/actor_type/person">
+                              <lido:actorID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">RM0001.PEOPLE.70528</lido:actorID>
+                              <lido:nameActorSet>
+                                <lido:appellationValue xml:lang="nl">Fillon &amp; Heuse</lido:appellationValue>
+                              </lido:nameActorSet>
+                            </lido:actor>
+                            <lido:roleActor>
+                              <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">RM0001.THESAU.29052</lido:conceptID>
+                              <lido:term xml:lang="en">printer</lido:term>
+                              <lido:term xml:lang="nl">drukker</lido:term>
+                            </lido:roleActor>
+                          </lido:actorInRole>
+                        </lido:eventActor>
+                      </lido:event>
+                    </lido:eventSet>
+                    <lido:eventSet>
+                      <lido:event>
+                        <lido:eventType>
+                          <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/eventType/acquisition</lido:conceptID>
+                          <lido:term xml:lang="en">Acquisition</lido:term>
+                          <lido:term xml:lang="nl">Acquisitie</lido:term>
+                        </lido:eventType>
+                        <lido:eventDate>
+                          <lido:date>
+                            <lido:earliestDate>1994</lido:earliestDate>
+                            <lido:latestDate>1994</lido:latestDate>
+                          </lido:date>
+                        </lido:eventDate>
+                        <lido:eventMethod>
+                          <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">RM0001.THESAU.766</lido:conceptID>
+                          <lido:term xml:lang="en">transfer</lido:term>
+                          <lido:term xml:lang="nl">overdracht van beheer</lido:term>
+                        </lido:eventMethod>
+                      </lido:event>
+                    </lido:eventSet>
+                  </lido:eventWrap>
+                </lido:descriptiveMetadata>
+                <lido:administrativeMetadata xml:lang="en">
+                  <lido:rightsWorkWrap>
+                    <lido:rightsWorkSet>
+                      <lido:rightsType>
+                        <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri" lido:source="http://creativecommons.org">https://creativecommons.org/publicdomain/mark/1.0/</lido:conceptID>
+                        <lido:term>Public Domain Mark 1.0</lido:term>
+                      </lido:rightsType>
+                    </lido:rightsWorkSet>
+                  </lido:rightsWorkWrap>
+                  <lido:recordWrap>
+                    <lido:recordID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">281436</lido:recordID>
+                    <lido:recordType>
+                      <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri" lido:source="http://terminology.lido-schema.org/recordType">http://terminology.lido-schema.org/recordType/item-level_record</lido:conceptID>
+                      <lido:term>Item-level record</lido:term>
+                    </lido:recordType>
+                    <lido:recordSource>
+                      <lido:legalBodyID lido:type="http://terminology.lido-schema.org/identifier_type/uri" lido:source="ISIL (ISO 15511)">NL-AsdRM</lido:legalBodyID>
+                      <lido:legalBodyName>
+                        <lido:appellationValue>Rijksmuseum</lido:appellationValue>
+                      </lido:legalBodyName>
+                      <lido:legalBodyWeblink>https://www.rijksmuseum.nl/</lido:legalBodyWeblink>
+                    </lido:recordSource>
+                    <lido:recordRights>
+                      <lido:rightsType>
+                        <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri" lido:source="http://creativecommons.org">https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+                        <lido:term>CC0 1.0 Universal (CC0 1.0)</lido:term>
+                      </lido:rightsType>
+                      <lido:rightsHolder>
+                        <lido:legalBodyID lido:type="http://terminology.lido-schema.org/identifier_type/uri" lido:source="ISIL (ISO 15511)">NL-AsdRM</lido:legalBodyID>
+                        <lido:legalBodyName>
+                          <lido:appellationValue>Rijksmuseum</lido:appellationValue>
+                        </lido:legalBodyName>
+                        <lido:legalBodyWeblink>https://www.rijksmuseum.nl/</lido:legalBodyWeblink>
+                      </lido:rightsHolder>
+                      <lido:creditLine>Rijksmuseum</lido:creditLine>
+                    </lido:recordRights>
+                    <lido:recordInfoSet>
+                      <lido:recordInfoID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">oai:rijksmuseum.nl:RP-F-F25501-BX</lido:recordInfoID>
+                      <lido:recordInfoLink lido:formatResource="html">http://hdl.handle.net/10934/RM0001.COLLECT.281436</lido:recordInfoLink>
+                      <lido:recordMetadataDate>2018-09-06T16:23:28</lido:recordMetadataDate>
+                    </lido:recordInfoSet>
+                  </lido:recordWrap>
+                  <lido:resourceWrap>
+                    <lido:resourceSet>
+                      <lido:resourceID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">{EB2B008A-8C30-4BBE-B4E8-BDBBEFF31D43}</lido:resourceID>
+                      <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/resourceRepresentation_type/provided_image">
+                        <lido:linkResource/>
+                      </lido:resourceRepresentation>
+                      <lido:resourceDescription lido:type="download"/>
+                      <lido:rightsResource>
+                        <lido:rightsType>
+                          <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri" lido:source="http://creativecommons.org">https://creativecommons.org/publicdomain/mark/1.0/</lido:conceptID>
+                          <lido:term>Public Domain Mark 1.0</lido:term>
+                        </lido:rightsType>
+                        <lido:creditLine>Rijksmuseum</lido:creditLine>
+                      </lido:rightsResource>
+                    </lido:resourceSet>
+                  </lido:resourceWrap>
+                </lido:administrativeMetadata>
+              </lido:lido>
+            </lido:lidoWrap>
+          </metadata>
+        </record>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>
