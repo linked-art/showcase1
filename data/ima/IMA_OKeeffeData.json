@@ -192,13 +192,18 @@
               "timespan": {
                 "id": "https://data.discovernewfields.org/object/16563/IMA-acquisition/timespan",
                 "type": "TimeSpan",
-                "_label": "1977-09-22",
-                "begin_of_the_begin": "1977-09-22T00:00:00",
-                "end_of_the_end": "1977-09-22T00:00:00"
+                "_label": "1977-09-22"
               }
             }
           ]
         },
+        "member_of": [
+          {
+            "id": "https://data.discovernewfields.org/collection/9012",
+            "type": "Set",
+            "_label": "Collection of IMA at Newfields' American Painting and Sculpture 1800-1945 Department"
+          }
+        ],
         "current_location": {
           "id": "https://data.discovernewfields.org/thesauri/location/K203",
           "type": "Place",
@@ -215,13 +220,31 @@
           {
             "id": "https://data.discovernewfields.org/object/16563/credit-line",
             "type": "LinguisticObject",
-            "_label": "Indianapolis Museum of Art at Newfields Credit Line for the Object",
+            "_label": "IMA at Newfields Credit Line for the Object",
             "content": "Gift of Anne Marmon Greenleaf in memory of Caroline Marmon Fesler",
             "classified_as": [
               {
                 "id": "http://vocab.getty.edu/aat/300026687",
                 "type": "Type",
                 "_label": "acknowledgments"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.discovernewfields.org/object/16563/provenance-statement",
+            "type": "LinguisticObject",
+            "_label": "IMA at Newfields Provenance Statement about the Object",
+            "content": "Purchased from the artist by Caroline Marmon Fesler, Indianapolis, Indiana; by descent to Anne Marmon Greenleaf, Indianapolis, Indiana, in 1960; given to the Indianapolis Museum of Art in 1977.",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055863",
+                "type": "Type",
+                "_label": "provenance (history of ownership)"
               },
               {
                 "id": "http://vocab.getty.edu/aat/300418049",
@@ -390,6 +413,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "http://collection.imamuseum.org/artwork/80035/0_full.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -560,13 +598,18 @@
               "timespan": {
                 "id": "https://data.discovernewfields.org/object/16872/IMA-acquisition/timespan",
                 "type": "TimeSpan",
-                "_label": "1943-01-01",
-                "begin_of_the_begin": "1943-01-01T00:00:00",
-                "end_of_the_end": "1943-01-01T00:00:00"
+                "_label": "1943-01-01"
               }
             }
           ]
         },
+        "member_of": [
+          {
+            "id": "https://data.discovernewfields.org/collection/9012",
+            "type": "Set",
+            "_label": "Collection of IMA at Newfields' American Painting and Sculpture 1800-1945 Department"
+          }
+        ],
         "current_location": {
           "id": "https://data.discovernewfields.org/thesauri/location/K203",
           "type": "Place",
@@ -583,13 +626,31 @@
           {
             "id": "https://data.discovernewfields.org/object/16872/credit-line",
             "type": "LinguisticObject",
-            "_label": "Indianapolis Museum of Art at Newfields Credit Line for the Object",
+            "_label": "IMA at Newfields Credit Line for the Object",
             "content": "Gift of Mr. and Mrs. James W. Fesler",
             "classified_as": [
               {
                 "id": "http://vocab.getty.edu/aat/300026687",
                 "type": "Type",
                 "_label": "acknowledgments"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.discovernewfields.org/object/16872/provenance-statement",
+            "type": "LinguisticObject",
+            "_label": "IMA at Newfields Provenance Statement about the Object",
+            "content": "Purchased from the artist by Caroline Fesler",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055863",
+                "type": "Type",
+                "_label": "provenance (history of ownership)"
               },
               {
                 "id": "http://vocab.getty.edu/aat/300418049",
@@ -740,6 +801,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "http://collection.imamuseum.org/artwork/55829/0_full.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -936,13 +1012,18 @@
               "timespan": {
                 "id": "https://data.discovernewfields.org/object/37148/IMA-acquisition/timespan",
                 "type": "TimeSpan",
-                "_label": "1997-11-13",
-                "begin_of_the_begin": "1997-11-13T00:00:00",
-                "end_of_the_end": "1997-11-13T00:00:00"
+                "_label": "1997-11-13"
               }
             }
           ]
         },
+        "member_of": [
+          {
+            "id": "https://data.discovernewfields.org/collection/9012",
+            "type": "Set",
+            "_label": "Collection of IMA at Newfields' American Painting and Sculpture 1800-1945 Department"
+          }
+        ],
         "current_location": {
           "id": "https://data.discovernewfields.org/thesauri/location/K203",
           "type": "Place",
@@ -959,13 +1040,31 @@
           {
             "id": "https://data.discovernewfields.org/object/37148/credit-line",
             "type": "LinguisticObject",
-            "_label": "Indianapolis Museum of Art at Newfields Credit Line for the Object",
+            "_label": "IMA at Newfields Credit Line for the Object",
             "content": "Gift of Eli Lilly and Company",
             "classified_as": [
               {
                 "id": "http://vocab.getty.edu/aat/300026687",
                 "type": "Type",
                 "_label": "acknowledgments"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://data.discovernewfields.org/object/37148/provenance-statement",
+            "type": "LinguisticObject",
+            "_label": "IMA at Newfields Provenance Statement about the Object",
+            "content": "Elizabeth Arden commissioned the piece from the artist; Elizabeth Arden salon was purchased by Eli Lilly and Co, Indianapolis, Indiana, in 1971; Eli Lilly donated the painting to the museum in 1997.",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055863",
+                "type": "Type",
+                "_label": "provenance (history of ownership)"
               },
               {
                 "id": "http://vocab.getty.edu/aat/300418049",
@@ -1153,6 +1252,21 @@
             ],
             "format": "text/html"
           }
+        ],
+        "representation": [
+          {
+            "id": "http://collection.imamuseum.org/artwork/51855/0_full.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
+          }
         ]
       }
     },
@@ -1315,13 +1429,18 @@
               "timespan": {
                 "id": "https://data.discovernewfields.org/object/60715/IMA-acquisition/timespan",
                 "type": "TimeSpan",
-                "_label": "2003-05-22",
-                "begin_of_the_begin": "2003-05-22T00:00:00",
-                "end_of_the_end": "2003-05-22T00:00:00"
+                "_label": "2003-05-22"
               }
             }
           ]
         },
+        "member_of": [
+          {
+            "id": "https://data.discovernewfields.org/collection/9041",
+            "type": "Set",
+            "_label": "Collection of IMA at Newfields' Prints, Drawings, and Photographs Department"
+          }
+        ],
         "current_location": {
           "id": "https://data.discovernewfields.org/thesauri/location/storage",
           "type": "Place",
@@ -1331,7 +1450,7 @@
           {
             "id": "https://data.discovernewfields.org/object/60715/credit-line",
             "type": "LinguisticObject",
-            "_label": "Indianapolis Museum of Art at Newfields Credit Line for the Object",
+            "_label": "IMA at Newfields Credit Line for the Object",
             "content": "Carl H. Lieber Memorial Fund",
             "classified_as": [
               {
@@ -1633,7 +1752,7 @@
         ]
       }
     },
-        {
+    {
       "13262": {
         "@context": "https://linked.art/ns/v1/linked-art.json",
         "id": "https://data.discovernewfields.org/object/13262",
@@ -1761,13 +1880,18 @@
               "timespan": {
                 "id": "https://data.discovernewfields.org/object/13262/IMA-acquisition/timespan",
                 "type": "TimeSpan",
-                "_label": "1995-03-16",
-                "begin_of_the_begin": "1995-03-16T00:00:00",
-                "end_of_the_end": "1995-03-16T00:00:00"
+                "_label": "1995-03-16"
               }
             }
           ]
         },
+        "member_of": [
+          {
+            "id": "https://data.discovernewfields.org/collection/9041",
+            "type": "Set",
+            "_label": "Collection of IMA at Newfields' Prints, Drawings, and Photographs Department"
+          }
+        ],
         "current_location": {
           "id": "https://data.discovernewfields.org/thesauri/location/storage",
           "type": "Place",
@@ -1777,7 +1901,7 @@
           {
             "id": "https://data.discovernewfields.org/object/13262/credit-line",
             "type": "LinguisticObject",
-            "_label": "Indianapolis Museum of Art at Newfields Credit Line for the Object",
+            "_label": "IMA at Newfields Credit Line for the Object",
             "content": "Caroline Marmon Fesler Fund",
             "classified_as": [
               {
@@ -1813,7 +1937,7 @@
           {
             "id": "https://data.discovernewfields.org/object/13262/materials-statement",
             "type": "LinguisticObject",
-            "_label": "Notes about the Materials in the ",
+            "_label": "Notes about the Materials in the Object",
             "content": "photogravure hinged to paper mount",
             "classified_as": [
               {
@@ -2002,6 +2126,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "http://collection.imamuseum.org/artwork/71943/0_full.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
