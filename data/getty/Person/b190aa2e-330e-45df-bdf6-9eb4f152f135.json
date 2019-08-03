@@ -1,0 +1,193 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://data.getty.edu/museum/collection/person/b190aa2e-330e-45df-bdf6-9eb4f152f135",
+  "type": "Person",
+  "referred_to_by": [
+    {
+      "id": "https://data.getty.edu/museum/collection/person/b190aa2e-330e-45df-bdf6-9eb4f152f135/biography",
+      "type": "LinguisticObject",
+      "content": "Alfred Stieglitz's contribution to the history of photography extends far beyond his photographic work, which he began as a student in Germany in 1883. He influenced generations of photographers, painters, and sculptors both directly and indirectly. In 1905, with Edward Steichen, he founded the Little Galleries of the Photo-Secession at 291 Fifth Avenue in New York, which later became known simply as <em>291</em>. He elevated photography's status to the level of painting and sculpture through the numerous pioneering exhibitions that he organized. <br/>  <br/> Stieglitz was a founder of the Photo-Secessionist and Pictorialist photography movements in the United States and promoted them in <em>Camera Notes</em> and <em>Camera Work</em>, the influential journals that he founded and edited. His early photographs were Pictorialist in style. His late work focused in depth on a few subjects, including New York City, the cloud studies that he called \"Equivalents,\" and a portrait series of his wife, the painter Georgia O'Keeffe. Stieglitz worked tirelessly through his efforts as a photographer, collector, curator, writer, and publisher to secure photography's role as a legitimate medium of fine art.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300080102/",
+          "type": "Type",
+          "_label": "Biography Statement"
+        }
+      ]
+    }
+  ],
+  "born": {
+    "id": "https://data.getty.edu/museum/collection/person/b190aa2e-330e-45df-bdf6-9eb4f152f135/birth/activity",
+    "type": "Birth",
+    "timespan": {
+      "id": "https://data.getty.edu/museum/collection/person/b190aa2e-330e-45df-bdf6-9eb4f152f135/birth/timespan",
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1864-01-01 00:00:00",
+      "end_of_the_begin": "1864-01-01 00:00:00"
+    },
+    "took_place_at": [
+      {
+        "id": "https://data.getty.edu/museum/collection/person/b190aa2e-330e-45df-bdf6-9eb4f152f135/birth/place",
+        "type": "Place",
+        "_label": "Hoboken, New Jersey, United States",
+        "identified_by": [
+          {
+            "id": "https://data.getty.edu/museum/collection/person/b190aa2e-330e-45df-bdf6-9eb4f152f135/birth/place/name",
+            "type": "Name",
+            "content": "Hoboken, New Jersey, United States"
+          }
+        ],
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300008347",
+            "type": "Type",
+            "_label": "Inhabited Place"
+          }
+        ]
+      }
+    ]
+  },
+  "died": {
+    "id": "https://data.getty.edu/museum/collection/person/b190aa2e-330e-45df-bdf6-9eb4f152f135/death/activity",
+    "type": "Death",
+    "timespan": {
+      "id": "https://data.getty.edu/museum/collection/person/b190aa2e-330e-45df-bdf6-9eb4f152f135/death/timespan",
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1946-01-01 00:00:00",
+      "end_of_the_begin": "1946-01-01 00:00:00"
+    },
+    "took_place_at": [
+      {
+        "id": "https://data.getty.edu/museum/collection/person/b190aa2e-330e-45df-bdf6-9eb4f152f135/death/place",
+        "type": "Place",
+        "_label": "New York, New York, United States",
+        "identified_by": [
+          {
+            "id": "https://data.getty.edu/museum/collection/person/b190aa2e-330e-45df-bdf6-9eb4f152f135/death/place/name",
+            "type": "Name",
+            "content": "New York, New York, United States"
+          }
+        ],
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300008347",
+            "type": "Type",
+            "_label": "Inhabited Place"
+          }
+        ]
+      }
+    ]
+  },
+  "identified_by": [
+    {
+      "id": "https://data.getty.edu/museum/collection/person/b190aa2e-330e-45df-bdf6-9eb4f152f135/identifier/dor-id",
+      "type": "Identifier",
+      "_label": "Getty Digital Object Repository (DOR) ID",
+      "content": 1815,
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/internal/ontologies/linked-data/dor-identifier",
+          "type": "Type",
+          "_label": "Getty Digital Object Repository (DOR) ID"
+        }
+      ]
+    },
+    {
+      "id": "https://data.getty.edu/museum/collection/person/b190aa2e-330e-45df-bdf6-9eb4f152f135/identifier/dor-uuid",
+      "type": "Identifier",
+      "_label": "Getty Digital Object Repository (DOR) UUID",
+      "content": "b190aa2e-330e-45df-bdf6-9eb4f152f135",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/internal/ontologies/linked-data/universally-unique-identifier",
+          "type": "Type",
+          "_label": "Universally Unique Identifier (UUID)"
+        }
+      ]
+    },
+    {
+      "id": "https://data.getty.edu/museum/collection/person/b190aa2e-330e-45df-bdf6-9eb4f152f135/identifier/dor-id",
+      "type": "Identifier",
+      "_label": "Getty Digital Object Repository (DOR) ID",
+      "content": 1815,
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/internal/ontologies/linked-data/dor-identifier",
+          "type": "Type",
+          "_label": "Getty Digital Object Repository (DOR) ID"
+        }
+      ]
+    },
+    {
+      "id": "https://data.getty.edu/museum/collection/person/b190aa2e-330e-45df-bdf6-9eb4f152f135/identifier/dor-uuid",
+      "type": "Identifier",
+      "_label": "Getty Digital Object Repository (DOR) UUID",
+      "content": "b190aa2e-330e-45df-bdf6-9eb4f152f135",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/internal/ontologies/linked-data/universally-unique-identifier",
+          "type": "Type",
+          "_label": "Universally Unique Identifier (UUID)"
+        }
+      ]
+    },
+    {
+      "id": "https://data.getty.edu/museum/collection/person/b190aa2e-330e-45df-bdf6-9eb4f152f135/name",
+      "type": "Name",
+      "content": "Alfred Stieglitz",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "Primary Name"
+        }
+      ]
+    },
+    {
+      "id": "https://data.getty.edu/museum/collection/person/b190aa2e-330e-45df-bdf6-9eb4f152f135/identifier/tms-id",
+      "type": "Identifier",
+      "_label": "Gallery Systems' The Museum System (TMS) ID",
+      "content": 1851,
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/internal/ontologies/linked-data/tms-identifier",
+          "type": "Type",
+          "_label": "Gallery Systems' The Museum System (TMS) ID"
+        }
+      ]
+    },
+    {
+      "id": "https://data.getty.edu/museum/collection/person/b190aa2e-330e-45df-bdf6-9eb4f152f135/identifier/tms-id",
+      "type": "Identifier",
+      "_label": "Gallery Systems' The Museum System (TMS) ID",
+      "content": 1851,
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/internal/ontologies/linked-data/tms-identifier",
+          "type": "Type",
+          "_label": "Gallery Systems' The Museum System (TMS) ID"
+        }
+      ]
+    }
+  ],
+  "exact_match": [
+    {
+      "id": "http://vocab.getty.edu/ulan/500024301",
+      "type": "Type",
+      "_label": "Alfred Stieglitz"
+    }
+  ],
+  "classified_as": [
+    {
+      "type": "Type",
+      "_label": "American (Nationality)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300379842",
+          "type": "Type",
+          "_label": "Nationality"
+        }
+      ]
+    }
+  ]
+}
