@@ -1,7 +1,283 @@
 {
   "works": [
     {
-      "collection/work/": {
+      "40100": {
+        "@context": "https://linked.art/ns/v1/linked-art.json",
+        "id": "http://collection.britishart.yale.edu/id/page/object/40100",
+        "type": "HumanMadeObject",
+        "_label": "The Bathers",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300133025",
+            "type": "Type",
+            "_label": "works of art"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300041273",
+            "type": "Type",
+            "_label": "prints (visual works)"
+          }
+        ],
+        "identified_by": [
+          {
+            "id": "http://collection.britishart.yale.edu/id/page/object/40100/TMS",
+            "type": "Identifier",
+            "_label": "YCBA Collections Database Number for the Object",
+            "content": 40100,
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404621",
+                "type": "Type",
+                "_label": "repository numbers"
+              }
+            ]
+          },
+          {
+            "id": "http://collection.britishart.yale.edu/id/page/object/40100/inventory-number",
+            "type": "Identifier",
+            "_label": "YCBA Accession Number for the Object",
+            "content": "B1994.4.553",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300312355",
+                "type": "Type",
+                "_label": "accession numbers"
+              }
+            ]
+          },
+          {
+            "id": "http://collection.britishart.yale.edu/id/page/object/40100/title/1",
+            "type": "Name",
+            "_label": "Primary Title for the Object",
+            "content": "The Bathers",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404670",
+                "type": "Type",
+                "_label": "preferred terms"
+              }
+            ]
+          }
+        ],
+        "produced_by": {
+          "id": "http://collection.britishart.yale.edu/id/page/object/40100/production",
+          "type": "Production",
+          "_label": "Production of the Object",
+          "carried_out_by": [
+            {
+              "id": "http://vocab.getty.edu/ulan/500016057",
+              "type": "Actor",
+              "_label": "Strang, William"
+            }
+          ],
+          "timespan": {
+            "id": "http://collection.britishart.yale.edu/id/page/object/40100/production/timespan",
+            "type": "TimeSpan",
+            "_label": "undated",
+            "begin_of_the_begin": "1874-01-01T00:00:00",
+            "end_of_the_end": "1921-12-31T00:00:00"
+          }
+        },
+        "current_owner": {
+          "id": "http://vocab.getty.edu/ulan/500303557",
+          "type": "Group",
+          "_label": "Yale Center for British Art",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300264595",
+              "type": "Type",
+              "_label": "repositories (institutions)"
+            }
+          ],
+          "acquired_title_through": [
+            {
+              "id": "http://collection.britishart.yale.edu/id/page/object/40100/acquisition",
+              "type": "Acquisition",
+              "_label": "YCBA Acquisition of the Object",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300157782",
+                  "type": "Type",
+                  "_label": "acquisition (collections management)"
+                }
+              ]
+            }
+          ]
+        },
+        "member_of": [
+          {
+            "id": "http://collection.britishart.yale.edu/id/page/thesauri/collection/print",
+            "type": "Set",
+            "_label": "YCBA Prints and Drawings Collection"
+          }
+        ],
+        "referred_to_by": [
+          {
+            "id": "http://collection.britishart.yale.edu/id/page/object/40100/credit-line",
+            "type": "LinguisticObject",
+            "_label": "YCBA Credit Line for the Object",
+            "content": "Yale Center for British Art, Gift of Georgia O'Keefe, Stieglitz Archives, transfer from the Beinecke Rare Book and Manuscript Library and the Yale University Art Gallery",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300026687",
+                "type": "Type",
+                "_label": "acknowledgments"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "http://collection.britishart.yale.edu/id/page/object/40100/materials-statement",
+            "type": "LinguisticObject",
+            "_label": "Notes about the Materials in the Object",
+            "content": "Aquatint and/or mezzotint (?)",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300010358",
+                "type": "Type",
+                "_label": "materials (substances)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "http://collection.britishart.yale.edu/id/page/object/40100/objectRight",
+            "type": "LinguisticObject",
+            "_label": "Rights Statement",
+            "content": "Public Domain",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055547",
+                "type": "Type",
+                "_label": "legal concepts"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          },
+          {
+            "id": "https://creativecommons.org/publicdomain/mark/1.0/",
+            "type": "LinguisticObject",
+            "_label": "Public Domain",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300055547",
+                "type": "Type",
+                "_label": "legal concepts"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "brief texts"
+              }
+            ]
+          }
+        ],
+        "subject_of": [
+          {
+            "id": "https://collections.britishart.yale.edu/vufind/Record/3625201",
+            "type": "LinguisticObject",
+            "_label": "Homepage for the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab/getty.edu/aat/300264578",
+                "type": "Type",
+                "_label": "Web pages (documents)"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300266277",
+                "type": "Type",
+                "_label": "home pages"
+              }
+            ],
+            "format": "text/html"
+          }
+        ],
+        "shows": [
+            {
+                "id": "http://collection.britishart.yale.edu/id/page/object/40100/VisualItem1",
+                "type": "VisualItem",
+                "represents": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300005433",
+                        "type": "ConceptualObject",
+                        "_label": "houses"
+                    }
+                ]
+            },
+            {
+                "id": "http://collection.britishart.yale.edu/id/page/object/40100/VisualItem2",
+                "type": "VisualItem",
+                "represents": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300188634",
+                        "type": "ConceptualObject",
+                        "_label": "bathers"
+                    }
+                ]
+            },
+            {
+                "id": "http://collection.britishart.yale.edu/id/page/object/40100/VisualItem3",
+                "type": "VisualItem",
+                "represents": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300025928",
+                        "type": "ConceptualObject",
+                        "_label": "men (male humans)"
+                    }
+                ]
+            },
+            {
+                "id": "http://collection.britishart.yale.edu/id/page/object/40100/VisualItem4",
+                "type": "VisualItem",
+                "represents": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300411609",
+                        "type": "ConceptualObject",
+                        "_label": "straw hats (sun hats)"
+                    }
+                ]
+            }
+        ],
+        "representation": [
+          {
+            "id": "http://deliver.odai.yale.edu/content/repository/YCBA/object/40100/type/2/format/6",
+            "type": "VisualItem",
+            "_label": "TIFF Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/tiff"
+          },
+          {
+            "id": "http://deliver.odai.yale.edu/content/repository/YCBA/object/40100/type/2/format/3",
+            "type": "VisualItem",
+            "_label": "Large JPEG Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
+          }
+        ]
       }
     }
   ]
