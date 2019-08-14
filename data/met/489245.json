@@ -1,0 +1,298 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://collectionapi.metmuseum.org/public/collection/v1/objects/489245",
+  "type": "HumanMadeObject",
+  "classified_as": [
+    {
+      "id": "http://vocab.getty.edu/aat/300033618",
+      "type": "Type",
+      "_label": "Painting"
+    }
+  ],
+  "identified_by": [
+    {
+      "id": "http://lod.example.org/museum/Identifier/32",
+      "type": "Identifier",
+      "content": 489245,
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404621",
+          "type": "Type",
+          "_label": "Local Number"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/Identifier/33",
+      "type": "Identifier",
+      "content": "62.258",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312355",
+          "type": "Type",
+          "_label": "Accession Number"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/Name/83",
+      "type": "Name",
+      "content": "Clam Shell",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300195168",
+          "type": "Type",
+          "_label": "Title"
+        }
+      ]
+    }
+  ],
+  "produced_by": {
+    "id": "http://lod.example.org/museum/Production/16",
+    "type": "Production",
+    "timespan": {
+      "id": "http://lod.example.org/museum/TimeSpan/48",
+      "type": "TimeSpan",
+      "begin_of_the_begin": 1930,
+      "end_of_the_end": 1930,
+      "identified_by": [
+        {
+          "id": "http://lod.example.org/museum/Name/84",
+          "type": "Name",
+          "content": "1930"
+        }
+      ]
+    },
+    "carried_out_by": [
+      {
+        "id": "http://lod.example.org/museum/Person/16",
+        "type": "Person",
+        "identified_by": [
+          {
+            "id": "http://lod.example.org/museum/Name/85",
+            "type": "Name",
+            "content": "Georgia O'Keeffe"
+          }
+        ],
+        "referred_to_by": [
+          {
+            "id": "http://lod.example.org/museum/LinguisticObject/132",
+            "type": "LinguisticObject",
+            "content": "American, Sun Prairie, Wisconsin 1887\u20131986 Santa Fe, New Mexico",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300080102",
+                "type": "Type",
+                "_label": "Biography Statement"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "Brief Text"
+              }
+            ]
+          }
+        ],
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300107956",
+            "type": "Type",
+            "_label": "American",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300379842",
+                "type": "Type",
+                "_label": "Nationality"
+              }
+            ]
+          }
+        ],
+        "born": {
+          "id": "http://lod.example.org/museum/Birth/16",
+          "type": "Birth",
+          "timespan": {
+            "id": "http://lod.example.org/museum/TimeSpan/49",
+            "type": "TimeSpan",
+            "begin_of_the_begin": "1887",
+            "end_of_the_end": "1887",
+            "identified_by": [
+              {
+                "id": "http://lod.example.org/museum/Name/86",
+                "type": "Name",
+                "content": "1887"
+              }
+            ]
+          }
+        },
+        "died": {
+          "id": "http://lod.example.org/museum/Death/16",
+          "type": "Death",
+          "timespan": {
+            "id": "http://lod.example.org/museum/TimeSpan/50",
+            "type": "TimeSpan",
+            "begin_of_the_begin": "1986",
+            "end_of_the_end": "1986",
+            "identified_by": [
+              {
+                "id": "http://lod.example.org/museum/Name/87",
+                "type": "Name",
+                "content": "1887"
+              }
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "referred_to_by": [
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/133",
+      "type": "LinguisticObject",
+      "content": "Oil on canvas",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300010358",
+          "type": "Type",
+          "_label": "Material Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/134",
+      "type": "LinguisticObject",
+      "content": "24 x 36 in. (61 x 91.4 cm)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300266036",
+          "type": "Type",
+          "_label": "Dimension Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/135",
+      "type": "LinguisticObject",
+      "content": "Alfred Stieglitz Collection, 1962",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "Credit Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/136",
+      "type": "LinguisticObject",
+      "content": "O'Keeffe was an avid collector of rocks, shells, driftwood, and bones, which were imaginatively displayed in her homes.  They also became subjects of her paintings, many of which were small in size, like the objects themselves.  Sometimes, however, she painted the objects large, showing every undulation, ridge, and color modulation.  These detailed studies often made her still-life subjects resemble landscapes.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300080091",
+          "type": "Type",
+          "_label": "Description"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/137",
+      "type": "LinguisticObject",
+      "content": "Inscription: Initialed (verso, in center of five-pointed star, in graphite): OK; signed, dated, and inscribed (verso): Clam Shell\u20141930\u2013O'Keeffe",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300028702",
+          "type": "Type",
+          "_label": "Inscription"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/138",
+      "type": "LinguisticObject",
+      "content": "the artist (1930\u201362; on extended loan to MMA, 1949\u201362; her gift as part of the Alfred Stieglitz Collection to MMA)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "Provenance Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/139",
+      "type": "LinguisticObject",
+      "content": "New York. An American Place. \"Georgia O'Keeffe: Recent Paintings, New Mexico, New York, Etc, Etc.,\" January 18\u2013February 27, 1931, no catalogue (checklist no. 3 or 4, as \"From a Shell\").Minneapolis. University Art Gallery, University of Minnesota. \"5 Painters (Demuth, Dove, Hartley, Marin, O'Keeffe),\" January 27\u2013February 14, 1937, no. 45.Museum of Modern Art, New York. \"Georgia O'Keeffe: An Exhibition,\" May 14\u2013August 25, 1946, no catalogue (checklist no. 41).Museum of Modern Art, New York. \"Alfred Stieglitz Exhibition: His Collection,\" June 10\u2013August 31, 1947, no catalogue (checklist no. 80).Art Institute of Chicago. \"Alfred Stieglitz: His Photographs and His Collection,\" February 2\u201329, 1948, extended to March 7, 1948, no catalogue (checklist, loan no. 47.602).New York. The Metropolitan Museum of Art. \"Fourteen American Masters: Paintings from Colonial Times to Today,\" October 16, 1958\u2013January 4, 1959, no catalogue.Fort Worth. Amon Carter Museum of Western Art. \"Georgia O'Keeffe: An Exhibition of the Work of the Artist from 1915 to 1966,\" March 17\u2013May 8, 1966, unnumbered cat. (p. 29).Museum of Fine Arts, Houston. \"Georgia O'Keeffe: An Exhibition of the Work of the Artist from 1915 to 1966,\" May 28\u2013July 3, 1966, unnumbered cat.New York. Whitney Museum of American Art. \"Georgia O'Keeffe,\" October 8\u2013November 29, 1970, no. 64.Art Institute of Chicago. \"Georgia O'Keeffe,\" January 6\u2013February 7, 1971, no. 64.San Francisco Museum of Art. \"Georgia O'Keeffe,\" March 15\u2013April 30, 1971, no. 64.New York. The Metropolitan Museum of Art. \"American Still Life: 1915\u20131950,\" February 1, 1995\u2013January 28, 1996, no catalogue.Richmond, Va. Marsh Art Gallery. \"Still Life: The Object in American Art, 1915\u20131995. Selections from The Metropolitan Museum of Art,\" January 3\u2013February 28, 1997, no. 57.Little Rock. Arkansas Arts Center. \"Still Life: The Object in American Art, 1915\u20131995. Selections from The Metropolitan Museum of Art,\" March 28\u2013May 23, 1997, no. 57.Newport Beach, Calif. Newport Harbor Art Museum. \"Still Life: The Object in American Art, 1915\u20131995. Selections from The Metropolitan Museum of Art,\" June 20\u2013August 15, 1997, no. 57.Tulsa, Okla. Philbrook Museum of Art. \"Still Life: The Object in American Art, 1915\u20131995. Selections from The Metropolitan Museum of Art,\" September 12\u2013November 7, 1997, no. 57.Palm Beach, Fla. The Society of the Four Arts. \"Still Life: The Object in American Art, 1915\u20131995. Selections from The Metropolitan Museum of Art,\" January 9\u2013February 8, 1998, no. 57.Salina, Kansas. Salina Art Center. \"Still Life: The Object in American Art, 1915\u20131995. Selections from The Metropolitan Museum of Art,\" March 6\u2013May 3, 1998, no. 57.Milwaukee Art Museum. \"O'Keeffe's O'Keeffes: The Artist's Collection,\" May 4\u2013August 19, 2001, no. 29.Santa Fe. Georgia O'Keeffe Museum. \"O'Keeffe's O'Keeffes: The Artist's Collection,\" September 14, 2001\u2013January 13, 2002, no. 29.Humlebaek. Louisiana Museum of Modern Art. \"O'Keeffe's O'Keeffes: The Artist's Collection,\" February 8\u2013May 20, 2002, no. 29.New York. Whitney Museum of American Art. \"Georgia O'Keeffe: Abstraction,\" September 17, 2009\u2013January 17, 2010, unnumbered cat. (pl. 116).Washington, D. C. Phillips Collection. \"Georgia O'Keeffe: Abstraction,\" February 6\u2013May 9, 2010, unnumbered cat.Santa Fe. Georgia O'Keeffe Museum. \"Georgia O'Keeffe: Abstraction,\" May 28\u2013September 12, 2010, unnumbered cat.New York. The Metropolitan Museum of Art. \"Stieglitz and His Artists: Matisse to O'Keeffe,\" October 13, 2011\u2013January 2, 2012, no. 186.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "Exhibition Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/140",
+      "type": "LinguisticObject",
+      "content": "Lisa Mintz Messinger. \"Georgia O'Keeffe.\" Metropolitan Museum of Art Bulletin 42 (Fall 1984), pp. 23, 26-27, 29, 60, fig. 25. Lisa Mintz Messinger. Georgia O'Keeffe. New York, 1988, pp. 42, 46-47, ill. Doris Bry in Georgia O'Keeffe, in the West. Ed.  Doris Bry and Nicholas Callaway. New York, 1989, unpaginated, pl. 6. Elizabeth Montgomery. Georgia O'Keeffe. New York, 1993, pp. 82-83, ill. Maria Costantino. Georgia O'Keeffe. New York, 1994, p. 164, ill. Lowery Stokes Sims in Still Life: The Object in American Art, 1915-1995. Selections from The Metropolitan Museum of Art. Exh. cat.,  Marsh Art Gallery, Richmond, Va. New York, 1996, pp. 142, 146, 170, no. 57, ill. p. 147 (color). Barbara Buhler Lynes. Georgia O'Keeffe: Catalogue Raisonn\u00e9. New Haven, Conn., 1999, vol. 1, p. 426, no. 707, vol. 2, p. 1121, fig. 44 (installation photo). Lisa Mintz Messinger. Georgia O'Keeffe. London, 2001, pp. 91, 93, fig. 60. Lisa Mintz Messinger in Stieglitz and His Artists: Matisse to O'Keeffe. The Alfred Stieglitz Collection in The Metropolitan Museum of Art. Ed.  Lisa Mintz Messinger. Exh. cat.,  The Metropolitan Museum of Art. New York, 2011, pp. 14, 201, 280, no. 186, ill. (color). Sarah Greenough, ed. My Faraway One: Selected Letters of Georgia O'Keeffe and Alfred Stieglitz. Vol. 1, 1915\u20131933. New Haven, Conn., 2011, pp. 564, 694. Isabelle Duvernois in Stieglitz and His Artists: Matisse to O'Keeffe. The Alfred Stieglitz Collection in The Metropolitan Museum of Art. Ed.  Lisa Mintz Messinger. Exh. cat.,  The Metropolitan Museum of Art. New York, 2011, p. 193.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026497",
+          "type": "Type",
+          "_label": "Bibliography Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    }
+  ],
+  "representation": [
+    {
+      "id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/489245/1010551/restricted",
+      "type": "VisualItem",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300215302",
+          "type": "Type",
+          "_label": "Digital Image"
+        }
+      ]
+    }
+  ]
+}

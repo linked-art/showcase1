@@ -1,0 +1,362 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://data.getty.edu/museum/collection/object/ee61b4a2-72ed-4071-9422-37fb5ed68ce2",
+  "type": "HumanMadeObject",
+  "_label": "O'Keeffe Exhibition",
+  "identified_by": [
+    {
+      "id": "https://data.getty.edu/museum/collection/object/ee61b4a2-72ed-4071-9422-37fb5ed68ce2/identifier/a211de1a-be3d-444b-a21f-3e46a815f55c",
+      "type": "Identifier",
+      "_label": "Accession Number",
+      "content": "93.XB.26.52",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312355",
+          "type": "Type",
+          "_label": "Accession Number"
+        }
+      ]
+    },
+    {
+      "id": "https://data.getty.edu/museum/collection/object/ee61b4a2-72ed-4071-9422-37fb5ed68ce2/identifier/dor-id",
+      "type": "Identifier",
+      "_label": "Getty Digital Object Repository (DOR) ID",
+      "content": 99626,
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/internal/ontologies/linked-data/dor-identifier",
+          "type": "Type",
+          "_label": "Getty Digital Object Repository (DOR) ID"
+        }
+      ]
+    },
+    {
+      "id": "https://data.getty.edu/museum/collection/object/ee61b4a2-72ed-4071-9422-37fb5ed68ce2/identifier/dor-uuid",
+      "type": "Identifier",
+      "_label": "Getty Digital Object Repository (DOR) UUID",
+      "content": "ee61b4a2-72ed-4071-9422-37fb5ed68ce2",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/internal/ontologies/linked-data/universally-unique-identifier",
+          "type": "Type",
+          "_label": "Universally Unique Identifier (UUID)"
+        }
+      ]
+    },
+    {
+      "id": "https://data.getty.edu/museum/collection/object/ee61b4a2-72ed-4071-9422-37fb5ed68ce2/identifier/dor-id",
+      "type": "Identifier",
+      "_label": "Getty Digital Object Repository (DOR) ID",
+      "content": 99626,
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/internal/ontologies/linked-data/dor-identifier",
+          "type": "Type",
+          "_label": "Getty Digital Object Repository (DOR) ID"
+        }
+      ]
+    },
+    {
+      "id": "https://data.getty.edu/museum/collection/object/ee61b4a2-72ed-4071-9422-37fb5ed68ce2/identifier/dor-uuid",
+      "type": "Identifier",
+      "_label": "Getty Digital Object Repository (DOR) UUID",
+      "content": "ee61b4a2-72ed-4071-9422-37fb5ed68ce2",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/internal/ontologies/linked-data/universally-unique-identifier",
+          "type": "Type",
+          "_label": "Universally Unique Identifier (UUID)"
+        }
+      ]
+    },
+    {
+      "id": "https://data.getty.edu/museum/collection/object/ee61b4a2-72ed-4071-9422-37fb5ed68ce2/name/02a8d56a-2ba6-4a63-8aa8-47076840a508",
+      "type": "Name",
+      "_label": "Primary Title",
+      "content": "O'Keeffe Exhibition",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "Primary Title"
+        }
+      ]
+    },
+    {
+      "id": "https://data.getty.edu/museum/collection/object/ee61b4a2-72ed-4071-9422-37fb5ed68ce2/identifier/tms-id",
+      "type": "Identifier",
+      "_label": "Gallery Systems' The Museum System (TMS) ID",
+      "content": 106154,
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/internal/ontologies/linked-data/tms-identifier",
+          "type": "Type",
+          "_label": "Gallery Systems' The Museum System (TMS) ID"
+        }
+      ]
+    },
+    {
+      "id": "https://data.getty.edu/museum/collection/object/ee61b4a2-72ed-4071-9422-37fb5ed68ce2/identifier/tms-id",
+      "type": "Identifier",
+      "_label": "Gallery Systems' The Museum System (TMS) ID",
+      "content": 106154,
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/internal/ontologies/linked-data/tms-identifier",
+          "type": "Type",
+          "_label": "Gallery Systems' The Museum System (TMS) ID"
+        }
+      ]
+    }
+  ],
+  "produced_by": {
+    "id": "https://data.getty.edu/museum/collection/object/ee61b4a2-72ed-4071-9422-37fb5ed68ce2/activity/production/b190aa2e-330e-45df-bdf6-9eb4f152f135",
+    "type": "Production",
+    "_label": "Production of Artwork",
+    "timespan": {
+      "id": "https://data.getty.edu/museum/collection/object/ee61b4a2-72ed-4071-9422-37fb5ed68ce2/activity/production/b190aa2e-330e-45df-bdf6-9eb4f152f135/timespan",
+      "type": "TimeSpan",
+      "identified_by": [
+        {
+          "id": "https://data.getty.edu/museum/collection/object/ee61b4a2-72ed-4071-9422-37fb5ed68ce2/activity/production/b190aa2e-330e-45df-bdf6-9eb4f152f135/timespan/name",
+          "type": "Name",
+          "_label": "Date",
+          "content": "April 1917",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300404439",
+              "type": "Type",
+              "_label": "Dates (Spans of Time)"
+            }
+          ]
+        }
+      ],
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404439",
+          "type": "Type",
+          "_label": "Dates (Spans of Time)"
+        }
+      ],
+      "begin_of_the_begin": "1917-01-01 00:00:00",
+      "end_of_the_begin": "1917-01-01 00:00:00",
+      "begin_of_the_end": "1917-12-31 23:59:59",
+      "end_of_the_end": "1917-12-31 23:59:59"
+    },
+    "carried_out_by": [
+      {
+        "id": "https://data.getty.edu/museum/collection/object/b190aa2e-330e-45df-bdf6-9eb4f152f135",
+        "type": "Person",
+        "_label": "Alfred Stieglitz"
+      }
+    ],
+    "took_place_at": [
+      {
+        "id": "https://data.getty.edu/museum/collection/object/9b11eea8-24fb-4fc4-a05f-a428fe93c593",
+        "type": "Place",
+        "_label": "New York, New York, United States",
+        "identified_by": [
+          {
+            "id": "https://data.getty.edu/museum/collection/object/9b11eea8-24fb-4fc4-a05f-a428fe93c593/name",
+            "type": "Name",
+            "content": "New York, New York, United States"
+          }
+        ],
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300008347",
+            "type": "Type",
+            "_label": "Inhabited Place"
+          }
+        ]
+      }
+    ]
+  },
+  "classified_as": [
+    {
+      "id": "http://vocab.getty.edu/aat/300133025",
+      "type": "Type",
+      "_label": "Artwork"
+    },
+    {
+      "id": "http://lod.example.org/museum/Type/33",
+      "type": "Type"
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://data.getty.edu/museum/collection/object/ee61b4a2-72ed-4071-9422-37fb5ed68ce2/culture/1ff796e6-30fb-458f-be8e-c3b88cbf8229",
+      "type": "LinguisticObject",
+      "content": "American",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055768",
+          "type": "Type",
+          "_label": "Culture"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "https://data.getty.edu/museum/collection/object/ee61b4a2-72ed-4071-9422-37fb5ed68ce2/dimensions/df9d69d7-b508-4c26-a024-259be37ed6d7",
+      "type": "LinguisticObject",
+      "content": "Closed: 31.2 \u00d7 21.9 \u00d7 1.3 cm (12 5/16 \u00d7 8 5/8 \u00d7 1/2 in.)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300266036",
+          "type": "Type",
+          "_label": "Dimension Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "https://data.getty.edu/museum/collection/object/ee61b4a2-72ed-4071-9422-37fb5ed68ce2/material-statement/2dfd0210-82a1-4ec6-8cb9-50cf83668930",
+      "type": "LinguisticObject",
+      "content": "Gelatin silver",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300010358",
+          "type": "Type",
+          "_label": "Material Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    }
+  ],
+  "current_keeper": [
+    {
+      "id": "https://data.getty.edu/museum/collection/object/3b40e6f1-ea7a-430a-8e92-ab65b75addf9",
+      "type": "Group",
+      "_label": "Photographs (Curatorial Department)",
+      "member_of": [
+        {
+          "id": "http://vocab.getty.edu/ulan/500115988",
+          "type": "Group",
+          "_label": "J. Paul Getty Museum, Los Angeles, California",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300312281",
+              "type": "Type",
+              "_label": "Museum"
+            }
+          ],
+          "member_of": [
+            {
+              "id": "http://vocab.getty.edu/ulan/500115987",
+              "type": "Group",
+              "_label": "The J. Paul Getty Trust, Los Angeles, California",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/ulan/500000003",
+                  "type": "Type",
+                  "_label": "Corporate Bodies"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300263534",
+          "type": "Type",
+          "_label": "Department (Organizational Unit)"
+        }
+      ],
+      "identified_by": [
+        {
+          "id": "https://data.getty.edu/museum/collection/object/ee61b4a2-72ed-4071-9422-37fb5ed68ce2/department/3b40e6f1-ea7a-430a-8e92-ab65b75addf9/name",
+          "type": "Name",
+          "content": "Photographs"
+        }
+      ]
+    }
+  ],
+  "current_owner": [
+    {
+      "id": "http://vocab.getty.edu/ulan/500115988",
+      "type": "Group",
+      "_label": "J. Paul Getty Museum, Los Angeles, California",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312281",
+          "type": "Type",
+          "_label": "Museum"
+        }
+      ],
+      "member_of": [
+        {
+          "id": "http://vocab.getty.edu/ulan/500115987",
+          "type": "Group",
+          "_label": "The J. Paul Getty Trust, Los Angeles, California",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/ulan/500000003",
+              "type": "Type",
+              "_label": "Corporate Bodies"
+            }
+          ]
+        }
+      ],
+      "acquired_title_through": [
+        {
+          "id": "https://data.getty.edu/museum/collection/object/ee61b4a2-72ed-4071-9422-37fb5ed68ce2/activity/acquisition",
+          "type": "Acquisition",
+          "_label": "Acquisition"
+        }
+      ]
+    }
+  ],
+  "subject_of": [
+    {
+      "id": "http://www.getty.edu/art/collection/objects/99626/",
+      "type": "LinguisticObject",
+      "_label": "Homepage for Object",
+      "format": "text/html",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300264578",
+          "type": "Type",
+          "_label": "Web Page"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "Primary"
+        }
+      ]
+    }
+  ],
+  "carries": [
+    {
+      "id": "https://data.getty.edu/museum/collection/object/ee61b4a2-72ed-4071-9422-37fb5ed68ce2/mark/bba4450a-8ac8-48d1-85c9-511192a14837",
+      "type": "LinguisticObject",
+      "content": "(Recto, letterpress announcement tipped into page): \"AN EXHIBITION OF THE RECENT WORK, -- / OILS, WATER-COLORS, CHARCOAL DRAW- / INGS, SCULPTURE, -- BY GEORGIA O'KEEFFE, / OF CANYON, TEXAS, WILL BE HELD AT THE / GALLERY OF THE PHOTO-SECESSION, 291 / FIFTH AVENUE, (BETWEEN THIRTIETH AND / THIRTY-FIRST STREETS), NEW YORK, / OPENING ON APRIL THIRD AND CLOSING / APRIL TWENTY-SEVENTH. THE GALLERY / IS OPEN FROM TEN A.M. UNTIL SIX P.M. / DAILY, SUNDAYS EXCEPTED. [three square decorative elements]\";",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300028744",
+          "type": "Type",
+          "_label": "Marks (Symbols)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    }
+  ]
+}

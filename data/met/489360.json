@@ -1,0 +1,298 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://collectionapi.metmuseum.org/public/collection/v1/objects/489360",
+  "type": "HumanMadeObject",
+  "classified_as": [
+    {
+      "id": "http://vocab.getty.edu/aat/300033618",
+      "type": "Type",
+      "_label": "Painting"
+    }
+  ],
+  "identified_by": [
+    {
+      "id": "http://lod.example.org/museum/Identifier/36",
+      "type": "Identifier",
+      "content": 489360,
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404621",
+          "type": "Type",
+          "_label": "Local Number"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/Identifier/37",
+      "type": "Identifier",
+      "content": "64.310",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312355",
+          "type": "Type",
+          "_label": "Accession Number"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/Name/93",
+      "type": "Name",
+      "content": "White Canadian Barn II",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300195168",
+          "type": "Type",
+          "_label": "Title"
+        }
+      ]
+    }
+  ],
+  "produced_by": {
+    "id": "http://lod.example.org/museum/Production/18",
+    "type": "Production",
+    "timespan": {
+      "id": "http://lod.example.org/museum/TimeSpan/54",
+      "type": "TimeSpan",
+      "begin_of_the_begin": 1932,
+      "end_of_the_end": 1932,
+      "identified_by": [
+        {
+          "id": "http://lod.example.org/museum/Name/94",
+          "type": "Name",
+          "content": "1932"
+        }
+      ]
+    },
+    "carried_out_by": [
+      {
+        "id": "http://lod.example.org/museum/Person/18",
+        "type": "Person",
+        "identified_by": [
+          {
+            "id": "http://lod.example.org/museum/Name/95",
+            "type": "Name",
+            "content": "Georgia O'Keeffe"
+          }
+        ],
+        "referred_to_by": [
+          {
+            "id": "http://lod.example.org/museum/LinguisticObject/149",
+            "type": "LinguisticObject",
+            "content": "American, Sun Prairie, Wisconsin 1887\u20131986 Santa Fe, New Mexico",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300080102",
+                "type": "Type",
+                "_label": "Biography Statement"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "Brief Text"
+              }
+            ]
+          }
+        ],
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300107956",
+            "type": "Type",
+            "_label": "American",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300379842",
+                "type": "Type",
+                "_label": "Nationality"
+              }
+            ]
+          }
+        ],
+        "born": {
+          "id": "http://lod.example.org/museum/Birth/18",
+          "type": "Birth",
+          "timespan": {
+            "id": "http://lod.example.org/museum/TimeSpan/55",
+            "type": "TimeSpan",
+            "begin_of_the_begin": "1887",
+            "end_of_the_end": "1887",
+            "identified_by": [
+              {
+                "id": "http://lod.example.org/museum/Name/96",
+                "type": "Name",
+                "content": "1887"
+              }
+            ]
+          }
+        },
+        "died": {
+          "id": "http://lod.example.org/museum/Death/18",
+          "type": "Death",
+          "timespan": {
+            "id": "http://lod.example.org/museum/TimeSpan/56",
+            "type": "TimeSpan",
+            "begin_of_the_begin": "1986",
+            "end_of_the_end": "1986",
+            "identified_by": [
+              {
+                "id": "http://lod.example.org/museum/Name/97",
+                "type": "Name",
+                "content": "1887"
+              }
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "referred_to_by": [
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/150",
+      "type": "LinguisticObject",
+      "content": "Oil on canvas",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300010358",
+          "type": "Type",
+          "_label": "Material Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/151",
+      "type": "LinguisticObject",
+      "content": "12 x 30 in. (30.5 x 76.2 cm)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300266036",
+          "type": "Type",
+          "_label": "Dimension Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/152",
+      "type": "LinguisticObject",
+      "content": "Alfred Stieglitz Collection, 1964",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "Credit Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/153",
+      "type": "LinguisticObject",
+      "content": "Seeking to escape the pressures of her life with Alfred Stieglitz, O'Keeffe drove to the Gasp\u00e9 Peninsula in Quebec, Canada in the summer of 1932 for a few weeks respite.  There she painted a series of seven barns whose austere design and blackened doors and windows prefigure her later series of New Mexico patio doors.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300080091",
+          "type": "Type",
+          "_label": "Description"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/154",
+      "type": "LinguisticObject",
+      "content": "Inscription: Initialed (on stretcher, in black crayon): OK",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300028702",
+          "type": "Type",
+          "_label": "Inscription"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/155",
+      "type": "LinguisticObject",
+      "content": "the artist (1932\u201364; on extended loan to MMA, 1949\u201364; her gift as part of the Alfred Stieglitz Collection to MMA)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "Provenance Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/156",
+      "type": "LinguisticObject",
+      "content": "New York. An American Place. \"Georgia O'Keeffe: Paintings\u2014New & Some Old,\" January 7\u2013February 22, 1933, extended to March 15, 1933, brochure no. 14 (as \"White Barn no. 3\") [possibly this picture].Museum of Modern Art, New York. \"Modern Works of Art: Fifth Anniversary Exhibition,\" November 20, 1934\u2013January 20, 1935, no. 120 (as \"Canadian Barn No. 2\").New York. An American Place. \"Georgia O'Keeffe: Exhibition of Paintings (1919\u20131934),\" January 27\u2013March 11, 1935, no. 16 (as \"White Barn\").New York. Downtown Gallery. \"Paintings by 12 Younger Americans,\" October 19\u2013November 6, 1937, no catalogue.New York. An American Place. \"Exhibition of Four Americans: Dove, Marin, O'Keeffe, Stieglitz, and Picasso,\" October 17\u2013November 27, 1941, no. 13 (as \"Canadian Barn\") [possibly this picture].Art Institute of Chicago. \"Georgia O'Keeffe,\" January 21\u2013February 22, 1943, no. 50.Philadelphia Museum of Art. \"History of an American, Alfred Stieglitz: '291' and After, Selections from the Stieglitz Collection,\" July 1\u2013November 1, 1944, no. 281.Museum of Modern Art, New York. \"Georgia O'Keeffe: An Exhibition,\" May 14\u2013August 25, 1946, no catalogue (checklist no. 45).Museum of Modern Art, New York. \"Alfred Stieglitz Exhibition: His Collection,\" June 10\u2013August 31, 1947, no catalogue (checklist no. 81).Art Institute of Chicago. \"Alfred Stieglitz: His Photographs and His Collection,\" February 2\u201329, 1948, extended to March 7, 1948, no catalogue (checklist, loan no. 47.304).New York. The Metropolitan Museum of Art. \"20th Century Painters:  A Special Exhibition of Oils, Water Colors and Drawings Selected from the Collections of American Art in the Metropolitan Museum,\" June 16\u2013October 29, 1950, unnum. brochure (p. 9).Museum of Modern Art, New York. \"From the Alfred Stieglitz Collection: An Extended Loan from the Metropolitan Museum of Art,\" May 22\u2013August 12, 1951, no catalogue (checklist no. E.L.51.688; loan extended to May 15, 1961).New York. Wildenstein Galleries. \"Loan Exhibition of Seventy XX Century American Paintings,\" February 21\u2013March 22, 1952, no. 40.New York. The Metropolitan Museum of Art. \"Fourteen American Masters: Paintings from Colonial Times to Today,\" October 16, 1958\u2013January 4, 1959, no catalogue.New York. The Metropolitan Museum of Art. \"Three Centuries of American Painting,\" April 9\u2013October 17, 1965, unnum. checklist.New York. The Metropolitan Museum of Art. \"American Paintings, Drawings and Watercolors from the Museum's Collections,\" October 1\u2013December 7, 1969, no catalogue.Osaka. Japan World Exposition. \"Images of America: American Painting,\" March 1\u2013September 30, 1970, not in catalogue.Moscow. State Pushkin Museum of Fine Arts. \"Representations of America,\" December 15, 1977\u2013February 15, 1978, no catalogue.Leningrad. State Hermitage Museum. \"Representations of America,\" March 15\u2013May 15, 1978, no catalogue.Minsk, Belarus. Palace of Art. \"Representations of America,\" June 15\u2013August 15, 1978, no. catalogue.Berlin. Akademie der K\u00fcnste. \"Amerika: Traum und Depression 1920/40,\" November 9\u2013December 28, 1980, no. 261.Kunstverein Hamburg. \"Amerika: Traum und Depression 1920/40,\" January 11\u2013February 15, 1981, no. 261.Munich. Haus der Kunst. \"Amerikanische Malerei 1930-1980,\" November 14, 1981\u2013January 31, 1982, no. 36.Cincinnati. Taft Museum. \"1930's Remembered,\" September 25\u2013December 5, 1982, unnumbered cat. (part 3, Fine Arts).Northampton, Mass. Smith College Museum of Art. \"Three American Artists in Qu\u00e9bec: Winslow Homer, Georgia O'Keeffe, and Milton Avery,\" October 18\u2013December 2, 1984, no. 7.New York. The Metropolitan Museum of Art. \"Georgia O'Keeffe: 1887\u20131986,\" November 19, 1988\u2013February 5, 1989, not in catalogue (unnumbered checklist addenda).Los Angeles County Museum of Art. \"Georgia O'Keeffe: 1887\u20131986,\" March 30\u2013June 18, 1989, not in catalogue.New York. The Metropolitan Museum of Art. \"Stieglitz and His Artists: Matisse to O'Keeffe,\" October 13, 2011\u2013January 2, 2012, no. 190.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "Exhibition Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/157",
+      "type": "LinguisticObject",
+      "content": "Edwina Spencer. \"Around the Galleries.\" Creative Art 12 (April 1933), p. 315, ill., as \"Barn No. 2\". James W. Lane. The Work of Georgia O'Keeffe: A Portfolio of Twelve Paintings. New York, 1937, pl. 10. \"Alfred Stieglitz Made Georgia O'Keeffe Famous.\" Life 4 (February 14, 1938), p. 31, ill., as \"White Barn\". Peyton Boswell, Jr. Modern American Painting. New York, 1940, pp. 124, 145, ill., as \"White Barn\". \"O'Keeffe in Review.\" Art Digest (February 15, 1943), p. 14, ill. Daniel Catton Rich. \"Exhibition of Paintings by Georgia O'Keeffe.\" Bulletin of the Art Institute of Chicago 37 (February 1943), p. 19, ill. \"Georgia O'Keeffe.\" U.S.A.: An American Review 2, no. 8 (1945), pp. 95-96, ill., as \"Untitled\". MKR's Art Outlook 11 (June 1946), p. 8, ill., as \"The White Barn\". James Thrall Soby in New Art in America: Fifty Painters of the 20th Century. Ed.  John I. H. Baur. Greenwich, Conn., 1957, ill. p. 111, calls it \"White Canadian Barn, No. 2\". Henry Geldzahler. American Painting in the Twentieth Century. New York, 1965, p. 153, ill. George Heard Hamilton. \"The Alfred Stieglitz Collection.\" Metropolitan Museum Journal 3 (1970), p. 392. Sam Hunter and John Jacobus. American Art of the Twentieth Century: Painting, Sculpture, Architecture. New York, 1973, p. 126, ill. Georgia O'Keeffe. Georgia O'Keeffe. New York, 1976, text facing pls. 64 and 66, ill. Lisa Mintz Messinger. \"Georgia O'Keeffe.\" Metropolitan Museum of Art Bulletin 42 (Fall 1984), pp. 29-31, 60, fig. 29. Jan Garden Castro. The Art and Life of Georgia O'Keeffe. New York, 1985, pp. 96, 102, ill. Lisa Mintz Messinger. Georgia O'Keeffe. New York, 1988, pp. 52, 54-55, fig. 37. Elizabeth Montgomery. Georgia O'Keeffe. New York, 1993, pp. 92-93, ill. Lisa Mintz Messinger in The Georgia O'Keeffe Museum. Ed.  Peter H. Hassrick. New York, 1997, p. 47, installation photo of Exh. New York 1946. Barbara Buhler Lynes. Georgia O'Keeffe: Catalogue Raisonn\u00e9. New Haven, Conn., 1999, vol. 1, p. 496, no. 807, ill. Lisa Mintz Messinger. Georgia O'Keeffe. London, 2001, pp. 133-34, fig. 5.20. Barbara Buhler Lynes with Russell Bowman. O'Keeffe's O'Keeffes: The Artist's Collection. Exh. cat.,  Milwaukee Art Museum. New York, 2001, p. 169 (app. 2: \"Works Given to Institutions during the Artist's Lifetime\"). Lisa Mintz Messinger in Stieglitz and His Artists: Matisse to O'Keeffe. The Alfred Stieglitz Collection in The Metropolitan Museum of Art. Ed.  Lisa Mintz Messinger. Exh. cat.,  The Metropolitan Museum of Art. New York, 2011, pp. 14, 204, 281, no. 190, ill. (color). Sarah Greenough, ed. My Faraway One: Selected Letters of Georgia O'Keeffe and Alfred Stieglitz. Vol. 1, 1915\u20131933. New Haven, Conn., 2011, pp. 644, 667, 675, 683.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026497",
+          "type": "Type",
+          "_label": "Bibliography Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    }
+  ],
+  "representation": [
+    {
+      "id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/489360/1011137/restricted",
+      "type": "VisualItem",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300215302",
+          "type": "Type",
+          "_label": "Digital Image"
+        }
+      ]
+    }
+  ]
+}

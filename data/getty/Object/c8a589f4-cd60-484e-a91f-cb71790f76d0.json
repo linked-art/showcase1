@@ -1,0 +1,382 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://data.getty.edu/museum/collection/object/c8a589f4-cd60-484e-a91f-cb71790f76d0",
+  "type": "HumanMadeObject",
+  "_label": "Georgia O'Keeffe: A Portrait",
+  "identified_by": [
+    {
+      "id": "https://data.getty.edu/museum/collection/object/c8a589f4-cd60-484e-a91f-cb71790f76d0/identifier/e532a53f-0500-4300-a15f-8dae3021be79",
+      "type": "Identifier",
+      "_label": "Accession Number",
+      "content": "93.XM.25.70",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312355",
+          "type": "Type",
+          "_label": "Accession Number"
+        }
+      ]
+    },
+    {
+      "id": "https://data.getty.edu/museum/collection/object/c8a589f4-cd60-484e-a91f-cb71790f76d0/identifier/dor-id",
+      "type": "Identifier",
+      "_label": "Getty Digital Object Repository (DOR) ID",
+      "content": 99697,
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/internal/ontologies/linked-data/dor-identifier",
+          "type": "Type",
+          "_label": "Getty Digital Object Repository (DOR) ID"
+        }
+      ]
+    },
+    {
+      "id": "https://data.getty.edu/museum/collection/object/c8a589f4-cd60-484e-a91f-cb71790f76d0/identifier/dor-uuid",
+      "type": "Identifier",
+      "_label": "Getty Digital Object Repository (DOR) UUID",
+      "content": "c8a589f4-cd60-484e-a91f-cb71790f76d0",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/internal/ontologies/linked-data/universally-unique-identifier",
+          "type": "Type",
+          "_label": "Universally Unique Identifier (UUID)"
+        }
+      ]
+    },
+    {
+      "id": "https://data.getty.edu/museum/collection/object/c8a589f4-cd60-484e-a91f-cb71790f76d0/identifier/dor-id",
+      "type": "Identifier",
+      "_label": "Getty Digital Object Repository (DOR) ID",
+      "content": 99697,
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/internal/ontologies/linked-data/dor-identifier",
+          "type": "Type",
+          "_label": "Getty Digital Object Repository (DOR) ID"
+        }
+      ]
+    },
+    {
+      "id": "https://data.getty.edu/museum/collection/object/c8a589f4-cd60-484e-a91f-cb71790f76d0/identifier/dor-uuid",
+      "type": "Identifier",
+      "_label": "Getty Digital Object Repository (DOR) UUID",
+      "content": "c8a589f4-cd60-484e-a91f-cb71790f76d0",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/internal/ontologies/linked-data/universally-unique-identifier",
+          "type": "Type",
+          "_label": "Universally Unique Identifier (UUID)"
+        }
+      ]
+    },
+    {
+      "id": "https://data.getty.edu/museum/collection/object/c8a589f4-cd60-484e-a91f-cb71790f76d0/name/916f2f6b-5fdb-455e-9016-21a1c57d871a",
+      "type": "Name",
+      "_label": "Primary Title",
+      "content": "Georgia O'Keeffe: A Portrait",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "Primary Title"
+        }
+      ]
+    },
+    {
+      "id": "https://data.getty.edu/museum/collection/object/c8a589f4-cd60-484e-a91f-cb71790f76d0/identifier/tms-id",
+      "type": "Identifier",
+      "_label": "Gallery Systems' The Museum System (TMS) ID",
+      "content": 106225,
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/internal/ontologies/linked-data/tms-identifier",
+          "type": "Type",
+          "_label": "Gallery Systems' The Museum System (TMS) ID"
+        }
+      ]
+    },
+    {
+      "id": "https://data.getty.edu/museum/collection/object/c8a589f4-cd60-484e-a91f-cb71790f76d0/identifier/tms-id",
+      "type": "Identifier",
+      "_label": "Gallery Systems' The Museum System (TMS) ID",
+      "content": 106225,
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/internal/ontologies/linked-data/tms-identifier",
+          "type": "Type",
+          "_label": "Gallery Systems' The Museum System (TMS) ID"
+        }
+      ]
+    }
+  ],
+  "produced_by": {
+    "id": "https://data.getty.edu/museum/collection/object/c8a589f4-cd60-484e-a91f-cb71790f76d0/activity/production/b190aa2e-330e-45df-bdf6-9eb4f152f135",
+    "type": "Production",
+    "_label": "Production of Artwork",
+    "timespan": {
+      "id": "https://data.getty.edu/museum/collection/object/c8a589f4-cd60-484e-a91f-cb71790f76d0/activity/production/b190aa2e-330e-45df-bdf6-9eb4f152f135/timespan",
+      "type": "TimeSpan",
+      "identified_by": [
+        {
+          "id": "https://data.getty.edu/museum/collection/object/c8a589f4-cd60-484e-a91f-cb71790f76d0/activity/production/b190aa2e-330e-45df-bdf6-9eb4f152f135/timespan/name",
+          "type": "Name",
+          "_label": "Date",
+          "content": "negative 1918; print 1920s\u20131930s",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300404439",
+              "type": "Type",
+              "_label": "Dates (Spans of Time)"
+            }
+          ]
+        }
+      ],
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404439",
+          "type": "Type",
+          "_label": "Dates (Spans of Time)"
+        }
+      ],
+      "begin_of_the_begin": "1918-01-01 00:00:00",
+      "end_of_the_begin": "1918-01-01 00:00:00",
+      "begin_of_the_end": "1939-12-31 23:59:59",
+      "end_of_the_end": "1939-12-31 23:59:59"
+    },
+    "carried_out_by": [
+      {
+        "id": "https://data.getty.edu/museum/collection/object/b190aa2e-330e-45df-bdf6-9eb4f152f135",
+        "type": "Person",
+        "_label": "Alfred Stieglitz"
+      }
+    ],
+    "took_place_at": [
+      {
+        "id": "https://data.getty.edu/museum/collection/object/f966f80f-6f5d-49eb-b50d-0c4a9c59357c",
+        "type": "Place",
+        "_label": "United States",
+        "identified_by": [
+          {
+            "id": "https://data.getty.edu/museum/collection/object/f966f80f-6f5d-49eb-b50d-0c4a9c59357c/name",
+            "type": "Name",
+            "content": "United States"
+          }
+        ],
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300008347",
+            "type": "Type",
+            "_label": "Inhabited Place"
+          }
+        ]
+      }
+    ]
+  },
+  "classified_as": [
+    {
+      "id": "http://vocab.getty.edu/aat/300133025",
+      "type": "Type",
+      "_label": "Artwork"
+    },
+    {
+      "id": "http://lod.example.org/museum/Type/92",
+      "type": "Type"
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://data.getty.edu/museum/collection/object/c8a589f4-cd60-484e-a91f-cb71790f76d0/culture/1b85d3e5-10be-4c8e-a6c5-00191a722080",
+      "type": "LinguisticObject",
+      "content": "American",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055768",
+          "type": "Type",
+          "_label": "Culture"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "https://data.getty.edu/museum/collection/object/c8a589f4-cd60-484e-a91f-cb71790f76d0/description/c3e5cffd-56ac-4644-8c51-270e7de771cc",
+      "type": "LinguisticObject",
+      "content": "View of Georgia O'Keeffe with her head turned slightly to the right.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300080091",
+          "type": "Type",
+          "_label": "Description"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "https://data.getty.edu/museum/collection/object/c8a589f4-cd60-484e-a91f-cb71790f76d0/dimensions/3f6aab25-e94a-4876-9926-4e87062ffe08",
+      "type": "LinguisticObject",
+      "content": "13.2 \u00d7 8.3 cm (5 3/16 \u00d7 3 1/4 in.)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300266036",
+          "type": "Type",
+          "_label": "Dimension Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "https://data.getty.edu/museum/collection/object/c8a589f4-cd60-484e-a91f-cb71790f76d0/material-statement/8ce56e06-1728-4c7e-9e56-86de48fcd86d",
+      "type": "LinguisticObject",
+      "content": "Gelatin silver print",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300010358",
+          "type": "Type",
+          "_label": "Material Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    }
+  ],
+  "current_keeper": [
+    {
+      "id": "https://data.getty.edu/museum/collection/object/3b40e6f1-ea7a-430a-8e92-ab65b75addf9",
+      "type": "Group",
+      "_label": "Photographs (Curatorial Department)",
+      "member_of": [
+        {
+          "id": "http://vocab.getty.edu/ulan/500115988",
+          "type": "Group",
+          "_label": "J. Paul Getty Museum, Los Angeles, California",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300312281",
+              "type": "Type",
+              "_label": "Museum"
+            }
+          ],
+          "member_of": [
+            {
+              "id": "http://vocab.getty.edu/ulan/500115987",
+              "type": "Group",
+              "_label": "The J. Paul Getty Trust, Los Angeles, California",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/ulan/500000003",
+                  "type": "Type",
+                  "_label": "Corporate Bodies"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300263534",
+          "type": "Type",
+          "_label": "Department (Organizational Unit)"
+        }
+      ],
+      "identified_by": [
+        {
+          "id": "https://data.getty.edu/museum/collection/object/c8a589f4-cd60-484e-a91f-cb71790f76d0/department/3b40e6f1-ea7a-430a-8e92-ab65b75addf9/name",
+          "type": "Name",
+          "content": "Photographs"
+        }
+      ]
+    }
+  ],
+  "current_owner": [
+    {
+      "id": "http://vocab.getty.edu/ulan/500115988",
+      "type": "Group",
+      "_label": "J. Paul Getty Museum, Los Angeles, California",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312281",
+          "type": "Type",
+          "_label": "Museum"
+        }
+      ],
+      "member_of": [
+        {
+          "id": "http://vocab.getty.edu/ulan/500115987",
+          "type": "Group",
+          "_label": "The J. Paul Getty Trust, Los Angeles, California",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/ulan/500000003",
+              "type": "Type",
+              "_label": "Corporate Bodies"
+            }
+          ]
+        }
+      ],
+      "acquired_title_through": [
+        {
+          "id": "https://data.getty.edu/museum/collection/object/c8a589f4-cd60-484e-a91f-cb71790f76d0/activity/acquisition",
+          "type": "Acquisition",
+          "_label": "Acquisition"
+        }
+      ]
+    }
+  ],
+  "subject_of": [
+    {
+      "id": "http://www.getty.edu/art/collection/objects/99697/",
+      "type": "LinguisticObject",
+      "_label": "Homepage for Object",
+      "format": "text/html",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300264578",
+          "type": "Type",
+          "_label": "Web Page"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "Primary"
+        }
+      ]
+    },
+    {
+      "id": "https://data.getty.edu/museum/api/iiif/c8a589f4-cd60-484e-a91f-cb71790f76d0/manifest.json",
+      "type": "InformationObject",
+      "format": [
+        "application/ld+json;profile=\"http://iiif.io/api/presentation/2/context.json\""
+      ]
+    }
+  ],
+  "representation": [
+    {
+      "id": "http://media.getty.edu/museum/images/web/enlarge/10622501.jpg",
+      "type": "VisualItem",
+      "_label": "Object Overall",
+      "format": "image/jpeg",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300215302",
+          "type": "Type",
+          "_label": "Digital Image"
+        }
+      ]
+    }
+  ]
+}

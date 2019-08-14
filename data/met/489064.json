@@ -1,0 +1,281 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://collectionapi.metmuseum.org/public/collection/v1/objects/489064",
+  "type": "HumanMadeObject",
+  "classified_as": [
+    {
+      "id": "http://vocab.getty.edu/aat/300033618",
+      "type": "Type",
+      "_label": "Painting"
+    }
+  ],
+  "identified_by": [
+    {
+      "id": "http://lod.example.org/museum/Identifier/34",
+      "type": "Identifier",
+      "content": 489064,
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404621",
+          "type": "Type",
+          "_label": "Local Number"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/Identifier/35",
+      "type": "Identifier",
+      "content": "59.204.2",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312355",
+          "type": "Type",
+          "_label": "Accession Number"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/Name/88",
+      "type": "Name",
+      "content": "From the Faraway, Nearby",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300195168",
+          "type": "Type",
+          "_label": "Title"
+        }
+      ]
+    }
+  ],
+  "produced_by": {
+    "id": "http://lod.example.org/museum/Production/17",
+    "type": "Production",
+    "timespan": {
+      "id": "http://lod.example.org/museum/TimeSpan/51",
+      "type": "TimeSpan",
+      "begin_of_the_begin": 1937,
+      "end_of_the_end": 1937,
+      "identified_by": [
+        {
+          "id": "http://lod.example.org/museum/Name/89",
+          "type": "Name",
+          "content": "1937"
+        }
+      ]
+    },
+    "carried_out_by": [
+      {
+        "id": "http://lod.example.org/museum/Person/17",
+        "type": "Person",
+        "identified_by": [
+          {
+            "id": "http://lod.example.org/museum/Name/90",
+            "type": "Name",
+            "content": "Georgia O'Keeffe"
+          }
+        ],
+        "referred_to_by": [
+          {
+            "id": "http://lod.example.org/museum/LinguisticObject/141",
+            "type": "LinguisticObject",
+            "content": "American, Sun Prairie, Wisconsin 1887\u20131986 Santa Fe, New Mexico",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300080102",
+                "type": "Type",
+                "_label": "Biography Statement"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "Brief Text"
+              }
+            ]
+          }
+        ],
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300107956",
+            "type": "Type",
+            "_label": "American",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300379842",
+                "type": "Type",
+                "_label": "Nationality"
+              }
+            ]
+          }
+        ],
+        "born": {
+          "id": "http://lod.example.org/museum/Birth/17",
+          "type": "Birth",
+          "timespan": {
+            "id": "http://lod.example.org/museum/TimeSpan/52",
+            "type": "TimeSpan",
+            "begin_of_the_begin": "1887",
+            "end_of_the_end": "1887",
+            "identified_by": [
+              {
+                "id": "http://lod.example.org/museum/Name/91",
+                "type": "Name",
+                "content": "1887"
+              }
+            ]
+          }
+        },
+        "died": {
+          "id": "http://lod.example.org/museum/Death/17",
+          "type": "Death",
+          "timespan": {
+            "id": "http://lod.example.org/museum/TimeSpan/53",
+            "type": "TimeSpan",
+            "begin_of_the_begin": "1986",
+            "end_of_the_end": "1986",
+            "identified_by": [
+              {
+                "id": "http://lod.example.org/museum/Name/92",
+                "type": "Name",
+                "content": "1887"
+              }
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "referred_to_by": [
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/142",
+      "type": "LinguisticObject",
+      "content": "Oil on canvas",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300010358",
+          "type": "Type",
+          "_label": "Material Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/143",
+      "type": "LinguisticObject",
+      "content": "36 x 40 1/8 in. (91.4 x 101.9 cm)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300266036",
+          "type": "Type",
+          "_label": "Dimension Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/144",
+      "type": "LinguisticObject",
+      "content": "Alfred Stieglitz Collection, 1959",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "Credit Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/145",
+      "type": "LinguisticObject",
+      "content": "In 1935 O'Keeffe began to experiment with compositions that combined bones and landscapes, without regard to relative size, scale, or perspective.  Despite her realistic painting technique, there is no verisimilitude to this scene.  The poetic title\u2014conveying longing and loneliness\u2014suggests that the odd juxtaposition of words and images depicts an emotional state of mind as well as a physical location.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300080091",
+          "type": "Type",
+          "_label": "Description"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/146",
+      "type": "LinguisticObject",
+      "content": "the artist (1937\u201359; on extended loan to MMA, 1949\u201359; her gift as part of the Alfred Stieglitz Collection to MMA)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "Provenance Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/147",
+      "type": "LinguisticObject",
+      "content": "New York. An American Place. \"Georgia O'Keeffe: Catalogue of the 14th Annual Exhibition of Paintings,\" December 27, 1937\u2013February 11, 1938, no. 7.Art Institute of Chicago. \"Georgia O'Keeffe,\" January 21\u2013February 22, 1943, no. 54 (as \"Deer's Horns, Near Cameron\").Museum of Modern Art, New York. \"Georgia O'Keeffe: An Exhibition,\" May 14\u2013August 25, 1946, no catalogue (checklist no. 46; as \"Deer's Horns, Near Cameron\").New York. The Metropolitan Museum of Art. \"20th Century Painters:  A Special Exhibition of Oils, Water Colors and Drawings Selected from the Collections of American Art in the Metropolitan Museum,\" June 16\u2013October 29, 1950, unnum. brochure (p. 9, as \"Deer's Horn, near Cameron\").Corning Museum of Glass. \"The Deerslayers,\" September 29\u2013November 18, 1956, not in brochure.New York. The Metropolitan Museum of Art. \"Fourteen American Masters: Paintings from Colonial Times to Today,\" October 16, 1958\u2013January 4, 1959, no catalogue (unnum. checklist; as \"Deer's Horn, Near Cameron\").Fort Worth. Amon Carter Museum of Western Art. \"Georgia O'Keeffe: An Exhibition of the Work of the Artist from 1915 to 1966,\" March 17\u2013May 8, 1966, unnumbered cat. (p. 29; as \" Deer's Horn, near Cameron\").Museum of Fine Arts, Houston. \"Georgia O'Keeffe: An Exhibition of the Work of the Artist from 1915 to 1966,\" May 28\u2013July 3, 1966, unnumbered cat.New York. Whitney Museum of American Art. \"Georgia O'Keeffe,\" October 8\u2013November 29, 1970, no. 86.Art Institute of Chicago. \"Georgia O'Keeffe,\" January 6\u2013February 7, 1971, no. 86.San Francisco Museum of Art. \"Georgia O'Keeffe,\" March 15\u2013April 30, 1971, no. 86.National Gallery of Art, Washington D.C. \"Georgia O'Keeffe: 1887\u20131986,\" November 1, 1987\u2013February 21, 1988, no. 84.Art Institute of Chicago. \"Georgia O'Keeffe: 1887\u20131986,\" March 5\u2013June 19, 1988, no. 84.Dallas Museum of Art. \"Georgia O'Keeffe: 1887\u20131986,\" July 31\u2013October 16, 1988, no. 84.New York. The Metropolitan Museum of Art. \"Georgia O'Keeffe: 1887\u20131986,\" November 19, 1988\u2013February 5, 1989, no. 84.London. Hayward Gallery. \"Georgia O'Keeffe: American and Modern,\" April 8\u2013June 27, 1993, no. 65.Mexico City. El Museo del Palacio de Bellas Artes. \"Georgia O'Keeffe: American and Modern,\" July 15\u2013October 1, 1993, no. 65.Yokohama Museum of Art. \"Georgia O'Keeffe: American and Modern,\" October 30, 1993\u2013January 16, 1994, no. 65.Washington D.C. Phillips Collection. \"Georgia O'Keeffe: The Poetry of Things,\" April 17\u2013July 18, 1999, unnumbered cat. (fig. 50).Santa Fe. Georgia O'Keeffe Museum. \"Georgia O'Keeffe: The Poetry of Things,\" August 7\u2013October 17, 1999, unnumbered cat.New York. The Metropolitan Museum of Art. \"Stieglitz and His Artists: Matisse to O'Keeffe,\" October 13, 2011\u2013January 2, 2012, no. 191.Indianapolis Museum of Art. \"Eloquent Objects: Georgia O'Keeffe and Still-Life Art in New Mexico,\" October 30, 2014\u2013February 15, 2015, unnumbered cat. (pl. 58).Philadelphia Museum of Art. \"Audubon to Warhol: The Art of American Still Life,\" October 27, 2015\u2013January 10, 2016, no. 112.London. Tate Modern. \"Georgia O'Keeffe,\" July 6\u2013October 30, 2016, unnumbered cat. (fig. 126).Bank Austria Kunstforum Wien. \"Georgia O'Keeffe,\" December 7, 2016\u2013March 26, 2017, unnumbered cat.Art Gallery of Ontario, Toronto. \"Georgia O'Keeffe,\" April 22\u2013July 30, 2017, unnumbered cat.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "Exhibition Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/148",
+      "type": "LinguisticObject",
+      "content": "Elizabeth McCausland. \"Georgia O'Keeffe Shows Her Latest Paintings.\" Springfield Sunday Union and Republican (January 2, 1938), p. E6, ill. \"Art: Year.\" Time (January 3, 1938), p. 28 and suppl., ill. Paul V. Beckley. \"Bulk of Stieglitz Art Collection Going to Metropolitan Museum.\" New York Herald (June 27, 1949), pp. 1, 11, ill. George Heard Hamilton. \"The Alfred Stieglitz Collection.\" Metropolitan Museum Journal 3 (1970), p. 392, fig. 25, as \"Deer's Horn, near Cameron (From the Faraway Nearby)\". Georgia O'Keeffe. Georgia O'Keeffe. New York, 1976, pl. 72. Laurie Lisle. Portrait of an Artist: A Biography of Georgia O'Keeffe. New York, 1980, pp. 297-98. Patricia Janis Broder. The American West: The Modern Vision. Boston, 1984, pp. 170-71, ill. Lisa Mintz Messinger. \"Georgia O'Keeffe.\" Metropolitan Museum of Art Bulletin 42 (Fall 1984), pp. 50-51, 61, fig. 49. Laurie Lisle. Portrait of an Artist: A Biography of Georgia O'Keeffe. Albuquerque, N.M., 1986, p. 236. Erika Billeter. \"Georgia O'Keeffe's Bilder.\" Du (May 1987), p. 54, ill. Lisa Mintz Messinger. Georgia O'Keeffe. New York, 1988, pp. 77-79, fig. 57. Michael Berry. Georgia O'Keeffe. New York, 1988, pp. 80-81, ill. Roxana Robinson. Georgia O'Keeffe: A Life. New York, 1989, pp. 420-21. Doris Bry and Nicholas Callaway, ed. Georgia O'Keeffe in the West. New York, 1989, unpaginated no. 40, pl. 40. Jennifer Saville. Georgia O'Keeffe: Paintings of Hawai'i. Exh. cat.,  Honolulu Academy of Arts. Honolulu, 1990, p. 31, fig. 12. Charles Child Eldredge. Georgia O'Keeffe. New York, 1991, pp. 131-33, ill. Maria Costantino. Georgia O'Keeffe. New York, 1994, pp. 37, 130-31, ill. Britta Benke. Georgia O'Keeffe, 1887\u20131986: Blumen in der W\u00fcste. Cologne, 1994, pp. 60, 64-66, ill. Jula Dech. Georgia O'Keeffe: Gem\u00e4lde. Munich, 1995, pl. 29. Katherine Hoffman. Georgia O'Keeffe: A Celebration of Music and Dance. New York, 1997, pp. 56, 110, 119, pl. 36. Barbara Buhler Lynes. Georgia O'Keeffe: Catalogue Raisonn\u00e9. New Haven, Conn., 1999, vol. 1, p. 569, no. 914, ill. Lisa Mintz Messinger. Georgia O'Keeffe. London, 2001, p. 134, fig. 85. Barbara Buhler Lynes with Russell Bowman. O'Keeffe's O'Keeffes: The Artist's Collection. Exh. cat.,  Milwaukee Art Museum. New York, 2001, p. 169 (app. 2: \"Works Given to Institutions during the Artist's Lifetime\"). Hunter Drohojowska-Philp. Full Bloom: The Art and Life of Georgia O'Keeffe. New York, 2004, p. 371. Janet Souter. Georgia O'Keeffe. London, 2005, p. 42, pl. 38. Janet Souter. Georgia O'Keeffe. New York, 2005, pp. 116, 132, ill., back cover ill. Susan Wright. Georgia O'Keeffe: An Eternal Spirit. (1st ed., 1996). [New York], 2006, p. 109, ill. Lothar Schirmer, ed. Georgia O'Keeffe/John Loengard: Paintings and Photographs, a Visit to Abiquiu and Ghost Ranch. Munich, 2006, pl. 51. Katja Fauth. Modernist Visions in Taos: Mabel Dodge Luhan and the Artists of the Stieglitz Circle. Marburg, Germany, 2009, pp. 174-77, 194, fig. 37. Lisa Mintz Messinger in Stieglitz and His Artists: Matisse to O'Keeffe. The Alfred Stieglitz Collection in The Metropolitan Museum of Art. Ed.  Lisa Mintz Messinger. Exh. cat.,  The Metropolitan Museum of Art. New York, 2011, pp. 14, 204, 281-82, no. 191, ill. (color), fig. 13 (installation photo). Isabelle Duvernois in Stieglitz and His Artists: Matisse to O'Keeffe. The Alfred Stieglitz Collection in The Metropolitan Museum of Art. Ed.  Lisa Mintz Messinger. Exh. cat.,  The Metropolitan Museum of Art. New York, 2011, p. 193. Charles C. Eldredge. Eloquent Objects: Georgia O'Keeffe and Still-Life Art in New Mexico. Exh. cat.,  Indianapolis Museum of Art. [Memphis], 2014, pp. 42, 156, colorpl. 58. Mark D. Mitchell in Audubon to Warhol: The Art of American Still Life. Exh. cat.,  Philadelphia Museum of Art. Philadelphia, 2015, p. 239, no. 112, ill. p. 238 (color). Tanya Barson in Georgia O'Keeffe. Ed.  Tanya Barson. Exh. cat.,  Tate Modern. London, 2016, pp. 14, 16, 254, fig. 126 (color). Georgiana Uhlyarik in Georgia O'Keeffe. Ed.  Tanya Barson. Exh. cat.,  Tate Modern. London, 2017, p. 224.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026497",
+          "type": "Type",
+          "_label": "Bibliography Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    }
+  ],
+  "representation": [
+    {
+      "id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/489064/1010450/restricted",
+      "type": "VisualItem",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300215302",
+          "type": "Type",
+          "_label": "Digital Image"
+        }
+      ]
+    }
+  ]
+}

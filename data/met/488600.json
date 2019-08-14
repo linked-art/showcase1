@@ -1,0 +1,316 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://collectionapi.metmuseum.org/public/collection/v1/objects/488600",
+  "type": "HumanMadeObject",
+  "classified_as": [
+    {
+      "id": "http://vocab.getty.edu/aat/300033618",
+      "type": "Type",
+      "_label": "Painting"
+    }
+  ],
+  "identified_by": [
+    {
+      "id": "http://lod.example.org/museum/Identifier/10",
+      "type": "Identifier",
+      "content": 488600,
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404621",
+          "type": "Type",
+          "_label": "Local Number"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/Identifier/11",
+      "type": "Identifier",
+      "content": "50.236.1",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312355",
+          "type": "Type",
+          "_label": "Accession Number"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/Name/27",
+      "type": "Name",
+      "content": "Corn, Dark , No. 1",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300195168",
+          "type": "Type",
+          "_label": "Title"
+        }
+      ]
+    }
+  ],
+  "produced_by": {
+    "id": "http://lod.example.org/museum/Production/5",
+    "type": "Production",
+    "timespan": {
+      "id": "http://lod.example.org/museum/TimeSpan/15",
+      "type": "TimeSpan",
+      "begin_of_the_begin": 1924,
+      "end_of_the_end": 1924,
+      "identified_by": [
+        {
+          "id": "http://lod.example.org/museum/Name/28",
+          "type": "Name",
+          "content": "1924"
+        }
+      ]
+    },
+    "carried_out_by": [
+      {
+        "id": "http://lod.example.org/museum/Person/5",
+        "type": "Person",
+        "identified_by": [
+          {
+            "id": "http://lod.example.org/museum/Name/29",
+            "type": "Name",
+            "content": "Georgia O'Keeffe"
+          }
+        ],
+        "referred_to_by": [
+          {
+            "id": "http://lod.example.org/museum/LinguisticObject/42",
+            "type": "LinguisticObject",
+            "content": "American, Sun Prairie, Wisconsin 1887\u20131986 Santa Fe, New Mexico",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300080102",
+                "type": "Type",
+                "_label": "Biography Statement"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "Brief Text"
+              }
+            ]
+          }
+        ],
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300107956",
+            "type": "Type",
+            "_label": "American",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300379842",
+                "type": "Type",
+                "_label": "Nationality"
+              }
+            ]
+          }
+        ],
+        "born": {
+          "id": "http://lod.example.org/museum/Birth/5",
+          "type": "Birth",
+          "timespan": {
+            "id": "http://lod.example.org/museum/TimeSpan/16",
+            "type": "TimeSpan",
+            "begin_of_the_begin": "1887",
+            "end_of_the_end": "1887",
+            "identified_by": [
+              {
+                "id": "http://lod.example.org/museum/Name/30",
+                "type": "Name",
+                "content": "1887"
+              }
+            ]
+          }
+        },
+        "died": {
+          "id": "http://lod.example.org/museum/Death/5",
+          "type": "Death",
+          "timespan": {
+            "id": "http://lod.example.org/museum/TimeSpan/17",
+            "type": "TimeSpan",
+            "begin_of_the_begin": "1986",
+            "end_of_the_end": "1986",
+            "identified_by": [
+              {
+                "id": "http://lod.example.org/museum/Name/31",
+                "type": "Name",
+                "content": "1887"
+              }
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "referred_to_by": [
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/43",
+      "type": "LinguisticObject",
+      "content": "Oil on wood fiberboard",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300010358",
+          "type": "Type",
+          "_label": "Material Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/44",
+      "type": "LinguisticObject",
+      "content": "31 3/4 x 11 7/8 in. (80.6 x 30.2 cm)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300266036",
+          "type": "Type",
+          "_label": "Dimension Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/45",
+      "type": "LinguisticObject",
+      "content": "Alfred Stieglitz Collection, 1950",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "Credit Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/46",
+      "type": "LinguisticObject",
+      "content": "In the summer of 1924, O\u2019Keeffe painted three pictures, using the same color schemes and narrow formats, of the corn stalks growing in her Lake George garden. More than fifty years later she remembered \"the light-colored veins of the dark green leaves reaching out in opposite directions. And every morning a little drop of dew would run down the veins into the center of this plant like a little lake\u2014all fine and fresh.\"",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300080091",
+          "type": "Type",
+          "_label": "Description"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/47",
+      "type": "LinguisticObject",
+      "content": "Inscription: Inscribed (verso): O #24",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300028702",
+          "type": "Type",
+          "_label": "Inscription"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/48",
+      "type": "LinguisticObject",
+      "content": "the artist (1924\u201350; on extended loan to MMA, 1949\u201350; her gift as part of the Alfred Stieglitz Collection to MMA)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "Provenance Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/49",
+      "type": "LinguisticObject",
+      "content": "Anderson Galleries, New York. \"Alfred Stieglitz Presents Seven Americans: 159 Paintings, Photographs and Things, Recent and Never Before Publicly [sic] Shown by Arthur G. Dove, Marsden Hartley, John Marin, Charles Demuth, Paul Strand, Georgia O'Keeffe, Alfred Stieglitz,\" March 9\u201328, 1925, no. 114 (as \"Corn\u2013No. 1\").New York. An American Place. \"Georgia O'Keeffe: 44 Selected Paintings (1915\u20131927),\" January 29\u2013March 17, 1934, possibly extended to March 27, 1934, no catalogue [possibly this work].Art Institute of Chicago. \"Georgia O'Keeffe,\" January 21\u2013February 22, 1943, no. 8.Philadelphia Museum of Art. \"History of an American, Alfred Stieglitz: '291' and After, Selections from the Stieglitz Collection,\" July 1\u2013November 1, 1944, no. 273.Museum of Modern Art, New York. \"Georgia O'Keeffe: An Exhibition,\" May 14\u2013August 25, 1946, no catalogue (checklist no. 7; as \"Corn, Dark\").Museum of Modern Art, New York. \"Alfred Stieglitz Exhibition: His Collection,\" June 10\u2013August 31, 1947, no catalogue (checklist no. 74).Art Institute of Chicago. \"Alfred Stieglitz: His Photographs and His Collection,\" February 2\u201329, 1948, extended to March 7, 1948, no catalogue [possibly this work].New York. The Metropolitan Museum of Art. \"20th Century Painters:  A Special Exhibition of Oils, Water Colors and Drawings Selected from the Collections of American Art in the Metropolitan Museum,\" June 16\u2013October 29, 1950, unnum. brochure (p. 9).Museum of Modern Art, New York. \"From the Alfred Stieglitz Collection: An Extended Loan from the Metropolitan Museum of Art,\" May 22\u2013August 12, 1951, no catalogue (checklist no. E.L.51.685; loan extended to May 15, 1961).Brooklyn Museum, Brooklyn Institute of Arts and Sciences. \"Revolution and Tradition: An Exhibition of the Chief Movements in American Painting from 1900 to the Present,\" November 15, 1951\u2013January 6, 1952, no. 43.New York. The Metropolitan Museum of Art. \"Fourteen American Masters: Paintings from Colonial Times to Today,\" October 16, 1958\u2013January 4, 1959, no catalogue.New York. The Metropolitan Museum of Art. \"Paul Strand and His Contemporaries,\" February 10\u2013April 15, 1973, no catalogue.Moscow. State Pushkin Museum of Fine Arts. \"Representations of America,\" December 15, 1977\u2013February 15, 1978, no catalogue.Leningrad. State Hermitage Museum. \"Representations of America,\" March 15\u2013May 15, 1978, no catalogue.Minsk, Belarus. Palace of Art. \"Representations of America,\" June 15\u2013August 15, 1978, no catalogue.National Gallery of Art, Washington D.C. \"Georgia O'Keeffe: 1887\u20131986,\" November 1, 1987\u2013February 21, 1988, no. 41 (as \"Corn, Dark I\").Art Institute of Chicago. \"Georgia O'Keeffe: 1887\u20131986,\" March 5\u2013June 19, 1988, no. 41.Dallas Museum of Art. \"Georgia O'Keeffe: 1887\u20131986,\" July 31\u2013October 16, 1988, no. 41.New York. The Metropolitan Museum of Art. \"Georgia O'Keeffe: 1887\u20131986,\" November 19, 1988\u2013February 5, 1989, no. 41.Los Angeles County Museum of Art. \"Georgia O'Keeffe: 1887\u20131986,\" March 30\u2013June 18, 1989, no. 41.Museum Wiesbaden. \"K\u00fcnstlerinnen des 20. Jahrhunderts,\" September 1\u2013November 25, 1990, unnumbered cat. (p. 251).Museum of Art, Fort Lauderdale. \"20th Century Flower Painting,\" February 1\u2013March 31, 1991, no catalogue.Roslyn Harbor, N. Y. Nassau County Museum of Art. \"An Ode to Gardens and Flowers,\" May 10\u2013August 9, 1992, unnumbered cat. (p. 37).Richmond, Va. Marsh Art Gallery. \"Still Life: The Object in American Art, 1915\u20131995. Selections from The Metropolitan Museum of Art,\" January 3\u2013February 28, 1997, no. 1.Little Rock. Arkansas Arts Center. \"Still Life: The Object in American Art, 1915\u20131995. Selections from The Metropolitan Museum of Art,\" March 28\u2013May 23, 1997, no, 1.Newport Beach, Calif. Newport Harbor Art Museum. \"Still Life: The Object in American Art, 1915\u20131995. Selections from The Metropolitan Museum of Art,\" June 20\u2013August 15, 1997, no. 1.Tulsa, Okla. Philbrook Museum of Art. \"Still Life: The Object in American Art, 1915\u20131995. Selections from The Metropolitan Museum of Art,\" September 12\u2013November 7, 1997, no. 1.Palm Beach, Fla. The Society of the Four Arts. \"Still Life: The Object in American Art, 1915\u20131995. Selections from The Metropolitan Museum of Art,\" January 9\u2013February 8, 1998, no. 1.Salina, Kansas. Salina Art Center. \"Still Life: The Object in American Art, 1915\u20131995. Selections from The Metropolitan Museum of Art,\" March 6\u2013May 3, 1998, no. 1.Dallas Museum of Art. \"Georgia O'Keeffe: The Poetry of Things,\" November 7, 1999\u2013January 30, 2000, unnumbered cat. (pl. 15).Fine Arts Museums of San Francisco, California Palace of the Legion of Honor. \"Georgia O'Keeffe: The Poetry of Things,\" Frebruary 19\u2013May 14, 2000, unnumbered cat.New York. Whitney Museum of American Art. \"Georgia O'Keeffe: Abstraction,\" September 17, 2009\u2013January 17, 2010, unnumbered cat. (pl. 78).Washington, D. C. Phillips Collection. \"Georgia O'Keeffe: Abstraction,\" February 6\u2013May 9, 2010, unnumbered cat.Santa Fe. Georgia O'Keeffe Museum. \"Georgia O'Keeffe: Abstraction,\" May 28\u2013September 12, 2010, unnumbered cat.New York. The Metropolitan Museum of Art. \"Stieglitz and His Artists: Matisse to O'Keeffe,\" October 13, 2011\u2013January 2, 2012, no. 181.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "Exhibition Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/50",
+      "type": "LinguisticObject",
+      "content": "Edward Alden Jewell. \"Georgia O'Keeffe in an Art Review.\" New York Times (February 2, 1934), p. 15, mentions \"Young Corn,\" 1921 [possibly this work]. John I. H. Baur. Revolution and Tradition in Modern American Art. Cambridge, Mass., 1951, fig. 76. Georgia O'Keeffe. Georgia O'Keeffe. New York, 1976, text facing pl. 34, ill. Lisa Mintz Messinger. \"Georgia O'Keeffe.\" Metropolitan Museum of Art Bulletin 42 (Fall 1984), pp. 19-20, 60, fig. 17, cover ill. Lisa Mintz Messinger. Georgia O'Keeffe. New York, 1988, pp. 33-35, fig. 21. Roxana Robinson. Georgia O'Keeffe: A Life. New York, 1989, p. 269. Elizabeth Montgomery. Georgia O'Keeffe. New York, 1993, pp. 54-55, ill. Lucy Belloli. \"The Effects of Time: Georgia O'Keeffe's 'Black Hollyhock, Blue Larkspur'.\" Metropolitan Museum of Art Bulletin 51 (Winter 1993-94), pp. 40-41. Robin Jaffee Frank. Charles Demuth: Poster Portraits, 1923\u20131929. Exh. cat.,  Yale University Art Gallery. New Haven, 1994, p. 24, fig. 18. Britta Benke. Georgia O'Keeffe, 1887\u20131986: Blumen in der W\u00fcste. Cologne, 1994, p. 26, ill. Lowery Stokes Sims in Still Life: The Object in American Art, 1915-1995. Selections from The Metropolitan Museum of Art. Exh. cat.,  Marsh Art Gallery, Richmond, Va. New York, 1996, pp. 26, 170, no. 1, ill. p. 27 (color). Lowery Stokes Sims and Sabine Rewald in Still Life: The Object in American Art, 1915-1995. Selections from The Metropolitan Museum of Art. Exh. cat.,  Marsh Art Gallery, Richmond, Va. New York, 1996, p. 18. Bram Dijkstra. Georgia O'Keeffe and the Eros of Place. Princeton, 1998, p. 216. Barbara Buhler Lynes. Georgia O'Keeffe: Catalogue Raisonn\u00e9. New Haven, Conn., 1999, vol. 1, p. 247, no. 455, ill. Lisa Mintz Messinger. Georgia O'Keeffe. London, 2001, pp. 67-68, fig. 41. Barbara Buhler Lynes with Russell Bowman. O'Keeffe's O'Keeffes: The Artist's Collection. Exh. cat.,  Milwaukee Art Museum. New York, 2001, pp. 50, 169. Peter R. Kalb. High Drama: The New York Cityscapes of Georgia O'Keeffe and Margaret Bourke-White. New York, 2003, p. iii. Wanda Corn. \"Telling Tales: Georgia O'Keeffe on Georgia O'Keeffe.\" American Art 23 (Summer 2009), pp. 70-71, ill. Lisa Mintz Messinger in Stieglitz and His Artists: Matisse to O'Keeffe. The Alfred Stieglitz Collection in The Metropolitan Museum of Art. Ed.  Lisa Mintz Messinger. Exh. cat.,  The Metropolitan Museum of Art. New York, 2011, pp. 14, 198, 278\u201379, no. 181, ill. (color). Isabelle Duvernois in Stieglitz and His Artists: Matisse to O'Keeffe. The Alfred Stieglitz Collection in The Metropolitan Museum of Art. Ed.  Lisa Mintz Messinger. Exh. cat.,  The Metropolitan Museum of Art. New York, 2011, p. 193. Britta Benke. Georgia O'Keeffe, 1887-1986: Flowers in the Desert. Cologne, 2011, p. 26, ill (color).",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026497",
+          "type": "Type",
+          "_label": "Bibliography Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    }
+  ],
+  "current_location": {
+    "id": "http://lod.example.org/museum/Place/2",
+    "type": "Place",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300240057",
+        "type": "Type",
+        "_label": "Gallery (place)"
+      }
+    ],
+    "identified_by": [
+      {
+        "id": "http://lod.example.org/museum/Name/32",
+        "type": "Name",
+        "content": "Gallery 912"
+      }
+    ]
+  },
+  "representation": [
+    {
+      "id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/488600/1011133/restricted",
+      "type": "VisualItem",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300215302",
+          "type": "Type",
+          "_label": "Digital Image"
+        }
+      ]
+    }
+  ]
+}

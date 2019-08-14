@@ -1,0 +1,273 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://collectionapi.metmuseum.org/public/collection/v1/objects/489816",
+  "type": "HumanMadeObject",
+  "identified_by": [
+    {
+      "id": "http://lod.example.org/museum/Identifier/12",
+      "type": "Identifier",
+      "content": 489816,
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404621",
+          "type": "Type",
+          "_label": "Local Number"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/Identifier/13",
+      "type": "Identifier",
+      "content": "69.278.4",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312355",
+          "type": "Type",
+          "_label": "Accession Number"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/Name/33",
+      "type": "Name",
+      "content": "Abstraction IX",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300195168",
+          "type": "Type",
+          "_label": "Title"
+        }
+      ]
+    }
+  ],
+  "produced_by": {
+    "id": "http://lod.example.org/museum/Production/6",
+    "type": "Production",
+    "timespan": {
+      "id": "http://lod.example.org/museum/TimeSpan/18",
+      "type": "TimeSpan",
+      "begin_of_the_begin": 1916,
+      "end_of_the_end": 1916,
+      "identified_by": [
+        {
+          "id": "http://lod.example.org/museum/Name/34",
+          "type": "Name",
+          "content": "1916"
+        }
+      ]
+    },
+    "carried_out_by": [
+      {
+        "id": "http://lod.example.org/museum/Person/6",
+        "type": "Person",
+        "identified_by": [
+          {
+            "id": "http://lod.example.org/museum/Name/35",
+            "type": "Name",
+            "content": "Georgia O'Keeffe"
+          }
+        ],
+        "referred_to_by": [
+          {
+            "id": "http://lod.example.org/museum/LinguisticObject/51",
+            "type": "LinguisticObject",
+            "content": "American, Sun Prairie, Wisconsin 1887\u20131986 Santa Fe, New Mexico",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300080102",
+                "type": "Type",
+                "_label": "Biography Statement"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "Brief Text"
+              }
+            ]
+          }
+        ],
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300107956",
+            "type": "Type",
+            "_label": "American",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300379842",
+                "type": "Type",
+                "_label": "Nationality"
+              }
+            ]
+          }
+        ],
+        "born": {
+          "id": "http://lod.example.org/museum/Birth/6",
+          "type": "Birth",
+          "timespan": {
+            "id": "http://lod.example.org/museum/TimeSpan/19",
+            "type": "TimeSpan",
+            "begin_of_the_begin": "1887",
+            "end_of_the_end": "1887",
+            "identified_by": [
+              {
+                "id": "http://lod.example.org/museum/Name/36",
+                "type": "Name",
+                "content": "1887"
+              }
+            ]
+          }
+        },
+        "died": {
+          "id": "http://lod.example.org/museum/Death/6",
+          "type": "Death",
+          "timespan": {
+            "id": "http://lod.example.org/museum/TimeSpan/20",
+            "type": "TimeSpan",
+            "begin_of_the_begin": "1986",
+            "end_of_the_end": "1986",
+            "identified_by": [
+              {
+                "id": "http://lod.example.org/museum/Name/37",
+                "type": "Name",
+                "content": "1887"
+              }
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "referred_to_by": [
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/52",
+      "type": "LinguisticObject",
+      "content": "Charcoal on paper",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300010358",
+          "type": "Type",
+          "_label": "Material Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/53",
+      "type": "LinguisticObject",
+      "content": "24 1/4 x 18 3/4 in. (61.6 x 47.6 cm)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300266036",
+          "type": "Type",
+          "_label": "Dimension Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/54",
+      "type": "LinguisticObject",
+      "content": "Alfred Stieglitz Collection, 1969",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "Credit Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/55",
+      "type": "LinguisticObject",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300080091",
+          "type": "Type",
+          "_label": "Description"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/56",
+      "type": "LinguisticObject",
+      "content": "the artist (1916\u201369; on extended loan to MMA, 1949\u201369; her gift as part of the Alfred Stieglitz Collection to MMA)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "Provenance Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/57",
+      "type": "LinguisticObject",
+      "content": "New York. 291. \"Exhibition of the Recent Work\u2014Oils, Water\u2013Colors, Charcoal Drawings, Sculpture\u2014by Georgia O'Keeffe of Canyon, Texas,\" April 3\u2013May 14, 1917, no catalogue.New York. The Forum, RCA Building, Rockefeller Center. \"First Municipal Art Exhibition: Paintings, Sculpture, Drawings, Prints by Living American Artists Identified with the New York Art World,\" February 28\u2013March 31, 1934, no. 674.New York. Whitney Museum of American Art. \"Pioneers of Modern Art in America,\" April 9\u2013May 19, 1946, no. 113.Museum of Modern Art, New York. \"Georgia O'Keeffe: An Exhibition,\" May 14\u2013August 25, 1946, no catalogue (checklist no. 1).Art Institute of Chicago. \"Alfred Stieglitz: His Photographs and His Collection,\" February 2\u201329, 1948, extended to March 7, 1948, no catalogue (checklist, loan no. S-226).Museum of Modern Art, New York. \"From the Alfred Stieglitz Collection: An Extended Loan from the Metropolitan Museum of Art,\" May 22\u2013August 12, 1951, no catalogue (checklist no. E.L.51.684; loan extended to May 15, 1961).Fort Worth. Amon Carter Museum of Western Art. \"Georgia O'Keeffe: An Exhibition of the Work of the Artist from 1915 to 1966,\" March 17\u2013May 8, 1966, unnumbered cat. (p. 27).Museum of Fine Arts, Houston. \"Georgia O'Keeffe: An Exhibition of the Work of the Artist from 1915 to 1966,\" May 28\u2013July 3, 1966, unnumbered cat.Albuquerque. University of New Mexico Art Museum. \"Georgia O'Keeffe,\" September 8\u2013October 13, 1966, no catalogue.National Gallery of Art, Washington D.C. \"Georgia O'Keeffe: 1887\u20131986,\" November 1, 1987\u2013February 21, 1988, no. 8.Art Institute of Chicago. \"Georgia O'Keeffe: 1887\u20131986,\" March 5\u2013June 19, 1988, no. 8.Dallas Museum of Art. \"Georgia O'Keeffe: 1887\u20131986,\" July 31\u2013October 16, 1988, no. 8.New York. The Metropolitan Museum of Art. \"Georgia O'Keeffe: 1887\u20131986,\" November 19, 1988\u2013February 5, 1989, no. 8.Los Angeles County Museum of Art. \"Georgia O'Keeffe: 1887\u20131986,\" March 30\u2013June 18, 1989, no. 6.Washington. Phillips Collection. \"Two Lives: Georgia O'Keeffe and Alfred Stiegltz:  A Conversation in Paintings and Photographs,\" December 12, 1992\u2013April 4, 1993, unnumbered cat. (p. 25).New York. IBM Gallery of Science and Art. \"Two Lives: Georgia O'Keeffe and Alfred Stiegltz:  A Conversation in Paintings and Photographs,\" April 27\u2013June 26,1993, unnumbered cat.New York. The Metropolitan Museum of Art. \"American Drawings (1900\u20131950): Selections from the Permanent Collection,\" October 25, 2005\u2013April 23, 2006, no catalogue.New York. Whitney Museum of American Art. \"Georgia O'Keeffe: Abstraction,\" September 17, 2009\u2013January 17, 2010, unnumbered cat. (pl. 15; as \"Abstraction\").New York. The Metropolitan Museum of Art. \"Stieglitz and His Artists: Matisse to O'Keeffe,\" October 13, 2011\u2013January 2, 2012, no. 179.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "Exhibition Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/58",
+      "type": "LinguisticObject",
+      "content": "Henry Geldzahler in \"Twentieth Century Art.\" The Metropolitan Museum of Art: Notable Acquisitions, 1965\u20131975. New York, 1975, p. 212, ill. Lisa Mintz Messinger. \"Georgia O'Keeffe.\" Metropolitan Museum of Art Bulletin 42 (Fall 1984), pp. 8\u20139, fig. 4. Lisa Mintz Messinger. Georgia O'Keeffe. New York, 1988, pp. 15\u201317, 19, 21, 42, fig. 4. Georgia O'Keeffe. Some Memories of Drawings. Ed.  Doris Bry. Albuquerque, 1988, pp. 7, 21\u201323, 97\u201398, pl. 3. Barbara Buhler Lynes. O'Keeffe, Stieglitz, and the Critics. Ann Arbor, Mich., 1989, pp. 63, 325 n. 68. Sarah Whitaker Peters. Becoming O'Keeffe: The Early Years. New York, 1991, pp. 264\u201365, fig. 129. Charles Child Eldredge. Georgia O'Keeffe. New York, 1991, p. 25, ill. Elizabeth Montgomery. Georgia O'Keeffe. New York, 1993, p. 60, ill. Anne Middleton Wagner. Three Artists (Three Women): Modernism and the Art of Hesse, Krasner, and O'Keeffe. Berkeley, 1996, pp. 56\u201358, fig. 12. Katherine Hoffman. Georgia O'Keeffe: A Celebration of Music and Dance. New York, 1997, p. 47. Barbara Buhler Lynes. Georgia O'Keeffe: Catalogue Raisonn\u00e9. New Haven, Conn., 1999, vol. 1, p. 73, no. 99, ill.; vol. 2, p. 1110, app. 3, fig. 4. Barbara Buhler Lynes in Sarah Greenough. Modern Art and America: Alfred Stieglitz and His New York Galleries. Exh. cat.,  National Gallery of Art. Washington, D. C., 2000, pp. 265\u201367, fig. 87a-e. Lisa Mintz Messinger. Georgia O'Keeffe. London, 2001, pp. 24\u201325, fig. 9. Peter\u2013Cornell Richter. Georgia O'Keeffe and Alfred Stieglitz. New York, 2001, p. 49, ill. Barbara Buhler Lynes with Russell Bowman. O'Keeffe's O'Keeffes: The Artist's Collection. Exh. cat.,  Milwaukee Art Museum. New York, 2001, p. 169. Janet Souter. Georgia O'Keeffe. London, 2005, p. 8, fig. 5. Janet Souter. Georgia O'Keeffe. New York, 2005, pp. 26\u201327, ill. Susan Wright. Georgia O'Keeffe: An Eternal Spirit. (1st ed., 1996). [New York], 2006, pp. 22\u201323, ill. Lisa Mintz Messinger in Stieglitz and His Artists: Matisse to O'Keeffe. The Alfred Stieglitz Collection in The Metropolitan Museum of Art. Ed.  Lisa Mintz Messinger. Exh. cat.,  The Metropolitan Museum of Art. New York, 2011, pp. 14, 196\u201397, 278, no. 179, ill. (color). Sarah Greenough, ed. My Faraway One: Selected Letters of Georgia O'Keeffe and Alfred Stieglitz. Vol. 1, 1915\u20131933. New Haven, Conn., 2011, pp. 18, 110, 125, 144 n. 309, pp. 155, 197.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026497",
+          "type": "Type",
+          "_label": "Bibliography Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    }
+  ],
+  "representation": [
+    {
+      "id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/489816/1011129/restricted",
+      "type": "VisualItem",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300215302",
+          "type": "Type",
+          "_label": "Digital Image"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://collectionapi.metmuseum.org/public/collection/v1/objects/489281",
+  "type": "HumanMadeObject",
+  "classified_as": [
+    {
+      "id": "http://vocab.getty.edu/aat/300033618",
+      "type": "Type",
+      "_label": "Painting"
+    }
+  ],
+  "identified_by": [
+    {
+      "id": "http://lod.example.org/museum/Identifier/28",
+      "type": "Identifier",
+      "content": 489281,
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404621",
+          "type": "Type",
+          "_label": "Local Number"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/Identifier/29",
+      "type": "Identifier",
+      "content": "63.204",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312355",
+          "type": "Type",
+          "_label": "Accession Number"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/Name/73",
+      "type": "Name",
+      "content": "Near Abiquiu, New Mexico",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300195168",
+          "type": "Type",
+          "_label": "Title"
+        }
+      ]
+    }
+  ],
+  "produced_by": {
+    "id": "http://lod.example.org/museum/Production/14",
+    "type": "Production",
+    "timespan": {
+      "id": "http://lod.example.org/museum/TimeSpan/42",
+      "type": "TimeSpan",
+      "begin_of_the_begin": 1930,
+      "end_of_the_end": 1930,
+      "identified_by": [
+        {
+          "id": "http://lod.example.org/museum/Name/74",
+          "type": "Name",
+          "content": "1930"
+        }
+      ]
+    },
+    "carried_out_by": [
+      {
+        "id": "http://lod.example.org/museum/Person/14",
+        "type": "Person",
+        "identified_by": [
+          {
+            "id": "http://lod.example.org/museum/Name/75",
+            "type": "Name",
+            "content": "Georgia O'Keeffe"
+          }
+        ],
+        "referred_to_by": [
+          {
+            "id": "http://lod.example.org/museum/LinguisticObject/115",
+            "type": "LinguisticObject",
+            "content": "American, Sun Prairie, Wisconsin 1887\u20131986 Santa Fe, New Mexico",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300080102",
+                "type": "Type",
+                "_label": "Biography Statement"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "Brief Text"
+              }
+            ]
+          }
+        ],
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300107956",
+            "type": "Type",
+            "_label": "American",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300379842",
+                "type": "Type",
+                "_label": "Nationality"
+              }
+            ]
+          }
+        ],
+        "born": {
+          "id": "http://lod.example.org/museum/Birth/14",
+          "type": "Birth",
+          "timespan": {
+            "id": "http://lod.example.org/museum/TimeSpan/43",
+            "type": "TimeSpan",
+            "begin_of_the_begin": "1887",
+            "end_of_the_end": "1887",
+            "identified_by": [
+              {
+                "id": "http://lod.example.org/museum/Name/76",
+                "type": "Name",
+                "content": "1887"
+              }
+            ]
+          }
+        },
+        "died": {
+          "id": "http://lod.example.org/museum/Death/14",
+          "type": "Death",
+          "timespan": {
+            "id": "http://lod.example.org/museum/TimeSpan/44",
+            "type": "TimeSpan",
+            "begin_of_the_begin": "1986",
+            "end_of_the_end": "1986",
+            "identified_by": [
+              {
+                "id": "http://lod.example.org/museum/Name/77",
+                "type": "Name",
+                "content": "1887"
+              }
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "referred_to_by": [
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/116",
+      "type": "LinguisticObject",
+      "content": "Oil on canvas",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300010358",
+          "type": "Type",
+          "_label": "Material Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/117",
+      "type": "LinguisticObject",
+      "content": "10 x 24 1/8 in. (25.4 x 61.3 cm)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300266036",
+          "type": "Type",
+          "_label": "Dimension Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/118",
+      "type": "LinguisticObject",
+      "content": "Alfred Stieglitz Collection, 1963",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "Credit Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/119",
+      "type": "LinguisticObject",
+      "content": "The quality of light in New Mexico enabled O'Keeffe to see clearly over great distances. Even in small paintings such as this she conveyed that expansiveness, emphasizing the successive rows of sand hills seen from a somewhat elevated perspective.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300080091",
+          "type": "Type",
+          "_label": "Description"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/120",
+      "type": "LinguisticObject",
+      "content": "Inscription: Signed and dated (verso): Georgia O'Keeffe\u20141930",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300028702",
+          "type": "Type",
+          "_label": "Inscription"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/121",
+      "type": "LinguisticObject",
+      "content": "the artist (1930\u201363; on extended loan to MMA, 1949\u201363; her gift as part of the Alfred Stieglitz Collection to MMA)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "Provenance Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/122",
+      "type": "LinguisticObject",
+      "content": "New York. An American Place. \"Georgia O'Keeffe: Recent Paintings, New Mexico, New York, Etc, Etc.,\" January 18\u2013February 27, 1931, no catalogue (checklist, one of nos. 24\u201333, as \" Landscape near H & H Ranch, toward Abiquiu, N. M.\") [possibly this picture].New York. An American Place. \"Exhibition of Georgia O'Keeffe at An American Place,\" January 27\u2013March 11, 1941, no catalogue (checklist no. 15, as \"Sand Hills\u2014Dark Mesa, Near Abiquiu, N. M.\") [possibly this picture].Pittsburgh. Carnegie Institute. \"Painting in the United States,\" October 14\u2013December 12, 1943, no. 4.New York. The Metropolitan Museum of Art. \"Fourteen American Masters: Paintings from Colonial Times to Today,\" October 16, 1958\u2013January 4, 1959, no catalogue.Birmingham Museum of Art. \"The Expressionist Landscape: North American Modernist Painting, 1920\u20131947,\" September 11\u2013November 4, 1987, unnumbered cat. (fig. 118).New York. IBM Gallery of Science and Art. \"The Expressionist Landscape: North American Modernist Painting, 1920\u20131947,\" November 24, 1987\u2013January 30, 1988, unnumbered cat.Syracuse. Everson Museum of Art. \"The Expressionist Landscape: North American Modernist Painting, 1920\u20131947,\" February 14\u2013March 27, 1988, unnumbered cat.Akron Art Museum. \"The Expressionist Landscape: North American Modernist Painting, 1920\u20131947,\" April 9\u2013June 5, 1988, unnumbered cat.Vancouver Art Gallery. \"The Expressionist Landscape: North American Modernist Painting, 1920\u20131947,\" June 30\u2013August 21, 1988, unnumbered cat.New York. The Metropolitan Museum of Art. \"Georgia O'Keeffe: 1887\u20131986,\" November 19, 1988\u2013February 5, 1989, not in catalogue (unnumbered checklist addendum).Los Angeles County Museum of Art. \"Georgia O'Keeffe: 1887\u20131986,\" March 30\u2013June 18, 1989, not in catalogue.Tacoma Art Museum. \"In Search of Sunsets: Images of the American West 1850 to Present,\" September 12\u2013November 22, 1992, unnum. brochure.Albany. New York State Museum. \"Twentieth-Century American Landscapes from The Metropolitan Museum of Art,\" May 29\u2013November 4, 2001, no catalogue.Santa Fe. Georgia O'Keeffe Museum. \"O'Keeffe and New Mexico: A Sense of Place,\" June 11\u2013September 14, 2004, no. 8.Columbus Museum of Art, Columbus, Ohio. \"O'Keeffe and New Mexico: A Sense of Place,\" October 1, 2004\u2013January 16, 2005, no. 8.Buffalo. Albright-Knox Art Gallery. \"O'Keeffe and New Mexico: A Sense of Place,\" January 27\u2013May 8, 2005, no. 8.Albany. New York State Museum. \"Imaging the American West: Selections from The Metropolitan Museum of Art,\" April 9\u2013July 17, 2016, not in brochure.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "Exhibition Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/123",
+      "type": "LinguisticObject",
+      "content": "Lisa Mintz Messinger. \"Georgia O'Keeffe.\" Metropolitan Museum of Art Bulletin 42 (Fall 1984), pp. 43-45, 60, ill. Lisa Mintz Messinger. Georgia O'Keeffe. New York, 1988, pp. 65, 69-71, ill. Michael Berry. Georgia O'Keeffe. New York, 1988, p. 73, ill. Doris Bry in Georgia O'Keeffe, in the West. Ed.  Doris Bry and Nicholas Callaway. New York, 1989, pl. 11. Elizabeth Montgomery. Georgia O'Keeffe. New York, 1993, p. 17, ill. Barbara Buhler Lynes. Georgia O'Keeffe: Catalogue Raisonn\u00e9. New Haven, Conn., 1999, vol. 1, p. 448, no. 735, ill. Barbara Buhler Lynes with Russell Bowman. O'Keeffe's O'Keeffes: The Artist's Collection. Exh. cat.,  Milwaukee Art Museum. New York, 2001, p. 169 (app. 2). Susan Wright. Georgia O'Keeffe: An Eternal Spirit. (1st ed., 1996). [New York], 2006, p. 115, ill. Lisa Mintz Messinger in Stieglitz and His Artists: Matisse to O'Keeffe. The Alfred Stieglitz Collection in The Metropolitan Museum of Art. Ed.  Lisa Mintz Messinger. Exh. cat.,  The Metropolitan Museum of Art. New York, 2011, pp. 14, 202, 280\u201381, no. 188, ill. (color). Sarah Greenough, ed. My Faraway One: Selected Letters of Georgia O'Keeffe and Alfred Stieglitz. Vol. 1, 1915\u20131933. New Haven, Conn., 2011, p. 677.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026497",
+          "type": "Type",
+          "_label": "Bibliography Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    }
+  ],
+  "representation": [
+    {
+      "id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/489281/1010452/restricted",
+      "type": "VisualItem",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300215302",
+          "type": "Type",
+          "_label": "Digital Image"
+        }
+      ]
+    }
+  ]
+}

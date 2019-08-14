@@ -1,0 +1,316 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://collectionapi.metmuseum.org/public/collection/v1/objects/488694",
+  "type": "HumanMadeObject",
+  "classified_as": [
+    {
+      "id": "http://vocab.getty.edu/aat/300033618",
+      "type": "Type",
+      "_label": "Painting"
+    }
+  ],
+  "identified_by": [
+    {
+      "id": "http://lod.example.org/museum/Identifier/0",
+      "type": "Identifier",
+      "content": 488694,
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404621",
+          "type": "Type",
+          "_label": "Local Number"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/Identifier/1",
+      "type": "Identifier",
+      "content": "52.203",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312355",
+          "type": "Type",
+          "_label": "Accession Number"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/Name/0",
+      "type": "Name",
+      "content": "Cow's Skull: Red, White, and Blue",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300195168",
+          "type": "Type",
+          "_label": "Title"
+        }
+      ]
+    }
+  ],
+  "produced_by": {
+    "id": "http://lod.example.org/museum/Production/0",
+    "type": "Production",
+    "timespan": {
+      "id": "http://lod.example.org/museum/TimeSpan/0",
+      "type": "TimeSpan",
+      "begin_of_the_begin": 1931,
+      "end_of_the_end": 1931,
+      "identified_by": [
+        {
+          "id": "http://lod.example.org/museum/Name/1",
+          "type": "Name",
+          "content": "1931"
+        }
+      ]
+    },
+    "carried_out_by": [
+      {
+        "id": "http://lod.example.org/museum/Person/0",
+        "type": "Person",
+        "identified_by": [
+          {
+            "id": "http://lod.example.org/museum/Name/2",
+            "type": "Name",
+            "content": "Georgia O'Keeffe"
+          }
+        ],
+        "referred_to_by": [
+          {
+            "id": "http://lod.example.org/museum/LinguisticObject/0",
+            "type": "LinguisticObject",
+            "content": "American, Sun Prairie, Wisconsin 1887\u20131986 Santa Fe, New Mexico",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300080102",
+                "type": "Type",
+                "_label": "Biography Statement"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "Brief Text"
+              }
+            ]
+          }
+        ],
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300107956",
+            "type": "Type",
+            "_label": "American",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300379842",
+                "type": "Type",
+                "_label": "Nationality"
+              }
+            ]
+          }
+        ],
+        "born": {
+          "id": "http://lod.example.org/museum/Birth/0",
+          "type": "Birth",
+          "timespan": {
+            "id": "http://lod.example.org/museum/TimeSpan/1",
+            "type": "TimeSpan",
+            "begin_of_the_begin": "1887",
+            "end_of_the_end": "1887",
+            "identified_by": [
+              {
+                "id": "http://lod.example.org/museum/Name/3",
+                "type": "Name",
+                "content": "1887"
+              }
+            ]
+          }
+        },
+        "died": {
+          "id": "http://lod.example.org/museum/Death/0",
+          "type": "Death",
+          "timespan": {
+            "id": "http://lod.example.org/museum/TimeSpan/2",
+            "type": "TimeSpan",
+            "begin_of_the_begin": "1986",
+            "end_of_the_end": "1986",
+            "identified_by": [
+              {
+                "id": "http://lod.example.org/museum/Name/4",
+                "type": "Name",
+                "content": "1887"
+              }
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "referred_to_by": [
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/1",
+      "type": "LinguisticObject",
+      "content": "Oil on canvas",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300010358",
+          "type": "Type",
+          "_label": "Material Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/2",
+      "type": "LinguisticObject",
+      "content": "39 7/8 x 35 7/8 in. (101.3 x 91.1 cm)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300266036",
+          "type": "Type",
+          "_label": "Dimension Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/3",
+      "type": "LinguisticObject",
+      "content": "Alfred Stieglitz Collection, 1952",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "Credit Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/4",
+      "type": "LinguisticObject",
+      "content": "Weary of life in the metropolis, O\u2019Keeffe began taking regular retreats to Lake George, New York, and then to New Mexico. After her first extended trip to the Southwest in 1929, her artistic interests shifted from the buildings of New York to the nature of New Mexico. In this work, O\u2019Keeffe isolates a single skull, highlighting its jagged edges, worn surfaces, and bleached color. To O\u2019Keeffe, such bones represented the desert\u2019s enduring beauty and the strength of the American spirit, which is alluded to in the striped background. In 1949 O\u2019Keeffe settled permanently in New Mexico, where she lived until her death in 1986.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300080091",
+          "type": "Type",
+          "_label": "Description"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/5",
+      "type": "LinguisticObject",
+      "content": "Inscription: Initialed (on cardboard backing, in center of five-pointed star, in graphite): OK",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300028702",
+          "type": "Type",
+          "_label": "Inscription"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/6",
+      "type": "LinguisticObject",
+      "content": "the artist (1931\u201352; on extended loan to MMA, 1949\u201352; her gift as part of the Alfred Stieglitz Collection to MMA)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "Provenance Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/7",
+      "type": "LinguisticObject",
+      "content": "New York. An American Place. \"Georgia O'Keeffe: 33 New Paintings,\" December 27, 1931\u2013February 11, 1932, no catalogue.Art Institute of Chicago. \"Georgia O'Keeffe,\" January 21\u2013February 22, 1943, no. 44.New York. The Metropolitan Museum of Art. \"20th Century Painters:  A Special Exhibition of Oils, Water Colors and Drawings Selected from the Collections of American Art in the Metropolitan Museum,\" June 16\u2013October 29, 1950, unnum. brochure (p. 9).New York. The Metropolitan Museum of Art. \"Fourteen American Masters: Paintings from Colonial Times to Today,\" October 16, 1958\u2013January 4, 1959, no catalogue.New York. The Metropolitan Museum of Art. \"Three Centuries of American Painting,\" April 9\u2013October 17, 1965, unnum. checklist.The White House, Washington D.C. \"The White House Festival of the Arts,\" June 14, 1965, brochure no. 28.New York. The Metropolitan Museum of Art. \"American Paintings, Drawings and Watercolors from the Museum's Collections,\" October 1\u2013December 7, 1969, no catalogue.New York. Whitney Museum of American Art. \"Georgia O'Keeffe,\" October 8\u2013November 29, 1970, no. 73.Art Institute of Chicago. \"Georgia O'Keeffe,\" January 6\u2013February 7, 1971, no. 73.San Francisco Museum of Art. \"Georgia O'Keeffe,\" March 15\u2013April 30, 1971, no. 73.Moscow. State Pushkin Museum of Fine Arts. \"Representations of America,\" December 15, 1977\u2013February 15, 1978, no catalogue.Leningrad. State Hermitage Museum. \"Representations of America,\" March 15\u2013May 15, 1978, no catalogue.Minsk, Belarus. Palace of Art. \"Representations of America,\" June 15\u2013August 15, 1978, no catalogue.New York. The Metropolitan Museum of Art. \"Tribute to a Curator: Robert Beverly Hale,\" November 16, 1978\u2013March 4, 1979, extended to March 18, 1979, unnum. checklist.New York. Whitney Museum of American Art. \"William Carlos Williams and the American Scene, 1920\u20131940,\" December 12, 1978\u2013February 4,1979, unnumbered cat. (fig. 102).Canberra. Australian National Gallery. \"20th Century Masters from The Metropolitan Museum of Art, New York,\" March 1\u2013April 27, 1986, unnumbered cat. (p. 57).Brisbane. Queensland Art Gallery. \"20th Century Masters from The Metropolitan Museum of Art, New York,\" May 7\u2013July 1, 1986, unnumbered cat.New York. The Metropolitan Museum of Art. \"Georgia O'Keeffe: 1887\u20131986,\" November 19, 1988\u2013February 5, 1989, not in catalogue (unnumbered checklist addenda).Los Angeles County Museum of Art. \"Georgia O'Keeffe: 1887\u20131986,\" March 30\u2013June 18, 1989, not in catalogue.New York. The Metropolitan Museum of Art. \"14 Americans,\" July 16, 1990\u2013January 2, 1991, no catalogue.Turin. Galleria Lingotto. \"Arte Americana, 1930\u20131970,\" January 11\u2013March 31, 1992, unnumbered cat. (p. 87).New York. The Metropolitan Museum of Art. \"American Still Life: 1915\u20131950,\" February 1, 1995\u2013January 28, 1996, no catalogue (on view from June 29, 1995).New York. The Metropolitan Museum of Art. \"Stieglitz and His Artists: Matisse to O'Keeffe,\" October 13, 2011\u2013January 2, 2012, no. 189.Art Institute of Chicago. \"America after the Fall: Painting in the 1930s,\" June 5\u2013September 18, 2016, no. 37.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "Exhibition Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/8",
+      "type": "LinguisticObject",
+      "content": "Edward Alden Jewell. \"Art: Georgia O'Keeffe Shows Work.\" New York Times (December 29, 1931), p. 28. Henry McBride. \"Skeletons on the Plains: Miss O'Keeffe Returns from the West with Grewsome Trophies.\" New York Sun (January 2, 1932), p. 8, ill., as \"Death and Transformation\". Elizabeth McCausland. \"Georgia O'Keeffe Exhibits Skulls and Roses of 1931.\" Springfield Sunday Union and Republican (January 10, 1932), p. 6E, ill., as \"Life and Transformation\". Robert Beverly Hale. 100 American Painters of the 20th Century: Works Selected from the Collections of The Metropolitan Museum of Art. New York, 1950, pp. xx, 58, ill., cover ill. James Thrall Soby in New Art in America: Fifty Painters of the 20th Century. Ed.  John I. H. Baur. Greenwich, Conn., 1957, ill. p. 110. Henry Geldzahler. American Painting in the Twentieth Century. New York, 1965, pp. 132-33, ill. Dorothy Seiberling. \"Horizons of a Pioneer: Georgia O'Keeffe in New Mexico.\" Life 64 (March 1, 1968), cover ill. George M. Cohen. A History of American Art. New York, 1971, p. 177. Charles Child Eldredge. \"Georgia O'Keeffe: The Development of an American Modern.\" PhD diss.,  University of Minnesota, 1971, pp. xv, 258, fig. 45. Nora B. Beeson. Guide to The Metropolitan Museum of Art. New York, 1972, p. 279, no. 8. Marshall B. Davidson. The American Heritage History of the Artists' America. New York, 1973, p. 330, ill. Georgia O'Keeffe. Georgia O'Keeffe. New York, 1976, text facing pl. 58, ill. Howard Hibbard. The Metropolitan Museum of Art. New York, 1980, pp. 508\u20139, fig. 922. Patricia Janis Broder. The American West: The Modern Vision. Boston, 1984, pp. 158-59, 168, ill. Lisa Mintz Messinger. \"Georgia O'Keeffe.\" Metropolitan Museum of Art Bulletin 42 (Fall 1984), pp. 46-47, 49, 60, fig. 46. Jan Garden Castro. The Art and Life of Georgia O'Keeffe. New York, 1985, pp. 90, 92. Sasha M. Newman. Georgia O'Keeffe. Washington, D. C., 1985, p. 29, pl. 14. Michael Desmond in 20th Century Masters from The Metropolitan Museum of Art, New York. Exh. cat.,  Australian National Gallery. Canberra, 1986, p. 57, ill. (color). Edith Evans Asbury. \"Georgia O'Keeffe Dead at 98: Shaper of Modern Art in U.S.\" New York Times (March 7, 1986), p. A17, ill. Erika Billeter. \"Georgia O'Keeffe's Bilder.\" Du (May 1987), p. 59, ill. Lisa Mintz Messinger. Georgia O'Keeffe. New York, 1988, pp. 72-73, fig. 54. Michael Berry. Georgia O'Keeffe. New York, 1988, pp. 70-71, ill. Anita Pollitzer. A Woman on Paper: Georgia O'Keeffe. New York, 1988, pp. 211-12, ill. Roxana Robinson. Georgia O'Keeffe: A Life. New York, 1989, pp. 366-67. Doris Bry and Nicholas Callaway, ed. Georgia O'Keeffe in the West. New York, 1989, pl. 27. Sarah Whitaker Peters. Becoming O'Keeffe: The Early Years. New York, 1991, p. 357 n. 107. Charles Child Eldredge. Georgia O'Keeffe. New York, 1991, pp. 118-21, ill. Christopher Merrill and Ellen Bradbury, ed. From the Faraway Nearby: Georgia O'Keeffe as Icon. Reading, Mass., 1992, pp. 63-64, fig. 5. Elizabeth Montgomery. Georgia O'Keeffe. New York, 1993, pp. 112-13, ill. Mike Venezia. Georgia O'Keeffe. Chicago, 1993, cover ill. Maria Costantino. Georgia O'Keeffe. New York, 1994, pp. 35, 118. Kathleen Howard, ed. The Metropolitan Museum of Art Guide. 2nd ed. (1st ed., 1983). New York, 1994, p. 441, no. 19, ill. (color). Jula Dech. Georgia O'Keeffe: Gem\u00e4lde. Munich, 1995, fig. 25. Lois Palken Rudnick. Utopian Vistas: The Mabel Dodge Luhan House and the American Counterculture. Albuquerque, 1996, pp. 134-36, ill. Lisa Mintz Messinger in The Georgia O'Keeffe Museum. Ed.  Peter H. Hassrick. New York, 1997, p. 41. Barbara Buhler Lynes. Georgia O'Keeffe: Catalogue Raisonn\u00e9. New Haven, Conn., 1999, vol. 1, pp. 468\u201369, no. 773, ill. Sarah Greenough in Sarah Greenough. Modern Art and America: Alfred Stieglitz and His New York Galleries. Exh. cat.,  National Gallery of Art. Washington, D. C., 2000, p. 460, fig. 126. Lisa Mintz Messinger. Georgia O'Keeffe. London, 2001, pp. 82, 126, 128\u201329, fig. 82. Barbara Buhler Lynes with Russell Bowman. O'Keeffe's O'Keeffes: The Artist's Collection. Exh. cat.,  Milwaukee Art Museum. New York, 2001, pp. 50, 169. Jonathan Weinberg. Ambition and Love in Modern Art. New Haven, 2001, pp. 107-9, 114, fig. 5.2. Erika Doss. Twentieth\u2013Century American Art. Oxford, 2002, pp. 89\u201391, fig. 43 (color). Vivien Green Fryd. Art and the Crisis of Marriage: Edward Hopper and Georgia O'Keeffe. Chicago, 2003, pp. 184\u201385, fig. 109. Lloren\u00e7 Bonet and Sol Kliczkowski, ed. Frank Lloyd Wright, Georgia O'Keeffe. New York, 2003, pp. 88\u201389, ill. Danielle Tilkin et al. New York et l'art moderne: Alfred Stieglitz et son cercle (1905\u20131930). Exh. cat.,  Mus\u00e9e d'Orsay. Paris, 2004, pp. 236, 238, fig. 74 (Spanish ed., 2004). Hunter Drohojowska-Philp. Full Bloom: The Art and Life of Georgia O'Keeffe. New York, 2004, pp. 332-33, ill. between pp. 376-77. Janet Souter. Georgia O'Keeffe. London, 2005, fig. 36. Janet Souter. Georgia O'Keeffe. New York, 2005, pp. 117, 120, 122, ill. John Carlin and Jonathan Fineberg. Imagining America: Icons of 20th-Century American Art. New Haven and London, 2005, pp. 42, 46, 51\u201352, ill. pp. 48 (overall), 2, 49 (details). Susan Wright. Georgia O'Keeffe: An Eternal Spirit. (1st ed., 1996). [New York], 2006, pp. 84-85, ill. Lothar Schirmer, ed. Georgia O'Keeffe/John Loengard: Paintings and Photographs, a Visit to Abiquiu and Ghost Ranch. Munich, 2006, book jacket (detail ill.), fig. 47. Jonathan Stuhlman and Barbara Buhler Lynes. Georgia O'Keeffe: Circling Around Abstraction. Exh. cat.,  Norton Museum of Art. West Palm Beach, 2007, p. 30, fig. 17. Katja Fauth. Modernist Visions in Taos: Mabel Dodge Luhan and the Artists of the Stieglitz Circle. Marburg, Germany, 2009, pp. 163, 171-73, 192, fig. 35. Lisa Mintz Messinger in Stieglitz and His Artists: Matisse to O'Keeffe. The Alfred Stieglitz Collection in The Metropolitan Museum of Art. Ed.  Lisa Mintz Messinger. Exh. cat.,  The Metropolitan Museum of Art. New York, 2011, pp. 8, 14, 193, 202-3, 281, no. 189, ill. (color). Sarah Greenough, ed. My Faraway One: Selected Letters of Georgia O'Keeffe and Alfred Stieglitz. Vol. 1, 1915\u20131933. New Haven, Conn., 2011, pp. 596, 603\u20134, 630. The Metropolitan Museum of Art Guide. New York, 2012, p. 416, ill. (color). Barbara Buhler Lynes Carolyn Kastner. Georgia O'Keeffe in New Mexico. Exh. cat.Sante Fe, 2012, pp. 34\u201335. Judith A. Barter in America after the Fall: Painting in the 1930s. Ed.  Judith A. Barter. Exh. cat.,  Art Institute of Chicago. Chicago, 2016, pp. 18, 186, no. 37, fig. 2 (color). Annelise K. Madsen in America after the Fall: Painting in the 1930s. Ed.  Judith A. Barter. Exh. cat.,  Art Institute of Chicago. Chicago, 2016, pp. 103\u20134, 112 n. 49. Sarah Kelly Oehler in America after the Fall: Painting in the 1930s. Ed.  Judith A. Barter. Exh. cat.,  Art Institute of Chicago. Chicago, 2016, pp. 65, 67. Kathryn Calley Galitz. The Metropolitan Museum of Art Masterpiece Paintings. New York, 2016, p. 525, ill. (color) colorpl. 449. Tanya Barson in Georgia O'Keeffe. Ed.  Tanya Barson. Exh. cat.,  Tate Modern. London, 2016, pp. 16, 20, 246 nn. 44, 53. Sarah Greenough in Georgia O'Keeffe. Ed.  Tanya Barson. Exh. cat.,  Tate Modern. London, 2016, pp. 58, 248 n. 43. Cody Hartley in Georgia O'Keeffe. Ed.  Tanya Barson. Exh. cat.,  Tate Modern. London, 2016, p. 152, fig. 135 (color).",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026497",
+          "type": "Type",
+          "_label": "Bibliography Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    }
+  ],
+  "current_location": {
+    "id": "http://lod.example.org/museum/Place/0",
+    "type": "Place",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300240057",
+        "type": "Type",
+        "_label": "Gallery (place)"
+      }
+    ],
+    "identified_by": [
+      {
+        "id": "http://lod.example.org/museum/Name/5",
+        "type": "Name",
+        "content": "Gallery 900"
+      }
+    ]
+  },
+  "representation": [
+    {
+      "id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/488694/1010449/restricted",
+      "type": "VisualItem",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300215302",
+          "type": "Type",
+          "_label": "Digital Image"
+        }
+      ]
+    }
+  ]
+}

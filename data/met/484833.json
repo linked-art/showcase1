@@ -1,0 +1,298 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://collectionapi.metmuseum.org/public/collection/v1/objects/484833",
+  "type": "HumanMadeObject",
+  "classified_as": [
+    {
+      "id": "http://vocab.getty.edu/aat/300033618",
+      "type": "Type",
+      "_label": "Painting"
+    }
+  ],
+  "identified_by": [
+    {
+      "id": "http://lod.example.org/museum/Identifier/24",
+      "type": "Identifier",
+      "content": 484833,
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404621",
+          "type": "Type",
+          "_label": "Local Number"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/Identifier/25",
+      "type": "Identifier",
+      "content": "1987.377.4",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312355",
+          "type": "Type",
+          "_label": "Accession Number"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/Name/63",
+      "type": "Name",
+      "content": "Red and Yellow Cliffs",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300195168",
+          "type": "Type",
+          "_label": "Title"
+        }
+      ]
+    }
+  ],
+  "produced_by": {
+    "id": "http://lod.example.org/museum/Production/12",
+    "type": "Production",
+    "timespan": {
+      "id": "http://lod.example.org/museum/TimeSpan/36",
+      "type": "TimeSpan",
+      "begin_of_the_begin": 1940,
+      "end_of_the_end": 1940,
+      "identified_by": [
+        {
+          "id": "http://lod.example.org/museum/Name/64",
+          "type": "Name",
+          "content": "1940"
+        }
+      ]
+    },
+    "carried_out_by": [
+      {
+        "id": "http://lod.example.org/museum/Person/12",
+        "type": "Person",
+        "identified_by": [
+          {
+            "id": "http://lod.example.org/museum/Name/65",
+            "type": "Name",
+            "content": "Georgia O'Keeffe"
+          }
+        ],
+        "referred_to_by": [
+          {
+            "id": "http://lod.example.org/museum/LinguisticObject/101",
+            "type": "LinguisticObject",
+            "content": "American, Sun Prairie, Wisconsin 1887\u20131986 Santa Fe, New Mexico",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300080102",
+                "type": "Type",
+                "_label": "Biography Statement"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "Brief Text"
+              }
+            ]
+          }
+        ],
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300107956",
+            "type": "Type",
+            "_label": "American",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300379842",
+                "type": "Type",
+                "_label": "Nationality"
+              }
+            ]
+          }
+        ],
+        "born": {
+          "id": "http://lod.example.org/museum/Birth/12",
+          "type": "Birth",
+          "timespan": {
+            "id": "http://lod.example.org/museum/TimeSpan/37",
+            "type": "TimeSpan",
+            "begin_of_the_begin": "1887",
+            "end_of_the_end": "1887",
+            "identified_by": [
+              {
+                "id": "http://lod.example.org/museum/Name/66",
+                "type": "Name",
+                "content": "1887"
+              }
+            ]
+          }
+        },
+        "died": {
+          "id": "http://lod.example.org/museum/Death/12",
+          "type": "Death",
+          "timespan": {
+            "id": "http://lod.example.org/museum/TimeSpan/38",
+            "type": "TimeSpan",
+            "begin_of_the_begin": "1986",
+            "end_of_the_end": "1986",
+            "identified_by": [
+              {
+                "id": "http://lod.example.org/museum/Name/67",
+                "type": "Name",
+                "content": "1887"
+              }
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "referred_to_by": [
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/102",
+      "type": "LinguisticObject",
+      "content": "Oil on canvas",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300010358",
+          "type": "Type",
+          "_label": "Material Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/103",
+      "type": "LinguisticObject",
+      "content": "24 x 36 in. (61 x 91.4 cm)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300266036",
+          "type": "Type",
+          "_label": "Dimension Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/104",
+      "type": "LinguisticObject",
+      "content": "Alfred Stieglitz Collection, Bequest of Georgia O'Keeffe, 1986",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "Credit Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/105",
+      "type": "LinguisticObject",
+      "content": "In 1940, O\u2019Keeffe purchased a house at Ghost Ranch in the Chama River valley of New Mexico. She spent her summers and falls at Ghost Ranch, where she painted the breathtaking views, including these immense red, pink, and yellow striated cliffs that rose up seven hundred feet behind her house. Dotted with green shrubs, the landscape faithfully reproduces the vibrant colors of the American Southwest. The immensity of these geologic outcroppings are emphasized by the tiny patch of blue sky at the top left. Awed by these colorful cliffs, O\u2019Keeffe painted them seven times.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300080091",
+          "type": "Type",
+          "_label": "Description"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/106",
+      "type": "LinguisticObject",
+      "content": "Inscription: Inscribed (on cardboard backing): [five-pointed star]",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300028702",
+          "type": "Type",
+          "_label": "Inscription"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/107",
+      "type": "LinguisticObject",
+      "content": "the artist (1940\u2013d. 1986; her bequest as part of the Alfred Stieglitz Collection to MMA)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "Provenance Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/108",
+      "type": "LinguisticObject",
+      "content": "New York. An American Place. \"Exhibition of Georgia O'Keeffe at An American Place,\" January 27\u2013March 11, 1941, no catalogue (checklist no. 11; as \"Cliffs, Ghost Ranch\").New York. The Metropolitan Museum of Art. \"Georgia O'Keeffe: 1887\u20131986,\" November 19, 1988\u2013February 5, 1989, not in catalogue (unnumbered checklist addenda).Los Angeles County Museum of Art. \"Georgia O'Keeffe: 1887\u20131986,\" March 30\u2013June 18, 1989, not in catalogue.New York. The Metropolitan Museum of Art. \"American Landscape Painting,\" April 4\u2013August 13, 1989, no catalogue.Tulsa, Okla. Philbrook Museum of Art. \"The Landscape in Twentieth-Century American Art: Selections from The Metropolitan Museum of Art,\" April 14\u2013June 9, 1991, no. 4.Miami. Center for the Fine Arts. \"The Landscape in Twentieth-Century American Art: Selections from The Metropolitan Museum of Art,\" June 29\u2013August 24, 1991, no. 4.Omaha. Joslyn Art Museum. \"The Landscape in Twentieth-Century American Art: Selections from The Metropolitan Museum of Art,\" September 14\u2013November 10, 1991, no. 4.Tampa Museum of Art. \"The Landscape in Twentieth-Century American Art: Selections from The Metropolitan Museum of Art,\" December 14, 1991\u2013February 8, 1992, no. 4.Greenville, S. C. Greenville County Museum of Art. \"The Landscape in Twentieth-Century American Art: Selections from The Metropolitan Museum of Art,\" March 17\u2013May 10, 1992, no. 4.Madison, Wisc. Madison Art Center. \"The Landscape in Twentieth-Century American Art: Selections from The Metropolitan Museum of Art,\" June 6\u2013August 2, 1992, no. 4.Grand Rapids, Mich. Grand Rapids Art Museum. \"The Landscape in Twentieth-Century American Art: Selections from The Metropolitan Museum of Art,\" September 11\u2013November 8, 1992, no. 4.New York. The Metropolitan Museum of Art. \"Stieglitz and His Artists: Matisse to O'Keeffe,\" October 13, 2011\u2013January 2, 2012, no. 192.London. Tate Modern. \"Georgia O'Keeffe,\" July 6\u2013October 30, 2016, unnumbered cat. (fig. 152).Bank Austria Kunstforum Wien. \"Georgia O'Keeffe,\" December 7, 2016\u2013March 26, 2017, unnumbered cat.Art Gallery of Ontario, Toronto. \"Georgia O'Keeffe,\" April 22\u2013July 30, 2017, unnumbered cat.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "Exhibition Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/109",
+      "type": "LinguisticObject",
+      "content": "Georgia O'Keeffe. Georgia O'Keeffe. New York, 1976, pl. 94. Lisa Mintz Messinger. Georgia O'Keeffe. New York, 1988, pp. 80, 82-83, fig. 60. Maria Costantino. Georgia O'Keeffe. New York, 1994, pp. 132-33, ill. Barbara Buhler Lynes. Georgia O'Keeffe: Catalogue Raisonn\u00e9. New Haven, Conn., 1999, vol. 1, pp. 630-31, no. 997, ill. Lisa Mintz Messinger. Georgia O'Keeffe. London, 2001, pp. 142-43, fig. 92. Barbara Buhler Lynes with Russell Bowman. O'Keeffe's O'Keeffes: The Artist's Collection. Exh. cat.,  Milwaukee Art Museum. New York, 2001, p. 170 (app. 3: \"Works Named as Bequests in O'Keeffe's 1979 Will\"). Lisa Mintz Messinger in Stieglitz and His Artists: Matisse to O'Keeffe. The Alfred Stieglitz Collection in The Metropolitan Museum of Art. Ed.  Lisa Mintz Messinger. Exh. cat.,  The Metropolitan Museum of Art. New York, 2011, pp. 14, 205, 282, no. 192, ill. (color).",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026497",
+          "type": "Type",
+          "_label": "Bibliography Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    }
+  ],
+  "representation": [
+    {
+      "id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/484833/1010455/restricted",
+      "type": "VisualItem",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300215302",
+          "type": "Type",
+          "_label": "Digital Image"
+        }
+      ]
+    }
+  ]
+}

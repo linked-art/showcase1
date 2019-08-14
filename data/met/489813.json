@@ -1,0 +1,281 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://collectionapi.metmuseum.org/public/collection/v1/objects/489813",
+  "type": "HumanMadeObject",
+  "classified_as": [
+    {
+      "id": "http://vocab.getty.edu/aat/300033618",
+      "type": "Type",
+      "_label": "Painting"
+    }
+  ],
+  "identified_by": [
+    {
+      "id": "http://lod.example.org/museum/Identifier/4",
+      "type": "Identifier",
+      "content": 489813,
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404621",
+          "type": "Type",
+          "_label": "Local Number"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/Identifier/5",
+      "type": "Identifier",
+      "content": "69.278.1",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312355",
+          "type": "Type",
+          "_label": "Accession Number"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/Name/11",
+      "type": "Name",
+      "content": "Black Iris",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300195168",
+          "type": "Type",
+          "_label": "Title"
+        }
+      ]
+    }
+  ],
+  "produced_by": {
+    "id": "http://lod.example.org/museum/Production/2",
+    "type": "Production",
+    "timespan": {
+      "id": "http://lod.example.org/museum/TimeSpan/6",
+      "type": "TimeSpan",
+      "begin_of_the_begin": 1926,
+      "end_of_the_end": 1926,
+      "identified_by": [
+        {
+          "id": "http://lod.example.org/museum/Name/12",
+          "type": "Name",
+          "content": "1926"
+        }
+      ]
+    },
+    "carried_out_by": [
+      {
+        "id": "http://lod.example.org/museum/Person/2",
+        "type": "Person",
+        "identified_by": [
+          {
+            "id": "http://lod.example.org/museum/Name/13",
+            "type": "Name",
+            "content": "Georgia O'Keeffe"
+          }
+        ],
+        "referred_to_by": [
+          {
+            "id": "http://lod.example.org/museum/LinguisticObject/17",
+            "type": "LinguisticObject",
+            "content": "American, Sun Prairie, Wisconsin 1887\u20131986 Santa Fe, New Mexico",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300080102",
+                "type": "Type",
+                "_label": "Biography Statement"
+              },
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "Brief Text"
+              }
+            ]
+          }
+        ],
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300107956",
+            "type": "Type",
+            "_label": "American",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300379842",
+                "type": "Type",
+                "_label": "Nationality"
+              }
+            ]
+          }
+        ],
+        "born": {
+          "id": "http://lod.example.org/museum/Birth/2",
+          "type": "Birth",
+          "timespan": {
+            "id": "http://lod.example.org/museum/TimeSpan/7",
+            "type": "TimeSpan",
+            "begin_of_the_begin": "1887",
+            "end_of_the_end": "1887",
+            "identified_by": [
+              {
+                "id": "http://lod.example.org/museum/Name/14",
+                "type": "Name",
+                "content": "1887"
+              }
+            ]
+          }
+        },
+        "died": {
+          "id": "http://lod.example.org/museum/Death/2",
+          "type": "Death",
+          "timespan": {
+            "id": "http://lod.example.org/museum/TimeSpan/8",
+            "type": "TimeSpan",
+            "begin_of_the_begin": "1986",
+            "end_of_the_end": "1986",
+            "identified_by": [
+              {
+                "id": "http://lod.example.org/museum/Name/15",
+                "type": "Name",
+                "content": "1887"
+              }
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "referred_to_by": [
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/18",
+      "type": "LinguisticObject",
+      "content": "Oil on canvas",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300010358",
+          "type": "Type",
+          "_label": "Material Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/19",
+      "type": "LinguisticObject",
+      "content": "36 x 29 7/8 in. (91.4 x 75.9 cm)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300266036",
+          "type": "Type",
+          "_label": "Dimension Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/20",
+      "type": "LinguisticObject",
+      "content": "Alfred Stieglitz Collection, 1969",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "Credit Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/21",
+      "type": "LinguisticObject",
+      "content": "This monumental flower painting is one of O'Keeffe's early masterpieces.  Enlarging the petals far beyond lifesize proportions, she forces the viewer to observe the small details that might otherwise be overlooked.  When paintings from this group were first shown in 1924, even Alfred Stieglitz, her husband and dealer, was shocked by their audacity.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300080091",
+          "type": "Type",
+          "_label": "Description"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/22",
+      "type": "LinguisticObject",
+      "content": "the artist (1926\u201369; on extended loan to MMA, 1949\u201369; her gift as part of the Alfred Stieglitz Collection to MMA)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "Provenance Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/23",
+      "type": "LinguisticObject",
+      "content": "Intimate Gallery, New York. \"Georgia O'Keeffe: Paintings, 1926,\" January 11\u2013February 27, 1927, brochure no. 12 (as \"The Dark Iris No. III\").New York. An American Place. \"Georgia O'Keeffe: Paintings\u2014New & Some Old,\" January 7\u2013February 22, 1933, extended to March 15, 1933, brochure no. 18.Art Institute of Chicago. \"Georgia O'Keeffe,\" January 21\u2013February 22, 1943, no. 15.Museum of Modern Art, New York. \"Georgia O'Keeffe: An Exhibition,\" May 14\u2013August 25, 1946, no catalogue (checklist no. 19).Museum of Modern Art, New York. \"Alfred Stieglitz Exhibition: His Collection,\" June 10\u2013August 31, 1947, no catalogue (checklist no. 77).Art Institute of Chicago. \"Alfred Stieglitz: His Photographs and His Collection,\" February 2\u201329, 1948, extended to March 7, 1948, no catalogue (checklist; loan no. 47.664).New York. The Metropolitan Museum of Art. \"20th Century Painters:  A Special Exhibition of Oils, Water Colors and Drawings Selected from the Collections of American Art in the Metropolitan Museum,\" June 16\u2013October 29, 1950, unnum. brochure (p. 9; permanent loan from the artist).Museum of Modern Art, New York. \"From the Alfred Stieglitz Collection: An Extended Loan from the Metropolitan Museum of Art,\" May 22\u2013August 12, 1951, no catalogue (checklist no. E.L.51.686; loan extended to June 9, 1958).New York. Downtown Gallery. \"Ten Paintings, Major Examples,\" October 7\u2013November 2, 1957, unnum. brochure.New York. The Metropolitan Museum of Art. \"Fourteen American Masters: Paintings from Colonial Times to Today,\" October 16, 1958\u2013January 4, 1959, no catalogue.Dallas Museum of Fine Arts. \"Directions in Twentieth Century American Painting,\" October 7\u2013November 12, 1961, no. 32.Minneapolis Institute of Art. \"Four Centuries of American Art,\" November 27, 1963\u2013January 19, 1964, unnumbered cat.New York. The Metropolitan Museum of Art. \"Three Centuries of American Painting,\" April 9\u2013October 17, 1965, unnum. checklist.Fort Worth. Amon Carter Museum of Western Art. \"Georgia O'Keeffe: An Exhibition of the Work of the Artist from 1915 to 1966,\" March 17\u2013May 8, 1966, unnumbered cat. (p. 28).Museum of Fine Arts, Houston. \"Georgia O'Keeffe: An Exhibition of the Work of the Artist from 1915 to 1966,\" May 28\u2013July 3, 1966, unnumbered cat.Albuquerque. University of New Mexico Art Museum. \"Georgia O'Keeffe,\" September 8\u2013October 13, 1966, no catalogue.New York. The Metropolitan Museum of Art. \"American Paintings, Drawings and Watercolors from the Museum's Collections,\" October 1\u2013December 7, 1969, no catalogue.New York. Whitney Museum of American Art. \"Georgia O'Keeffe,\" October 8\u2013November 29, 1970, no. 40.Art Institute of Chicago. \"Georgia O'Keeffe,\" January 6\u2013February 7, 1971, no. 40.San Francisco Museum of Art. \"Georgia O'Keeffe,\" March 15\u2013April 30, 1971, no. 40.New York. Whitney Museum of American Art. \"Reflections of Nature: Flowers in American Art,\" March 1\u2013May 20, 1984, no. 138.National Gallery of Art, Washington D.C. \"Georgia O'Keeffe: 1887\u20131986,\" November 1, 1987\u2013February 21, 1988, no. 49.Art Institute of Chicago. \"Georgia O'Keeffe: 1887\u20131986,\" March 5\u2013June 19, 1988, no. 49.Dallas Museum of Art. \"Georgia O'Keeffe: 1887\u20131986,\" July 31\u2013October 16, 1988, no. 49.New York. The Metropolitan Museum of Art. \"Georgia O'Keeffe: 1887\u20131986,\" November 19, 1988\u2013February 5, 1989, no. 49.Los Angeles County Museum of Art. \"Georgia O'Keeffe: 1887\u20131986,\" March 30\u2013June 18, 1989, no. 49.New York. The Metropolitan Museum of Art. \"14 Americans,\" July 16, 1990\u2013January 2, 1991, no catalogue.New York. The Metropolitan Museum of Art. \"American Still Life: 1915\u20131950,\" February 1, 1995\u2013January 28, 1996, no catalogue.New York. The Metropolitan Museum of Art. \"Stieglitz and His Artists: Matisse to O'Keeffe,\" October 13, 2011\u2013January 2, 2012, no. 183.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "Exhibition Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    },
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/24",
+      "type": "LinguisticObject",
+      "content": "Waldo Frank, Lewis Mumford, Dorothy Norman, Paul Rosenfeld, and Harold Rugg, ed. America and Alfred Stieglitz: A Collective Portrait. Garden City, N. Y., 1934, pl. XXIA. \"Life is Painting for Artist Who Reveals Woman's Soul on Canvas.\" Newark Evening News (March 21, 1934), p. 18. \"Art: Woman from Sun Prairie.\" Time (February 8, 1943), pp. 42, 44, ill. Thomas Craven. \"American Painting.\" Studio 127 (June 1944), pp. 181, ill. Georgia O'Keeffe. \"Stieglitz: His Pictures Collected Him.\" New York Times (December 11, 1949), p. 24, ill. James Thrall Soby in New Art in America: Fifty Painters of the 20th Century. Ed.  John I. H. Baur. Greenwich, Conn., 1957, ill. p. 109 (color). Sheldon Cheney. The Story of Modern Art. Rev. and enl. ed. New York, 1958, p. 619, ill. Henry Geldzahler. American Painting in the Twentieth Century. New York, 1965, pp. 130-31, ill. Peter Plagens. \"A Georgia O'Keeffe Retrospective in Texas.\" Artforum 4 (May 1966), p. 28, ill. Dorothy Seiberling. \"Horizons of a Pioneer: Georgia O'Keeffe in New Mexico.\" Life 64 (March 1, 1968), p. 48, ill. George Heard Hamilton. \"The Alfred Stieglitz Collection.\" Metropolitan Museum Journal 3 (1970), p. 392. George M. Cohen. A History of American Art. New York, 1971, p. 177. Charles Child Eldredge. \"Georgia O'Keeffe: The Development of an American Modern.\" PhD diss.,  University of Minnesota, 1971, pp. xiv, 54, 250, fig. 30. Nora B. Beeson. Guide to The Metropolitan Museum of Art. New York, 1972, p. 279. Sam Hunter and John Jacobus. American Art of the Twentieth Century: Painting, Sculpture, Architecture. New York, 1973, p. 124, fig. 210 (upside down). Henry Geldzahler in \"Twentieth Century Art.\" The Metropolitan Museum of Art: Notable Acquisitions, 1965\u20131975. New York, 1975, p. 212, ill. (upside down). John Russell. The Meanings of Modern Art. Vol. 10, America Redefined. New York, 1975, colorpl. II. Georgia O'Keeffe. Georgia O'Keeffe. New York, 1976, text facing pl. 30, ill. Lisa Mintz Messinger. \"Georgia O'Keeffe.\" Metropolitan Museum of Art Bulletin 42 (Fall 1984), pp. 21-22, 60, fig. 21. Jan Garden Castro. The Art and Life of Georgia O'Keeffe. New York, 1985, pp. 62, 87. Sasha M. Newman. Georgia O'Keeffe. Washington, D. C., 1985, p. 22, pl. 10. Erika Billeter. \"Georgia O'Keeffe's Bilder.\" Du (May 1987), pp. 44-45, ill. Nicholas Callaway, ed. Georgia O'Keeffe: One Hundred Flowers. New York, 1987, no. 2, frontis. ill. Lisa Mintz Messinger. Georgia O'Keeffe. New York, 1988, pp. 38, 40-41, fig. 27. Barbara Buhler Lynes. O'Keeffe, Stieglitz, and the Critics. Ann Arbor, Mich., 1989, pp. 94, 335 n. 5, p. 339 n. 10, fig. 15. Sarah Whitaker Peters. Becoming O'Keeffe: The Early Years. New York, 1991, p. 345 n. 32, p. 348 n. 70. Charles Child Eldredge. Georgia O'Keeffe. New York, 1991, pp. 88, 90, overleaf facing p. 90. Christopher Merrill and Ellen Bradbury, ed. From the Faraway Nearby: Georgia O'Keeffe as Icon. Reading, Mass., 1992, pp. 49-50, fig. 9. Elizabeth Montgomery. Georgia O'Keeffe. New York, 1993, p. 38, ill. Maria Costantino. Georgia O'Keeffe. New York, 1994, pp. 87, 99, ill. and ill. p. 40 (installation photo). Britta Benke. Georgia O'Keeffe, 1887\u20131986: Blumen in der W\u00fcste. Cologne, 1994, pp. 36-37, ill. Jula Dech. Georgia O'Keeffe: Gem\u00e4lde. Munich, 1995, unpaginated, fig. 14. Anne Middleton Wagner. Three Artists (Three Women): Modernism and the Art of Hesse, Krasner, and O'Keeffe. Berkeley, 1996, pp. xi, 63-64, pl. 7. H. W. Janson. History of Art. 5th ed. New York, 1997, p. 817, fig. 1074. Robert Hughes. American Visions: The Epic History of Art in America. New York, 1997, p. 394, fig. 236. Bram Dijkstra. Georgia O'Keeffe and the Eros of Place. Princeton, 1998, p. 227. Barbara Buhler Lynes. Georgia O'Keeffe: Catalogue Raisonn\u00e9. New Haven, Conn., 1999, vol. 1, p. 316, no. 557. Eleanor Munro. Originals: American Women Artists. Reprint (1st ed., 1979). [Boulder, Co.], 2000, p. 91. Lisa Mintz Messinger. Georgia O'Keeffe. London, 2001, pp. 72, 74, fig. 46. Peter\u2013Cornell Richter. Georgia O'Keeffe and Alfred Stieglitz. New York, 2001, p. 79, ill. Barbara Buhler Lynes with Russell Bowman. O'Keeffe's O'Keeffes: The Artist's Collection. Exh. cat.,  Milwaukee Art Museum. New York, 2001, pp. 50, 60, 64, 165 (app. 1), 167 (app. 1), 169 (app. 2), fig. 19. Vivien Green Fryd. Art and the Crisis of Marriage: Edward Hopper and Georgia O'Keeffe. Chicago, 2003, p. 121, pl. 8 between pp. 152-53. Hunter Drohojowska-Philp. Full Bloom: The Art and Life of Georgia O'Keeffe. New York, 2004, pp. 266, 273, ill. between pp. 376-77. Sigrid Maria Groh. Black Iris. Berlin, 2004, unpaginated, ill. Janet Souter. Georgia O'Keeffe. New York, 2005, p. 94, ill. Susan Wright. Georgia O'Keeffe: An Eternal Spirit. (1st ed., 1996). [New York], 2006, p. 62, ill. Jonathan Stuhlman and Barbara Buhler Lynes. Georgia O'Keeffe: Circling Around Abstraction. Exh. cat.,  Norton Museum of Art. West Palm Beach, 2007, p. 45, fig. 6. Lisa Mintz Messinger in Stieglitz and His Artists: Matisse to O'Keeffe. The Alfred Stieglitz Collection in The Metropolitan Museum of Art. Ed.  Lisa Mintz Messinger. Exh. cat.,  The Metropolitan Museum of Art. New York, 2011, pp. 198-99, 279, no. 183, ill. (color). Sarah Greenough, ed. My Faraway One: Selected Letters of Georgia O'Keeffe and Alfred Stieglitz. Vol. 1, 1915\u20131933. New Haven, Conn., 2011, pp. 457, 672, 725. Isabelle Duvernois in Stieglitz and His Artists: Matisse to O'Keeffe. The Alfred Stieglitz Collection in The Metropolitan Museum of Art. Ed.  Lisa Mintz Messinger. Exh. cat.,  The Metropolitan Museum of Art. New York, 2011, p. 193. Barbara Buhler Lynes and Jonathan Weinberg, ed. Shared Intelligence: American Painting and the Photograph. Exh. cat.,  Columbus Museum of Art, Columbus, Ohio. Berkeley and Santa Fe, 2011, p. 82, ill. Kathryn Calley Galitz. The Metropolitan Museum of Art Masterpiece Paintings. New York, 2016, p. 524, ill. (color), colorpl. 445.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026497",
+          "type": "Type",
+          "_label": "Bibliography Statement"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "Brief Text"
+        }
+      ]
+    }
+  ],
+  "representation": [
+    {
+      "id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/489813/1010453/restricted",
+      "type": "VisualItem",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300215302",
+          "type": "Type",
+          "_label": "Digital Image"
+        }
+      ]
+    }
+  ]
+}
