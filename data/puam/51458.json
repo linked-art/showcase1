@@ -1,0 +1,256 @@
+{
+    "@context":"https://linked.art/ns/v1/linked-art.json",
+    "id":"https://data.artmuseum.princeton.edu/objects/la/51458",
+    "type":"HumanMadeObject",
+    "_label":"Georgia O'Keeffe paintings at An American Place, New York",
+    "classified_as":[
+        {
+            "id":"http://vocab.getty.edu/aat/300128695",
+            "type":"Type",
+            "_label":"gelatin silver prints"
+        },
+        {
+            "id":"http://vocab.getty.edu/aat/300128347",
+            "type":"Type",
+            "_label":"black-and-white photographs"
+        },
+        {
+            "id":"http://vocab.getty.edu/aat/300133025",
+            "type":"Type",
+            "_label":"works of art"
+        }
+    ],
+    "identified_by":[
+        {
+            "id":"https://data.artmuseum.princeton.edu/objects/la/51458/accession-number",
+            "type":"identifier",
+            "_label":"Princeton University Art Museum Accession Number for the Object",
+            "content":"2006-659",
+            "classified_as":[
+                {
+                    "id":"http://vocab.getty.edu/aat/300312355",
+                    "type":"Type",
+                    "_label":"accession numbers"
+                }
+            ]
+        },
+        {
+            "id":"https://data.artmuseum.princeton.edu/objects/la/51458/objectid",
+            "type":"identifier",
+            "_label":"Princeton University Art Museum Collections Database Number for the Object",
+            "content":51458,
+            "classified_as":[
+                {
+                    "id":"http://vocab.getty.edu/aat/300404621",
+                    "type":"Type",
+                    "_label":"repository numbers"
+                }
+            ]
+        }
+    ],
+    "produced_by":{
+        "id":"https://data.artmuseum.princeton.edu/objects/la/51458/production",
+        "type":"Production",
+        "_label":"Production of the Object",
+        "carried_out_by":[
+            {
+                "id":"http://vocab.getty.edu/ulan/500026108",
+                "type":"Actor",
+                "_label":"Georgia O'Keeffe"
+            }
+        ],
+        "timespan":{
+            "id":"https://data.artmuseum.princeton.edu/objects/la/51458/production",
+            "type":"TimeSpan",
+            "_label":"1940",
+            "begin_of_the_begin":"1940-01-01T00:00:00",
+            "end_of_the_end":"1940-12-31T00:00:00"
+        }
+    },
+    "current_owner":[
+        {
+            "id":"http://vocab.getty.edu/ulan/500310237",
+            "type":"Group",
+            "_label":"Princeton University Art Museum",
+            "classified_as":[
+                {
+                    "id":"http://vocab.getty.edu/aat/300312281",
+                    "type":"Type",
+                    "_label":"museums (institutions)"
+                }
+            ],
+            "acquired_title_through":[
+                {
+                    "id":"https://data.artmuseum.princeton.edu/object/la/51458/puam-acquisition",
+                    "type":"Acquisition",
+                    "_label":"Princeton University Art Museum Acquisition of the Object",
+                    "classified_as":[
+                        {
+                            "id":"http://vocab.getty.edu/aat/300157782",
+                            "type":"Type",
+                            "_label":"acquisition (collections management)"
+                        }
+                    ],
+                    "took_place_at":[
+                        {
+                            "id":"http://vocab.getty.edu/tgn/7016190",
+                            "type":"Place",
+                            "_label":"Princeton, New Jersey"
+                        }
+                    ],
+                    "timespan":{
+                        "id":"https://data.discovernewfields.org/object/51458/puam-acquisition/timespan",
+                        "type":"TimeSpan",
+                        "_label":"2006"
+                    }
+                }
+            ]
+        }
+    ],
+    "currentlocation":{
+        "id":"http://data.artmuseum.princeton.edu/locations/storage",
+        "type":"Place",
+        "_label":"Princeton University Art Museum Collection Storage",
+        "classified_as":[
+            {
+                "id":"http://vocab.getty.edu/aat/300265733",
+                "type":"Type",
+                "_label":"museum storerooms"
+            }
+        ]
+    },
+    "member_of":[
+        {
+            "id":"https://data.artmuseum.princeton.edu/collection/8",
+            "type":"Set",
+            "_label":"Princeton University Art Museum Photography Collection"
+        }
+    ],
+    "referred_to_by":[
+        {
+            "id":"https://data.artmuseum.princeton.edu/objects/la/51458/credit-line",
+            "type":"LinguisticObject",
+            "_label":"Princeton University Art Museum Credit Line for the Object",
+            "content":"Gift of David Hunter McAlpin Jr., Class of 1950",
+            "classified_as":[
+                {
+                    "id":"http://vocab.getty.edu/aat/300026687",
+                    "type":"Type",
+                    "_label":"acknowledgments"
+                },
+                {
+                    "id":"http://vocab.getty.edu/aat/300418049",
+                    "type":"Type",
+                    "_label":"brief texts"
+                }
+            ]
+        },
+        {
+            "id":"https://data.artmuseum.princeton.edu/objects/la/51458/dimension-statement",
+            "type":"LinguisticObject",
+            "_label":"Notes about the Dimensions of the Object",
+            "content":"image: 11.5 x 17 cm. (4 1/2 x 6 11/16 in.)\r\nsheet: 12 x 17.5 cm. (4 3/4 x 6 7/8 in.)",
+            "classified_as":[
+                {
+                    "id":"http://vocab.getty.edu/aat/300266036",
+                    "type":"Type",
+                    "_label":"dimensions"
+                },
+                {
+                    "id":"http://vocab.getty.edu/aat/300418049",
+                    "type":"Type",
+                    "_label":"brief texts"
+                }
+            ]
+        },
+        {
+            "id":"https://data.artmuseum.princeton.edu/objects/la/51458/materials-statement",
+            "type":"LinguisticObject",
+            "_label":"Notes about the Materials in the Object",
+            "content":"Gelatin silver print",
+            "classified_as":[
+                {
+                    "id":"http://vocab.getty.edu/aat/300010358",
+                    "type":"Type",
+                    "_label":"materials (substances)"
+                },
+                {
+                    "id":"http://vocab.getty.edu/aat/300418049",
+                    "type":"Type",
+                    "_label":"brief texts"
+                }
+            ]
+        },
+        {
+            "id":"https://data.artmuseum.princeton.edu/objects/la/51458/rights-statement",
+            "type":"LinguisticObject",
+            "_label":"Rights Statement",
+            "content":"© The Ansel Adams Publishing Rights Trust",
+            "classified_as":[
+                {
+                    "id":"http://vocab.getty.edu/aat/300055547",
+                    "type":"Type",
+                    "_label":"legal concepts"
+                },
+                {
+                    "id":"http://vocab.getty.edu/aat/300418049",
+                    "type":"Type",
+                    "_label":"brief texts"
+                }
+            ]
+        },
+        {
+            "id":"http://rightsstatements.org/vocab/InC/1.0/",
+            "type":"LinguisticObject",
+            "_label":"In Copyright",
+            "classified_as":[
+                {
+                    "id":"http://vocab.getty.edu/aat/300055547",
+                    "type":"Type",
+                    "_label":"legal concepts"
+                },
+                {
+                    "id":"http://vocab.getty.edu/aat/300418049",
+                    "type":"Type",
+                    "_label":"brief texts"
+                }
+            ]
+        }
+    ],
+    "dimension":[],
+    "subject_of":[
+        {
+            "id":"https://artmuseum.princeton.edu/collections/objects/51458",
+            "type":"LinguisticObject",
+            "_label":"Homepage for the Object",
+            "classified_as":[
+                {
+                    "id":"http://vocab/getty.edu/aat/300264578",
+                    "type":"Type",
+                    "_label":"Web pages (documents)"
+                },
+                {
+                    "id":"http://vocab.getty.edu/aat/300266277",
+                    "type":"Type",
+                    "_label":"home pages"
+                }
+            ],
+            "format":"text/html"
+        }
+    ],
+    "representation":[
+        {
+            "id":"https://puam-loris.aws.princeton.edu/loris/INV20523.jp2/full/full/0/default.jpg",
+            "type":"VisualItem",
+            "_label":"Primary Image of the Object",
+            "classified_as":[
+                {
+                    "id":"http://vocab.getty.edu/aat/300215302",
+                    "type":"Type",
+                    "_label":"digital images"
+                }
+            ],
+            "format":"image/jpeg"
+        }
+    ]
+}
