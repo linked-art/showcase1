@@ -41,6 +41,18 @@
                     "_label":"repository numbers"
                 }
             ]
+        },
+        {
+            "id":"https://data.artmuseum.princeton.edu/objects/la/33952/title",
+            "type":"Identifier",
+            "content":"From a New Jersey Weekend II",
+            "classified_as":[
+                {
+                    "id":"http://vocab.getty.edu/aat/300195168",
+                    "type":"Type",
+                    "_label":"Title"
+                }
+            ]
         }
     ],
     "produced_by":{
@@ -50,8 +62,27 @@
         "carried_out_by":[
             {
                 "id":"http://vocab.getty.edu/ulan/500018666",
-                "type":"Actor",
+                "type":"Person",
                 "_label":"Georgia O'Keeffe"
+            }
+        ],
+        "referred_to_by":[
+            {
+                "id":"https://data.artmuseum.princeton.edu/objects/la/33952/maker-bio",
+                "type":"LinguisticObject",
+                "content":"American, 1887\u20131986",
+                "classified_as":[
+                    {
+                        "id":"http://vocab.getty.edu/aat/300080102",
+                        "type":"Type",
+                        "_label":"Biography Statement"
+                    },
+                    {
+                        "id":"http://vocab.getty.edu/aat/300418049",
+                        "type":"Type",
+                        "_label":"Brief Text"
+                    }
+                ]
             }
         ],
         "timespan":{
@@ -94,7 +125,7 @@
                         }
                     ],
                     "timespan":{
-                        "id":"https://data.discovernewfields.org/object/33952/puam-acquisition/timespan",
+                        "id":"https://data.artmuseum.princeton.edu/object/la/33952/puam-acquisition/timespan",
                         "type":"TimeSpan",
                         "_label":"1994"
                     }
@@ -102,7 +133,7 @@
             ]
         }
     ],
-    "currentlocation":{
+    "current_location":{
         "id":"http://data.artmuseum.princeton.edu/locations/storage",
         "type":"Place",
         "_label":"Princeton University Art Museum Collection Storage",
@@ -144,7 +175,7 @@
             "id":"https://data.artmuseum.princeton.edu/objects/la/33952/dimension-statement",
             "type":"LinguisticObject",
             "_label":"Notes about the Dimensions of the Object",
-            "content":"91.5 x 61 cm. (36 x 24 in.)\r\nframe: 104 × 73.3 × 3 cm (40 15/16 × 28 7/8 × 1 3/16 in.)",
+            "content":"91.5 x 61 cm. (36 x 24 in.)\r\nframe: 104 \u00d7 73.3 \u00d7 3 cm (40 15/16 \u00d7 28 7/8 \u00d7 1 3/16 in.)",
             "classified_as":[
                 {
                     "id":"http://vocab.getty.edu/aat/300266036",
@@ -252,21 +283,21 @@
     ],
     "part":[
         {
-            "id":"https://data.artmuseum.princeton.edu/objects/la/33952/mount-1",
+            "id":"https://data.artmuseum.princeton.edu/objects/la/33952/part-1",
             "type":"HumanMadeObject",
-            "_label":"Mount part of the Object",
+            "_label":"frame Part of the Object",
             "classified_as":[
                 {
                     "id":"http://vocab.getty.edu/aat/300131087",
                     "type":"Type",
-                    "_label":"mounts (framing and mounting equipment"
+                    "_label":"mounts (framing and mounting equipment)"
                 }
             ],
             "dimension":[
                 {
-                    "id":"https://data.artmuseum.princeton.edu/objects/la/33952/mount-1/Height",
+                    "id":"https://data.artmuseum.princeton.edu/objects/la/33952/part-1/Height",
                     "type":"Dimension",
-                    "_label":"Mount Dimensions for the Object",
+                    "_label":"Frame Dimensions for the Object",
                     "value":"104.00",
                     "classified_as":[
                         {
@@ -282,9 +313,9 @@
                     }
                 },
                 {
-                    "id":"https://data.artmuseum.princeton.edu/objects/la/33952/mount-1/Width",
+                    "id":"https://data.artmuseum.princeton.edu/objects/la/33952/part-1/Width",
                     "type":"Dimension",
-                    "_label":"Mount Dimensions for the Object",
+                    "_label":"Frame Dimensions for the Object",
                     "value":"73.30",
                     "classified_as":[
                         {
@@ -300,9 +331,9 @@
                     }
                 },
                 {
-                    "id":"https://data.artmuseum.princeton.edu/objects/la/33952/mount-1/Depth",
+                    "id":"https://data.artmuseum.princeton.edu/objects/la/33952/part-1/Depth",
                     "type":"Dimension",
-                    "_label":"Mount Dimensions for the Object",
+                    "_label":"Frame Dimensions for the Object",
                     "value":"3.00",
                     "classified_as":[
                         {

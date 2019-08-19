@@ -2,7 +2,7 @@
     "@context":"https://linked.art/ns/v1/linked-art.json",
     "id":"https://data.artmuseum.princeton.edu/objects/la/11558",
     "type":"HumanMadeObject",
-    "_label":"O’Keeffe painting and picture racks in back room, An American Place, New York",
+    "_label":"O\u2019Keeffe painting and picture racks in back room, An American Place, New York",
     "classified_as":[
         {
             "id":"http://vocab.getty.edu/aat/300046300",
@@ -46,6 +46,18 @@
                     "_label":"repository numbers"
                 }
             ]
+        },
+        {
+            "id":"https://data.artmuseum.princeton.edu/objects/la/11558/title",
+            "type":"Identifier",
+            "content":"O\u2019Keeffe painting and picture racks in back room, An American Place, New York",
+            "classified_as":[
+                {
+                    "id":"http://vocab.getty.edu/aat/300195168",
+                    "type":"Type",
+                    "_label":"Title"
+                }
+            ]
         }
     ],
     "produced_by":{
@@ -55,8 +67,27 @@
         "carried_out_by":[
             {
                 "id":"http://vocab.getty.edu/ulan/500026108",
-                "type":"Actor",
-                "_label":"Georgia O'Keeffe"
+                "type":"Person",
+                "_label":"Ansel Adams"
+            }
+        ],
+        "referred_to_by":[
+            {
+                "id":"https://data.artmuseum.princeton.edu/objects/la/11558/maker-bio",
+                "type":"LinguisticObject",
+                "content":"American, 1902\u20131984",
+                "classified_as":[
+                    {
+                        "id":"http://vocab.getty.edu/aat/300080102",
+                        "type":"Type",
+                        "_label":"Biography Statement"
+                    },
+                    {
+                        "id":"http://vocab.getty.edu/aat/300418049",
+                        "type":"Type",
+                        "_label":"Brief Text"
+                    }
+                ]
             }
         ],
         "timespan":{
@@ -99,7 +130,7 @@
                         }
                     ],
                     "timespan":{
-                        "id":"https://data.discovernewfields.org/object/11558/puam-acquisition/timespan",
+                        "id":"https://data.artmuseum.princeton.edu/object/la/11558/puam-acquisition/timespan",
                         "type":"TimeSpan",
                         "_label":"1971"
                     }
@@ -107,7 +138,7 @@
             ]
         }
     ],
-    "currentlocation":{
+    "current_location":{
         "id":"http://data.artmuseum.princeton.edu/locations/storage",
         "type":"Place",
         "_label":"Princeton University Art Museum Collection Storage",
@@ -185,7 +216,7 @@
             "id":"https://data.artmuseum.princeton.edu/objects/la/11558/rights-statement",
             "type":"LinguisticObject",
             "_label":"Rights Statement",
-            "content":"© The Ansel Adams Publishing Rights Trust",
+            "content":"\u00a9 The Ansel Adams Publishing Rights Trust",
             "classified_as":[
                 {
                     "id":"http://vocab.getty.edu/aat/300055547",
@@ -257,19 +288,19 @@
     ],
     "part":[
         {
-            "id":"https://data.artmuseum.princeton.edu/objects/la/11558/mount-1",
+            "id":"https://data.artmuseum.princeton.edu/objects/la/11558/part-1",
             "type":"HumanMadeObject",
-            "_label":"Mount part of the Object",
+            "_label":"mount Part of the Object",
             "classified_as":[
                 {
                     "id":"http://vocab.getty.edu/aat/300131087",
                     "type":"Type",
-                    "_label":"mounts (framing and mounting equipment"
+                    "_label":"mounts (framing and mounting equipment)"
                 }
             ],
             "dimension":[
                 {
-                    "id":"https://data.artmuseum.princeton.edu/objects/la/11558/mount-1/Height",
+                    "id":"https://data.artmuseum.princeton.edu/objects/la/11558/part-1/Height",
                     "type":"Dimension",
                     "_label":"Mount Dimensions for the Object",
                     "value":"45.80",
@@ -287,7 +318,7 @@
                     }
                 },
                 {
-                    "id":"https://data.artmuseum.princeton.edu/objects/la/11558/mount-1/Width",
+                    "id":"https://data.artmuseum.princeton.edu/objects/la/11558/part-1/Width",
                     "type":"Dimension",
                     "_label":"Mount Dimensions for the Object",
                     "value":"35.70",

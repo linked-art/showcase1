@@ -2,7 +2,7 @@
     "@context":"https://linked.art/ns/v1/linked-art.json",
     "id":"https://data.artmuseum.princeton.edu/objects/la/42020",
     "type":"HumanMadeObject",
-    "_label":"Georgia O’Keeffe, Abiquiu, New Mexico",
+    "_label":"Georgia O\u2019Keeffe, Abiquiu, New Mexico",
     "classified_as":[
         {
             "id":"http://vocab.getty.edu/aat/300046300",
@@ -51,6 +51,18 @@
                     "_label":"repository numbers"
                 }
             ]
+        },
+        {
+            "id":"https://data.artmuseum.princeton.edu/objects/la/42020/title",
+            "type":"Identifier",
+            "content":"Georgia O\u2019Keeffe, Abiquiu, New Mexico",
+            "classified_as":[
+                {
+                    "id":"http://vocab.getty.edu/aat/300195168",
+                    "type":"Type",
+                    "_label":"Title"
+                }
+            ]
         }
     ],
     "produced_by":{
@@ -60,8 +72,27 @@
         "carried_out_by":[
             {
                 "id":"http://vocab.getty.edu/ulan/500024399",
-                "type":"Actor",
-                "_label":"Georgia O'Keeffe"
+                "type":"Person",
+                "_label":"Don Worth"
+            }
+        ],
+        "referred_to_by":[
+            {
+                "id":"https://data.artmuseum.princeton.edu/objects/la/42020/maker-bio",
+                "type":"LinguisticObject",
+                "content":"American, 1924\u20132009",
+                "classified_as":[
+                    {
+                        "id":"http://vocab.getty.edu/aat/300080102",
+                        "type":"Type",
+                        "_label":"Biography Statement"
+                    },
+                    {
+                        "id":"http://vocab.getty.edu/aat/300418049",
+                        "type":"Type",
+                        "_label":"Brief Text"
+                    }
+                ]
             }
         ],
         "timespan":{
@@ -104,7 +135,7 @@
                         }
                     ],
                     "timespan":{
-                        "id":"https://data.discovernewfields.org/object/42020/puam-acquisition/timespan",
+                        "id":"https://data.artmuseum.princeton.edu/object/la/42020/puam-acquisition/timespan",
                         "type":"TimeSpan",
                         "_label":"2003"
                     }
@@ -112,7 +143,7 @@
             ]
         }
     ],
-    "currentlocation":{
+    "current_location":{
         "id":"http://data.artmuseum.princeton.edu/locations/storage",
         "type":"Place",
         "_label":"Princeton University Art Museum Collection Storage",
@@ -190,7 +221,7 @@
             "id":"https://data.artmuseum.princeton.edu/objects/la/42020/rights-statement",
             "type":"LinguisticObject",
             "_label":"Rights Statement",
-            "content":"©1997, Don Worth",
+            "content":"\u00a91997, Don Worth",
             "classified_as":[
                 {
                     "id":"http://vocab.getty.edu/aat/300055547",
@@ -222,7 +253,108 @@
             ]
         }
     ],
-    "dimension":[],
+    "part":[
+        {
+            "id":"https://data.artmuseum.princeton.edu/objects/la/42020/part-1",
+            "type":"HumanMadeObject",
+            "_label":"Sheet Part of the Object",
+            "classified_as":[
+                {
+                    "id":"http://vocab.getty.edu/aat/300189648",
+                    "type":"Type",
+                    "_label":"sheets (paper artifacts)"
+                }
+            ],
+            "dimension":[
+                {
+                    "id":"https://data.artmuseum.princeton.edu/objects/la/42020/part-1/Height",
+                    "type":"Dimension",
+                    "_label":"Sheet Dimensions for the Object",
+                    "value":"35.40",
+                    "classified_as":[
+                        {
+                            "id":"http://vocab.getty.edu/aat/300055644",
+                            "type":"Dimension",
+                            "_label":"height"
+                        }
+                    ],
+                    "unit":{
+                        "id":"http://vocab.getty.edu/aat/300379098",
+                        "type":"Type",
+                        "_label":"centimeters"
+                    }
+                },
+                {
+                    "id":"https://data.artmuseum.princeton.edu/objects/la/42020/part-1/Width",
+                    "type":"Dimension",
+                    "_label":"Sheet Dimensions for the Object",
+                    "value":"27.90",
+                    "classified_as":[
+                        {
+                            "id":"http://vocab.getty.edu/aat/300055647",
+                            "type":"Dimension",
+                            "_label":"width"
+                        }
+                    ],
+                    "unit":{
+                        "id":"http://vocab.getty.edu/aat/300379098",
+                        "type":"Type",
+                        "_label":"centimeters"
+                    }
+                }
+            ]
+        },
+        {
+            "id":"https://data.artmuseum.princeton.edu/objects/la/42020/part-2",
+            "type":"HumanMadeObject",
+            "_label":"Image Part of the Object",
+            "classified_as":[
+                {
+                    "id":"http://vocab.getty.edu/aat/300264387",
+                    "type":"Type",
+                    "_label":"images (object genre)"
+                }
+            ],
+            "dimension":[
+                {
+                    "id":"https://data.artmuseum.princeton.edu/objects/la/42020/part-2/Height",
+                    "type":"Dimension",
+                    "_label":"Image Dimensions for the Object",
+                    "value":"23.50",
+                    "classified_as":[
+                        {
+                            "id":"http://vocab.getty.edu/aat/300055644",
+                            "type":"Dimension",
+                            "_label":"height"
+                        }
+                    ],
+                    "unit":{
+                        "id":"http://vocab.getty.edu/aat/300379098",
+                        "type":"Type",
+                        "_label":"centimeters"
+                    }
+                },
+                {
+                    "id":"https://data.artmuseum.princeton.edu/objects/la/42020/part-2/Width",
+                    "type":"Dimension",
+                    "_label":"Image Dimensions for the Object",
+                    "value":"18.10",
+                    "classified_as":[
+                        {
+                            "id":"http://vocab.getty.edu/aat/300055647",
+                            "type":"Dimension",
+                            "_label":"width"
+                        }
+                    ],
+                    "unit":{
+                        "id":"http://vocab.getty.edu/aat/300379098",
+                        "type":"Type",
+                        "_label":"centimeters"
+                    }
+                }
+            ]
+        }
+    ],
     "subject_of":[
         {
             "id":"https://artmuseum.princeton.edu/collections/objects/42020",
