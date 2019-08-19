@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pma-data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    
+<work>
+    <objectID>49280</objectID>
+    <objectNumber>1944-95-4</objectNumber>
+    <sortNumber>1944    95    4</sortNumber>
+    <department>AA</department>
+    <classification>Paintings</classification>
+    <culture></culture>
+    <period></period>
+    <displayName>Georgia O'Keeffe</displayName>
+    <alphaSort>O'Keeffe Georgia</alphaSort>
+    <objectName></objectName>
+    <title>Peach and Glass</title>
+    <dated>1927</dated>
+    <beginDate>1927</beginDate>
+    <medium>Oil on canvas</medium>
+    <dimensions>9 1/8 × 6 1/16 inches (23.2 × 15.4 cm)
+        Framed (shadowbox): 16 1/8 × 13 1/8 × 2 1/4 inches (41 × 33.3 × 5.7 cm)</dimensions>
+    <description></description>
+    <attribution>Georgia O'Keeffe</attribution>
+    <attributionSort>O'Keeffe Georgia</attributionSort>
+    <creditLine>Gift of Dr. Herman Lorber, 1944</creditLine>
+</work>
+
+    <work>
+        <objectID>153801</objectID>
+        <objectNumber>1945-72-50</objectNumber>
+        <sortNumber>1945    72   50</sortNumber>
+        <department>PDP</department>
+        <classification>Photographs</classification>
+        <culture></culture>
+        <period></period>
+        <displayName>Arnold Newman</displayName>
+        <alphaSort>NewmanArnold</alphaSort>
+        <objectName></objectName>
+        <title>Georgia O'Keeffe</title>
+        <dated>1944</dated>
+        <beginDate>1944</beginDate>
+        <medium>Gelatin silver print</medium>
+        <dimensions>Image and sheet: 9 9/16 × 7 5/8 inches (24.3 × 19.4 cm)
+            Mount: 16 15/16 × 14 inches (43.1 × 35.6 cm)</dimensions>
+        <description></description>
+        <attribution>Arnold Newman, Georgia O'Keeffe</attribution>
+        <attributionSort>Newman Arnold, Georgia O'Keeffe</attributionSort>
+        <creditLine>Gift of R. Sturgis and Marion B. F. Ingersoll, 1945</creditLine>
+    </work>
+    
+</pma-data>
