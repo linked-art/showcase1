@@ -118,7 +118,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/AA",
             "type": "Set",
-            "_label": "American Art"
+            "_label": "American Art",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "referred_to_by": [
@@ -195,6 +202,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/1944-95-4.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -310,7 +332,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "shows": [
@@ -408,6 +437,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/aamd/1945-72-50-dig2015.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -523,7 +567,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "shows": [
@@ -621,6 +672,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/aamd/1945-72-51-dig2015.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -743,7 +809,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/AA",
             "type": "Set",
-            "_label": "American Art"
+            "_label": "American Art",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "referred_to_by": [
@@ -820,6 +893,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/1949-18-109.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -942,7 +1030,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/AA",
             "type": "Set",
-            "_label": "American Art"
+            "_label": "American Art",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "referred_to_by": [
@@ -1019,6 +1114,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/aamd/1949-57-1-pma2017.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -1134,7 +1244,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "referred_to_by": [
@@ -1211,6 +1328,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/1965-86-3434-dig2015.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -1326,7 +1458,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "referred_to_by": [
@@ -1403,6 +1542,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/1965-86-3435-dig2015.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -1518,7 +1672,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "shows": [
@@ -1616,6 +1777,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/1965-86-7633-dig2015.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -1731,7 +1907,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "shows": [
@@ -1829,6 +2012,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/1965-86-7634-dig2015.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -1944,7 +2142,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "shows": [
@@ -2042,6 +2247,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/1965-86-7635-dig2015.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -2157,7 +2377,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "referred_to_by": [
@@ -2234,6 +2461,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/1965-86-7636-dig2015.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -2349,7 +2591,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "shows": [
@@ -2447,6 +2696,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/1965-86-7637-dig2015.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -2562,7 +2826,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "shows": [
@@ -2660,6 +2931,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/1965-86-7638-dig2015.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -2775,7 +3061,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "shows": [
@@ -2873,6 +3166,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/1965-86-7639-dig2015.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -2988,7 +3296,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "shows": [
@@ -3086,6 +3401,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/1965-86-7640-dig2015.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -3201,7 +3531,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "shows": [
@@ -3299,6 +3636,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/1965-86-7641-dig2015.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -3414,7 +3766,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "shows": [
@@ -3512,6 +3871,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/1965-86-7642-dig2015.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -3627,7 +4001,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "shows": [
@@ -3725,6 +4106,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/1965-86-7643-dig2015.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -3840,7 +4236,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "shows": [
@@ -3938,6 +4341,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/1965-86-7644-dig2015.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -4053,7 +4471,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "shows": [
@@ -4151,6 +4576,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/1965-86-7645-dig2015.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -4266,7 +4706,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "shows": [
@@ -4364,6 +4811,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/1965-86-7646-dig2015.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -4479,7 +4941,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "shows": [
@@ -4577,6 +5046,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/1965-86-7647-dig2015.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -4692,7 +5176,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "shows": [
@@ -4790,6 +5281,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/1965-86-7648-dig2015.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -4905,7 +5411,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "shows": [
@@ -5003,6 +5516,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/1965-86-7649-dig2015.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -5118,7 +5646,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "shows": [
@@ -5216,6 +5751,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/1965-86-7650-dig2015.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -5331,7 +5881,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "shows": [
@@ -5429,6 +5986,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/1965-86-7651-dig2015.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -5544,7 +6116,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "shows": [
@@ -5642,6 +6221,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/1965-86-7652-dig2015.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -5757,7 +6351,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "shows": [
@@ -5855,6 +6456,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/1965-86-7653-dig2015.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -5970,7 +6586,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "shows": [
@@ -6068,6 +6691,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/1965-86-7654-dig2015.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -6183,7 +6821,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "shows": [
@@ -6281,6 +6926,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/1965-86-7655-dig2015.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -6396,7 +7056,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "shows": [
@@ -6494,6 +7161,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/1965-86-7656-dig2015.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -6609,7 +7291,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "referred_to_by": [
@@ -6686,6 +7375,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/1965-86-9956-dig2015.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -6801,7 +7505,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "referred_to_by": [
@@ -6878,6 +7589,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/aamd/1968-114-51-dig2015.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -6993,7 +7719,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "referred_to_by": [
@@ -7070,6 +7803,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/1969-83-24-dig2015.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -7185,7 +7933,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "shows": [
@@ -7283,6 +8038,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/aamd/1969-254-5-dig2015.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -7398,7 +8168,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "shows": [
@@ -7496,6 +8273,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/aamd/1974-179-667-dig2015.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -7611,7 +8403,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "shows": [
@@ -7709,6 +8508,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/1975-26-2-pma.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -7824,7 +8638,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "shows": [
@@ -7922,6 +8743,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/1976-213-82-pma.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -8037,7 +8873,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "referred_to_by": [
@@ -8114,6 +8957,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/1978-83-2.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -8229,7 +9087,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "shows": [
@@ -8327,6 +9192,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/1978-91-1-dig2015.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -8442,7 +9322,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "referred_to_by": [
@@ -8519,6 +9406,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/1980-89-116-pma.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -8634,7 +9536,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "referred_to_by": [
@@ -8711,6 +9620,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/aamd/1980-89-117-dig2015.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -8826,7 +9750,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "referred_to_by": [
@@ -8903,6 +9834,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/aamd/1980-89-118-dig2015.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -9018,7 +9964,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "referred_to_by": [
@@ -9095,6 +10048,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/aamd/1980-89-119-dig2015.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -9210,7 +10178,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "referred_to_by": [
@@ -9287,6 +10262,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/aamd/1980-89-120-dig2015.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -9402,7 +10392,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "referred_to_by": [
@@ -9479,6 +10476,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/aamd/1984-35-5-dig2015.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -9594,7 +10606,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "referred_to_by": [
@@ -9671,6 +10690,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/1984-63-2-dig2015.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -9793,7 +10827,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/AA",
             "type": "Set",
-            "_label": "American Art"
+            "_label": "American Art",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "referred_to_by": [
@@ -9870,6 +10911,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/1987-70-1.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -9992,7 +11048,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/AA",
             "type": "Set",
-            "_label": "American Art"
+            "_label": "American Art",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "referred_to_by": [
@@ -10069,6 +11132,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/1987-70-2.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -10191,7 +11269,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/AA",
             "type": "Set",
-            "_label": "American Art"
+            "_label": "American Art",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "referred_to_by": [
@@ -10268,6 +11353,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/1987-70-3.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -10390,7 +11490,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/AA",
             "type": "Set",
-            "_label": "American Art"
+            "_label": "American Art",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "referred_to_by": [
@@ -10467,6 +11574,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/1987-70-4-pma.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -10582,7 +11704,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "shows": [
@@ -10680,6 +11809,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/1997-38-1-dig2015.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -10800,7 +11944,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "shows": [
@@ -10898,6 +12049,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/1997-38-2-dig2015.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -11013,7 +12179,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "shows": [
@@ -11111,6 +12284,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/1997-38-3-pma.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -11226,7 +12414,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "shows": [
@@ -11324,6 +12519,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/1997-38-4-dig2015.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -11439,7 +12649,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "shows": [
@@ -11537,6 +12754,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/1997-38-5-dig2015.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -11652,7 +12884,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "referred_to_by": [
@@ -11729,6 +12968,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/1997-38-6-dig2015.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -11844,7 +13098,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "shows": [
@@ -11942,6 +13203,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/1997-38-7-dig2015.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -12064,7 +13340,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "referred_to_by": [
@@ -12141,6 +13424,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/1997-39-1-pma.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -12263,7 +13561,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "referred_to_by": [
@@ -12340,6 +13645,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/1997-40-1.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -12462,7 +13782,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "referred_to_by": [
@@ -12539,6 +13866,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/1997-41-1-pma.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -12661,7 +14003,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "referred_to_by": [
@@ -12738,6 +14087,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/1997-42-1-pma.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -12853,7 +14217,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "referred_to_by": [
@@ -12930,6 +14301,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/1997-146-48-pma.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -13045,7 +14431,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "referred_to_by": [
@@ -13122,6 +14515,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/1997-146-60-dig2015.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -13237,7 +14645,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "referred_to_by": [
@@ -13314,6 +14729,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/1997-146-73-pma.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -13429,7 +14859,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "shows": [
@@ -13527,6 +14964,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/2003-3-1-pma.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -13642,7 +15094,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "shows": [
@@ -13740,6 +15199,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/2003-3-2.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -13855,7 +15329,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "shows": [
@@ -13953,6 +15434,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/2003-3-3-pma.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -14068,7 +15564,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "shows": [
@@ -14166,6 +15669,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/2003-3-4-pma.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -14281,7 +15799,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "shows": [
@@ -14379,6 +15904,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/2003-3-5-pma.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -14494,7 +16034,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "shows": [
@@ -14592,6 +16139,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/2009-160-602-pdp.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -14707,7 +16269,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "shows": [
@@ -14805,6 +16374,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/zoomers/2011-198-1-pma.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -14932,7 +16516,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "referred_to_by": [
@@ -15009,6 +16600,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/aamd/2016-48-1(1)-pma2016.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -15131,7 +16737,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "referred_to_by": [
@@ -15208,6 +16821,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/aamd/2016-48-1(1--21)-pma2016.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -15328,7 +16956,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "referred_to_by": [
@@ -15405,6 +17040,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/aamd/2016-48-1(2)-pma2016.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -15525,7 +17175,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "referred_to_by": [
@@ -15602,6 +17259,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/aamd/2016-48-1(3)-pma2016.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -15722,7 +17394,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "referred_to_by": [
@@ -15799,6 +17478,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/aamd/2016-48-1(4)-pma2016.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -15919,7 +17613,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "referred_to_by": [
@@ -15996,6 +17697,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/aamd/2016-48-1(5)-pma2016.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -16116,7 +17832,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "referred_to_by": [
@@ -16193,6 +17916,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/aamd/2016-48-1(6)-pma2016.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -16313,7 +18051,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "referred_to_by": [
@@ -16390,6 +18135,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/aamd/2016-48-1(7)-pma2016.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -16510,7 +18270,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "referred_to_by": [
@@ -16587,6 +18354,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/aamd/2016-48-1(8)-pma2016.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -16707,7 +18489,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "referred_to_by": [
@@ -16784,6 +18573,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/aamd/2016-48-1(9)-pma2016.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -16904,7 +18708,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "referred_to_by": [
@@ -16981,6 +18792,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/aamd/2016-48-1(10)-pma2016.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -17101,7 +18927,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "referred_to_by": [
@@ -17178,6 +19011,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/aamd/2016-48-1(11)-pma2016.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -17298,7 +19146,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "referred_to_by": [
@@ -17375,6 +19230,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/aamd/2016-48-1(12)-pma2016.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -17495,7 +19365,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "referred_to_by": [
@@ -17572,6 +19449,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/aamd/2016-48-1(13)-pma2016.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -17692,7 +19584,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "referred_to_by": [
@@ -17769,6 +19668,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/aamd/2016-48-1(14)-pma2016.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -17889,7 +19803,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "referred_to_by": [
@@ -17966,6 +19887,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/aamd/2016-48-1(15)-pma2016.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -18086,7 +20022,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "referred_to_by": [
@@ -18163,6 +20106,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/aamd/2016-48-1(16)-pma2016.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -18283,7 +20241,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "referred_to_by": [
@@ -18360,6 +20325,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/aamd/2016-48-1(17)-pma2016.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -18480,7 +20460,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "referred_to_by": [
@@ -18557,6 +20544,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/aamd/2016-48-1(18)-pma2016.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -18677,7 +20679,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "referred_to_by": [
@@ -18754,6 +20763,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/aamd/2016-48-1(19)-pma2016.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -18874,7 +20898,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "referred_to_by": [
@@ -18951,6 +20982,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/aamd/2016-48-1(20)-pma2016.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }
@@ -19078,7 +21124,14 @@
           {
             "id": "https://data.philamuseum.org/collection/department/PDP",
             "type": "Set",
-            "_label": "Prints, Drawings, and Photographs"
+            "_label": "Prints, Drawings, and Photographs",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+              }
+            ]
           }
         ],
         "referred_to_by": [
@@ -19155,6 +21208,21 @@
               }
             ],
             "format": "text/html"
+          }
+        ],
+        "representation": [
+          {
+            "id": "https://philamuseum.org/images/cad/aamd/2016-48-1(21)-pma2016.jpg",
+            "type": "VisualItem",
+            "_label": "Primary Image of the Object",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "digital images"
+              }
+            ],
+            "format": "image/jpeg"
           }
         ]
       }

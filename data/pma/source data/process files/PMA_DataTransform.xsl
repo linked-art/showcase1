@@ -168,7 +168,12 @@
                     {
                         "id": "https://data.philamuseum.org/collection/department/<xsl:value-of select="department"/>",
                         "type": "Set",
-                        "_label": "<xsl:if test="department = 'AA'">American Art</xsl:if><xsl:if test="department = 'PDP'">Prints, Drawings, and Photographs</xsl:if>"
+                        "_label": "<xsl:if test="department = 'AA'">American Art</xsl:if><xsl:if test="department = 'PDP'">Prints, Drawings, and Photographs</xsl:if>",
+                        "classified_as": [
+                            "id": "http://vocab.getty.edu/aat/300025976",
+                            "type": "Type",
+                            "_label": "collections (object groupings)"
+                        ]
                     }
                 ],
                 "referred_to_by": [
