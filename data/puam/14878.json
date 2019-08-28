@@ -1,0 +1,394 @@
+{
+    "@context":"https://linked.art/ns/v1/linked-art.json",
+    "id":"https://data.artmuseum.princeton.edu/objects/la/14878",
+    "type":"HumanMadeObject",
+    "_label":"Narcissa's Last Orchid",
+    "classified_as":[
+        {
+            "id":"http://vocab.getty.edu/aat/300033973",
+            "type":"Type",
+            "_label":"drawings"
+        },
+        {
+            "id":"http://vocab.getty.edu/aat/300076922",
+            "type":"Type",
+            "_label":"pastels"
+        },
+        {
+            "id":"http://vocab.getty.edu/aat/300133025",
+            "type":"Type",
+            "_label":"works of art"
+        }
+    ],
+    "identified_by":[
+        {
+            "id":"https://data.artmuseum.princeton.edu/objects/la/14878/accession-number",
+            "type":"identifier",
+            "_label":"Princeton University Art Museum Accession Number for the Object",
+            "content":"x1982-357",
+            "classified_as":[
+                {
+                    "id":"http://vocab.getty.edu/aat/300312355",
+                    "type":"Type",
+                    "_label":"accession numbers"
+                }
+            ]
+        },
+        {
+            "id":"https://data.artmuseum.princeton.edu/objects/la/14878/objectid",
+            "type":"identifier",
+            "_label":"Princeton University Art Museum Collections Database Number for the Object",
+            "content":14878,
+            "classified_as":[
+                {
+                    "id":"http://vocab.getty.edu/aat/300404621",
+                    "type":"Type",
+                    "_label":"repository numbers"
+                }
+            ]
+        },
+        {
+            "id":"https://data.artmuseum.princeton.edu/objects/la/14878/title",
+            "type":"Identifier",
+            "content":"Narcissa's Last Orchid",
+            "classified_as":[
+                {
+                    "id":"http://vocab.getty.edu/aat/300195168",
+                    "type":"Type",
+                    "_label":"Title"
+                }
+            ]
+        }
+    ],
+    "produced_by":{
+        "id":"https://data.artmuseum.princeton.edu/objects/la/14878/production",
+        "type":"Production",
+        "_label":"Production of the Object",
+        "carried_out_by":[
+            {
+                "id":"http://vocab.getty.edu/ulan/500018666",
+                "type":"Person",
+                "_label":"Georgia O'Keeffe"
+            }
+        ],
+        "referred_to_by":[
+            {
+                "id":"https://data.artmuseum.princeton.edu/objects/la/14878/maker-bio",
+                "type":"LinguisticObject",
+                "content":"American, 1887\u20131986",
+                "classified_as":[
+                    {
+                        "id":"http://vocab.getty.edu/aat/300080102",
+                        "type":"Type",
+                        "_label":"Biography Statement"
+                    },
+                    {
+                        "id":"http://vocab.getty.edu/aat/300418049",
+                        "type":"Type",
+                        "_label":"Brief Text"
+                    }
+                ]
+            }
+        ],
+        "timespan":{
+            "id":"https://data.artmuseum.princeton.edu/objects/la/14878/production",
+            "type":"TimeSpan",
+            "_label":"1940",
+            "begin_of_the_begin":"1940-01-01T00:00:00",
+            "end_of_the_end":"1940-12-31T00:00:00"
+        }
+    },
+    "current_owner":[
+        {
+            "id":"http://vocab.getty.edu/ulan/500310237",
+            "type":"Group",
+            "_label":"Princeton University Art Museum",
+            "classified_as":[
+                {
+                    "id":"http://vocab.getty.edu/aat/300312281",
+                    "type":"Type",
+                    "_label":"museums (institutions)"
+                }
+            ],
+            "acquired_title_through":[
+                {
+                    "id":"https://data.artmuseum.princeton.edu/object/la/14878/puam-acquisition",
+                    "type":"Acquisition",
+                    "_label":"Princeton University Art Museum Acquisition of the Object",
+                    "classified_as":[
+                        {
+                            "id":"http://vocab.getty.edu/aat/300157782",
+                            "type":"Type",
+                            "_label":"acquisition (collections management)"
+                        }
+                    ],
+                    "took_place_at":[
+                        {
+                            "id":"http://vocab.getty.edu/tgn/7016190",
+                            "type":"Place",
+                            "_label":"Princeton, New Jersey"
+                        }
+                    ],
+                    "timespan":{
+                        "id":"https://data.artmuseum.princeton.edu/object/la/14878/puam-acquisition/timespan",
+                        "type":"TimeSpan",
+                        "_label":"1982"
+                    }
+                }
+            ]
+        }
+    ],
+    "current_location":{
+        "id":"http://data.artmuseum.princeton.edu/locations/storage",
+        "type":"Place",
+        "_label":"Princeton University Art Museum Collection Storage",
+        "classified_as":[
+            {
+                "id":"http://vocab.getty.edu/aat/300265733",
+                "type":"Type",
+                "_label":"museum storerooms"
+            }
+        ]
+    },
+    "member_of":[
+        {
+            "id":"https://data.artmuseum.princeton.edu/collection/6",
+            "type":"Set",
+            "_label":"Princeton University Art Museum Prints and Drawings Collection"
+        }
+    ],
+    "referred_to_by":[
+        {
+            "id":"https://data.artmuseum.princeton.edu/objects/la/14878/credit-line",
+            "type":"LinguisticObject",
+            "_label":"Princeton University Art Museum Credit Line for the Object",
+            "content":"Gift of David H. McAlpin, Class of 1920",
+            "classified_as":[
+                {
+                    "id":"http://vocab.getty.edu/aat/300026687",
+                    "type":"Type",
+                    "_label":"acknowledgments"
+                },
+                {
+                    "id":"http://vocab.getty.edu/aat/300418049",
+                    "type":"Type",
+                    "_label":"brief texts"
+                }
+            ]
+        },
+        {
+            "id":"https://data.artmuseum.princeton.edu/objects/la/14878/dimension-statement",
+            "type":"LinguisticObject",
+            "_label":"Notes about the Dimensions of the Object",
+            "content":"54.5 x 69.1 cm (21 7/16 x 27 3/16 in.)\r\nframe: 74.5 \u00d7 89.7 \u00d7 4.5 cm (29 5/16 \u00d7 35 5/16 \u00d7 1 3/4 in.)",
+            "classified_as":[
+                {
+                    "id":"http://vocab.getty.edu/aat/300266036",
+                    "type":"Type",
+                    "_label":"dimensions"
+                },
+                {
+                    "id":"http://vocab.getty.edu/aat/300418049",
+                    "type":"Type",
+                    "_label":"brief texts"
+                }
+            ]
+        },
+        {
+            "id":"https://data.artmuseum.princeton.edu/objects/la/14878/materials-statement",
+            "type":"LinguisticObject",
+            "_label":"Notes about the Materials in the Object",
+            "content":"Pastel",
+            "classified_as":[
+                {
+                    "id":"http://vocab.getty.edu/aat/300010358",
+                    "type":"Type",
+                    "_label":"materials (substances)"
+                },
+                {
+                    "id":"http://vocab.getty.edu/aat/300418049",
+                    "type":"Type",
+                    "_label":"brief texts"
+                }
+            ]
+        },
+        {
+            "id":"https://data.artmuseum.princeton.edu/objects/la/14878/rights-statement",
+            "type":"LinguisticObject",
+            "_label":"Rights Statement",
+            "content":"\u00a9 Georgia O'Keeffe Museum / Artists Rights Society (ARS), New York",
+            "classified_as":[
+                {
+                    "id":"http://vocab.getty.edu/aat/300055547",
+                    "type":"Type",
+                    "_label":"legal concepts"
+                },
+                {
+                    "id":"http://vocab.getty.edu/aat/300418049",
+                    "type":"Type",
+                    "_label":"brief texts"
+                }
+            ]
+        },
+        {
+            "id":"http://rightsstatements.org/vocab/InC/1.0/",
+            "type":"LinguisticObject",
+            "_label":"In Copyright",
+            "classified_as":[
+                {
+                    "id":"http://vocab.getty.edu/aat/300055547",
+                    "type":"Type",
+                    "_label":"legal concepts"
+                },
+                {
+                    "id":"http://vocab.getty.edu/aat/300418049",
+                    "type":"Type",
+                    "_label":"brief texts"
+                }
+            ]
+        }
+    ],
+    "dimension":[
+        {
+            "id":"https://data.artmuseum.princeton.edu/objects/la/14878/Height",
+            "type":"Dimension",
+            "_label":"Dimensions for the Object",
+            "value":"54.50",
+            "classified_as":[
+                {
+                    "id":"http://vocab.getty.edu/aat/300055644",
+                    "type":"Dimension",
+                    "_label":"height"
+                }
+            ],
+            "unit":{
+                "id":"http://vocab.getty.edu/aat/300379098",
+                "type":"Type",
+                "_label":"centimeters"
+            }
+        },
+        {
+            "id":"https://data.artmuseum.princeton.edu/objects/la/14878/Width",
+            "type":"Dimension",
+            "_label":"Dimensions for the Object",
+            "value":"69.10",
+            "classified_as":[
+                {
+                    "id":"http://vocab.getty.edu/aat/300055647",
+                    "type":"Dimension",
+                    "_label":"width"
+                }
+            ],
+            "unit":{
+                "id":"http://vocab.getty.edu/aat/300379098",
+                "type":"Type",
+                "_label":"centimeters"
+            }
+        }
+    ],
+    "part":[
+        {
+            "id":"https://data.artmuseum.princeton.edu/objects/la/14878/part-1",
+            "type":"HumanMadeObject",
+            "_label":"frame Part of the Object",
+            "classified_as":[
+                {
+                    "id":"http://vocab.getty.edu/aat/300131087",
+                    "type":"Type",
+                    "_label":"mounts (framing and mounting equipment)"
+                }
+            ],
+            "dimension":[
+                {
+                    "id":"https://data.artmuseum.princeton.edu/objects/la/14878/part-1/Height",
+                    "type":"Dimension",
+                    "_label":"Frame Dimensions for the Object",
+                    "value":"74.50",
+                    "classified_as":[
+                        {
+                            "id":"http://vocab.getty.edu/aat/300055644",
+                            "type":"Dimension",
+                            "_label":"height"
+                        }
+                    ],
+                    "unit":{
+                        "id":"http://vocab.getty.edu/aat/300379098",
+                        "type":"Type",
+                        "_label":"centimeters"
+                    }
+                },
+                {
+                    "id":"https://data.artmuseum.princeton.edu/objects/la/14878/part-1/Width",
+                    "type":"Dimension",
+                    "_label":"Frame Dimensions for the Object",
+                    "value":"89.70",
+                    "classified_as":[
+                        {
+                            "id":"http://vocab.getty.edu/aat/300055647",
+                            "type":"Dimension",
+                            "_label":"width"
+                        }
+                    ],
+                    "unit":{
+                        "id":"http://vocab.getty.edu/aat/300379098",
+                        "type":"Type",
+                        "_label":"centimeters"
+                    }
+                },
+                {
+                    "id":"https://data.artmuseum.princeton.edu/objects/la/14878/part-1/Depth",
+                    "type":"Dimension",
+                    "_label":"Frame Dimensions for the Object",
+                    "value":"4.50",
+                    "classified_as":[
+                        {
+                            "id":"http://vocab.getty.edu/aat/300072633",
+                            "type":"Dimension",
+                            "_label":"depth"
+                        }
+                    ],
+                    "unit":{
+                        "id":"http://vocab.getty.edu/aat/300379098",
+                        "type":"Type",
+                        "_label":"centimeters"
+                    }
+                }
+            ]
+        }
+    ],
+    "subject_of":[
+        {
+            "id":"https://artmuseum.princeton.edu/collections/objects/14878",
+            "type":"LinguisticObject",
+            "_label":"Homepage for the Object",
+            "classified_as":[
+                {
+                    "id":"http://vocab/getty.edu/aat/300264578",
+                    "type":"Type",
+                    "_label":"Web pages (documents)"
+                },
+                {
+                    "id":"http://vocab.getty.edu/aat/300266277",
+                    "type":"Type",
+                    "_label":"home pages"
+                }
+            ],
+            "format":"text/html"
+        }
+    ],
+    "representation":[
+        {
+            "id":"https://puam-loris.aws.princeton.edu/loris/x1982-357.jp2/full/full/0/default.jpg",
+            "type":"VisualItem",
+            "_label":"Primary Image of the Object",
+            "classified_as":[
+                {
+                    "id":"http://vocab.getty.edu/aat/300215302",
+                    "type":"Type",
+                    "_label":"digital images"
+                }
+            ],
+            "format":"image/jpeg"
+        }
+    ]
+}
