@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<yuag-data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    
+    <work>
+        <objectID>15469</objectID>
+        <objectNumber>1965.52</objectNumber>
+        <imageCall>http://deliver.odai.yale.edu/info/repository/YUAG/object/15469/type/2</imageCall>
+        <url>https://artgallery.yale.edu/collections/objects/15469</url>
+        <objType>paintings</objType>
+        <objTypeID>300033618</objTypeID>
+        <class>Paintings</class>
+        <classID>300033618</classID>
+        <artist>Georgia O'Keeffe (American, 1887–1986)</artist>
+        <artistID>500018666</artistID>
+        <subject1></subject1>
+        <subject1ID></subject1ID>
+        <subject2></subject2>
+        <subject2ID></subject2ID>
+        <publisher></publisher>
+        <publisherID></publisherID>
+        <title>Bob's Steer Head</title>
+        <date>1936</date>
+        <beginDate>1936</beginDate>
+        <endDate>1936</endDate>
+        <medium>Oil on canvas</medium>
+        <dimensions>30 x 36 in. (76.2 x 91.4 cm)</dimensions>
+        <creditLine>Gift of Arthur Milliken, B.A. 1926</creditLine>
+        <provenance>Arthur Milliken, to 1965; Yale University Art Gallery, New Haven, Conn.</provenance>
+        <geography></geography>
+        <tgnID></tgnID>
+        <geonamesID></geonamesID>
+        <genre>animal art</genre>
+        <genreID>300386044</genreID>
+        <subjects>deaths; deserts; skull (skeleton component)</subjects>
+    </work>
+
+    <work>
+        <objectID>29798</objectID>
+        <objectNumber>1992.53.142</objectNumber>
+        <imageCall>http://deliver.odai.yale.edu/info/repository/YUAG/object/29798/type/2</imageCall>
+        <url>https://artgallery.yale.edu/collections/objects/29798</url>
+        <objType>gelatin silver prints</objType>
+        <objTypeID>300128695</objTypeID>
+        <class>Photographs</class>
+        <classID>300046300</classID>
+        <artist>Vince Maggiora (American, mid-20th century)</artist>
+        <artistID></artistID>
+        <subject1>Georgia O'Keeffe (American, 1887–1986)</subject1>
+        <subject1ID>500018666</subject1ID>
+        <subject2></subject2>
+        <subject2ID></subject2ID>
+        <publisher></publisher>
+        <publisherID></publisherID>
+        <title>O'Keeffe Standing in Her Sculpture, San Francisco MoMA</title>
+        <date>20th century</date>
+        <beginDate>1900</beginDate>
+        <endDate>1999</endDate>
+        <medium>Gelatin silver print</medium>
+        <dimensions>image: 24.13 x 19.05 cm (9 1/2 x 7 1/2 in.)
+            sheet: 25.4 x 20.32 cm (10 x 8 in.)</dimensions>
+        <creditLine>Gift of George Hopper Fitch, B.A. 1932</creditLine>
+        <provenance>Vision Gallery, San Francisco; George Hopper Fitch, to 1988; Yale University Art Gallery, New Haven, Conn.</provenance>
+        <geography>Depicted: San Francisco</geography>
+        <tgnID>7014456</tgnID>
+        <geonamesID></geonamesID>
+        <genre>portrait</genre>
+        <genreID>300015637</genreID>
+        <subjects>sculpture</subjects>
+    </work>
+</yuag-data>

@@ -151,7 +151,7 @@
                     ],
                     "acquired_title_through": [
                         {
-                            "id": "<xsl:copy-of select="$baseURI"/>PMA-acquisition",
+                            "id": "<xsl:copy-of select="$baseURI"/><xsl:copy-of select="$id"/>/PMA-acquisition",
                             "type": "Acquisition",
                             "_label": "PMA Acquisition of the Work",
                             "classified_as": [
