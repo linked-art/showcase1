@@ -3,7 +3,7 @@
 	<work>
 		<objectID>15469</objectID>
 		<objectNumber>1965.52</objectNumber>
-		<imageCall>http://deliver.odai.yale.edu/info/repository/YUAG/object/15469/type/2</imageCall>
+		<image>http://b02.deliver.odai.yale.edu/f5/6e/f56e903b-9658-4f35-8218-9770954cd602/ag-obj-15469-001-pub-med.jpg</image>
 		<url>https://artgallery.yale.edu/collections/objects/15469</url>
 		<objType>paintings</objType>
 		<objTypeID>300033618</objTypeID>
@@ -26,7 +26,7 @@
 	<work>
 		<objectID>29798</objectID>
 		<objectNumber>1992.53.142</objectNumber>
-		<imageCall>http://deliver.odai.yale.edu/info/repository/YUAG/object/29798/type/2</imageCall>
+		<image>http://b01.deliver.odai.yale.edu/7f/d7/7fd76c89-2669-42df-9ebf-7d1b3b0501c7/ag-obj-29798-001-rpd-med.jpg</image>
 		<url>https://artgallery.yale.edu/collections/objects/29798</url>
 		<objType>gelatin silver prints</objType>
 		<objTypeID>300128695</objTypeID>
@@ -53,7 +53,7 @@ sheet: 25.4 x 20.32 cm (10 x 8 in.)</dimensions>
 	<work>
 		<objectID>33730</objectID>
 		<objectNumber>1979.111</objectNumber>
-		<imageCall>http://deliver.odai.yale.edu/info/repository/YUAG/object/33730/type/2</imageCall>
+		<image>http://b02.deliver.odai.yale.edu/dc/6f/dc6f47a6-965b-4d04-85fb-453b1169dd2f/ag-obj-33730-001-pub-med.jpg</image>
 		<url>https://artgallery.yale.edu/collections/objects/33730</url>
 		<objType>watercolors</objType>
 		<objTypeID>300078925</objTypeID>
@@ -77,7 +77,7 @@ framed: 63.5 x 47 x 1.9 cm (25 x 18 1/2 x 3/4 in.)</dimensions>
 	<work>
 		<objectID>33968</objectID>
 		<objectNumber>1978.4</objectNumber>
-		<imageCall>http://deliver.odai.yale.edu/info/repository/YUAG/object/33968/type/2</imageCall>
+		<image>http://b02.deliver.odai.yale.edu/b3/56/b356226f-bae0-41e8-8d28-eb96190d4e17/ag-obj-33968-001-pub-med.jpg</image>
 		<url>https://artgallery.yale.edu/collections/objects/33968</url>
 		<objType>watercolors</objType>
 		<objTypeID>300078925</objTypeID>
@@ -100,7 +100,7 @@ framed: 63.5 x 47 x 1.9 cm (25 x 18 1/2 x 3/4 in.)</dimensions>
 	<work>
 		<objectID>53331</objectID>
 		<objectNumber>1984.32.22</objectNumber>
-		<imageCall>http://deliver.odai.yale.edu/info/repository/YUAG/object/53331/type/2</imageCall>
+		<image>http://b01.deliver.odai.yale.edu/06/04/06047c69-f5a6-4880-8d4f-07c8b612a63f/ag-obj-53331-001-pub-med.jpg</image>
 		<url>https://artgallery.yale.edu/collections/objects/53331</url>
 		<objType>paintings</objType>
 		<objTypeID>300033618</objTypeID>
@@ -123,7 +123,7 @@ framed: 63.5 x 47 x 1.9 cm (25 x 18 1/2 x 3/4 in.)</dimensions>
 	<work>
 		<objectID>53337</objectID>
 		<objectNumber>1984.32.21</objectNumber>
-		<imageCall>http://deliver.odai.yale.edu/info/repository/YUAG/object/53337/type/2</imageCall>
+		<image>http://b03.deliver.odai.yale.edu/65/17/6517f2b4-0731-4ad8-bfd3-31081784d65c/ag-obj-53337-001-pub-med.jpg</image>
 		<url>https://artgallery.yale.edu/collections/objects/53337</url>
 		<objType>paintings</objType>
 		<objTypeID>300033618</objTypeID>
@@ -149,7 +149,7 @@ framed: 8 1/4 x 11 1/4 x 1 1/2 in. (20.96 x 28.58 x 3.8 cm)</dimensions>
 	<work>
 		<objectID>56335</objectID>
 		<objectNumber>1981.23.1</objectNumber>
-		<imageCall>http://deliver.odai.yale.edu/info/repository/YUAG/object/56335/type/2</imageCall>
+		<image>http://b02.deliver.odai.yale.edu/66/a2/66a231e1-df13-46c2-bef8-f1a0bdffd2fe/ag-obj-56335-001-rpd-med.jpg</image>
 		<url>https://artgallery.yale.edu/collections/objects/56335</url>
 		<objType>lithographs</objType>
 		<objTypeID>300041379</objTypeID>
@@ -193,7 +193,7 @@ framed: 8 1/4 x 11 1/4 x 1 1/2 in. (20.96 x 28.58 x 3.8 cm)</dimensions>
 	<work>
 		<objectID>95365</objectID>
 		<objectNumber>2003.81.2.1-.10</objectNumber>
-		<imageCall>http://deliver.odai.yale.edu/info/repository/YUAG/object/95365/type/2</imageCall>
+		<image>http://b02.deliver.odai.yale.edu/21/59/21593566-c73c-472f-b4c2-652497e9fa74/ag-obj-95365-001-pub-med.jpg</image>
 		<url>https://artgallery.yale.edu/collections/objects/95365</url>
 		<objType>photogravures</objType>
 		<objTypeID>300154382</objTypeID>
@@ -216,7 +216,7 @@ framed: 8 1/4 x 11 1/4 x 1 1/2 in. (20.96 x 28.58 x 3.8 cm)</dimensions>
 	<work>
 		<objectID>133414</objectID>
 		<objectNumber>2008.191.5</objectNumber>
-		<imageCall>http://deliver.odai.yale.edu/info/repository/YUAG/object/133414/type/2</imageCall>
+		<image>http://b03.deliver.odai.yale.edu/cc/5e/cc5e165e-5dea-48be-8e92-e84edbb90824/ag-obj-133414-001-pub-med.jpg</image>
 		<url>https://artgallery.yale.edu/collections/objects/133414</url>
 		<objType>gelatin silver prints</objType>
 		<objTypeID>300128695</objTypeID>
@@ -244,7 +244,7 @@ framed: 8 1/4 x 11 1/4 x 1 1/2 in. (20.96 x 28.58 x 3.8 cm)</dimensions>
 	<work>
 		<objectID>180637</objectID>
 		<objectNumber>2016.103.1</objectNumber>
-		<imageCall>http://deliver.odai.yale.edu/info/repository/YUAG/object/180637/type/2</imageCall>
+		<image>http://b02.deliver.odai.yale.edu/a2/60/a2609611-762d-4ba5-8a89-5476f44a8d1c/ag-obj-180637-300-ids-med.jpg</image>
 		<url>https://artgallery.yale.edu/collections/objects/180637</url>
 		<objType>watercolors</objType>
 		<objTypeID>300078925</objTypeID>
@@ -268,7 +268,7 @@ framed: 56 Ã— 44 cm (22 1/16 Ã— 17 5/16 in.)</dimensions>
 	<work>
 		<objectID>180665</objectID>
 		<objectNumber>2016.103.2</objectNumber>
-		<imageCall>http://deliver.odai.yale.edu/info/repository/YUAG/object/180665/type/2</imageCall>
+		<image>http://b03.deliver.odai.yale.edu/9f/06/9f06b2f8-8b64-4bca-a508-a40e5f560f20/ag-obj-180665-300-ids-med.jpg</image>
 		<url>https://artgallery.yale.edu/collections/objects/180665</url>
 		<objType>watercolors</objType>
 		<objTypeID>300078925</objTypeID>
@@ -292,7 +292,7 @@ framed: 56 Ã— 44 cm (22 1/16 Ã— 17 5/16 in.)</dimensions>
 	<work>
 		<objectID>198690</objectID>
 		<objectNumber>2016.101.242</objectNumber>
-		<imageCall>http://deliver.odai.yale.edu/info/repository/YUAG/object/198690/type/2</imageCall>
+		<image>http://b03.deliver.odai.yale.edu/00/ae/00aed1fe-dbe6-4962-95e8-f81b86d910c3/ag-obj-198690-001-pub-med.jpg</image>
 		<url>https://artgallery.yale.edu/collections/objects/198690</url>
 		<objType>gelatin silver prints</objType>
 		<objTypeID>300128695</objTypeID>
@@ -317,7 +317,7 @@ framed: 56 Ã— 44 cm (22 1/16 Ã— 17 5/16 in.)</dimensions>
 	<work>
 		<objectID>198691</objectID>
 		<objectNumber>2016.101.243</objectNumber>
-		<imageCall>http://deliver.odai.yale.edu/info/repository/YUAG/object/198691/type/2</imageCall>
+		<image>http://b03.deliver.odai.yale.edu/31/25/31253818-c6f4-48e3-aa08-3c09dbbffdfa/ag-obj-198691-001-pub-med.jpg</image>
 		<url>https://artgallery.yale.edu/collections/objects/198691</url>
 		<objType>gelatin silver prints</objType>
 		<objTypeID>300128695</objTypeID>
@@ -343,7 +343,7 @@ framed: 56 Ã— 44 cm (22 1/16 Ã— 17 5/16 in.)</dimensions>
 	<work>
 		<objectID>198692</objectID>
 		<objectNumber>2016.101.244</objectNumber>
-		<imageCall>http://deliver.odai.yale.edu/info/repository/YUAG/object/198692/type/2</imageCall>
+		<image>http://b03.deliver.odai.yale.edu/47/43/474338b7-c28c-4bf8-859b-56fa83103be9/ag-obj-198692-300-ids-med.jpg</image>
 		<url>https://artgallery.yale.edu/collections/objects/198692</url>
 		<objType>gelatin silver prints</objType>
 		<objTypeID>300128695</objTypeID>
@@ -367,7 +367,7 @@ framed: 56 Ã— 44 cm (22 1/16 Ã— 17 5/16 in.)</dimensions>
 	<work>
 		<objectID>198693</objectID>
 		<objectNumber>2016.101.245</objectNumber>
-		<imageCall>http://deliver.odai.yale.edu/info/repository/YUAG/object/198693/type/2</imageCall>
+		<image>http://b01.deliver.odai.yale.edu/7e/86/7e86dbea-1feb-4df4-b446-c29f1a818b6d/ag-obj-198693-300-ids-med.jpg</image>
 		<url>https://artgallery.yale.edu/collections/objects/198693</url>
 		<objType>gelatin silver prints</objType>
 		<objTypeID>300128695</objTypeID>
@@ -393,7 +393,7 @@ framed: 56 Ã— 44 cm (22 1/16 Ã— 17 5/16 in.)</dimensions>
 	<work>
 		<objectID>212172</objectID>
 		<objectNumber>2016.101.362</objectNumber>
-		<imageCall>http://deliver.odai.yale.edu/info/repository/YUAG/object/212172/type/2</imageCall>
+		<image>http://b01.deliver.odai.yale.edu/6f/30/6f30da35-7de6-4fcd-9904-bbd7a92f4b4e/ag-obj-212172-0300-ids-med.jpg</image>
 		<url>https://artgallery.yale.edu/collections/objects/212172</url>
 		<objType>watercolors</objType>
 		<objTypeID>300078925</objTypeID>
@@ -416,7 +416,7 @@ framed: 56 Ã— 44 cm (22 1/16 Ã— 17 5/16 in.)</dimensions>
 	<work>
 		<objectID>212180</objectID>
 		<objectNumber>2016.101.364</objectNumber>
-		<imageCall>http://deliver.odai.yale.edu/info/repository/YUAG/object/212180/type/2</imageCall>
+		<image>http://b02.deliver.odai.yale.edu/85/01/850104e5-67fe-4d22-bd5e-de5b566c9884/ag-obj-212180-0300-ids-med.jpg</image>
 		<url>https://artgallery.yale.edu/collections/objects/212180</url>
 		<objType>drawings</objType>
 		<objTypeID>300033973</objTypeID>
@@ -439,7 +439,7 @@ framed: 56 Ã— 44 cm (22 1/16 Ã— 17 5/16 in.)</dimensions>
 	<work>
 		<objectID>212369</objectID>
 		<objectNumber>2016.101.416</objectNumber>
-		<imageCall>http://deliver.odai.yale.edu/info/repository/YUAG/object/212369/type/2</imageCall>
+		<image>http://b02.deliver.odai.yale.edu/e5/c6/e5c6f7bd-0725-4d4f-a6e2-1ff0f5a0c5ee/ag-obj-212369-0300-ids-med.jpg</image>
 		<url>https://artgallery.yale.edu/collections/objects/212369</url>
 		<objType>platinum print</objType>
 		<objTypeID>300127145</objTypeID>
@@ -461,7 +461,7 @@ framed: 56 Ã— 44 cm (22 1/16 Ã— 17 5/16 in.)</dimensions>
 	<work>
 		<objectID>212370</objectID>
 		<objectNumber>2016.101.417</objectNumber>
-		<imageCall>http://deliver.odai.yale.edu/info/repository/YUAG/object/212370/type/2</imageCall>
+		<image>http://b03.deliver.odai.yale.edu/98/78/9878d04e-fabb-4cdb-b0d7-8dc5f33431c4/ag-obj-212370-0300-ids-med.jpg</image>
 		<url>https://artgallery.yale.edu/collections/objects/212370</url>
 		<objType>platinum print</objType>
 		<objTypeID>300127145</objTypeID>
@@ -483,7 +483,7 @@ framed: 56 Ã— 44 cm (22 1/16 Ã— 17 5/16 in.)</dimensions>
 	<work>
 		<objectID>212374</objectID>
 		<objectNumber>2016.101.421</objectNumber>
-		<imageCall>http://deliver.odai.yale.edu/info/repository/YUAG/object/212374/type/2</imageCall>
+		<image>http://b01.deliver.odai.yale.edu/27/e2/27e21550-bf8d-4c4a-9766-58b43b20bdc6/ag-obj-212374-0300-ids-med.jpg</image>
 		<url>https://artgallery.yale.edu/collections/objects/212374</url>
 		<objType>gelatin silver prints</objType>
 		<objTypeID>300128695</objTypeID>
@@ -508,7 +508,7 @@ framed: 56 Ã— 44 cm (22 1/16 Ã— 17 5/16 in.)</dimensions>
 	<work>
 		<objectID>212379</objectID>
 		<objectNumber>2016.101.425</objectNumber>
-		<imageCall>http://deliver.odai.yale.edu/info/repository/YUAG/object/212379/type/2</imageCall>
+		<image>http://b01.deliver.odai.yale.edu/4e/d1/4ed152d2-9a5c-419c-bc45-0bdc00436f4b/ag-obj-212379-001-pub-med.jpg</image>
 		<url>https://artgallery.yale.edu/collections/objects/212379</url>
 		<objType>gelatin silver prints</objType>
 		<objTypeID>300128695</objTypeID>
@@ -535,7 +535,7 @@ framed: 56 Ã— 44 cm (22 1/16 Ã— 17 5/16 in.)</dimensions>
 	<work>
 		<objectID>212388</objectID>
 		<objectNumber>2016.101.434</objectNumber>
-		<imageCall>http://deliver.odai.yale.edu/info/repository/YUAG/object/212388/type/2</imageCall>
+		<image>http://b02.deliver.odai.yale.edu/2c/21/2c21d18b-7a71-485d-8437-760a1762514b/ag-obj-212388-0300-ids-med.jpg</image>
 		<url>https://artgallery.yale.edu/collections/objects/212388</url>
 		<objType>gelatin silver prints</objType>
 		<objTypeID>300128695</objTypeID>
@@ -628,7 +628,7 @@ framed: 56 Ã— 44 cm (22 1/16 Ã— 17 5/16 in.)</dimensions>
 	<work>
 		<objectID>212976</objectID>
 		<objectNumber>2016.101.442</objectNumber>
-		<imageCall>http://deliver.odai.yale.edu/info/repository/YUAG/object/212976/type/2</imageCall>
+		<image>http://b02.deliver.odai.yale.edu/d2/7d/d27da03f-e7f5-4072-ae0d-e096495b5ae3/ag-obj-212976-0300-ids-med.jpg</image>
 		<url>https://artgallery.yale.edu/collections/objects/212976</url>
 		<objType>gelatin silver prints</objType>
 		<objTypeID>300128695</objTypeID>
@@ -652,7 +652,7 @@ framed: 56 Ã— 44 cm (22 1/16 Ã— 17 5/16 in.)</dimensions>
 	<work>
 		<objectID>212977</objectID>
 		<objectNumber>2016.101.443</objectNumber>
-		<imageCall>http://deliver.odai.yale.edu/info/repository/YUAG/object/212977/type/2</imageCall>
+		<image>http://b01.deliver.odai.yale.edu/f1/2a/f12ab9c3-bf23-4c5b-8c79-c1c5691b47ea/ag-obj-212977-300-ids-med.jpg</image>
 		<url>https://artgallery.yale.edu/collections/objects/212977</url>
 		<objType>chromogenic color prints</objType>
 		<objTypeID>300236285</objTypeID>
@@ -679,7 +679,7 @@ framed: 56 Ã— 44 cm (22 1/16 Ã— 17 5/16 in.)</dimensions>
 	<work>
 		<objectID>219738</objectID>
 		<objectNumber>2018.84.3</objectNumber>
-		<imageCall>http://deliver.odai.yale.edu/info/repository/YUAG/object/219738/type/2</imageCall>
+		<image>http://b03.deliver.odai.yale.edu/7c/b7/7cb77838-8ccf-47e4-8353-40bd93f89b92/ag-obj-219738-0001-pub-med.jpg</image>
 		<url>https://artgallery.yale.edu/collections/objects/219738</url>
 		<objType>drawings</objType>
 		<objTypeID>300033973</objTypeID>
@@ -701,7 +701,7 @@ framed: 56 Ã— 44 cm (22 1/16 Ã— 17 5/16 in.)</dimensions>
 	<work>
 		<objectID>219746</objectID>
 		<objectNumber>2018.84.4</objectNumber>
-		<imageCall>http://deliver.odai.yale.edu/info/repository/YUAG/object/219746/type/2</imageCall>
+		<image>http://b02.deliver.odai.yale.edu/52/7a/527a5395-e15c-4099-bfc4-765dcb07dce5/ag-obj-219746-0001-pub-med.jpg</image>
 		<url>https://artgallery.yale.edu/collections/objects/219746</url>
 		<objType>sketches</objType>
 		<objTypeID>300015617</objTypeID>
@@ -726,7 +726,7 @@ framed: 56 Ã— 44 cm (22 1/16 Ã— 17 5/16 in.)</dimensions>
 	<work>
 		<objectID>219747</objectID>
 		<objectNumber>2018.84.5</objectNumber>
-		<imageCall>http://deliver.odai.yale.edu/info/repository/YUAG/object/219747/type/2</imageCall>
+		<image>http://b03.deliver.odai.yale.edu/5f/fb/5ffb4d72-cc48-4a7a-b40e-c4bce298c62d/ag-obj-219747-0001-pub-med.jpg</image>
 		<url>https://artgallery.yale.edu/collections/objects/219747</url>
 		<objType>sketches</objType>
 		<objTypeID>300015617</objTypeID>
@@ -748,7 +748,7 @@ framed: 56 Ã— 44 cm (22 1/16 Ã— 17 5/16 in.)</dimensions>
 	<work>
 		<objectID>263076</objectID>
 		<objectNumber>2018.94.23</objectNumber>
-		<imageCall>http://deliver.odai.yale.edu/info/repository/YUAG/object/263076/type/2</imageCall>
+		<image>http://b01.deliver.odai.yale.edu/31/3a/313a5f28-836c-4465-be39-0c7769536880/ag-obj-263076-0300-ids-med.jpg</image>
 		<url>https://artgallery.yale.edu/collections/objects/263076</url>
 		<objType>gelatin silver prints</objType>
 		<objTypeID>300128695</objTypeID>
