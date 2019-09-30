@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://data.moma.org/2851",
+  "type": "Activity",
+  "_label": "Georgia O'Keeffe",
+  "classified_as": [
+    {
+      "id": "http://vocab.getty.edu/aat/300054766",
+      "type": "Type",
+      "_label": "Exhibiting"
+    }
+  ],
+  "took_place_at": [
+    {
+      "id": "http://vocab.getty.edu/ulan/500303609",
+      "type": "Group",
+      "_label": "Museum of Modern Art",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312281",
+          "type": "Type",
+          "_label": "museums (institutions)"
+        }
+      ]
+    }
+  ],
+  "timespan": {
+    "id": "https://data.moma.org/exhibitions/2851",
+    "type": "TimeSpan",
+    "begin_of_the_begin": "1946-05-14",
+    "end_of_the_end": "1946-08-25"
+  },
+  "carried_out_by": [
+    {
+      "id": "http://vocab.getty.edu/ulan/500303609",
+      "type": "Group",
+      "_label": "Museum of Modern Art",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312281",
+          "type": "Type",
+          "_label": "museums (institutions)"
+        }
+      ]
+    }
+  ],
+  "used_specific_object": [
+    {
+      "id": "https://data.moma.org/exhibitions/2851/checklist",
+      "type": "Set",
+      "_label": "Objects in MoMA Georgia O'Keeffe exhibition, 1946",
+      "member": [
+        {
+          "id": "http://api.nga.gov/art/tms/objects/70182",
+          "type": "HumanMadeObject",
+          "_label": "Line and Curve"
+        },
+        {
+          "id": "https://data.discovernewfields.org/object/16563",
+          "type": "HumanMadeObject",
+          "_label": "Pelvis with the Distance"
+        }
+      ]
+    }
+  ]
+}
