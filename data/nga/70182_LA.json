@@ -87,7 +87,7 @@
       "timespan": {
         "id": "http://api.nga.gov/art/tms/objects/70182/produced_by/timespan",
         "type": "TimeSpan",
-        "_label": "1917",
+        "_label": "1927",
         "begin_of_the_begin": "1927-01-01T00:00:00",
         "end_of_the_end": "1927-12-31T00:00:00"
       }

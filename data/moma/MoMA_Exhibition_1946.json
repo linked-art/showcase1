@@ -1,6 +1,6 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://data.moma.org/2851",
+  "id": "https://data.moma.org/exhibitions/2851",
   "type": "Activity",
   "_label": "Georgia O'Keeffe",
   "classified_as": [
