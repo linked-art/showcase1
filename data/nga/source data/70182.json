@@ -1,0 +1,732 @@
+{
+record: {
+namespace: "cultObj",
+source: "tms",
+type: "ManMadeObject",
+id: "70182",
+url: "http://api.nga.gov/art/tms/objects/70182.json",
+accessionNum: "1987.58.6",
+title: "Line and Curve",
+classification: "Painting",
+artistNames: "Georgia O'Keeffe (painter)",
+lastModified: "2018-06-05T22:19:29-04:00",
+attribution: "Georgia O'Keeffe",
+displayDate: "1927",
+medium: "oil on canvas",
+dimensions: "overall: 81.2 x 41.2 cm (31 15/16 x 16 1/4 in.) framed: 83.8 x 43.2 x 3.5 cm (33 x 17 x 1 3/8 in.)",
+departmentAbbr: "DCM",
+onView: false,
+location: [ ],
+creditLine: "Alfred Stieglitz Collection, Bequest of Georgia O'Keeffe",
+inscription: "across top reverse, in pencil: Line and Curve-27 / signed within five-pointed star: OK",
+provenanceText: "The artist [1887-1986]; her estate; bequest 1987 to NGA.",
+bibliography: "_American Paintings: An Illustrated Catalogue_. National Gallery of Art, Washington, 1992: 249, repro. Lynes, Barbara Buhler. _Georgia O'Keeffe: Catalogue Raisonné_. 2 vols. New Haven and London, 1999: 1:328, no. 572, color repro. Kirsh, Andrea, and Rustin S. Levenson. _Seeing Through Paintings: Physical Examination in Art Historical Studies_. Materials and Meaning in the Fine Arts 1. New Haven, 2000: 264.",
+produced_by: {
+id: "http://api.nga.gov/art/tms/objects/70182/produced_by",
+type: "Production",
+carried_out_by: [
+{
+id: "https://api.nga.gov/art/tms/actor/2311",
+type: "Person",
+label: "Georgia O'Keeffe",
+referred_to_by: [
+{
+type: "LinguisticObject",
+label: "displayDate",
+value: "American, 1887 - 1986",
+classified_as: [
+{
+type: "http://vocab.getty.edu/aat/300069671",
+value: "lifetime"
+},
+{
+type: "http://vocab.getty.edu/aat/300404439",
+value: "dates (spans of time)"
+},
+{
+type: "http://vocab.getty.edu/aat/300379842",
+value: "nationality"
+}
+]
+}
+],
+identified_by: [
+{
+type: "Name",
+value: "Georgia O'Keeffe",
+classified_as: [
+{
+type: "http://vocab.getty.edu/aat/300404670",
+value: "preferred terms"
+}
+]
+},
+{
+type: "Name",
+value: "O'Keeffe, Georgia",
+classified_as: [
+{
+type: "http://vocab.getty.edu/aat/300404672",
+value: "inverted terms"
+},
+{
+type: "http://vocab.getty.edu/aat/300404670",
+value: "preferred terms"
+}
+]
+}
+],
+brought_into_existence_by: {
+id: "https://api.nga.gov/art/tms/actor/2311/brought_info_existence_by",
+type: "BeginningOfExistence",
+timespan: {
+type: "TimeSpan",
+begin_of_the_begin: "1887-01-01",
+end_of_the_end: "1887-12-31"
+}
+},
+taken_out_of_existence_by: {
+id: "https://api.nga.gov/art/tms/actor/2311/taken_out_of_existence_by",
+type: "EndOfExistence",
+timespan: {
+type: "TimeSpan",
+begin_of_the_begin: "1986-01-01",
+end_of_the_end: "1986-12-31"
+}
+},
+classified_as: [
+{
+type: "Type",
+label: "American",
+classified_as: [
+{
+type: "http://vocab.getty.edu/aat/300379842",
+value: "nationality"
+}
+]
+}
+]
+}
+]
+},
+references: [
+{
+predicate: "hasPrimaryDepiction",
+object: {
+type: "VisualItem",
+format: "image/tiff",
+conforms_to: [
+{
+type: "Type",
+label: "http://iiif.io/api/image",
+value: "IIIF Image"
+}
+],
+iiifURL: "https://api.nga.gov/iiif/public/objects/7/0/1/8/2/70182-primary-0-nativeres.ptif",
+classified_as: [
+{
+type: "http://vocab.getty.edu/aat/300215302",
+value: "digital images"
+},
+{
+type: "http://vocab.getty.edu/aat/300404450",
+value: "primary (general designation)"
+},
+{
+type: "http://vocab.getty.edu/aat/300210700",
+value: "visible spectrum"
+},
+{
+type: "http://vocab.getty.edu/aat/300404413",
+value: "full-size"
+}
+],
+referred_to_by: [
+{
+type: "InformationObject",
+label: "sequence",
+value: "0",
+classified_as: [
+{
+type: "Type",
+label: "sequences",
+value: "http://vocab.getty.edu/aat/300192339"
+}
+]
+}
+],
+namespace: "image",
+source: "web-images-repository",
+id: "B3C81B06-5E47-4356-980B-EDD506884EB7",
+mimetype: "image/tiff",
+classification: "publishedImage",
+url: "http://api.nga.gov/media/web-images-repository/images/B3C81B06-5E47-4356-980B-EDD506884EB7.json",
+fingerprint: "2011-08-23T12:22:38-04:00",
+width: 5663,
+height: 11323,
+title: "Georgia O'Keeffe; 1987.58.6",
+lastModified: "2011-08-23T12:22:38-04:00",
+viewType: "primary",
+sequence: "0",
+filename: "70182-primary-0-nativeres.ptif"
+}
+}
+],
+representation: [
+{
+type: "VisualItem",
+format: "image/tiff",
+conforms_to: [
+{
+type: "Type",
+label: "http://iiif.io/api/image",
+value: "IIIF Image"
+}
+],
+iiifURL: "https://api.nga.gov/iiif/public/objects/7/0/1/8/2/70182-primary-0-nativeres.ptif",
+classified_as: [
+{
+type: "http://vocab.getty.edu/aat/300215302",
+value: "digital images"
+},
+{
+type: "http://vocab.getty.edu/aat/300404450",
+value: "primary (general designation)"
+},
+{
+type: "http://vocab.getty.edu/aat/300210700",
+value: "visible spectrum"
+},
+{
+type: "http://vocab.getty.edu/aat/300404413",
+value: "full-size"
+}
+],
+referred_to_by: [
+{
+type: "InformationObject",
+label: "sequence",
+value: "0",
+classified_as: [
+{
+type: "Type",
+label: "sequences",
+value: "http://vocab.getty.edu/aat/300192339"
+}
+]
+}
+],
+namespace: "image",
+source: "web-images-repository",
+id: "B3C81B06-5E47-4356-980B-EDD506884EB7",
+mimetype: "image/tiff",
+classification: "publishedImage",
+url: "http://api.nga.gov/media/web-images-repository/images/B3C81B06-5E47-4356-980B-EDD506884EB7.json",
+fingerprint: "2011-08-23T12:22:38-04:00",
+width: 5663,
+height: 11323,
+title: "Georgia O'Keeffe; 1987.58.6",
+lastModified: "2011-08-23T12:22:38-04:00",
+viewType: "primary",
+sequence: "0",
+filename: "70182-primary-0-nativeres.ptif"
+}
+],
+referred_to_by: [
+{
+type: "InformationObject",
+id: "https://api.nga.gov/media/soundcloud/audio/281688554",
+label: "Jack-in-the-Pulpit No. IV, O’Keeffe (Verbal Description)",
+format: "audio/mpeg",
+conforms_to: {
+id: "https://api.soundcloud.com"
+},
+classified_as: [
+{
+type: "http://vocab.getty.edu/aat/300312047",
+value: "mp3 audio"
+}
+],
+identified_by: [
+{
+type: "Name",
+value: "Jack-in-the-Pulpit No. IV, O’Keeffe (Verbal Description)",
+classified_as: [
+{
+type: "http://vocab.getty.edu/aat/300404670",
+value: "preferred terms"
+}
+]
+},
+{
+type: "Identifier",
+value: "281688554",
+classified_as: [
+{
+type: "http://vocab.getty.edu/aat/300404012",
+value: "mediaID"
+}
+]
+}
+],
+referred_to_by: [
+{
+type: "LinguisticObject",
+value: "<p>O’Keeffe, an important artist in the development of American modernism, is best known today for her abstracted representations of flowers. This painting is one of a series of six depictions of jack-in-the-pulpit flowers, which the artist would have found near her husband’s family estate in Lake George, New York. Each painting in the series zooms in closer to the center of the flower and becomes more abstract.</p> ",
+classified_as: [
+{
+type: "http://vocab.getty.edu/aat/300080091",
+value: "description"
+},
+{
+type: "http://vocab.getty.edu/aat/300418049",
+value: "brief texts"
+}
+]
+}
+],
+lastModified: "2016-09-06T17:52:30-04:00",
+representation: [
+{
+id: "https://www.nga.gov/content/dam/ngaweb/audio-video/audio/infoboxes/jack-in-the-pulpit-no-iv-okeeffe.jpg",
+type: "VisualItem",
+label: "large title frame",
+format: "image/jpeg",
+classified_as: [
+{
+type: "Type",
+label: "digital images",
+value: "http://vocab.getty.edu/aat/300215302"
+},
+{
+type: "Type",
+label: "large",
+value: "http://vocab.getty.edu/aat/300073756"
+}
+]
+},
+{
+id: "https://www.nga.gov/content/dam/ngaweb/audio-video/audio/thumbnails/jack-in-the-pulpit-no-iv-okeeffe.jpg",
+type: "VisualItem",
+label: "small title frame",
+format: "image/jpeg",
+classified_as: [
+{
+type: "Type",
+label: "digital images",
+value: "http://vocab.getty.edu/aat/300215302"
+},
+{
+type: "Type",
+label: "small",
+value: "http://vocab.getty.edu/aat/300073768"
+}
+]
+}
+],
+duration: 148,
+tags: [
+"ngaweb:audio-video/podcast-audio",
+"ngaweb:artobjects/7/0/1/7/9/ArtObject_70179",
+"ngaweb:constituents/2/3/1/1/Constituent_2311",
+"ngaweb:constituents/3/5/1/4/6/Constituent_35146",
+"ngaweb:artobjects/7/0/1/8/2/ArtObject_70182",
+"ngaweb:artobjects/7/0/1/8/0/ArtObject_70180",
+"ngaweb:artobjects/7/0/1/7/7/ArtObject_70177",
+"ngaweb:artobjects/7/0/1/7/8/ArtObject_70178",
+"ngaweb:artobjects/7/0/1/8/1/ArtObject_70181",
+"ngaweb:audio-video",
+"ngaweb:audio-video/audio/collection-highlights-east-building-verbal-description"
+],
+description: "<p>O’Keeffe, an important artist in the development of American modernism, is best known today for her abstracted representations of flowers. This painting is one of a series of six depictions of jack-in-the-pulpit flowers, which the artist would have found near her husband’s family estate in Lake George, New York. Each painting in the series zooms in closer to the center of the flower and becomes more abstract.</p> ",
+mediaID: 281688554,
+presentationDate: "2016-09-30T00:00:00-04:00",
+releaseDate: "2016-09-30T00:00:00-04:00",
+thumbnailURL: "https://www.nga.gov/content/dam/ngaweb/audio-video/audio/thumbnails/jack-in-the-pulpit-no-iv-okeeffe.jpg",
+playURL: "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F281688554&download=true",
+streamingProvider: "soundcloud",
+title: "Jack-in-the-Pulpit No. IV, O’Keeffe (Verbal Description)",
+language: {
+id: "http://vocab.getty.edu/aat/300388277",
+type: "Language",
+value: "English"
+}
+},
+{
+type: "InformationObject",
+id: "https://api.nga.gov/media/soundcloud/audio/283653966",
+label: "Jack-in-the-Pulpit No. IV, O’Keeffe",
+format: "audio/mpeg",
+conforms_to: {
+id: "https://api.soundcloud.com"
+},
+classified_as: [
+{
+type: "http://vocab.getty.edu/aat/300312047",
+value: "mp3 audio"
+},
+{
+type: "http://vocab.getty.edu/aat/300259161",
+value: "audioguide"
+}
+],
+identified_by: [
+{
+type: "Name",
+value: "Jack-in-the-Pulpit No. IV, O’Keeffe",
+classified_as: [
+{
+type: "http://vocab.getty.edu/aat/300404670",
+value: "preferred terms"
+}
+]
+},
+{
+type: "Identifier",
+value: "283653966",
+classified_as: [
+{
+type: "http://vocab.getty.edu/aat/300404012",
+value: "mediaID"
+}
+]
+}
+],
+referred_to_by: [
+{
+type: "LinguisticObject",
+value: "<p>O’Keeffe, an important artist in the development of American modernism, is best known today for her abstracted representations of flowers. This painting is one of a series of six depictions of jack-in-the-pulpit flowers, which the artist would have found near her husband’s family estate in Lake George, New York. Each painting in the series zooms in closer to the center of the flower and becomes more abstract.</p> ",
+classified_as: [
+{
+type: "http://vocab.getty.edu/aat/300080091",
+value: "description"
+},
+{
+type: "http://vocab.getty.edu/aat/300418049",
+value: "brief texts"
+}
+]
+}
+],
+lastModified: "2018-11-08T11:35:12-05:00",
+representation: [
+{
+id: "https://www.nga.gov/content/dam/ngaweb/audio-video/audio/infoboxes/jack-in-the-pulpit-no-iv-okeeffe.jpg",
+type: "VisualItem",
+label: "large title frame",
+format: "image/jpeg",
+classified_as: [
+{
+type: "Type",
+label: "digital images",
+value: "http://vocab.getty.edu/aat/300215302"
+},
+{
+type: "Type",
+label: "large",
+value: "http://vocab.getty.edu/aat/300073756"
+}
+]
+},
+{
+id: "https://www.nga.gov/content/dam/ngaweb/audio-video/audio/thumbnails/jack-in-the-pulpit-no-iv-okeeffe.jpg",
+type: "VisualItem",
+label: "small title frame",
+format: "image/jpeg",
+classified_as: [
+{
+type: "Type",
+label: "digital images",
+value: "http://vocab.getty.edu/aat/300215302"
+},
+{
+type: "Type",
+label: "small",
+value: "http://vocab.getty.edu/aat/300073768"
+}
+]
+}
+],
+duration: 93,
+tags: [
+"ngaweb:audio-video/audio",
+"ngaweb:audio-video/audio/collection-highlights-east-building-english",
+"ngaweb:audio-video/podcast-audio",
+"ngaweb:artobjects/7/0/1/7/9/ArtObject_70179",
+"ngaweb:constituents/2/3/1/1/Constituent_2311",
+"ngaweb:constituents/3/5/1/4/6/Constituent_35146",
+"ngaweb:artobjects/7/0/1/8/2/ArtObject_70182",
+"ngaweb:artobjects/7/0/1/8/0/ArtObject_70180",
+"ngaweb:artobjects/7/0/1/7/7/ArtObject_70177",
+"ngaweb:artobjects/7/0/1/7/8/ArtObject_70178",
+"ngaweb:artobjects/7/0/1/8/1/ArtObject_70181",
+"ngaweb:audio-video/collection-audio-tour"
+],
+description: "<p>O’Keeffe, an important artist in the development of American modernism, is best known today for her abstracted representations of flowers. This painting is one of a series of six depictions of jack-in-the-pulpit flowers, which the artist would have found near her husband’s family estate in Lake George, New York. Each painting in the series zooms in closer to the center of the flower and becomes more abstract.</p> ",
+mediaID: 283653966,
+presentationDate: "2016-09-30T00:00:00-04:00",
+releaseDate: "2016-09-30T00:00:00-04:00",
+thumbnailURL: "https://www.nga.gov/content/dam/ngaweb/audio-video/audio/thumbnails/jack-in-the-pulpit-no-iv-okeeffe.jpg",
+playURL: "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F283653966&download=true",
+streamingProvider: "soundcloud",
+title: "Jack-in-the-Pulpit No. IV, O’Keeffe",
+language: {
+id: "http://vocab.getty.edu/aat/300388277",
+type: "Language",
+value: "English"
+}
+},
+{
+type: "InformationObject",
+id: "https://api.nga.gov/media/soundcloud/audio/447178695",
+label: "Jack-in-the-Pulpit No. IV, O’Keeffe-Mandarin (中文)",
+format: "audio/mpeg",
+conforms_to: {
+id: "https://api.soundcloud.com"
+},
+classified_as: [
+{
+type: "http://vocab.getty.edu/aat/300312047",
+value: "mp3 audio"
+}
+],
+identified_by: [
+{
+type: "Name",
+value: "Jack-in-the-Pulpit No. IV, O’Keeffe-Mandarin (中文)",
+classified_as: [
+{
+type: "http://vocab.getty.edu/aat/300404670",
+value: "preferred terms"
+}
+]
+},
+{
+type: "Identifier",
+value: "447178695",
+classified_as: [
+{
+type: "http://vocab.getty.edu/aat/300404012",
+value: "mediaID"
+}
+]
+}
+],
+referred_to_by: [
+{
+type: "LinguisticObject",
+classified_as: [
+{
+type: "http://vocab.getty.edu/aat/300080091",
+value: "description"
+},
+{
+type: "http://vocab.getty.edu/aat/300418049",
+value: "brief texts"
+}
+]
+}
+],
+lastModified: "2018-05-22T14:53:53-04:00",
+representation: [
+{
+id: "https://www.nga.gov/content/dam/ngaweb/audio-video/audio/infoboxes/jack-in-the-pulpit-no-iv-okeeffe.jpg",
+type: "VisualItem",
+label: "large title frame",
+format: "image/jpeg",
+classified_as: [
+{
+type: "Type",
+label: "digital images",
+value: "http://vocab.getty.edu/aat/300215302"
+},
+{
+type: "Type",
+label: "large",
+value: "http://vocab.getty.edu/aat/300073756"
+}
+]
+},
+{
+id: "https://www.nga.gov/content/dam/ngaweb/audio-video/audio/thumbnails/jack-in-the-pulpit-no-iv-okeeffe.jpg",
+type: "VisualItem",
+label: "small title frame",
+format: "image/jpeg",
+classified_as: [
+{
+type: "Type",
+label: "digital images",
+value: "http://vocab.getty.edu/aat/300215302"
+},
+{
+type: "Type",
+label: "small",
+value: "http://vocab.getty.edu/aat/300073768"
+}
+]
+}
+],
+duration: 93,
+tags: [
+"ngaweb:audio-video/podcast-audio",
+"ngaweb:artobjects/7/0/1/7/9/ArtObject_70179",
+"ngaweb:constituents/2/3/1/1/Constituent_2311",
+"ngaweb:constituents/3/5/1/4/6/Constituent_35146",
+"ngaweb:artobjects/7/0/1/8/2/ArtObject_70182",
+"ngaweb:artobjects/7/0/1/8/0/ArtObject_70180",
+"ngaweb:artobjects/7/0/1/7/7/ArtObject_70177",
+"ngaweb:artobjects/7/0/1/7/8/ArtObject_70178",
+"ngaweb:artobjects/7/0/1/8/1/ArtObject_70181",
+"ngaweb:audio-video",
+"ngaweb:audio-video/audio/collection-highlights-east-building-mandarin"
+],
+mediaID: 447178695,
+presentationDate: "2016-09-30T00:00:00-04:00",
+releaseDate: "2016-09-30T00:00:00-04:00",
+thumbnailURL: "https://www.nga.gov/content/dam/ngaweb/audio-video/audio/thumbnails/jack-in-the-pulpit-no-iv-okeeffe.jpg",
+playURL: "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F447178695&download=true",
+streamingProvider: "soundcloud",
+title: "Jack-in-the-Pulpit No. IV, O’Keeffe-Mandarin (中文)",
+language: {
+id: "http://vocab.getty.edu/aat/300388277",
+type: "Language",
+value: "English"
+}
+},
+{
+type: "InformationObject",
+id: "https://api.nga.gov/media/brightcove/video/5189049252001",
+label: "Jack-in-the-Pulpit No. IV, O’Keeffe (ASL)",
+format: "video/mp4",
+conforms_to: {
+id: "https://api.brightcove.com"
+},
+classified_as: [
+{
+type: "http://vocab.getty.edu/aat/300312050",
+value: "mp4 video"
+}
+],
+identified_by: [
+{
+type: "Name",
+value: "Jack-in-the-Pulpit No. IV, O’Keeffe (ASL)",
+classified_as: [
+{
+type: "http://vocab.getty.edu/aat/300404670",
+value: "preferred terms"
+}
+]
+},
+{
+type: "Identifier",
+value: "5189049252001",
+classified_as: [
+{
+type: "http://vocab.getty.edu/aat/300404012",
+value: "mediaID"
+}
+]
+}
+],
+referred_to_by: [
+{
+type: "LinguisticObject",
+value: "<p>O’Keeffe, an important artist in the development of American modernism, is best known today for her abstracted representations of flowers. This painting is one of a series of six depictions of jack-in-the-pulpit flowers, which the artist would have found near her husband’s family estate in Lake George, New York. Each painting in the series zooms in closer to the center of the flower and becomes more abstract.</p> ",
+classified_as: [
+{
+type: "http://vocab.getty.edu/aat/300080091",
+value: "description"
+},
+{
+type: "http://vocab.getty.edu/aat/300418049",
+value: "brief texts"
+}
+]
+}
+],
+lastModified: "2016-10-28T15:44:21-04:00",
+representation: [
+{
+id: "https://www.nga.gov/content/dam/ngaweb/audio-video/audio/infoboxes/jack-in-the-pulpit-no-iv-okeeffe.jpg",
+type: "VisualItem",
+label: "large title frame",
+format: "image/jpeg",
+classified_as: [
+{
+type: "Type",
+label: "digital images",
+value: "http://vocab.getty.edu/aat/300215302"
+},
+{
+type: "Type",
+label: "large",
+value: "http://vocab.getty.edu/aat/300073756"
+}
+]
+},
+{
+id: "https://www.nga.gov/content/dam/ngaweb/audio-video/audio/thumbnails/jack-in-the-pulpit-no-iv-okeeffe.jpg",
+type: "VisualItem",
+label: "small title frame",
+format: "image/jpeg",
+classified_as: [
+{
+type: "Type",
+label: "digital images",
+value: "http://vocab.getty.edu/aat/300215302"
+},
+{
+type: "Type",
+label: "small",
+value: "http://vocab.getty.edu/aat/300073768"
+}
+]
+}
+],
+duration: 148,
+tags: [
+"ngaweb:audio-video/podcast-audio",
+"ngaweb:artobjects/7/0/1/7/9/ArtObject_70179",
+"ngaweb:constituents/2/3/1/1/Constituent_2311",
+"ngaweb:constituents/3/5/1/4/6/Constituent_35146",
+"ngaweb:artobjects/7/0/1/8/2/ArtObject_70182",
+"ngaweb:artobjects/7/0/1/8/0/ArtObject_70180",
+"ngaweb:artobjects/7/0/1/7/7/ArtObject_70177",
+"ngaweb:artobjects/7/0/1/7/8/ArtObject_70178",
+"ngaweb:artobjects/7/0/1/8/1/ArtObject_70181",
+"ngaweb:audio-video",
+"ngaweb:audio-video/audio",
+"ngaweb:audio-video/audio/collection-highlights-east-building-video-asl"
+],
+description: "<p>O’Keeffe, an important artist in the development of American modernism, is best known today for her abstracted representations of flowers. This painting is one of a series of six depictions of jack-in-the-pulpit flowers, which the artist would have found near her husband’s family estate in Lake George, New York. Each painting in the series zooms in closer to the center of the flower and becomes more abstract.</p> ",
+mediaID: 5189049252001,
+presentationDate: "2016-09-30T00:00:00-04:00",
+releaseDate: "2016-09-30T00:00:00-04:00",
+thumbnailURL: "https://www.nga.gov/content/dam/ngaweb/audio-video/audio/thumbnails/jack-in-the-pulpit-no-iv-okeeffe.jpg",
+playURL: "https://players.brightcove.net/1191289016001/default_default/index.html?videoId=5189049252001",
+streamingProvider: "brightcove",
+title: "Jack-in-the-Pulpit No. IV, O’Keeffe (ASL)",
+language: {
+id: "http://vocab.getty.edu/aat/300388277",
+type: "Language",
+value: "English"
+}
+},
+{
+type: "LinguisticObject",
+value: "<span lang=""> <p>Executed in 1927, _Line and Curve_ is the last in a group of four highly abstract, predominantly white, narrow vertical compositions whose imagery can be traced in part to Georgia O’Keeffe’s interest in Manhattan’s modern architecture. As its title indicates, _Line and Curve_ consists of a simple juxtaposition of a vertical line running down the center of the canvas intersected by a sweeping curve that extends through the upper right quadrant of the composition. The painting verges on pure abstraction while combining architectonic elements with hints of more natural, curving, organic forms. The mottled, gently undulating, white paint surface with evanescent violet hues and the shading of the vertical line suggest the shallow spatial recessions of New York’s crowded spaces. The gray-white palette evokes a cloudy sky.</p> <p>During the mid-1920s, O’Keeffe and her husband, Alfred Stieglitz, lived on the 30th floor of the newly opened Shelton Hotel on Lexington Avenue at 49th Street in New York City. This location inspired O’Keeffe to paint birds-eye views of the East River as well as street-level views of a number of the skyscrapers located in her midtown Manhattan neighborhood. O’Keeffe had first experimented with abstract forms in 1915, and the interplay between abstraction and representation would always inform her style. In 1976 she stated: "The abstraction is often the most definite form for the intangible thing in myself that I can only clarify in paint."</p></span>",
+classified_as: [
+{
+type: "http://vocab.getty.edu/aat/300080091",
+value: "description"
+},
+{
+type: "http://vocab.getty.edu/aat/300418049",
+value: "brief texts"
+}
+]
+}
+]
+}
+}
